@@ -72,7 +72,7 @@ A collection of SDKs developed on top of true REST APIs, enabling you to perform
 Aspose.Video Cloud offers a complete range of SDKs, developed on top of true REST APIs, and they enable you to edit video file properties such as FPS, aspect ratio and resolution. Besides files manipulation, they also enable you to convert the video files to different supported formats and also re-encode them with the different video codecs.
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud Product Family" imgSrc="/product-logos/aspose_3d_for_cloud.png" href="/3d/family" >}}
+{{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud Product Family" imgSrc="/product-logos/aspose_3d-for-cloud.png" href="/3d/family" >}}
 Aspose.3D Cloud helps you fetch 3D objects, models & entities stored on the cloud and perform various operations such as rotation, scaling, transformation, translation, and conversion from one 3D format to another.
 {{< /blocks/products/pf/total/product-item  >}}
 
