@@ -77,6 +77,110 @@ Aspose.Video Cloud offers a complete range of SDKs, developed on top of true RES
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< /blocks/products/pf/total/products >}}
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+  <div class="row">
+  <div class="container">
+<h2 class="h2title"></a> Advanced Features of Aspose.Total Cloud SDKs</h2>
+<p>Delivering our very best, and getting better with each release.</p>
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Convert documents to images</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-envelope ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Perform mail merge</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-file-word-o  ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Convert Microsoft Office, Acrobat PDF, OpenDocument and many other formats</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-barcode ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Add barcodes to Word documents</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-line-chart ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Generate reports using mail merge</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Build dynamic Excel reports on the fly</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">High-fidelity rendering</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Create documents from scratch</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-code ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Transform XML to PDF</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Convert images to PDF</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-file-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Create slides</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Configure Visio TimeLine shapes</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Replace or extract text from PDF documents</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-file-image-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Remove, replace or extract images from PDF</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Get information about images in PDF documents</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-save  ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Generate barcode images</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-qrcode ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Recognize barcodes from images</p>
+</div>
+<div class="col-lg-4"><em class="fa fa-text-width  ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Extract text from images</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Conveniently Transform Files</h2>
+<p>Aspose Cloud SKDs enable you to equip your application with file format conversion & manipulation capabilities in an easy way so that you could perform file format processing without plunging yourself in the complexities of any format's underlying implementation.</p>
+<p>It lets you perform a number of operations such saving quotes to the PDF documents or extracting data as spreadsheets, in order serve the contents in a format that best suits your users.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Create Images & Thumbnails</h2>
+<p>Images of documents, and images in documents, both features can be used for many different types of documents and applications. Creating the images manually could be a huge overhead but creating them automatically can not be too difficult. Aspose Cloud SKDs gives you several tools for creating and managing images.</p>
+<p>Aspose Cloud SKDs includes features to create, extract & embed images. For instance, you can create images of document pages in order to use them as thumbnails or links on the web pages. You may also convert a page in any document - a spreadsheet, Word document, PDF or presentation - to an image and include that in another document.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Powerful Reporting, Document Assembly & Mail Merge</h2>
+<p>Companies keep data in a lot of different places, however, with Aspose Cloud SKDs, you can bring them all together in your web or mobile apps. Set up templates and merge data from external sources to create letters, reports or documents. Thanks to the wide variety of formats that we support, the final document can be saved in one or more formats as it suits your users.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Process a Multitude of File Formats</h2>
+<p>Aspose Cloud SKDs allows you to build an incredibly versatile file processing system capable of handling many popular file formats. You can easily create, modify & even inter-convert files . Aspose.Total Cloud will allow you to conveniently process the following file formats:</p>
+<ul class="unstyled"><li>Microsoft Word documents</li>
+<li>Microsoft Excel spreadsheets</li>
+<li>Microsoft PowerPoint presentations</li>
+<li>Adobe PDF Documents</li>
+<li>Microsoft Visio Diagrams</li>
+<li>Commonly used image formats</li>
+</ul></div>
+<div class="col-lg-12">
+<h2 class="h2title">Manage & Keep Track of Documents</h2>
+<p>Document management is crucial for all companies especially when it comes to track file and archive these generated documents. With Aspose Cloud SKDs, you have several options on how to manage documents:</p>
+<ul class="unstyled"><li>Track documents with barcodes - encode document information and embedded in the document</li>
+<li>Add watermarks to signal a document's status</li>
+<li>Change headers or footers as a document reaches a particular point in a work flow</li>
+<li>Insert text or images to signal a document's status</li>
+</ul></div>
+<div class="col-lg-12">
+<h2 class="h2title">Language, Platform & Storage Independence</h2>
+<p>Aspose Cloud SKDs are platform independent & are developed on top of true REST based document manipulation APIs. These characteristics allow us to use them in any language: .NET, Java, PHP, Android, Python, Ruby, Rails, Node.js, Swift, jQuery and many more.</p>
+<p>You can use them on any platform i.e. Web, Desktop, Mobile, and Cloud. The SDKs can also integrate with other cloud services to give you the flexibility you need when processing documents. You can also use Aspose.Total Cloud with many third party storage providers including Amazon S3, Google Cloud, Google Drive and DropBox.</p>
+</div>
+</div>
+</div>
+</div>
+<!--Feature-section End-->
+
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
