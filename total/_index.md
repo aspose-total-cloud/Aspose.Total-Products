@@ -194,7 +194,7 @@ Aspose.Video Cloud offers a complete range of SDKs, developed on top of true RES
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/total" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/total/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/total/" >}}
+
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total Cloud?" tabId="success-stories" >}}
