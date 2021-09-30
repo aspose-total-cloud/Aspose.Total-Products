@@ -72,7 +72,7 @@ Aspose.3D Cloud helps you fetch 3D objects, models & entities stored on the clou
 A collection of SDKs developed on top of true REST APIs, enabling you to perform a wide range of file processing operations including creation, manipulation, conversion and rendering of HTML file in the cloud. Also support HTML conversion to fixed layout document formats such as PDF, XPS and image formats.
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud Product Family" imgSrc="/product-logos/aspose_video_for_cloud.png" href="/video/family/" >}}
+{{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud Product Family" imgSrc="/product-logos/aspose_video-for-cloud.svg" href="/video/family/" >}}
 Aspose.Video Cloud offers a complete range of SDKs, developed on top of true REST APIs, and they enable you to edit video file properties such as FPS, aspect ratio and resolution. Besides files manipulation, they also enable you to convert the video files to different supported formats and also re-encode them with the different video codecs.
 {{< /blocks/products/pf/total/product-item  >}}
 
