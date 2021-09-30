@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Office Documents in Cloud" h2="Cloud SDKs to Manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 other file formats in any type of application." logoImageSrc="/headers/aspose_total-for-cloud.png" pfName="Aspose.Total">}}
+{{< blocks/products/pf/upper-banner h1="Manipulate Office Documents in Cloud" h2="Cloud SDKs to Manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 other file formats in any type of application." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/product-logos/aspose_total_for_cloud.png" liveDemosLink="https://products.aspose.app" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud/" docsLink="https://docs.aspose.cloud/total/" directDownloadLink="https://releases.aspose.cloud/" pfName="Aspose.Total" subTitlepfName="Cloud Product Family" >}}
 
