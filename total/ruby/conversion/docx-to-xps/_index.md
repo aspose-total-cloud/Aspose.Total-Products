@@ -1,0 +1,1 @@
+---title: Convert DOCX to XPS via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

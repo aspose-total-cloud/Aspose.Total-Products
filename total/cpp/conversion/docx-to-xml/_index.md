@@ -1,0 +1,1 @@
+---title: Convert DOCX to XML via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

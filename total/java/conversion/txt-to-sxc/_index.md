@@ -1,0 +1,1 @@
+---title: Convert TXT to SXC via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

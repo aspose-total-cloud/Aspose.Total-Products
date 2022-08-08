@@ -1,0 +1,1 @@
+---title: Convert DOTM to TXT via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

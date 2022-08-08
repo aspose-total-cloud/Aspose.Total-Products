@@ -1,0 +1,1 @@
+---title: Convert DOTM to SVG via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert DOCM to TXT via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

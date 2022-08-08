@@ -1,0 +1,1 @@
+---title: Convert MOBI to TXT via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert DOC to TXT via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

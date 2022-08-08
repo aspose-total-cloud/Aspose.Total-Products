@@ -1,0 +1,1 @@
+---title: Convert DOTX to XLS via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

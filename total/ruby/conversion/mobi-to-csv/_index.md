@@ -1,0 +1,1 @@
+---title: Convert MOBI to CSV via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

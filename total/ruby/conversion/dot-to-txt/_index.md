@@ -1,0 +1,1 @@
+---title: Convert DOT to TXT via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

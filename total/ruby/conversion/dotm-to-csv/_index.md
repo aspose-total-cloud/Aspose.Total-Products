@@ -1,0 +1,1 @@
+---title: Convert DOTM to CSV via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

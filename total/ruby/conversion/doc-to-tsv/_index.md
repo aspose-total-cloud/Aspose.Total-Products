@@ -1,0 +1,1 @@
+---title: Convert DOC to TSV via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to TSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

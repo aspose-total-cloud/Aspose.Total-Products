@@ -1,0 +1,1 @@
+---title: Convert DOTX to XLTX via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

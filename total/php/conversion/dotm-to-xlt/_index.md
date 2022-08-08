@@ -1,0 +1,1 @@
+---title: Convert DOTM to XLT via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

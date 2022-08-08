@@ -1,0 +1,1 @@
+---title: Convert DOCX to TXT via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

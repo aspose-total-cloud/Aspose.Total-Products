@@ -1,0 +1,1 @@
+---title: Convert DOCX to SXC via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

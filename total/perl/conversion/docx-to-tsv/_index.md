@@ -1,0 +1,1 @@
+---title: Convert DOCX to TSV via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to TSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

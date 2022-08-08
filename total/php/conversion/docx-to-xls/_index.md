@@ -1,0 +1,1 @@
+---title: Convert DOCX to XLS via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

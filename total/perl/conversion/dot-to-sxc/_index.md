@@ -1,0 +1,1 @@
+---title: Convert DOT to SXC via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

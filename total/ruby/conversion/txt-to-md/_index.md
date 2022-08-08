@@ -1,0 +1,1 @@
+---title: Convert TXT to MD via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

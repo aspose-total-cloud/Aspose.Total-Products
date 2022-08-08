@@ -1,0 +1,1 @@
+---title: Convert DOTX to FODS via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

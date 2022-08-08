@@ -1,0 +1,1 @@
+---title: Convert DOTX to SVG via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

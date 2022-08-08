@@ -1,0 +1,1 @@
+---title: Convert DOTX to CSV via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
