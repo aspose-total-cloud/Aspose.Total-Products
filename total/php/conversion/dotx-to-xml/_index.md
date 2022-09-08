@@ -1,1 +1,1 @@
----title: Convert DOTX to XML via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XML, DOTX to XML FREE Converter or PHP SDKdescription: Free Conversion of DOTX to XML by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

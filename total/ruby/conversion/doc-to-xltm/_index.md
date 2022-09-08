@@ -1,1 +1,1 @@
----title: Convert DOC to XLTM via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLTM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTM, DOC to XLTM FREE Converter or Ruby SDKdescription: Free Conversion of DOC to XLTM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

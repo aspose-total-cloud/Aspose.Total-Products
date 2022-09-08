@@ -1,0 +1,1 @@
+---title: Convert Word to DOT, DOCM to DOT FREE Converter or Android SDKdescription: Free Conversion of DOCM to DOT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOT to NUMBERS via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, DOT to NUMBERS FREE Converter or Java SDKdescription: Free Conversion of DOT to NUMBERS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

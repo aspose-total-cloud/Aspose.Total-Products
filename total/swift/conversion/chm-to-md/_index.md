@@ -1,1 +1,1 @@
----title: Convert CHM to MD via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, CHM to MD FREE Converter or Swift SDKdescription: Free Conversion of CHM to MD by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to EPUB, DOC to EPUB FREE Converter or Perl SDKdescription: Free Conversion of DOC to EPUB by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

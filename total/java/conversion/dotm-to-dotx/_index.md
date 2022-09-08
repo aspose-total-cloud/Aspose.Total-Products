@@ -1,0 +1,1 @@
+---title: Convert Word to DOTX, DOTM to DOTX FREE Converter or Java SDKdescription: Free Conversion of DOTM to DOTX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

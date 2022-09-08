@@ -1,1 +1,1 @@
----title: Convert CHM to XLSB via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to XLSB. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSB, CHM to XLSB FREE Converter or PHP SDKdescription: Free Conversion of CHM to XLSB by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

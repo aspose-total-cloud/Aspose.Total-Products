@@ -1,1 +1,1 @@
----title: Convert PDF to ODS via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, PDF to ODS FREE Converter or Ruby SDKdescription: Free Conversion of PDF to ODS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

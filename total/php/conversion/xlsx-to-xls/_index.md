@@ -1,0 +1,1 @@
+---title: Convert Excel to XLS, XLSX to XLS FREE Converter or PHP SDKdescription: Free Conversion of XLSX to XLS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

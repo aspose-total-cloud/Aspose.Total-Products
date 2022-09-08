@@ -1,0 +1,1 @@
+---title: Convert Excel to PDF, XLSM to PDF FREE Converter or Ruby SDKdescription: Free Conversion of XLSM to PDF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert HTML to NUMBERS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, HTML to NUMBERS FREE Converter or Android SDKdescription: Free Conversion of HTML to NUMBERS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

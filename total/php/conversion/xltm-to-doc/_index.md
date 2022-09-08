@@ -1,0 +1,1 @@
+---title: Convert Excel to DOC, XLTM to DOC FREE Converter or PHP SDKdescription: Free Conversion of XLTM to DOC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

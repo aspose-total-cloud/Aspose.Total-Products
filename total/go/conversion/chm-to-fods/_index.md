@@ -1,1 +1,1 @@
----title: Convert CHM to FODS via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, CHM to FODS FREE Converter or GO SDKdescription: Free Conversion of CHM to FODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

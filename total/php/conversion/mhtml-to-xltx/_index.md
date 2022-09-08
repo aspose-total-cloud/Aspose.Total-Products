@@ -1,1 +1,1 @@
----title: Convert MHTML to XLTX via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, MHTML to XLTX FREE Converter or PHP SDKdescription: Free Conversion of MHTML to XLTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to ODT, XLT to ODT FREE Converter or Ruby SDKdescription: Free Conversion of XLT to ODT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

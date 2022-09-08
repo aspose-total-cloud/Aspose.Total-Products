@@ -1,0 +1,1 @@
+---title: Convert Excel to OTT, XLS to OTT FREE Converter or Ruby SDKdescription: Free Conversion of XLS to OTT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTM to TXT via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOTM to TXT FREE Converter or Perl SDKdescription: Free Conversion of DOTM to TXT by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

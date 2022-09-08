@@ -1,1 +1,1 @@
----title: Convert DOTM to TIFF via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOTM to TIFF FREE Converter or Net SDKdescription: Free Conversion of DOTM to TIFF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

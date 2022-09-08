@@ -1,0 +1,1 @@
+---title: Convert Word to DOCX, DOTM to DOCX FREE Converter or Swift SDKdescription: Free Conversion of DOTM to DOCX by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

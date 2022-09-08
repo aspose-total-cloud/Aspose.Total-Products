@@ -1,1 +1,1 @@
----title: Convert DOTM to XLS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, DOTM to XLS FREE Converter or Android SDKdescription: Free Conversion of DOTM to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

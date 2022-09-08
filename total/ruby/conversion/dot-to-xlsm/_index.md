@@ -1,1 +1,1 @@
----title: Convert DOT to XLSM via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to XLSM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSM, DOT to XLSM FREE Converter or Ruby SDKdescription: Free Conversion of DOT to XLSM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

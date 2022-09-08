@@ -1,1 +1,1 @@
----title: Convert DOCM to SXC via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOCM to SXC FREE Converter or Ruby SDKdescription: Free Conversion of DOCM to SXC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

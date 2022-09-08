@@ -1,0 +1,1 @@
+---title: Convert Word to PS, DOT to PS FREE Converter or Python SDKdescription: Free Conversion of DOT to PS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

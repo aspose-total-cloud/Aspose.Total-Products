@@ -1,1 +1,1 @@
----title: Convert DOC to XLSB via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLSB. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSB, DOC to XLSB FREE Converter or Swift SDKdescription: Free Conversion of DOC to XLSB by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert PDF to SXC via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, PDF to SXC FREE Converter or Ruby SDKdescription: Free Conversion of PDF to SXC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert OTT to TXT via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert OTT to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, OTT to TXT FREE Converter or Python SDKdescription: Free Conversion of OTT to TXT by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert TXT to XLSB via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to XLSB. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSB, TXT to XLSB FREE Converter or Curl SDKdescription: Free Conversion of TXT to XLSB by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

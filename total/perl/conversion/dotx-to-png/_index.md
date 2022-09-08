@@ -1,0 +1,1 @@
+---title: Convert Word to PNG, DOTX to PNG FREE Converter or Perl SDKdescription: Free Conversion of DOTX to PNG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

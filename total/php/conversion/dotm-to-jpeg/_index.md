@@ -1,0 +1,1 @@
+---title: Convert Word to JPEG, DOTM to JPEG FREE Converter or PHP SDKdescription: Free Conversion of DOTM to JPEG by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

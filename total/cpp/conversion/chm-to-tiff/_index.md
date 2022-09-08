@@ -1,1 +1,1 @@
----title: Convert CHM to TIFF via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, CHM to TIFF FREE Converter or CPP SDKdescription: Free Conversion of CHM to TIFF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

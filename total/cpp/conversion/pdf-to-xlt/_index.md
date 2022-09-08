@@ -1,1 +1,1 @@
----title: Convert PDF to XLT via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, PDF to XLT FREE Converter or CPP SDKdescription: Free Conversion of PDF to XLT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

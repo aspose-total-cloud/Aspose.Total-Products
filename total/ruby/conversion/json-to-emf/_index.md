@@ -1,0 +1,1 @@
+---title: Convert Excel to EMF, JSON to EMF FREE Converter or Ruby SDKdescription: Free Conversion of JSON to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

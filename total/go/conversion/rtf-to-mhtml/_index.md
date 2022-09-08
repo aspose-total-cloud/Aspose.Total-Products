@@ -1,1 +1,1 @@
----title: Convert RTF to MHTML via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, RTF to MHTML FREE Converter or GO SDKdescription: Free Conversion of RTF to MHTML by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

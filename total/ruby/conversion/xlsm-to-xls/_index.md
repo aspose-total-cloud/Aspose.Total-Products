@@ -1,0 +1,1 @@
+---title: Convert Excel to XLS, XLSM to XLS FREE Converter or Ruby SDKdescription: Free Conversion of XLSM to XLS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to DOCX, DOTX to DOCX FREE Converter or Perl SDKdescription: Free Conversion of DOTX to DOCX by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

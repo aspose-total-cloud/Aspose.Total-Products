@@ -1,0 +1,1 @@
+---title: Convert Excel to XLTX, XLSM to XLTX FREE Converter or Python SDKdescription: Free Conversion of XLSM to XLTX by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

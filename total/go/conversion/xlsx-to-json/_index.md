@@ -1,0 +1,1 @@
+---title: Convert Excel to JSON, XLSX to JSON FREE Converter or GO SDKdescription: Free Conversion of XLSX to JSON by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

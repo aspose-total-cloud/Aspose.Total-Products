@@ -1,1 +1,1 @@
----title: Convert DOT to ODS via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, DOT to ODS FREE Converter or Net SDKdescription: Free Conversion of DOT to ODS by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MHTML to XLT via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, MHTML to XLT FREE Converter or Curl SDKdescription: Free Conversion of MHTML to XLT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

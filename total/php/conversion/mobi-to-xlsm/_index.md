@@ -1,1 +1,1 @@
----title: Convert MOBI to XLSM via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XLSM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSM, MOBI to XLSM FREE Converter or PHP SDKdescription: Free Conversion of MOBI to XLSM by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTX to FODS via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, DOTX to FODS FREE Converter or GO SDKdescription: Free Conversion of DOTX to FODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert TXT to HTML via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, TXT to HTML FREE Converter or Curl SDKdescription: Free Conversion of TXT to HTML by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

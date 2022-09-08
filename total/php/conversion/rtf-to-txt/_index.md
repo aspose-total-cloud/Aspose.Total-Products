@@ -1,1 +1,1 @@
----title: Convert RTF to TXT via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, RTF to TXT FREE Converter or PHP SDKdescription: Free Conversion of RTF to TXT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

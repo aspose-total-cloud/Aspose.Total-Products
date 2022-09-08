@@ -1,1 +1,1 @@
----title: Convert MHTML to SXC via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, MHTML to SXC FREE Converter or PHP SDKdescription: Free Conversion of MHTML to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

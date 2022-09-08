@@ -1,1 +1,1 @@
----title: Convert MOBI to XLS via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, MOBI to XLS FREE Converter or Python SDKdescription: Free Conversion of MOBI to XLS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MOBI to FODS via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, MOBI to FODS FREE Converter or Python SDKdescription: Free Conversion of MOBI to FODS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

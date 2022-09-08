@@ -1,1 +1,1 @@
----title: Convert MD to NUMBERS via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, MD to NUMBERS FREE Converter or Python SDKdescription: Free Conversion of MD to NUMBERS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

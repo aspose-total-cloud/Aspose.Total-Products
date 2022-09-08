@@ -1,1 +1,1 @@
----title: Convert PDF to XLTX via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, PDF to XLTX FREE Converter or GO SDKdescription: Free Conversion of PDF to XLTX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

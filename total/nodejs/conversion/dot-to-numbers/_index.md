@@ -1,1 +1,1 @@
----title: Convert DOT to NUMBERS via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, DOT to NUMBERS FREE Converter or Nodejs SDKdescription: Free Conversion of DOT to NUMBERS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

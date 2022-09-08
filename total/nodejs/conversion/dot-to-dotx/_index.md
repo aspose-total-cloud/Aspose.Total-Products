@@ -1,0 +1,1 @@
+---title: Convert Word to DOTX, DOT to DOTX FREE Converter or Nodejs SDKdescription: Free Conversion of DOT to DOTX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

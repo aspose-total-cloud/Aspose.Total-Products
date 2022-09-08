@@ -1,0 +1,1 @@
+---title: Convert Word to EMF, DOTM to EMF FREE Converter or Ruby SDKdescription: Free Conversion of DOTM to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

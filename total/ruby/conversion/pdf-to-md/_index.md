@@ -1,1 +1,1 @@
----title: Convert PDF to MD via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, PDF to MD FREE Converter or Ruby SDKdescription: Free Conversion of PDF to MD by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

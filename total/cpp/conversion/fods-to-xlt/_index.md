@@ -1,0 +1,1 @@
+---title: Convert Excel to XLT, FODS to XLT FREE Converter or CPP SDKdescription: Free Conversion of FODS to XLT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

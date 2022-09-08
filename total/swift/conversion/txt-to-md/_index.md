@@ -1,1 +1,1 @@
----title: Convert TXT to MD via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, TXT to MD FREE Converter or Swift SDKdescription: Free Conversion of TXT to MD by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

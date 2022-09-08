@@ -1,1 +1,1 @@
----title: Convert MHTML to DIF via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, MHTML to DIF FREE Converter or Python SDKdescription: Free Conversion of MHTML to DIF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

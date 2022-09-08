@@ -1,0 +1,1 @@
+---title: Convert Word to BMP, DOT to BMP FREE Converter or GO SDKdescription: Free Conversion of DOT to BMP by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTM to NUMBERS via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, DOTM to NUMBERS FREE Converter or PHP SDKdescription: Free Conversion of DOTM to NUMBERS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

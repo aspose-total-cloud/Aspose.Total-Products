@@ -1,1 +1,1 @@
----title: Convert ODT to XLT via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, ODT to XLT FREE Converter or Ruby SDKdescription: Free Conversion of ODT to XLT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

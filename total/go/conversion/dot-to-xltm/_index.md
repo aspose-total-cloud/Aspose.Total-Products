@@ -1,1 +1,1 @@
----title: Convert DOT to XLTM via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to XLTM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTM, DOT to XLTM FREE Converter or GO SDKdescription: Free Conversion of DOT to XLTM by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

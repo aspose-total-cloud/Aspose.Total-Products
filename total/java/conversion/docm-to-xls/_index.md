@@ -1,1 +1,1 @@
----title: Convert DOCM to XLS via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, DOCM to XLS FREE Converter or Java SDKdescription: Free Conversion of DOCM to XLS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

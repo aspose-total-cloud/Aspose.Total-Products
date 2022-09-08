@@ -1,1 +1,1 @@
----title: Convert DOC to XLSM via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLSM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSM, DOC to XLSM FREE Converter or Curl SDKdescription: Free Conversion of DOC to XLSM by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

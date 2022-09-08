@@ -1,0 +1,1 @@
+---title: Convert Excel to PNG, XLSM to PNG FREE Converter or Ruby SDKdescription: Free Conversion of XLSM to PNG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

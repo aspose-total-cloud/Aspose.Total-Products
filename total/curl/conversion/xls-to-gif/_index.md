@@ -1,0 +1,1 @@
+---title: Convert Excel to GIF, XLS to GIF FREE Converter or Curl SDKdescription: Free Conversion of XLS to GIF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOT to SVG via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOT to SVG FREE Converter or Java SDKdescription: Free Conversion of DOT to SVG by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

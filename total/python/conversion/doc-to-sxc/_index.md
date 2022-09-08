@@ -1,1 +1,1 @@
----title: Convert DOC to SXC via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOC to SXC FREE Converter or Python SDKdescription: Free Conversion of DOC to SXC by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

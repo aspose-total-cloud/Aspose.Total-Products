@@ -1,0 +1,1 @@
+---title: Convert Excel to SXC, FODS to SXC FREE Converter or Ruby SDKdescription: Free Conversion of FODS to SXC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

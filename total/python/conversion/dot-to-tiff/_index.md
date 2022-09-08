@@ -1,1 +1,1 @@
----title: Convert DOT to TIFF via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOT to TIFF FREE Converter or Python SDKdescription: Free Conversion of DOT to TIFF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTM to DIF via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, DOTM to DIF FREE Converter or PHP SDKdescription: Free Conversion of DOTM to DIF by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

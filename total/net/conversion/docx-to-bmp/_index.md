@@ -1,0 +1,1 @@
+---title: Convert Word to BMP, DOCX to BMP FREE Converter or Net SDKdescription: Free Conversion of DOCX to BMP by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

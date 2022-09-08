@@ -1,1 +1,1 @@
----title: Convert MHTML to TIFF via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, MHTML to TIFF FREE Converter or PHP SDKdescription: Free Conversion of MHTML to TIFF by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

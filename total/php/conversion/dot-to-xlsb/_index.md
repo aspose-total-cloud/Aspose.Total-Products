@@ -1,1 +1,1 @@
----title: Convert DOT to XLSB via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to XLSB. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSB, DOT to XLSB FREE Converter or PHP SDKdescription: Free Conversion of DOT to XLSB by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

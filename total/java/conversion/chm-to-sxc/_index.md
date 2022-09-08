@@ -1,1 +1,1 @@
----title: Convert CHM to SXC via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, CHM to SXC FREE Converter or Java SDKdescription: Free Conversion of CHM to SXC by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to JSON, MD to JSON FREE Converter or CPP SDKdescription: Free Conversion of MD to JSON by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to XLAM, XLT to XLAM FREE Converter or Ruby SDKdescription: Free Conversion of XLT to XLAM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

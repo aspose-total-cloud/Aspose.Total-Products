@@ -1,0 +1,1 @@
+---title: Convert Excel to XLAM, FODS to XLAM FREE Converter or Curl SDKdescription: Free Conversion of FODS to XLAM by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

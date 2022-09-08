@@ -1,0 +1,1 @@
+---title: Convert Excel to SVG, XLS to SVG FREE Converter or Net SDKdescription: Free Conversion of XLS to SVG by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

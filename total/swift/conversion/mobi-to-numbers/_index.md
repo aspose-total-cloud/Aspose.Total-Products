@@ -1,1 +1,1 @@
----title: Convert MOBI to NUMBERS via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, MOBI to NUMBERS FREE Converter or Swift SDKdescription: Free Conversion of MOBI to NUMBERS by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

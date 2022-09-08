@@ -1,1 +1,1 @@
----title: Convert RTF to TIFF via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, RTF to TIFF FREE Converter or Curl SDKdescription: Free Conversion of RTF to TIFF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

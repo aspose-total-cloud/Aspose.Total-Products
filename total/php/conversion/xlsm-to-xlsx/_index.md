@@ -1,0 +1,1 @@
+---title: Convert Excel to XLSX, XLSM to XLSX FREE Converter or PHP SDKdescription: Free Conversion of XLSM to XLSX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

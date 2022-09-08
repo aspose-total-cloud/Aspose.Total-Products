@@ -1,0 +1,1 @@
+---title: Convert Word to ODS, TXT to ODS FREE Converter or Swift SDKdescription: Free Conversion of TXT to ODS by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

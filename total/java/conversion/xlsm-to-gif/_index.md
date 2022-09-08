@@ -1,0 +1,1 @@
+---title: Convert Excel to GIF, XLSM to GIF FREE Converter or Java SDKdescription: Free Conversion of XLSM to GIF by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

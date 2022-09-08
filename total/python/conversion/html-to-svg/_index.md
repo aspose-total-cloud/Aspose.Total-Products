@@ -1,1 +1,1 @@
----title: Convert HTML to SVG via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, HTML to SVG FREE Converter or Python SDKdescription: Free Conversion of HTML to SVG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

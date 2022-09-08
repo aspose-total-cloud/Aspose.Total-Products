@@ -1,0 +1,1 @@
+---title: Convert Excel to GIF, SXC to GIF FREE Converter or Perl SDKdescription: Free Conversion of SXC to GIF by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

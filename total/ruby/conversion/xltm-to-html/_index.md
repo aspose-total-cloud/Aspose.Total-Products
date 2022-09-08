@@ -1,0 +1,1 @@
+---title: Convert Excel to HTML, XLTM to HTML FREE Converter or Ruby SDKdescription: Free Conversion of XLTM to HTML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert ODT to TXT via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, ODT to TXT FREE Converter or GO SDKdescription: Free Conversion of ODT to TXT by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

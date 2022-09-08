@@ -1,0 +1,1 @@
+---title: Convert Excel to DOTM, XLT to DOTM FREE Converter or Swift SDKdescription: Free Conversion of XLT to DOTM by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

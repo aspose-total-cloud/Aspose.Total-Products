@@ -1,1 +1,1 @@
----title: Convert RTF to XLTX via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, RTF to XLTX FREE Converter or Ruby SDKdescription: Free Conversion of RTF to XLTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

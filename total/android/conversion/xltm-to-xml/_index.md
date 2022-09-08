@@ -1,0 +1,1 @@
+---title: Convert Excel to XML, XLTM to XML FREE Converter or Android SDKdescription: Free Conversion of XLTM to XML by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

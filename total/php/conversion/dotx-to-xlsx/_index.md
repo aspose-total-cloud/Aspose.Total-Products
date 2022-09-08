@@ -1,1 +1,1 @@
----title: Convert DOTX to XLSX via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, DOTX to XLSX FREE Converter or PHP SDKdescription: Free Conversion of DOTX to XLSX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

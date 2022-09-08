@@ -1,1 +1,1 @@
----title: Convert DOT to DIF via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, DOT to DIF FREE Converter or Swift SDKdescription: Free Conversion of DOT to DIF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

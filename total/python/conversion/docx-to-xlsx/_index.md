@@ -1,1 +1,1 @@
----title: Convert DOCX to XLSX via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, DOCX to XLSX FREE Converter or Python SDKdescription: Free Conversion of DOCX to XLSX by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

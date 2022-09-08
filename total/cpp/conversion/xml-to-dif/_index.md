@@ -1,0 +1,1 @@
+---title: Convert Excel to DIF, XML to DIF FREE Converter or CPP SDKdescription: Free Conversion of XML to DIF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

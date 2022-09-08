@@ -1,0 +1,1 @@
+---title: Convert Excel to XAML, FODS to XAML FREE Converter or Ruby SDKdescription: Free Conversion of FODS to XAML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

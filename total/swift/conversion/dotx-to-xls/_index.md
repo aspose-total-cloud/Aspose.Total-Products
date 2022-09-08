@@ -1,1 +1,1 @@
----title: Convert DOTX to XLS via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, DOTX to XLS FREE Converter or Swift SDKdescription: Free Conversion of DOTX to XLS by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

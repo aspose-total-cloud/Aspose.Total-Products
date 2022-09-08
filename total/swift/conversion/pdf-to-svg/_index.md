@@ -1,1 +1,1 @@
----title: Convert PDF to SVG via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, PDF to SVG FREE Converter or Swift SDKdescription: Free Conversion of PDF to SVG by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

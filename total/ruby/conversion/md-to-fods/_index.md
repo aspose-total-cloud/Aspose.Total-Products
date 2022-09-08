@@ -1,1 +1,1 @@
----title: Convert MD to FODS via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, MD to FODS FREE Converter or Ruby SDKdescription: Free Conversion of MD to FODS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

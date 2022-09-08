@@ -1,1 +1,1 @@
----title: Convert CHM to XPS via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, CHM to XPS FREE Converter or Net SDKdescription: Free Conversion of CHM to XPS by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

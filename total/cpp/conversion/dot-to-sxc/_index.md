@@ -1,1 +1,1 @@
----title: Convert DOT to SXC via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOT to SXC FREE Converter or CPP SDKdescription: Free Conversion of DOT to SXC by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

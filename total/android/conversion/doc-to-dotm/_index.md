@@ -1,0 +1,1 @@
+---title: Convert Word to DOTM, DOC to DOTM FREE Converter or Android SDKdescription: Free Conversion of DOC to DOTM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

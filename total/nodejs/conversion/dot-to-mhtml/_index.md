@@ -1,1 +1,1 @@
----title: Convert DOT to MHTML via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOT to MHTML FREE Converter or Nodejs SDKdescription: Free Conversion of DOT to MHTML by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

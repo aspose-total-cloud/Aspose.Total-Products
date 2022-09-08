@@ -1,1 +1,1 @@
----title: Convert DOCM to TXT via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOCM to TXT FREE Converter or Swift SDKdescription: Free Conversion of DOCM to TXT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

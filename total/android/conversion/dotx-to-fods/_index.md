@@ -1,1 +1,1 @@
----title: Convert DOTX to FODS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, DOTX to FODS FREE Converter or Android SDKdescription: Free Conversion of DOTX to FODS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

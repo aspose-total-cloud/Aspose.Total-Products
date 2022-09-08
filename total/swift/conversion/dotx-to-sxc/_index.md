@@ -1,1 +1,1 @@
----title: Convert DOTX to SXC via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOTX to SXC FREE Converter or Swift SDKdescription: Free Conversion of DOTX to SXC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

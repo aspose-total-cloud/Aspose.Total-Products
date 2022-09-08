@@ -1,1 +1,1 @@
----title: Convert DOTX to XPS via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, DOTX to XPS FREE Converter or Java SDKdescription: Free Conversion of DOTX to XPS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

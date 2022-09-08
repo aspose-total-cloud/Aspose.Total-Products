@@ -1,1 +1,1 @@
----title: Convert DOTM to SXC via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOTM to SXC FREE Converter or CPP SDKdescription: Free Conversion of DOTM to SXC by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

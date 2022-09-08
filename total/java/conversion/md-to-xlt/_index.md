@@ -1,1 +1,1 @@
----title: Convert MD to XLT via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, MD to XLT FREE Converter or Java SDKdescription: Free Conversion of MD to XLT by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

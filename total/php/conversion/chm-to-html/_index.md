@@ -1,1 +1,1 @@
----title: Convert CHM to HTML via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, CHM to HTML FREE Converter or PHP SDKdescription: Free Conversion of CHM to HTML by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

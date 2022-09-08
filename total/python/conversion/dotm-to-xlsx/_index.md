@@ -1,1 +1,1 @@
----title: Convert DOTM to XLSX via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, DOTM to XLSX FREE Converter or Python SDKdescription: Free Conversion of DOTM to XLSX by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert TXT to DIF via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, TXT to DIF FREE Converter or Net SDKdescription: Free Conversion of TXT to DIF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MD to XLSX via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, MD to XLSX FREE Converter or Ruby SDKdescription: Free Conversion of MD to XLSX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

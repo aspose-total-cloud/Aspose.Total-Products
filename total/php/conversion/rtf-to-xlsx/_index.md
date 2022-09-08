@@ -1,1 +1,1 @@
----title: Convert RTF to XLSX via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, RTF to XLSX FREE Converter or PHP SDKdescription: Free Conversion of RTF to XLSX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOC to ODS via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, DOC to ODS FREE Converter or Curl SDKdescription: Free Conversion of DOC to ODS by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

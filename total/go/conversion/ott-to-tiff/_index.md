@@ -1,1 +1,1 @@
----title: Convert OTT to TIFF via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert OTT to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, OTT to TIFF FREE Converter or GO SDKdescription: Free Conversion of OTT to TIFF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MOBI to SXC via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, MOBI to SXC FREE Converter or Java SDKdescription: Free Conversion of MOBI to SXC by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

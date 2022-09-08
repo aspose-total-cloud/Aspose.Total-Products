@@ -1,0 +1,1 @@
+---title: Convert Word to XLAM, DOCM to XLAM FREE Converter or Perl SDKdescription: Free Conversion of DOCM to XLAM by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

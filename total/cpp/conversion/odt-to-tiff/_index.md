@@ -1,1 +1,1 @@
----title: Convert ODT to TIFF via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, ODT to TIFF FREE Converter or CPP SDKdescription: Free Conversion of ODT to TIFF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

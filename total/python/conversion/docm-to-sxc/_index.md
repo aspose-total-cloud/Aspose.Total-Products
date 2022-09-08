@@ -1,1 +1,1 @@
----title: Convert DOCM to SXC via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOCM to SXC FREE Converter or Python SDKdescription: Free Conversion of DOCM to SXC by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

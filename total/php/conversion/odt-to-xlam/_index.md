@@ -1,0 +1,1 @@
+---title: Convert Word to XLAM, ODT to XLAM FREE Converter or PHP SDKdescription: Free Conversion of ODT to XLAM by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

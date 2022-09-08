@@ -1,1 +1,1 @@
----title: Convert DOC to XLSX via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, DOC to XLSX FREE Converter or Curl SDKdescription: Free Conversion of DOC to XLSX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

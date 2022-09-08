@@ -1,0 +1,1 @@
+---title: Convert Excel to SVG, JSON to SVG FREE Converter or Perl SDKdescription: Free Conversion of JSON to SVG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

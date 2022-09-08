@@ -1,0 +1,1 @@
+---title: Convert Word to DOTX, TXT to DOTX FREE Converter or Nodejs SDKdescription: Free Conversion of TXT to DOTX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

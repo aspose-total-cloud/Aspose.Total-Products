@@ -1,1 +1,1 @@
----title: Convert ODT to TSV via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to TSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TSV, ODT to TSV FREE Converter or Curl SDKdescription: Free Conversion of ODT to TSV by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

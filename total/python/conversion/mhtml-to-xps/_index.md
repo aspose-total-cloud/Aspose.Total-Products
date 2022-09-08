@@ -1,1 +1,1 @@
----title: Convert MHTML to XPS via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, MHTML to XPS FREE Converter or Python SDKdescription: Free Conversion of MHTML to XPS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

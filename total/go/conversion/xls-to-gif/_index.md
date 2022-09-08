@@ -1,0 +1,1 @@
+---title: Convert Excel to GIF, XLS to GIF FREE Converter or GO SDKdescription: Free Conversion of XLS to GIF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

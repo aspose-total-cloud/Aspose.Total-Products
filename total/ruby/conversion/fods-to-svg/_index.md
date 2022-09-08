@@ -1,0 +1,1 @@
+---title: Convert Excel to SVG, FODS to SVG FREE Converter or Ruby SDKdescription: Free Conversion of FODS to SVG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOC to DIF via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, DOC to DIF FREE Converter or Swift SDKdescription: Free Conversion of DOC to DIF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

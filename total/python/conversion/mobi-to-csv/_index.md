@@ -1,1 +1,1 @@
----title: Convert MOBI to CSV via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, MOBI to CSV FREE Converter or Python SDKdescription: Free Conversion of MOBI to CSV by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to EMF, TXT to EMF FREE Converter or Ruby SDKdescription: Free Conversion of TXT to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

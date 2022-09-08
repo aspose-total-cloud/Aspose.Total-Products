@@ -1,1 +1,1 @@
----title: Convert DOCM to XLT via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, DOCM to XLT FREE Converter or Android SDKdescription: Free Conversion of DOCM to XLT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

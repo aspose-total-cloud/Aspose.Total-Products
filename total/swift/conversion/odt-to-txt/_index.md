@@ -1,1 +1,1 @@
----title: Convert ODT to TXT via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, ODT to TXT FREE Converter or Swift SDKdescription: Free Conversion of ODT to TXT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

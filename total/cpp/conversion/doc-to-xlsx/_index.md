@@ -1,1 +1,1 @@
----title: Convert DOC to XLSX via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, DOC to XLSX FREE Converter or CPP SDKdescription: Free Conversion of DOC to XLSX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert RTF to XLS via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, RTF to XLS FREE Converter or Net SDKdescription: Free Conversion of RTF to XLS by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

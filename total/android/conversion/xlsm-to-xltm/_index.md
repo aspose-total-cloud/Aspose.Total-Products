@@ -1,0 +1,1 @@
+---title: Convert Excel to XLTM, XLSM to XLTM FREE Converter or Android SDKdescription: Free Conversion of XLSM to XLTM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

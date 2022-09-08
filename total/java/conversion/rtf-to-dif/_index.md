@@ -1,1 +1,1 @@
----title: Convert RTF to DIF via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, RTF to DIF FREE Converter or Java SDKdescription: Free Conversion of RTF to DIF by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

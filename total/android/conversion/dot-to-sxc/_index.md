@@ -1,1 +1,1 @@
----title: Convert DOT to SXC via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOT to SXC FREE Converter or Android SDKdescription: Free Conversion of DOT to SXC by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

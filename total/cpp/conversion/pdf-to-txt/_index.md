@@ -1,1 +1,1 @@
----title: Convert PDF to TXT via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, PDF to TXT FREE Converter or CPP SDKdescription: Free Conversion of PDF to TXT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

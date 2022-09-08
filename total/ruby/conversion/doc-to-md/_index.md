@@ -1,1 +1,1 @@
----title: Convert DOC to MD via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, DOC to MD FREE Converter or Ruby SDKdescription: Free Conversion of DOC to MD by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

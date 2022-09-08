@@ -1,1 +1,1 @@
----title: Convert RTF to MD via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, RTF to MD FREE Converter or Nodejs SDKdescription: Free Conversion of RTF to MD by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to JSON, PDF to JSON FREE Converter or Perl SDKdescription: Free Conversion of PDF to JSON by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

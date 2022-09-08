@@ -1,0 +1,1 @@
+---title: Convert Excel to SXC, JSON to SXC FREE Converter or PHP SDKdescription: Free Conversion of JSON to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

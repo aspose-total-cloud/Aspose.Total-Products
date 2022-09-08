@@ -1,1 +1,1 @@
----title: Convert DOC to CSV via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, DOC to CSV FREE Converter or CPP SDKdescription: Free Conversion of DOC to CSV by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

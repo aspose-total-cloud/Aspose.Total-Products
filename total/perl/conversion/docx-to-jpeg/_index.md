@@ -1,0 +1,1 @@
+---title: Convert Word to JPEG, DOCX to JPEG FREE Converter or Perl SDKdescription: Free Conversion of DOCX to JPEG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOC to XML via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XML, DOC to XML FREE Converter or Net SDKdescription: Free Conversion of DOC to XML by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

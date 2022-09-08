@@ -1,1 +1,1 @@
----title: Convert TXT to XPS via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, TXT to XPS FREE Converter or PHP SDKdescription: Free Conversion of TXT to XPS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

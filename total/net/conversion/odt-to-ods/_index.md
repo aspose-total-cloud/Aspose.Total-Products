@@ -1,1 +1,1 @@
----title: Convert ODT to ODS via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, ODT to ODS FREE Converter or Net SDKdescription: Free Conversion of ODT to ODS by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

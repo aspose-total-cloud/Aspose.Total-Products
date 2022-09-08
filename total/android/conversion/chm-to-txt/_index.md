@@ -1,0 +1,1 @@
+---title: Convert Word to TXT, CHM to TXT FREE Converter or Android SDKdescription: Free Conversion of CHM to TXT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

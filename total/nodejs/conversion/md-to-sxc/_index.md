@@ -1,1 +1,1 @@
----title: Convert MD to SXC via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, MD to SXC FREE Converter or Nodejs SDKdescription: Free Conversion of MD to SXC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

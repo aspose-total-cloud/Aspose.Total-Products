@@ -1,0 +1,1 @@
+---title: Convert Excel to XLSX, SXC to XLSX FREE Converter or CPP SDKdescription: Free Conversion of SXC to XLSX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

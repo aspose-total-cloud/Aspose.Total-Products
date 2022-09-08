@@ -1,0 +1,1 @@
+---title: Convert Word to RTF, DOCX to RTF FREE Converter or Swift SDKdescription: Free Conversion of DOCX to RTF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

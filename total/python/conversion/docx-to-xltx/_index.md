@@ -1,1 +1,1 @@
----title: Convert DOCX to XLTX via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, DOCX to XLTX FREE Converter or Python SDKdescription: Free Conversion of DOCX to XLTX by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

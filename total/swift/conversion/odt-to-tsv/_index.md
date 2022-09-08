@@ -1,1 +1,1 @@
----title: Convert ODT to TSV via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to TSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TSV, ODT to TSV FREE Converter or Swift SDKdescription: Free Conversion of ODT to TSV by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

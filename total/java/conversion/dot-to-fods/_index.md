@@ -1,1 +1,1 @@
----title: Convert DOT to FODS via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, DOT to FODS FREE Converter or Java SDKdescription: Free Conversion of DOT to FODS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

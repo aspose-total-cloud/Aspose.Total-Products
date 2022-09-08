@@ -1,1 +1,1 @@
----title: Convert MD to TIFF via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, MD to TIFF FREE Converter or Java SDKdescription: Free Conversion of MD to TIFF by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

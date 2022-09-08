@@ -1,1 +1,1 @@
----title: Convert HTML to XLS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, HTML to XLS FREE Converter or Android SDKdescription: Free Conversion of HTML to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

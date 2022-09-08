@@ -1,1 +1,1 @@
----title: Convert MD to XLS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, MD to XLS FREE Converter or Android SDKdescription: Free Conversion of MD to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

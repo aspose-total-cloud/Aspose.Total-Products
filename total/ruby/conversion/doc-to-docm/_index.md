@@ -1,0 +1,1 @@
+---title: Convert Word to DOCM, DOC to DOCM FREE Converter or Ruby SDKdescription: Free Conversion of DOC to DOCM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

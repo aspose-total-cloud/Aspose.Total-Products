@@ -1,1 +1,1 @@
----title: Convert DOTX to PDF via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to PDF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PDF, DOTX to PDF FREE Converter or PHP SDKdescription: Free Conversion of DOTX to PDF by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

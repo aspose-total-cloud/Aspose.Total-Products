@@ -1,0 +1,1 @@
+---title: Convert Word to RTF, DOT to RTF FREE Converter or Android SDKdescription: Free Conversion of DOT to RTF by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOC to FODS via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, DOC to FODS FREE Converter or Nodejs SDKdescription: Free Conversion of DOC to FODS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

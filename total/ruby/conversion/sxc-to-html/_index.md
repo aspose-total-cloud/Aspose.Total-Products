@@ -1,0 +1,1 @@
+---title: Convert Excel to HTML, SXC to HTML FREE Converter or Ruby SDKdescription: Free Conversion of SXC to HTML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

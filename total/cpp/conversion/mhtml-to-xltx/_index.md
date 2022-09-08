@@ -1,1 +1,1 @@
----title: Convert MHTML to XLTX via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, MHTML to XLTX FREE Converter or CPP SDKdescription: Free Conversion of MHTML to XLTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOC to FODS via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, DOC to FODS FREE Converter or Net SDKdescription: Free Conversion of DOC to FODS by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

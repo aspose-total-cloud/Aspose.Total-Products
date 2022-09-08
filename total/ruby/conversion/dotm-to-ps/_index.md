@@ -1,0 +1,1 @@
+---title: Convert Word to PS, DOTM to PS FREE Converter or Ruby SDKdescription: Free Conversion of DOTM to PS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTX to XLTM via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XLTM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTM, DOTX to XLTM FREE Converter or GO SDKdescription: Free Conversion of DOTX to XLTM by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

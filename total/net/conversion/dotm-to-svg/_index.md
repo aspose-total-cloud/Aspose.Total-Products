@@ -1,1 +1,1 @@
----title: Convert DOTM to SVG via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOTM to SVG FREE Converter or Net SDKdescription: Free Conversion of DOTM to SVG by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

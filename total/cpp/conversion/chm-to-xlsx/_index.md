@@ -1,1 +1,1 @@
----title: Convert CHM to XLSX via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, CHM to XLSX FREE Converter or CPP SDKdescription: Free Conversion of CHM to XLSX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MOBI to XLS via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, MOBI to XLS FREE Converter or Java SDKdescription: Free Conversion of MOBI to XLS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

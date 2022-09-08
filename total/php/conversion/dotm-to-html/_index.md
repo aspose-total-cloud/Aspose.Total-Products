@@ -1,1 +1,1 @@
----title: Convert DOTM to HTML via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, DOTM to HTML FREE Converter or PHP SDKdescription: Free Conversion of DOTM to HTML by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

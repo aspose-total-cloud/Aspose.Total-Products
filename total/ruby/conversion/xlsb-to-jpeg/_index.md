@@ -1,0 +1,1 @@
+---title: Convert Excel to JPEG, XLSB to JPEG FREE Converter or Ruby SDKdescription: Free Conversion of XLSB to JPEG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

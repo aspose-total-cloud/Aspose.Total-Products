@@ -1,1 +1,1 @@
----title: Convert MOBI to TXT via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, MOBI to TXT FREE Converter or Curl SDKdescription: Free Conversion of MOBI to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

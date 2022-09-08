@@ -1,1 +1,1 @@
----title: Convert MD to XLS via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, MD to XLS FREE Converter or PHP SDKdescription: Free Conversion of MD to XLS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

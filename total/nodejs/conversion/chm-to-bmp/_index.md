@@ -1,0 +1,1 @@
+---title: Convert Word to BMP, CHM to BMP FREE Converter or Nodejs SDKdescription: Free Conversion of CHM to BMP by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

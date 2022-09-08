@@ -1,1 +1,1 @@
----title: Convert TXT to MD via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, TXT to MD FREE Converter or Python SDKdescription: Free Conversion of TXT to MD by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

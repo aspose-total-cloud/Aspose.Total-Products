@@ -1,1 +1,1 @@
----title: Convert CHM to XPS via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, CHM to XPS FREE Converter or Java SDKdescription: Free Conversion of CHM to XPS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

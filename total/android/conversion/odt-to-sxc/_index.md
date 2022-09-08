@@ -1,1 +1,1 @@
----title: Convert ODT to SXC via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, ODT to SXC FREE Converter or Android SDKdescription: Free Conversion of ODT to SXC by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

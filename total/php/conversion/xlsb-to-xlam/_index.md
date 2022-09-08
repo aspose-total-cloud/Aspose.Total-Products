@@ -1,0 +1,1 @@
+---title: Convert Excel to XLAM, XLSB to XLAM FREE Converter or PHP SDKdescription: Free Conversion of XLSB to XLAM by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

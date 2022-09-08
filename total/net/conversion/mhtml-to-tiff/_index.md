@@ -1,1 +1,1 @@
----title: Convert MHTML to TIFF via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, MHTML to TIFF FREE Converter or Net SDKdescription: Free Conversion of MHTML to TIFF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTX to MD via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, DOTX to MD FREE Converter or Java SDKdescription: Free Conversion of DOTX to MD by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

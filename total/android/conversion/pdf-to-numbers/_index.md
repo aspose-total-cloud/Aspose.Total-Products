@@ -1,1 +1,1 @@
----title: Convert PDF to NUMBERS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, PDF to NUMBERS FREE Converter or Android SDKdescription: Free Conversion of PDF to NUMBERS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

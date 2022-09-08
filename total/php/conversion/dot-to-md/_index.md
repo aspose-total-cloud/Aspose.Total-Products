@@ -1,1 +1,1 @@
----title: Convert DOT to MD via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, DOT to MD FREE Converter or PHP SDKdescription: Free Conversion of DOT to MD by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

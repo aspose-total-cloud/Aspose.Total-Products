@@ -1,1 +1,1 @@
----title: Convert MOBI to TIFF via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, MOBI to TIFF FREE Converter or Java SDKdescription: Free Conversion of MOBI to TIFF by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

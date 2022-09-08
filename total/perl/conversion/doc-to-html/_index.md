@@ -1,1 +1,1 @@
----title: Convert DOC to HTML via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, DOC to HTML FREE Converter or Perl SDKdescription: Free Conversion of DOC to HTML by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

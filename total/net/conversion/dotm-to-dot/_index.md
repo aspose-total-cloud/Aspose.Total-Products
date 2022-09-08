@@ -1,0 +1,1 @@
+---title: Convert Word to DOT, DOTM to DOT FREE Converter or Net SDKdescription: Free Conversion of DOTM to DOT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

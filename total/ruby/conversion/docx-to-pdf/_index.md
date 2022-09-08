@@ -1,1 +1,1 @@
----title: Convert DOCX to PDF via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to PDF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PDF, DOCX to PDF FREE Converter or Ruby SDKdescription: Free Conversion of DOCX to PDF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

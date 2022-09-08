@@ -1,1 +1,1 @@
----title: Convert RTF to CSV via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, RTF to CSV FREE Converter or CPP SDKdescription: Free Conversion of RTF to CSV by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

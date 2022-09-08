@@ -1,1 +1,1 @@
----title: Convert PDF to XML via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to XML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XML, PDF to XML FREE Converter or Android SDKdescription: Free Conversion of PDF to XML by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

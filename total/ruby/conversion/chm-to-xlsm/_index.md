@@ -1,1 +1,1 @@
----title: Convert CHM to XLSM via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to XLSM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSM, CHM to XLSM FREE Converter or Ruby SDKdescription: Free Conversion of CHM to XLSM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to SXC, XLT to SXC FREE Converter or PHP SDKdescription: Free Conversion of XLT to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

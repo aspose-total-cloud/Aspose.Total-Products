@@ -1,0 +1,1 @@
+---title: Convert Word to XLT, DOTX to XLT FREE Converter or Net SDKdescription: Free Conversion of DOTX to XLT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

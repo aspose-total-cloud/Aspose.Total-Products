@@ -1,0 +1,1 @@
+---title: Convert Word to PS, DOC to PS FREE Converter or Net SDKdescription: Free Conversion of DOC to PS by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

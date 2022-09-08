@@ -1,0 +1,1 @@
+---title: Convert Excel to DIF, XLT to DIF FREE Converter or Curl SDKdescription: Free Conversion of XLT to DIF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

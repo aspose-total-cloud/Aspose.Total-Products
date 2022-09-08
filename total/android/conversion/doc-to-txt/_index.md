@@ -1,1 +1,1 @@
----title: Convert DOC to TXT via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOC to TXT FREE Converter or Android SDKdescription: Free Conversion of DOC to TXT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert PDF to SVG via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, PDF to SVG FREE Converter or Android SDKdescription: Free Conversion of PDF to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to DOTX, XLSM to DOTX FREE Converter or Android SDKdescription: Free Conversion of XLSM to DOTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTX to TIFF via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOTX to TIFF FREE Converter or Android SDKdescription: Free Conversion of DOTX to TIFF by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

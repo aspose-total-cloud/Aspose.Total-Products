@@ -1,1 +1,1 @@
----title: Convert DOT to MHTML via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOT to MHTML FREE Converter or Swift SDKdescription: Free Conversion of DOT to MHTML by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

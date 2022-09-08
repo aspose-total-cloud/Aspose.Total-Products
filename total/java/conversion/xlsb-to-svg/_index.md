@@ -1,0 +1,1 @@
+---title: Convert Excel to SVG, XLSB to SVG FREE Converter or Java SDKdescription: Free Conversion of XLSB to SVG by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

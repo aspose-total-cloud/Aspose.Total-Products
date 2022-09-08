@@ -1,0 +1,1 @@
+---title: Convert Word to DOCX, DOCM to DOCX FREE Converter or CPP SDKdescription: Free Conversion of DOCM to DOCX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

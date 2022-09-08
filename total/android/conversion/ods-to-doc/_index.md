@@ -1,0 +1,1 @@
+---title: Convert Excel to DOC, ODS to DOC FREE Converter or Android SDKdescription: Free Conversion of ODS to DOC by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MD to TXT via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, MD to TXT FREE Converter or PHP SDKdescription: Free Conversion of MD to TXT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

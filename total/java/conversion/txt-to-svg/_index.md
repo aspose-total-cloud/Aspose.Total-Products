@@ -1,1 +1,1 @@
----title: Convert TXT to SVG via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, TXT to SVG FREE Converter or Java SDKdescription: Free Conversion of TXT to SVG by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOT to TXT via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOT to TXT FREE Converter or Java SDKdescription: Free Conversion of DOT to TXT by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

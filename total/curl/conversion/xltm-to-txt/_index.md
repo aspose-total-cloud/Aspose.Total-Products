@@ -1,0 +1,1 @@
+---title: Convert Excel to TXT, XLTM to TXT FREE Converter or Curl SDKdescription: Free Conversion of XLTM to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

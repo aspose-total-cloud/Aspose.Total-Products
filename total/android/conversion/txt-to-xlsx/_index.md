@@ -1,1 +1,1 @@
----title: Convert TXT to XLSX via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, TXT to XLSX FREE Converter or Android SDKdescription: Free Conversion of TXT to XLSX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to JSON, DOC to JSON FREE Converter or Curl SDKdescription: Free Conversion of DOC to JSON by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

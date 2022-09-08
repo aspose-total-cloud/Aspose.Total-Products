@@ -1,0 +1,1 @@
+---title: Convert Excel to SVG, XLTM to SVG FREE Converter or CPP SDKdescription: Free Conversion of XLTM to SVG by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

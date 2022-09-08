@@ -1,0 +1,1 @@
+---title: Convert Excel to XLT, XLTM to XLT FREE Converter or PHP SDKdescription: Free Conversion of XLTM to XLT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

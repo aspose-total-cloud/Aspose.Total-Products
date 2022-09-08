@@ -1,0 +1,1 @@
+---title: Convert Word to RTF, TXT to RTF FREE Converter or Curl SDKdescription: Free Conversion of TXT to RTF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert CHM to HTML via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, CHM to HTML FREE Converter or Android SDKdescription: Free Conversion of CHM to HTML by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

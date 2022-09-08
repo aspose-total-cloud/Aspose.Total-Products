@@ -1,1 +1,1 @@
----title: Convert CHM to MD via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, CHM to MD FREE Converter or Net SDKdescription: Free Conversion of CHM to MD by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

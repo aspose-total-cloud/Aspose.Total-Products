@@ -1,1 +1,1 @@
----title: Convert MOBI to NUMBERS via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, MOBI to NUMBERS FREE Converter or Ruby SDKdescription: Free Conversion of MOBI to NUMBERS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

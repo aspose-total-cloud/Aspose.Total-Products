@@ -1,0 +1,1 @@
+---title: Convert Word to TXT, CHM to TXT FREE Converter or Ruby SDKdescription: Free Conversion of CHM to TXT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

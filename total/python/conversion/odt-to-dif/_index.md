@@ -1,1 +1,1 @@
----title: Convert ODT to DIF via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, ODT to DIF FREE Converter or Python SDKdescription: Free Conversion of ODT to DIF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

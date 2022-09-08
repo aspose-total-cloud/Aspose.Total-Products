@@ -1,1 +1,1 @@
----title: Convert MD to SVG via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, MD to SVG FREE Converter or CPP SDKdescription: Free Conversion of MD to SVG by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

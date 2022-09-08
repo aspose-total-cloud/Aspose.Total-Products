@@ -1,1 +1,1 @@
----title: Convert DOT to HTML via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, DOT to HTML FREE Converter or Python SDKdescription: Free Conversion of DOT to HTML by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

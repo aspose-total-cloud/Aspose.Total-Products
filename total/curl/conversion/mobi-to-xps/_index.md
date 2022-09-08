@@ -1,1 +1,1 @@
----title: Convert MOBI to XPS via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, MOBI to XPS FREE Converter or Curl SDKdescription: Free Conversion of MOBI to XPS by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

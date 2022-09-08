@@ -1,1 +1,1 @@
----title: Convert RTF to FODS via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, RTF to FODS FREE Converter or Swift SDKdescription: Free Conversion of RTF to FODS by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

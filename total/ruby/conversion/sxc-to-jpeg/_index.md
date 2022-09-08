@@ -1,0 +1,1 @@
+---title: Convert Excel to JPEG, SXC to JPEG FREE Converter or Ruby SDKdescription: Free Conversion of SXC to JPEG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

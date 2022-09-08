@@ -1,1 +1,1 @@
----title: Convert DOCX to MD via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, DOCX to MD FREE Converter or Curl SDKdescription: Free Conversion of DOCX to MD by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

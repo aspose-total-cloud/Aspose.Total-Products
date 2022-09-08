@@ -1,1 +1,1 @@
----title: Convert ODT to TIFF via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, ODT to TIFF FREE Converter or GO SDKdescription: Free Conversion of ODT to TIFF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

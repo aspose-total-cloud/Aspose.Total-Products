@@ -1,1 +1,1 @@
----title: Convert DOTX to TXT via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOTX to TXT FREE Converter or Curl SDKdescription: Free Conversion of DOTX to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

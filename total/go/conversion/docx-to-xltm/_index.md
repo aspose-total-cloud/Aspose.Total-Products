@@ -1,1 +1,1 @@
----title: Convert DOCX to XLTM via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XLTM. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTM, DOCX to XLTM FREE Converter or GO SDKdescription: Free Conversion of DOCX to XLTM by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert RTF to ODS via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, RTF to ODS FREE Converter or PHP SDKdescription: Free Conversion of RTF to ODS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

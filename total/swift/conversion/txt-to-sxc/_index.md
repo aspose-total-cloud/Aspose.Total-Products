@@ -1,1 +1,1 @@
----title: Convert TXT to SXC via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, TXT to SXC FREE Converter or Swift SDKdescription: Free Conversion of TXT to SXC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

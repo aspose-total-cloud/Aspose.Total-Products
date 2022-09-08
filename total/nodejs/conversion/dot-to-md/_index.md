@@ -1,1 +1,1 @@
----title: Convert DOT to MD via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, DOT to MD FREE Converter or Nodejs SDKdescription: Free Conversion of DOT to MD by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

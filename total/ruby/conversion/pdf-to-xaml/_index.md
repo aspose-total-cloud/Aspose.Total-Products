@@ -1,0 +1,1 @@
+---title: Convert Word to XAML, PDF to XAML FREE Converter or Ruby SDKdescription: Free Conversion of PDF to XAML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

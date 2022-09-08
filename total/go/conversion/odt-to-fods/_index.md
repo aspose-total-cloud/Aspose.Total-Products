@@ -1,1 +1,1 @@
----title: Convert ODT to FODS via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to FODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, ODT to FODS FREE Converter or GO SDKdescription: Free Conversion of ODT to FODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOC to MHTML via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOC to MHTML FREE Converter or Java SDKdescription: Free Conversion of DOC to MHTML by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

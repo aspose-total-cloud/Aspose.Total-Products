@@ -1,1 +1,1 @@
----title: Convert TXT to XLTX via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, TXT to XLTX FREE Converter or CPP SDKdescription: Free Conversion of TXT to XLTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

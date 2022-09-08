@@ -1,1 +1,1 @@
----title: Convert DOCM to TIFF via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOCM to TIFF FREE Converter or Nodejs SDKdescription: Free Conversion of DOCM to TIFF by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

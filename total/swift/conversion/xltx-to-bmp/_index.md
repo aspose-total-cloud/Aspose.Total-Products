@@ -1,0 +1,1 @@
+---title: Convert Excel to BMP, XLTX to BMP FREE Converter or Swift SDKdescription: Free Conversion of XLTX to BMP by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

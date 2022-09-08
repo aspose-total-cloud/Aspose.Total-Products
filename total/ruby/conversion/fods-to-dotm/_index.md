@@ -1,0 +1,1 @@
+---title: Convert Excel to DOTM, FODS to DOTM FREE Converter or Ruby SDKdescription: Free Conversion of FODS to DOTM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

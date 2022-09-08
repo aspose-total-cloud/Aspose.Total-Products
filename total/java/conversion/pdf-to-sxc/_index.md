@@ -1,1 +1,1 @@
----title: Convert PDF to SXC via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, PDF to SXC FREE Converter or Java SDKdescription: Free Conversion of PDF to SXC by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

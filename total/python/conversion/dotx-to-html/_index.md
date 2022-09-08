@@ -1,1 +1,1 @@
----title: Convert DOTX to HTML via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, DOTX to HTML FREE Converter or Python SDKdescription: Free Conversion of DOTX to HTML by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

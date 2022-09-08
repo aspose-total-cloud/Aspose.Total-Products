@@ -1,1 +1,1 @@
----title: Convert DOCX to ODS via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, DOCX to ODS FREE Converter or GO SDKdescription: Free Conversion of DOCX to ODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

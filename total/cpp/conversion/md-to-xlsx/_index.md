@@ -1,1 +1,1 @@
----title: Convert MD to XLSX via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert MD to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, MD to XLSX FREE Converter or CPP SDKdescription: Free Conversion of MD to XLSX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

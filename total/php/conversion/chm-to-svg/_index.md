@@ -1,1 +1,1 @@
----title: Convert CHM to SVG via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, CHM to SVG FREE Converter or PHP SDKdescription: Free Conversion of CHM to SVG by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

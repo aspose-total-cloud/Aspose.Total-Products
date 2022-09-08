@@ -1,0 +1,1 @@
+---title: Convert Excel to DOT, XLSM to DOT FREE Converter or Ruby SDKdescription: Free Conversion of XLSM to DOT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

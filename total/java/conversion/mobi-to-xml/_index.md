@@ -1,1 +1,1 @@
----title: Convert MOBI to XML via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XML, MOBI to XML FREE Converter or Java SDKdescription: Free Conversion of MOBI to XML by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

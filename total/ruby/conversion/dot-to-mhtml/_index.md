@@ -1,1 +1,1 @@
----title: Convert DOT to MHTML via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOT to MHTML FREE Converter or Ruby SDKdescription: Free Conversion of DOT to MHTML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOTM to XLSB via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTM to XLSB. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSB, DOTM to XLSB FREE Converter or Ruby SDKdescription: Free Conversion of DOTM to XLSB by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

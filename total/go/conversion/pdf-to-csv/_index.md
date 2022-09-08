@@ -1,1 +1,1 @@
----title: Convert PDF to CSV via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, PDF to CSV FREE Converter or GO SDKdescription: Free Conversion of PDF to CSV by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MOBI to MD via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, MOBI to MD FREE Converter or Swift SDKdescription: Free Conversion of MOBI to MD by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

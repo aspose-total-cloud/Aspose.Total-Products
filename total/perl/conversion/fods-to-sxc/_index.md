@@ -1,0 +1,1 @@
+---title: Convert Excel to SXC, FODS to SXC FREE Converter or Perl SDKdescription: Free Conversion of FODS to SXC by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to RTF, XLTM to RTF FREE Converter or Swift SDKdescription: Free Conversion of XLTM to RTF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

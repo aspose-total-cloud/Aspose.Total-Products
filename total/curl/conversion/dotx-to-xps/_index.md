@@ -1,1 +1,1 @@
----title: Convert DOTX to XPS via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, DOTX to XPS FREE Converter or Curl SDKdescription: Free Conversion of DOTX to XPS by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

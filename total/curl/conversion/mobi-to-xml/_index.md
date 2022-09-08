@@ -1,1 +1,1 @@
----title: Convert MOBI to XML via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XML, MOBI to XML FREE Converter or Curl SDKdescription: Free Conversion of MOBI to XML by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

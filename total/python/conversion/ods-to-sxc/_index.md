@@ -1,0 +1,1 @@
+---title: Convert Excel to SXC, ODS to SXC FREE Converter or Python SDKdescription: Free Conversion of ODS to SXC by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

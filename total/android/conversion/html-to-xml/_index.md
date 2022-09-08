@@ -1,0 +1,1 @@
+---title: Convert Word to XML, HTML to XML FREE Converter or Android SDKdescription: Free Conversion of HTML to XML by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

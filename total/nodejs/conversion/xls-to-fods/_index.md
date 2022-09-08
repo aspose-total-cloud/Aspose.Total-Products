@@ -1,0 +1,1 @@
+---title: Convert Excel to FODS, XLS to FODS FREE Converter or Nodejs SDKdescription: Free Conversion of XLS to FODS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

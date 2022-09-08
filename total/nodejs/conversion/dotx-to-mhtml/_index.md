@@ -1,1 +1,1 @@
----title: Convert DOTX to MHTML via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOTX to MHTML FREE Converter or Nodejs SDKdescription: Free Conversion of DOTX to MHTML by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

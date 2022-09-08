@@ -1,1 +1,1 @@
----title: Convert DOT to XLSB via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to XLSB. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSB, DOT to XLSB FREE Converter or Android SDKdescription: Free Conversion of DOT to XLSB by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

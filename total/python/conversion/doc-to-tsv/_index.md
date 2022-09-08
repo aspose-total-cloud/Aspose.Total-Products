@@ -1,1 +1,1 @@
----title: Convert DOC to TSV via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to TSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TSV, DOC to TSV FREE Converter or Python SDKdescription: Free Conversion of DOC to TSV by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

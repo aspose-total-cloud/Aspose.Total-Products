@@ -1,1 +1,1 @@
----title: Convert TXT to SVG via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, TXT to SVG FREE Converter or Curl SDKdescription: Free Conversion of TXT to SVG by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

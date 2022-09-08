@@ -1,0 +1,1 @@
+---title: Convert Word to XLAM, RTF to XLAM FREE Converter or Android SDKdescription: Free Conversion of RTF to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

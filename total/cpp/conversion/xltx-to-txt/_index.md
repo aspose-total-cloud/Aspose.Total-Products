@@ -1,0 +1,1 @@
+---title: Convert Excel to TXT, XLTX to TXT FREE Converter or CPP SDKdescription: Free Conversion of XLTX to TXT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

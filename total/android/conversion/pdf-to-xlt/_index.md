@@ -1,1 +1,1 @@
----title: Convert PDF to XLT via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert PDF to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, PDF to XLT FREE Converter or Android SDKdescription: Free Conversion of PDF to XLT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

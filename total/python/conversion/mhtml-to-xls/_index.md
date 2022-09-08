@@ -1,1 +1,1 @@
----title: Convert MHTML to XLS via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, MHTML to XLS FREE Converter or Python SDKdescription: Free Conversion of MHTML to XLS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to XLTX, FODS to XLTX FREE Converter or Android SDKdescription: Free Conversion of FODS to XLTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

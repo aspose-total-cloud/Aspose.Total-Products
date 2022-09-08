@@ -1,0 +1,1 @@
+---title: Convert Word to DOC, DOT to DOC FREE Converter or PHP SDKdescription: Free Conversion of DOT to DOC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

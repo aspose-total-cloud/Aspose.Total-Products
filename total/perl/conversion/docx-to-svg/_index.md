@@ -1,1 +1,1 @@
----title: Convert DOCX to SVG via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOCX to SVG FREE Converter or Perl SDKdescription: Free Conversion of DOCX to SVG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

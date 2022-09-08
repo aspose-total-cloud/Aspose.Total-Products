@@ -1,0 +1,1 @@
+---title: Convert Word to GIF, DOT to GIF FREE Converter or Perl SDKdescription: Free Conversion of DOT to GIF by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

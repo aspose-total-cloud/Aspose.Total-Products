@@ -1,1 +1,1 @@
----title: Convert HTML to TSV via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to TSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TSV, HTML to TSV FREE Converter or Python SDKdescription: Free Conversion of HTML to TSV by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

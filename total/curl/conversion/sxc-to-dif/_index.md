@@ -1,0 +1,1 @@
+---title: Convert Excel to DIF, SXC to DIF FREE Converter or Curl SDKdescription: Free Conversion of SXC to DIF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

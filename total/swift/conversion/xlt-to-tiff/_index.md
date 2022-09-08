@@ -1,0 +1,1 @@
+---title: Convert Excel to TIFF, XLT to TIFF FREE Converter or Swift SDKdescription: Free Conversion of XLT to TIFF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

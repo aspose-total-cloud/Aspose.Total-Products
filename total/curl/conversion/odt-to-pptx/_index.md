@@ -1,0 +1,1 @@
+---title: Convert Word to PPTX, ODT to PPTX FREE Converter or Curl SDKdescription: Free Conversion of ODT to PPTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

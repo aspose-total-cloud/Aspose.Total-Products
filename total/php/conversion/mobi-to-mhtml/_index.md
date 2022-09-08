@@ -1,1 +1,1 @@
----title: Convert MOBI to MHTML via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to MHTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, MOBI to MHTML FREE Converter or PHP SDKdescription: Free Conversion of MOBI to MHTML by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

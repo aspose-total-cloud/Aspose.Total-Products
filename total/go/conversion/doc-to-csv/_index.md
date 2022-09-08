@@ -1,1 +1,1 @@
----title: Convert DOC to CSV via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, DOC to CSV FREE Converter or GO SDKdescription: Free Conversion of DOC to CSV by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

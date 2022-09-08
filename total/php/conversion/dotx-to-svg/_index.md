@@ -1,1 +1,1 @@
----title: Convert DOTX to SVG via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOTX to SVG FREE Converter or PHP SDKdescription: Free Conversion of DOTX to SVG by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

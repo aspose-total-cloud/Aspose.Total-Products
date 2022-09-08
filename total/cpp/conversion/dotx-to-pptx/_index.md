@@ -1,0 +1,1 @@
+---title: Convert Word to PPTX, DOTX to PPTX FREE Converter or CPP SDKdescription: Free Conversion of DOTX to PPTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

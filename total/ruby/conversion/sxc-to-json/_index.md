@@ -1,0 +1,1 @@
+---title: Convert Excel to JSON, SXC to JSON FREE Converter or Ruby SDKdescription: Free Conversion of SXC to JSON by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

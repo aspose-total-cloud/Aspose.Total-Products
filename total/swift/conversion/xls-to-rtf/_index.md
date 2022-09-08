@@ -1,0 +1,1 @@
+---title: Convert Excel to RTF, XLS to RTF FREE Converter or Swift SDKdescription: Free Conversion of XLS to RTF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

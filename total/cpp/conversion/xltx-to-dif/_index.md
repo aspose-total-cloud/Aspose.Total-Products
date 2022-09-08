@@ -1,0 +1,1 @@
+---title: Convert Excel to DIF, XLTX to DIF FREE Converter or CPP SDKdescription: Free Conversion of XLTX to DIF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

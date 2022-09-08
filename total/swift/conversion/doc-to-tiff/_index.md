@@ -1,1 +1,1 @@
----title: Convert DOC to TIFF via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOC to TIFF FREE Converter or Swift SDKdescription: Free Conversion of DOC to TIFF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

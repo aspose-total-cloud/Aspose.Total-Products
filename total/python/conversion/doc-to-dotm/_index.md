@@ -1,0 +1,1 @@
+---title: Convert Word to DOTM, DOC to DOTM FREE Converter or Python SDKdescription: Free Conversion of DOC to DOTM by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

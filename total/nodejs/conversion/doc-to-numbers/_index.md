@@ -1,1 +1,1 @@
----title: Convert DOC to NUMBERS via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, DOC to NUMBERS FREE Converter or Nodejs SDKdescription: Free Conversion of DOC to NUMBERS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

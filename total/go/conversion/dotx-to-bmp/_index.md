@@ -1,0 +1,1 @@
+---title: Convert Word to BMP, DOTX to BMP FREE Converter or GO SDKdescription: Free Conversion of DOTX to BMP by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

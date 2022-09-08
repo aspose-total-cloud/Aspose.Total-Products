@@ -1,1 +1,1 @@
----title: Convert DOC to XLTX via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLTX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, DOC to XLTX FREE Converter or Android SDKdescription: Free Conversion of DOC to XLTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

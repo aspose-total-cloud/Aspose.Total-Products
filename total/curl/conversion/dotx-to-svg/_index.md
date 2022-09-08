@@ -1,1 +1,1 @@
----title: Convert DOTX to SVG via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOTX to SVG FREE Converter or Curl SDKdescription: Free Conversion of DOTX to SVG by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

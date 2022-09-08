@@ -1,1 +1,1 @@
----title: Convert DOT to XLS via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, DOT to XLS FREE Converter or Android SDKdescription: Free Conversion of DOT to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

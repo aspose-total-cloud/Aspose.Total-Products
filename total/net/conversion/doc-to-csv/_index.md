@@ -1,1 +1,1 @@
----title: Convert DOC to CSV via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to CSV. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, DOC to CSV FREE Converter or Net SDKdescription: Free Conversion of DOC to CSV by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert MOBI to SVG via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, MOBI to SVG FREE Converter or Curl SDKdescription: Free Conversion of MOBI to SVG by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

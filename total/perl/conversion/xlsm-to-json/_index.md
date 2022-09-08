@@ -1,0 +1,1 @@
+---title: Convert Excel to JSON, XLSM to JSON FREE Converter or Perl SDKdescription: Free Conversion of XLSM to JSON by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

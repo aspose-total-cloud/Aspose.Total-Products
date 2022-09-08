@@ -1,1 +1,1 @@
----title: Convert DOTX to DIF via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to DIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, DOTX to DIF FREE Converter or Curl SDKdescription: Free Conversion of DOTX to DIF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to GIF, TXT to GIF FREE Converter or CPP SDKdescription: Free Conversion of TXT to GIF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

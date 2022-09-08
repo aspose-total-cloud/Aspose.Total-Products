@@ -1,1 +1,1 @@
----title: Convert TXT to XLS via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, TXT to XLS FREE Converter or GO SDKdescription: Free Conversion of TXT to XLS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

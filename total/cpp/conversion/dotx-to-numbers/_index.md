@@ -1,1 +1,1 @@
----title: Convert DOTX to NUMBERS via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOTX to NUMBERS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, DOTX to NUMBERS FREE Converter or CPP SDKdescription: Free Conversion of DOTX to NUMBERS by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

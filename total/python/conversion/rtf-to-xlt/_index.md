@@ -1,1 +1,1 @@
----title: Convert RTF to XLT via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert RTF to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, RTF to XLT FREE Converter or Python SDKdescription: Free Conversion of RTF to XLT by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

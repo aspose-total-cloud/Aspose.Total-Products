@@ -1,1 +1,1 @@
----title: Convert TXT to TIFF via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert TXT to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, TXT to TIFF FREE Converter or Nodejs SDKdescription: Free Conversion of TXT to TIFF by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

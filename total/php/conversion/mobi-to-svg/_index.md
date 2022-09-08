@@ -1,1 +1,1 @@
----title: Convert MOBI to SVG via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, MOBI to SVG FREE Converter or PHP SDKdescription: Free Conversion of MOBI to SVG by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

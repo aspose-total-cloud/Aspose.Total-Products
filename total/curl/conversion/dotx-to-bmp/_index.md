@@ -1,0 +1,1 @@
+---title: Convert Word to BMP, DOTX to BMP FREE Converter or Curl SDKdescription: Free Conversion of DOTX to BMP by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

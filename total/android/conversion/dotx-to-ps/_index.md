@@ -1,0 +1,1 @@
+---title: Convert Word to PS, DOTX to PS FREE Converter or Android SDKdescription: Free Conversion of DOTX to PS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

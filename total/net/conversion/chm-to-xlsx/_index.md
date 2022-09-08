@@ -1,1 +1,1 @@
----title: Convert CHM to XLSX via Net SDK in Clouddescription: Cloud APIs & SDKs to Convert CHM to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, CHM to XLSX FREE Converter or Net SDKdescription: Free Conversion of CHM to XLSX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

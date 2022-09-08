@@ -1,0 +1,1 @@
+---title: Convert Word to GIF, DOCX to GIF FREE Converter or Ruby SDKdescription: Free Conversion of DOCX to GIF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

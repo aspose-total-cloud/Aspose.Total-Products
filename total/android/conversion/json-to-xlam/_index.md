@@ -1,0 +1,1 @@
+---title: Convert Excel to XLAM, JSON to XLAM FREE Converter or Android SDKdescription: Free Conversion of JSON to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

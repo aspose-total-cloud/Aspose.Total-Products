@@ -1,1 +1,1 @@
----title: Convert DOCM to XLSX via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to XLSX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, DOCM to XLSX FREE Converter or Java SDKdescription: Free Conversion of DOCM to XLSX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to DOC, XLSX to DOC FREE Converter or Nodejs SDKdescription: Free Conversion of XLSX to DOC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

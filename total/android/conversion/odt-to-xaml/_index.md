@@ -1,0 +1,1 @@
+---title: Convert Word to XAML, ODT to XAML FREE Converter or Android SDKdescription: Free Conversion of ODT to XAML by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to XLAM, DOC to XLAM FREE Converter or Python SDKdescription: Free Conversion of DOC to XLAM by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

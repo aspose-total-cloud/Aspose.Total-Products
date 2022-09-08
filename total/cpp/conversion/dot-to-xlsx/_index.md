@@ -1,0 +1,1 @@
+---title: Convert Word to XLSX, DOT to XLSX FREE Converter or CPP SDKdescription: Free Conversion of DOT to XLSX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

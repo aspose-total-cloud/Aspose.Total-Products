@@ -1,1 +1,1 @@
----title: Convert DOT to ODS via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, DOT to ODS FREE Converter or GO SDKdescription: Free Conversion of DOT to ODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

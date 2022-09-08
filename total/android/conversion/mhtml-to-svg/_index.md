@@ -1,1 +1,1 @@
----title: Convert MHTML to SVG via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert MHTML to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, MHTML to SVG FREE Converter or Android SDKdescription: Free Conversion of MHTML to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

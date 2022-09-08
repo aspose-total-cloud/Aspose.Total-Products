@@ -1,1 +1,1 @@
----title: Convert DOCM to TXT via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to TXT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOCM to TXT FREE Converter or GO SDKdescription: Free Conversion of DOCM to TXT by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

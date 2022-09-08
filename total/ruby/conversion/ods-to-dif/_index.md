@@ -1,0 +1,1 @@
+---title: Convert Excel to DIF, ODS to DIF FREE Converter or Ruby SDKdescription: Free Conversion of ODS to DIF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOCM to XLS via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCM to XLS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, DOCM to XLS FREE Converter or CPP SDKdescription: Free Conversion of DOCM to XLS by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

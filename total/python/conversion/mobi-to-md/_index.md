@@ -1,1 +1,1 @@
----title: Convert MOBI to MD via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, MOBI to MD FREE Converter or Python SDKdescription: Free Conversion of MOBI to MD by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert DOT to TIFF via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOT to TIFF FREE Converter or Swift SDKdescription: Free Conversion of DOT to TIFF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

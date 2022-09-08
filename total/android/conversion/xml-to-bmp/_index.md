@@ -1,0 +1,1 @@
+---title: Convert Excel to BMP, XML to BMP FREE Converter or Android SDKdescription: Free Conversion of XML to BMP by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

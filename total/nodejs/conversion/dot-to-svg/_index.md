@@ -1,1 +1,1 @@
----title: Convert DOT to SVG via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert DOT to SVG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOT to SVG FREE Converter or Nodejs SDKdescription: Free Conversion of DOT to SVG by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

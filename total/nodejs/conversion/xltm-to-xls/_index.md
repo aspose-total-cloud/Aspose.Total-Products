@@ -1,0 +1,1 @@
+---title: Convert Excel to XLS, XLTM to XLS FREE Converter or Nodejs SDKdescription: Free Conversion of XLTM to XLS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

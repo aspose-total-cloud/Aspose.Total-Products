@@ -1,1 +1,1 @@
----title: Convert MOBI to XLT via GO SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, MOBI to XLT FREE Converter or GO SDKdescription: Free Conversion of MOBI to XLT by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

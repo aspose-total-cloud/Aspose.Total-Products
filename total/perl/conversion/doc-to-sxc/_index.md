@@ -1,1 +1,1 @@
----title: Convert DOC to SXC via Perl SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOC to SXC FREE Converter or Perl SDKdescription: Free Conversion of DOC to SXC by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

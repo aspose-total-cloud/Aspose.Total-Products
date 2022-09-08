@@ -1,1 +1,1 @@
----title: Convert DOC to PDF via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to PDF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PDF, DOC to PDF FREE Converter or Python SDKdescription: Free Conversion of DOC to PDF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

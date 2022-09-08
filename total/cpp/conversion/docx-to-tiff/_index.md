@@ -1,1 +1,1 @@
----title: Convert DOCX to TIFF via CPP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, DOCX to TIFF FREE Converter or CPP SDKdescription: Free Conversion of DOCX to TIFF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to DOCX, XLTM to DOCX FREE Converter or Ruby SDKdescription: Free Conversion of XLTM to DOCX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

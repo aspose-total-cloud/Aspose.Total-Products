@@ -1,1 +1,1 @@
----title: Convert DOCX to XPS via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, DOCX to XPS FREE Converter or PHP SDKdescription: Free Conversion of DOCX to XPS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

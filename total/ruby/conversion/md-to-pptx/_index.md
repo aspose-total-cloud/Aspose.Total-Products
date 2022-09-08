@@ -1,0 +1,1 @@
+---title: Convert Word to PPTX, MD to PPTX FREE Converter or Ruby SDKdescription: Free Conversion of MD to PPTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

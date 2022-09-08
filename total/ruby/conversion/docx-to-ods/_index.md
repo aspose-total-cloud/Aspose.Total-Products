@@ -1,1 +1,1 @@
----title: Convert DOCX to ODS via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert DOCX to ODS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, DOCX to ODS FREE Converter or Ruby SDKdescription: Free Conversion of DOCX to ODS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

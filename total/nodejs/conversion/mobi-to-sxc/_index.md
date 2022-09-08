@@ -1,1 +1,1 @@
----title: Convert MOBI to SXC via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert MOBI to SXC. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, MOBI to SXC FREE Converter or Nodejs SDKdescription: Free Conversion of MOBI to SXC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

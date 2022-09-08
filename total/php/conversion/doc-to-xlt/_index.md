@@ -1,1 +1,1 @@
----title: Convert DOC to XLT via PHP SDK in Clouddescription: Cloud APIs & SDKs to Convert DOC to XLT. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, DOC to XLT FREE Converter or PHP SDKdescription: Free Conversion of DOC to XLT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

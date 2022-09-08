@@ -1,1 +1,1 @@
----title: Convert ODT to MD via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert ODT to MD. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MD, ODT to MD FREE Converter or Java SDKdescription: Free Conversion of ODT to MD by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert HTML to TIFF via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, HTML to TIFF FREE Converter or Java SDKdescription: Free Conversion of HTML to TIFF by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

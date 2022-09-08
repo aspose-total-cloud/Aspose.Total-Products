@@ -1,0 +1,1 @@
+---title: Convert Excel to JSON, XLTM to JSON FREE Converter or Python SDKdescription: Free Conversion of XLTM to JSON by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

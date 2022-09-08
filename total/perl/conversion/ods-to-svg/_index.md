@@ -1,0 +1,1 @@
+---title: Convert Excel to SVG, ODS to SVG FREE Converter or Perl SDKdescription: Free Conversion of ODS to SVG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
