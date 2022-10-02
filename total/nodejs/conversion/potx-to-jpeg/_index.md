@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JPEG, POTX to JPEG FREE Converter or Nodejs SDKdescription: Free Conversion of POTX to JPEG by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

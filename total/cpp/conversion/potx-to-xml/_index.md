@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XML, POTX to XML FREE Converter or CPP SDKdescription: Free Conversion of POTX to XML by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

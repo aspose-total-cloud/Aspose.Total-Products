@@ -1,0 +1,1 @@
+---title: Convert Excel to POT, XLS to POT FREE Converter or Swift SDKdescription: Free Conversion of XLS to POT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

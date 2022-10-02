@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SVG, PPTM to SVG FREE Converter or Swift SDKdescription: Free Conversion of PPTM to SVG by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

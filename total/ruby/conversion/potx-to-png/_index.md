@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PNG, POTX to PNG FREE Converter or Ruby SDKdescription: Free Conversion of POTX to PNG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

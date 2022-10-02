@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to RTF, PPSX to RTF FREE Converter or Python SDKdescription: Free Conversion of PPSX to RTF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

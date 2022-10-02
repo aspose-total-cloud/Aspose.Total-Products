@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PS, PPSX to PS FREE Converter or PHP SDKdescription: Free Conversion of PPSX to PS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

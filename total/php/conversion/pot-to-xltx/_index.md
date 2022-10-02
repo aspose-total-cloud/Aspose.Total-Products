@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLTX, POT to XLTX FREE Converter or PHP SDKdescription: Free Conversion of POT to XLTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

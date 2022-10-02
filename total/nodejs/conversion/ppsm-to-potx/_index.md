@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POTX, PPSM to POTX FREE Converter or Nodejs SDKdescription: Free Conversion of PPSM to POTX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

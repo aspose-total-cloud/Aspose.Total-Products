@@ -1,0 +1,1 @@
+---title: Convert Excel to PPSX, XLSX to PPSX FREE Converter or Perl SDKdescription: Free Conversion of XLSX to PPSX by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

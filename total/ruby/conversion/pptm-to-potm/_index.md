@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POTM, PPTM to POTM FREE Converter or Ruby SDKdescription: Free Conversion of PPTM to POTM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

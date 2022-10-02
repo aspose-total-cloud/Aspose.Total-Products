@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POTX, PPSX to POTX FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to POTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to EPUB, PPTX to EPUB FREE Converter or Ruby SDKdescription: Free Conversion of PPTX to EPUB by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

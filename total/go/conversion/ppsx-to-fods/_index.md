@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to FODS, PPSX to FODS FREE Converter or GO SDKdescription: Free Conversion of PPSX to FODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

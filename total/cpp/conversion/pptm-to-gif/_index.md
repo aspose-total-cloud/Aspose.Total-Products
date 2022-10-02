@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to GIF, PPTM to GIF FREE Converter or CPP SDKdescription: Free Conversion of PPTM to GIF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PNG, PPTX to PNG FREE Converter or Android SDKdescription: Free Conversion of PPTX to PNG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

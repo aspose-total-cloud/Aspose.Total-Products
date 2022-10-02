@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PPSM, POTX to PPSM FREE Converter or Android SDKdescription: Free Conversion of POTX to PPSM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

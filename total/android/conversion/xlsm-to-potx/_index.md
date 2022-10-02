@@ -1,0 +1,1 @@
+---title: Convert Excel to POTX, XLSM to POTX FREE Converter or Android SDKdescription: Free Conversion of XLSM to POTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

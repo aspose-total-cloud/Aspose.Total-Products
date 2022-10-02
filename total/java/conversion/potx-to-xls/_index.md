@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLS, POTX to XLS FREE Converter or Java SDKdescription: Free Conversion of POTX to XLS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

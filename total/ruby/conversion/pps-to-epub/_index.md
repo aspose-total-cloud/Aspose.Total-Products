@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to EPUB, PPS to EPUB FREE Converter or Ruby SDKdescription: Free Conversion of PPS to EPUB by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

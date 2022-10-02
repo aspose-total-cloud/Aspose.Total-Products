@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLAM, POTX to XLAM FREE Converter or Android SDKdescription: Free Conversion of POTX to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

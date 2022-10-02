@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOT, PPSM to DOT FREE Converter or Python SDKdescription: Free Conversion of PPSM to DOT by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

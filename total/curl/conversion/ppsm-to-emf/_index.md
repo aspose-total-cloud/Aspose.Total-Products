@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to EMF, PPSM to EMF FREE Converter or Curl SDKdescription: Free Conversion of PPSM to EMF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

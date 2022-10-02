@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOCX, POT to DOCX FREE Converter or Curl SDKdescription: Free Conversion of POT to DOCX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

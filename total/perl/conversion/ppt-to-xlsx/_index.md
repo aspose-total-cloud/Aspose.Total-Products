@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSX, PPT to XLSX FREE Converter or Perl SDKdescription: Free Conversion of PPT to XLSX by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

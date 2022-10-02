@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to ODT, PPSM to ODT FREE Converter or Ruby SDKdescription: Free Conversion of PPSM to ODT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

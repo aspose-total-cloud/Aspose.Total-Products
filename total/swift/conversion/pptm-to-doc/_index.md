@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, PPTM to DOC FREE Converter or Swift SDKdescription: Free Conversion of PPTM to DOC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

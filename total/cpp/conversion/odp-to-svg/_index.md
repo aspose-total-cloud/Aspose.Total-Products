@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SVG, ODP to SVG FREE Converter or CPP SDKdescription: Free Conversion of ODP to SVG by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

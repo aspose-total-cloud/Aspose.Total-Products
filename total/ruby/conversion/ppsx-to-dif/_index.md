@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DIF, PPSX to DIF FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to DIF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

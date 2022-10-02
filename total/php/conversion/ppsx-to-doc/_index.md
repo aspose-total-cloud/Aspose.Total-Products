@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, PPSX to DOC FREE Converter or PHP SDKdescription: Free Conversion of PPSX to DOC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

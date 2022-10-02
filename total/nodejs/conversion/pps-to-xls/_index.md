@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLS, PPS to XLS FREE Converter or Nodejs SDKdescription: Free Conversion of PPS to XLS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to PPSX, TXT to PPSX FREE Converter or Python SDKdescription: Free Conversion of TXT to PPSX by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

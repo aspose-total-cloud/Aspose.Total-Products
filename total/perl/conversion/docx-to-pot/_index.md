@@ -1,0 +1,1 @@
+---title: Convert Word to POT, DOCX to POT FREE Converter or Perl SDKdescription: Free Conversion of DOCX to POT by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

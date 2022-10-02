@@ -1,0 +1,1 @@
+---title: Convert Excel to POTM, XLT to POTM FREE Converter or Ruby SDKdescription: Free Conversion of XLT to POTM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

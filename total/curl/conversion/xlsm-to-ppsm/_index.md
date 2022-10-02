@@ -1,0 +1,1 @@
+---title: Convert Excel to PPSM, XLSM to PPSM FREE Converter or Curl SDKdescription: Free Conversion of XLSM to PPSM by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

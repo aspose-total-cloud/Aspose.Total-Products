@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, PPSX to DOC FREE Converter or Net SDKdescription: Free Conversion of PPSX to DOC by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

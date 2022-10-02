@@ -1,0 +1,1 @@
+---title: Convert Word to PPSX, RTF to PPSX FREE Converter or Ruby SDKdescription: Free Conversion of RTF to PPSX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

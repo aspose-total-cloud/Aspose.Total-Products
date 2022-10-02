@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, ODP to DOC FREE Converter or Ruby SDKdescription: Free Conversion of ODP to DOC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

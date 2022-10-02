@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PS, POT to PS FREE Converter or Ruby SDKdescription: Free Conversion of POT to PS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

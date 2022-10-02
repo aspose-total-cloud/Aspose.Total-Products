@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to GIF, PPSX to GIF FREE Converter or CPP SDKdescription: Free Conversion of PPSX to GIF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

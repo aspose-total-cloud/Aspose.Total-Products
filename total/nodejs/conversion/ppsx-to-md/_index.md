@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to MD, PPSX to MD FREE Converter or Nodejs SDKdescription: Free Conversion of PPSX to MD by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to POTM, XLSX to POTM FREE Converter or Android SDKdescription: Free Conversion of XLSX to POTM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

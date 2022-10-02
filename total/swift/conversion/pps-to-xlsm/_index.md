@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSM, PPS to XLSM FREE Converter or Swift SDKdescription: Free Conversion of PPS to XLSM by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

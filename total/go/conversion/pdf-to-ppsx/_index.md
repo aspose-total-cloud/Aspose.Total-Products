@@ -1,0 +1,1 @@
+---title: Convert Word to PPSX, PDF to PPSX FREE Converter or GO SDKdescription: Free Conversion of PDF to PPSX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

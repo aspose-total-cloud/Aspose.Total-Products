@@ -1,0 +1,1 @@
+---title: Convert Word to POTM, DOT to POTM FREE Converter or GO SDKdescription: Free Conversion of DOT to POTM by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to CSV, POTX to CSV FREE Converter or Nodejs SDKdescription: Free Conversion of POTX to CSV by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

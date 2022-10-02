@@ -1,0 +1,1 @@
+---title: Convert Excel to POTM, XLSM to POTM FREE Converter or Swift SDKdescription: Free Conversion of XLSM to POTM by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

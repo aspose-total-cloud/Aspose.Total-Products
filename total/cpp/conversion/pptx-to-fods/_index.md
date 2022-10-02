@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to FODS, PPTX to FODS FREE Converter or CPP SDKdescription: Free Conversion of PPTX to FODS by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

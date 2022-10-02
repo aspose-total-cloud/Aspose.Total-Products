@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POT, PPSM to POT FREE Converter or Curl SDKdescription: Free Conversion of PPSM to POT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

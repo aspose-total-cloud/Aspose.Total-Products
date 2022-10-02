@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOT, PPTX to DOT FREE Converter or PHP SDKdescription: Free Conversion of PPTX to DOT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

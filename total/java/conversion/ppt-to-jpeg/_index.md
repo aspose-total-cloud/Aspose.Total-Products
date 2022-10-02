@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JPEG, PPT to JPEG FREE Converter or Java SDKdescription: Free Conversion of PPT to JPEG by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

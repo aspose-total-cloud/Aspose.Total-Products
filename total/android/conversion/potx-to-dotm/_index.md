@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOTM, POTX to DOTM FREE Converter or Android SDKdescription: Free Conversion of POTX to DOTM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

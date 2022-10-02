@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to FODS, PPSM to FODS FREE Converter or Curl SDKdescription: Free Conversion of PPSM to FODS by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

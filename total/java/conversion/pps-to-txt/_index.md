@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TXT, PPS to TXT FREE Converter or Java SDKdescription: Free Conversion of PPS to TXT by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

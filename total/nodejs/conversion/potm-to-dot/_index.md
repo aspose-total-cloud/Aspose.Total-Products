@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOT, POTM to DOT FREE Converter or Nodejs SDKdescription: Free Conversion of POTM to DOT by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

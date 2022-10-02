@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TIFF, PPSX to TIFF FREE Converter or Curl SDKdescription: Free Conversion of PPSX to TIFF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOCX, POTM to DOCX FREE Converter or PHP SDKdescription: Free Conversion of POTM to DOCX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

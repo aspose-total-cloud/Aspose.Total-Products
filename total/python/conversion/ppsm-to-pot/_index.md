@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POT, PPSM to POT FREE Converter or Python SDKdescription: Free Conversion of PPSM to POT by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

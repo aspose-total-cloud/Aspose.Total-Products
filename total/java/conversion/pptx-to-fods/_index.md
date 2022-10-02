@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to FODS, PPTX to FODS FREE Converter or Java SDKdescription: Free Conversion of PPTX to FODS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

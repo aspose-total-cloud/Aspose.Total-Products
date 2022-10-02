@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOTX, POTX to DOTX FREE Converter or Ruby SDKdescription: Free Conversion of POTX to DOTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

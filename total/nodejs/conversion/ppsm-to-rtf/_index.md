@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to RTF, PPSM to RTF FREE Converter or Nodejs SDKdescription: Free Conversion of PPSM to RTF by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

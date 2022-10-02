@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLAM, PPTX to XLAM FREE Converter or PHP SDKdescription: Free Conversion of PPTX to XLAM by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

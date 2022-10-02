@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SVG, POTM to SVG FREE Converter or Android SDKdescription: Free Conversion of POTM to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

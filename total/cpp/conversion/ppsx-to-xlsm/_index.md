@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSM, PPSX to XLSM FREE Converter or CPP SDKdescription: Free Conversion of PPSX to XLSM by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

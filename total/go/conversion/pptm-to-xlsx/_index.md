@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSX, PPTM to XLSX FREE Converter or GO SDKdescription: Free Conversion of PPTM to XLSX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

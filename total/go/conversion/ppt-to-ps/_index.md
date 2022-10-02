@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PS, PPT to PS FREE Converter or GO SDKdescription: Free Conversion of PPT to PS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

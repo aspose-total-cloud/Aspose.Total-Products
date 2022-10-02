@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SVG, PPT to SVG FREE Converter or Curl SDKdescription: Free Conversion of PPT to SVG by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

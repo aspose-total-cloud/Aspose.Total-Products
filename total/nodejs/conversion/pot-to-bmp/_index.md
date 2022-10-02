@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to BMP, POT to BMP FREE Converter or Nodejs SDKdescription: Free Conversion of POT to BMP by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

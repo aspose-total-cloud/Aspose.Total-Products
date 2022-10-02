@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SXC, PPTX to SXC FREE Converter or PHP SDKdescription: Free Conversion of PPTX to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

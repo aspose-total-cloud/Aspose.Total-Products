@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to MD, POTX to MD FREE Converter or Python SDKdescription: Free Conversion of POTX to MD by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

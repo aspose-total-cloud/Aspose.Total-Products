@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to BMP, PPS to BMP FREE Converter or Perl SDKdescription: Free Conversion of PPS to BMP by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

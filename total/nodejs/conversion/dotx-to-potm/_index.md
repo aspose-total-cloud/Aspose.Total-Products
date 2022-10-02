@@ -1,0 +1,1 @@
+---title: Convert Word to POTM, DOTX to POTM FREE Converter or Nodejs SDKdescription: Free Conversion of DOTX to POTM by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

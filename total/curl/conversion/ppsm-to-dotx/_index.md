@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOTX, PPSM to DOTX FREE Converter or Curl SDKdescription: Free Conversion of PPSM to DOTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

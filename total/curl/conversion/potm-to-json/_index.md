@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JSON, POTM to JSON FREE Converter or Curl SDKdescription: Free Conversion of POTM to JSON by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

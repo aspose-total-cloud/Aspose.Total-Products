@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POTX, PPTM to POTX FREE Converter or Curl SDKdescription: Free Conversion of PPTM to POTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

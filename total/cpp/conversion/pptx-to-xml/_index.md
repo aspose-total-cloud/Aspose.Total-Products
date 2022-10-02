@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XML, PPTX to XML FREE Converter or CPP SDKdescription: Free Conversion of PPTX to XML by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

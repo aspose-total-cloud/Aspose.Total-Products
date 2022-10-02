@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, POTM to DOC FREE Converter or Ruby SDKdescription: Free Conversion of POTM to DOC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

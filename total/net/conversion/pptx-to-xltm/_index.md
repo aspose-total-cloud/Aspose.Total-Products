@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLTM, PPTX to XLTM FREE Converter or Net SDKdescription: Free Conversion of PPTX to XLTM by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

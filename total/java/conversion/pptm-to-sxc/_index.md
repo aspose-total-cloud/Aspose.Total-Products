@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SXC, PPTM to SXC FREE Converter or Java SDKdescription: Free Conversion of PPTM to SXC by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

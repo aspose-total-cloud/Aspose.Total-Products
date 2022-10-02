@@ -1,0 +1,1 @@
+---title: Convert Excel to PPSX, XLSB to PPSX FREE Converter or CPP SDKdescription: Free Conversion of XLSB to PPSX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Excel to PPSX, XLSM to PPSX FREE Converter or GO SDKdescription: Free Conversion of XLSM to PPSX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

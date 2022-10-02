@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to CSV, POT to CSV FREE Converter or Ruby SDKdescription: Free Conversion of POT to CSV by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

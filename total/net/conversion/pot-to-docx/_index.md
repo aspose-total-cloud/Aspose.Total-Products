@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOCX, POT to DOCX FREE Converter or Net SDKdescription: Free Conversion of POT to DOCX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

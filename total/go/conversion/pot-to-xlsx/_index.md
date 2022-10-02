@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSX, POT to XLSX FREE Converter or GO SDKdescription: Free Conversion of POT to XLSX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

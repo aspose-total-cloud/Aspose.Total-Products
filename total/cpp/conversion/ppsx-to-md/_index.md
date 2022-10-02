@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to MD, PPSX to MD FREE Converter or CPP SDKdescription: Free Conversion of PPSX to MD by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

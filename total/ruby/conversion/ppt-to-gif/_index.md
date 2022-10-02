@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to GIF, PPT to GIF FREE Converter or Ruby SDKdescription: Free Conversion of PPT to GIF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

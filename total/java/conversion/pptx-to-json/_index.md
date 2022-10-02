@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JSON, PPTX to JSON FREE Converter or Java SDKdescription: Free Conversion of PPTX to JSON by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

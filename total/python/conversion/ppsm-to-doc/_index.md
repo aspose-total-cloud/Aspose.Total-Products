@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, PPSM to DOC FREE Converter or Python SDKdescription: Free Conversion of PPSM to DOC by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

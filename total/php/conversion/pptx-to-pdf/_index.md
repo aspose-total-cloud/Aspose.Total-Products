@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PDF, PPTX to PDF FREE Converter or PHP SDKdescription: Free Conversion of PPTX to PDF by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

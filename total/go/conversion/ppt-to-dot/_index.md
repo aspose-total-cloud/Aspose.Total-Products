@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOT, PPT to DOT FREE Converter or GO SDKdescription: Free Conversion of PPT to DOT by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

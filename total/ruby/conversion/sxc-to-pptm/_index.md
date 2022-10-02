@@ -1,0 +1,1 @@
+---title: Convert Excel to PPTM, SXC to PPTM FREE Converter or Ruby SDKdescription: Free Conversion of SXC to PPTM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

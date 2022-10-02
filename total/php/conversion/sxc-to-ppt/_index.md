@@ -1,0 +1,1 @@
+---title: Convert Excel to PPT, SXC to PPT FREE Converter or PHP SDKdescription: Free Conversion of SXC to PPT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

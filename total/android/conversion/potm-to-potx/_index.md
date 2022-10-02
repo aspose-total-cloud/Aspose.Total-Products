@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POTX, POTM to POTX FREE Converter or Android SDKdescription: Free Conversion of POTM to POTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

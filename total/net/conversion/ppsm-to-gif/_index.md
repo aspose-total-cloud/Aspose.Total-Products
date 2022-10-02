@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to GIF, PPSM to GIF FREE Converter or Net SDKdescription: Free Conversion of PPSM to GIF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to PPS, TXT to PPS FREE Converter or Ruby SDKdescription: Free Conversion of TXT to PPS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to BMP, PPTX to BMP FREE Converter or Curl SDKdescription: Free Conversion of PPTX to BMP by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

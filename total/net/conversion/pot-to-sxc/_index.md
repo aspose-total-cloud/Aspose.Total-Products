@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SXC, POT to SXC FREE Converter or Net SDKdescription: Free Conversion of POT to SXC by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

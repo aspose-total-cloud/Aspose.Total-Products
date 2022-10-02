@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to MD, POTX to MD FREE Converter or Nodejs SDKdescription: Free Conversion of POTX to MD by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

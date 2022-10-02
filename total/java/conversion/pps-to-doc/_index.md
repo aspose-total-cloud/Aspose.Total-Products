@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, PPS to DOC FREE Converter or Java SDKdescription: Free Conversion of PPS to DOC by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

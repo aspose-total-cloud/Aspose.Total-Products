@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to BMP, POTM to BMP FREE Converter or Android SDKdescription: Free Conversion of POTM to BMP by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

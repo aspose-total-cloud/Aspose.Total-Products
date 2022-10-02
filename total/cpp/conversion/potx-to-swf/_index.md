@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SWF, POTX to SWF FREE Converter or CPP SDKdescription: Free Conversion of POTX to SWF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

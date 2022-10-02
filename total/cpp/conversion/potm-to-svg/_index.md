@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to SVG, POTM to SVG FREE Converter or CPP SDKdescription: Free Conversion of POTM to SVG by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

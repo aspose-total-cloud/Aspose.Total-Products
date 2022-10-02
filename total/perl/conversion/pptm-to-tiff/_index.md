@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TIFF, PPTM to TIFF FREE Converter or Perl SDKdescription: Free Conversion of PPTM to TIFF by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

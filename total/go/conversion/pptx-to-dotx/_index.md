@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOTX, PPTX to DOTX FREE Converter or GO SDKdescription: Free Conversion of PPTX to DOTX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

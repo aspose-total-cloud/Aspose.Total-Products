@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TIFF, POT to TIFF FREE Converter or Android SDKdescription: Free Conversion of POT to TIFF by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

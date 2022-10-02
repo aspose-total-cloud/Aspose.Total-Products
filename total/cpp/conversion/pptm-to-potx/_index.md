@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POTX, PPTM to POTX FREE Converter or CPP SDKdescription: Free Conversion of PPTM to POTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

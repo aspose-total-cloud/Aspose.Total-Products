@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JPEG, PPTX to JPEG FREE Converter or Nodejs SDKdescription: Free Conversion of PPTX to JPEG by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

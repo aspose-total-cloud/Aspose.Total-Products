@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JSON, PPT to JSON FREE Converter or PHP SDKdescription: Free Conversion of PPT to JSON by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

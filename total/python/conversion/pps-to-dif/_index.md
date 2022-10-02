@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DIF, PPS to DIF FREE Converter or Python SDKdescription: Free Conversion of PPS to DIF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

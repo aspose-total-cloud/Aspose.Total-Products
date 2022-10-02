@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOC, POTM to DOC FREE Converter or Perl SDKdescription: Free Conversion of POTM to DOC by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

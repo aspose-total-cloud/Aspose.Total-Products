@@ -1,0 +1,1 @@
+---title: Convert Word to POTX, RTF to POTX FREE Converter or CPP SDKdescription: Free Conversion of RTF to POTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

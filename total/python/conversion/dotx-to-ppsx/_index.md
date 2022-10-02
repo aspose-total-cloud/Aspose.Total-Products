@@ -1,0 +1,1 @@
+---title: Convert Word to PPSX, DOTX to PPSX FREE Converter or Python SDKdescription: Free Conversion of DOTX to PPSX by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

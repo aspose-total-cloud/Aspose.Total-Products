@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to POT, PPSX to POT FREE Converter or Curl SDKdescription: Free Conversion of PPSX to POT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

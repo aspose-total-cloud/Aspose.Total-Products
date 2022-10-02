@@ -1,0 +1,1 @@
+---title: Convert Excel to POTM, XLSM to POTM FREE Converter or Net SDKdescription: Free Conversion of XLSM to POTM by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

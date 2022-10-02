@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XML, PPS to XML FREE Converter or Ruby SDKdescription: Free Conversion of PPS to XML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

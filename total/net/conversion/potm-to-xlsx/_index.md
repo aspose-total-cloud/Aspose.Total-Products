@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSX, POTM to XLSX FREE Converter or Net SDKdescription: Free Conversion of POTM to XLSX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to POTX, DOTX to POTX FREE Converter or Java SDKdescription: Free Conversion of DOTX to POTX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

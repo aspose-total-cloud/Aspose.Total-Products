@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to BMP, POTM to BMP FREE Converter or CPP SDKdescription: Free Conversion of POTM to BMP by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

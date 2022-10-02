@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JPEG, PPT to JPEG FREE Converter or Perl SDKdescription: Free Conversion of PPT to JPEG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

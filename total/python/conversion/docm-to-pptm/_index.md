@@ -1,0 +1,1 @@
+---title: Convert Word to PPTM, DOCM to PPTM FREE Converter or Python SDKdescription: Free Conversion of DOCM to PPTM by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

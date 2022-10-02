@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLAM, PPTM to XLAM FREE Converter or CPP SDKdescription: Free Conversion of PPTM to XLAM by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

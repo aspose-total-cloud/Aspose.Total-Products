@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to EMF, PPSX to EMF FREE Converter or Python SDKdescription: Free Conversion of PPSX to EMF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

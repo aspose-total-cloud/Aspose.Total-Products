@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TXT, PPT to TXT FREE Converter or CPP SDKdescription: Free Conversion of PPT to TXT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

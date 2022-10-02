@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TXT, POTM to TXT FREE Converter or PHP SDKdescription: Free Conversion of POTM to TXT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

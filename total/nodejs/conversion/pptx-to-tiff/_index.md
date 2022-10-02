@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TIFF, PPTX to TIFF FREE Converter or Nodejs SDKdescription: Free Conversion of PPTX to TIFF by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

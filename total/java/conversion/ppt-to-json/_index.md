@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JSON, PPT to JSON FREE Converter or Java SDKdescription: Free Conversion of PPT to JSON by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PNG, PPSM to PNG FREE Converter or Perl SDKdescription: Free Conversion of PPSM to PNG by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

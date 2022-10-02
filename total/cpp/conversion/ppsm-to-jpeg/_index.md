@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to JPEG, PPSM to JPEG FREE Converter or CPP SDKdescription: Free Conversion of PPSM to JPEG by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to POT, PDF to POT FREE Converter or Android SDKdescription: Free Conversion of PDF to POT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

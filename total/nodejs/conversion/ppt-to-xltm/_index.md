@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLTM, PPT to XLTM FREE Converter or Nodejs SDKdescription: Free Conversion of PPT to XLTM by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DOCX, PPSM to DOCX FREE Converter or Net SDKdescription: Free Conversion of PPSM to DOCX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to POTX, DOTX to POTX FREE Converter or Ruby SDKdescription: Free Conversion of DOTX to POTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

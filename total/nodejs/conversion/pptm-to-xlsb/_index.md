@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to XLSB, PPTM to XLSB FREE Converter or Nodejs SDKdescription: Free Conversion of PPTM to XLSB by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

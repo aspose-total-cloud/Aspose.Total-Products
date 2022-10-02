@@ -1,0 +1,1 @@
+---title: Convert Word to POT, DOC to POT FREE Converter or Net SDKdescription: Free Conversion of DOC to POT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

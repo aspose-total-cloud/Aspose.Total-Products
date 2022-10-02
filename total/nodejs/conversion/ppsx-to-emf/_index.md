@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to EMF, PPSX to EMF FREE Converter or Nodejs SDKdescription: Free Conversion of PPSX to EMF by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to POTM, ODT to POTM FREE Converter or Ruby SDKdescription: Free Conversion of ODT to POTM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

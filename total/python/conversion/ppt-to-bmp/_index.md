@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to BMP, PPT to BMP FREE Converter or Python SDKdescription: Free Conversion of PPT to BMP by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

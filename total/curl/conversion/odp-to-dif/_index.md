@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to DIF, ODP to DIF FREE Converter or Curl SDKdescription: Free Conversion of ODP to DIF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

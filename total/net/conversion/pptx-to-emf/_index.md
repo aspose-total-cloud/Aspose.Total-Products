@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to EMF, PPTX to EMF FREE Converter or Net SDKdescription: Free Conversion of PPTX to EMF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
