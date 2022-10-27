@@ -1,0 +1,1 @@
+---title: Excel をPPSXに、XLSX を PPSX に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、XLSX を PPSX に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

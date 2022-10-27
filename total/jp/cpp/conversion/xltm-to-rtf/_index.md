@@ -1,0 +1,1 @@
+---title: Excel をRTFに、XLTM を RTF に変換 無料のコンバーターまたはCPP SDKdescription: CPPのクラウド API と SDK を使用して、XLTM を RTF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

@@ -1,0 +1,1 @@
+---title: Excel をDOTに、TSV を DOT に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、TSV を DOT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

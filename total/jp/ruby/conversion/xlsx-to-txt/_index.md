@@ -1,0 +1,1 @@
+---title: Excel をTXTに、XLSX を TXT に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、XLSX を TXT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

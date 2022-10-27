@@ -1,0 +1,1 @@
+---title: Word をOTPに、TXT を OTP に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、TXT を OTP に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

@@ -1,0 +1,1 @@
+---title: PowerPoint をDOCに、PPTX を DOC に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、PPTX を DOC に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

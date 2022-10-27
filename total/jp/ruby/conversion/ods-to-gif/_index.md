@@ -1,0 +1,1 @@
+---title: Excel をGIFに、ODS を GIF に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、ODS を GIF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

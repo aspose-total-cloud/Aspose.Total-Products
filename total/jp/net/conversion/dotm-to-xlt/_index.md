@@ -1,0 +1,1 @@
+---title: Word をXLTに、DOTM を XLT に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、DOTM を XLT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

@@ -1,0 +1,1 @@
+---title: PowerPoint をXLSMに、POTM を XLSM に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、POTM を XLSM に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

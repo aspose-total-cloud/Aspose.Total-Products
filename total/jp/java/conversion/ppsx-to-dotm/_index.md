@@ -1,0 +1,1 @@
+---title: PowerPoint をDOTMに、PPSX を DOTM に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、PPSX を DOTM に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

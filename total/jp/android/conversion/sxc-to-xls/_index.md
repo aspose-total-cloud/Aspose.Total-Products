@@ -1,0 +1,1 @@
+---title: Excel をXLSに、SXC を XLS に変換 無料のコンバーターまたはAndroid SDKdescription: Androidのクラウド API と SDK を使用して、SXC を XLS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

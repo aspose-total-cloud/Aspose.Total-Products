@@ -1,0 +1,1 @@
+---title: Excel をRTFに、XML を RTF に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、XML を RTF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

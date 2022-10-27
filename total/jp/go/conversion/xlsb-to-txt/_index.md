@@ -1,0 +1,1 @@
+---title: Excel をTXTに、XLSB を TXT に変換 無料のコンバーターまたはGO SDKdescription: GOのクラウド API と SDK を使用して、XLSB を TXT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

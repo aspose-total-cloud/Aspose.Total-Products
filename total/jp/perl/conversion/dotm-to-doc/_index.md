@@ -1,0 +1,1 @@
+---title: Word をDOCに、DOTM を DOC に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、DOTM を DOC に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

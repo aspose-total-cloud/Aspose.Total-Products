@@ -1,0 +1,1 @@
+---title: Excel をXLTXに、FODS を XLTX に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、FODS を XLTX に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

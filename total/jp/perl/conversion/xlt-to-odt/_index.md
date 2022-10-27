@@ -1,0 +1,1 @@
+---title: Excel をODTに、XLT を ODT に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、XLT を ODT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

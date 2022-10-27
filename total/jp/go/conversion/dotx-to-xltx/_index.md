@@ -1,0 +1,1 @@
+---title: Word をXLTXに、DOTX を XLTX に変換 無料のコンバーターまたはGO SDKdescription: GOのクラウド API と SDK を使用して、DOTX を XLTX に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

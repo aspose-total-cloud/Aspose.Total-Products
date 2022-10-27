@@ -1,0 +1,1 @@
+---title: Excel をODSに、XLSB を ODS に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、XLSB を ODS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

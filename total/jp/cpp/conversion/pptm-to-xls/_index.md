@@ -1,0 +1,1 @@
+---title: PowerPoint をXLSに、PPTM を XLS に変換 無料のコンバーターまたはCPP SDKdescription: CPPのクラウド API と SDK を使用して、PPTM を XLS に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

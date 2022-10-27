@@ -1,0 +1,1 @@
+---title: Word をEPUBに、DOTM を EPUB に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、DOTM を EPUB に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

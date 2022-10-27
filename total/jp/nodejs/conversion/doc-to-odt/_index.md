@@ -1,0 +1,1 @@
+---title: Word をODTに、DOC を ODT に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、DOC を ODT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

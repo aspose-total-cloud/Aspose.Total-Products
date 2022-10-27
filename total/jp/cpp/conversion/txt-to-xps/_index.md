@@ -1,0 +1,1 @@
+---title: Word をXPSに、TXT を XPS に変換 無料のコンバーターまたはCPP SDKdescription: CPPのクラウド API と SDK を使用して、TXT を XPS に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

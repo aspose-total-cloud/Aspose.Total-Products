@@ -1,0 +1,1 @@
+---title: PowerPoint をFODSに、PPS を FODS に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、PPS を FODS に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

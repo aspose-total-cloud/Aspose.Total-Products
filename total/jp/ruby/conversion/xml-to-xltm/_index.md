@@ -1,0 +1,1 @@
+---title: Excel をXLTMに、XML を XLTM に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、XML を XLTM に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
