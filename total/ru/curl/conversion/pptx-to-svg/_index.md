@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,PPTX в SVG Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия SVG в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

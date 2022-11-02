@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTM,PPTX в DOTM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOTM в PPTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

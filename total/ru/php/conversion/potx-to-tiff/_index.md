@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TIFF,POTX в TIFF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия TIFF в POTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

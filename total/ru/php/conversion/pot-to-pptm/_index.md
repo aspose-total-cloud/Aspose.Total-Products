@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTM,POT в PPTM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PPTM в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

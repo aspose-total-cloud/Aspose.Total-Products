@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POT,PPTM в POT Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия POT в PPTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

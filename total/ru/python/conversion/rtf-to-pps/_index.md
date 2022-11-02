@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер RTF в PPS или Python SDKdescription: Бесплатное преобразование RTF в PPS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

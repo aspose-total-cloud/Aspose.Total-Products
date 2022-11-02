@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PS,XLTX в PS без конвертера или Perl sdkdescription: Бесплатная конверсия PS в XLTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

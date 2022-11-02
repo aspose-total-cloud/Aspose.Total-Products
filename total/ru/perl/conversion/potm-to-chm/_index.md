@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CHM,POTM в CHM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия CHM в POTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

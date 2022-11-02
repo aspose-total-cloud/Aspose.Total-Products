@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTX,PPT в PPTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PPTX в PPT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

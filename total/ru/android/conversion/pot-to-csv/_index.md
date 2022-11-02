@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CSV,POT в CSV Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия CSV в POT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

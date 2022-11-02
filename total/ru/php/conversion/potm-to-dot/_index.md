@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,POTM в DOT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOT в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

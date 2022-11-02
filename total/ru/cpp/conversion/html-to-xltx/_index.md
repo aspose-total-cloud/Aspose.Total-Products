@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер HTML в XLTX или CPP SDKdescription: Бесплатное преобразование HTML в XLTX с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

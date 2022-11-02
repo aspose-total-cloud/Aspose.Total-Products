@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XAML,POT в XAML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XAML в POT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

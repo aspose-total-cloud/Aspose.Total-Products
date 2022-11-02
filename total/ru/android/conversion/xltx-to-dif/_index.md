@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DIF,XLTX в DIF без конвертера или Android sdkdescription: Бесплатная конверсия DIF в XLTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

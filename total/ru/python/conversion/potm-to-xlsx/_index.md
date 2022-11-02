@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,POTM в XLSX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLSX в POTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,PPTM в XLSX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSX в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

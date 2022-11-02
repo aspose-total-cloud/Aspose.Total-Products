@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер DOT в XLTM или CPP SDKdescription: Бесплатное преобразование DOT в XLTM с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

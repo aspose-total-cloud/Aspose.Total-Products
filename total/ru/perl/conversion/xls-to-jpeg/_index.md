@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в JPEG,XLS в JPEG без конвертера или Perl sdkdescription: Бесплатная конверсия JPEG в XLS с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

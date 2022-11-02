@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в OTP,XLSB в OTP без конвертера или PHP sdkdescription: Бесплатная конверсия OTP в XLSB с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

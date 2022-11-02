@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XAML,POTX в XAML Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XAML в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTM,PPTX в DOTM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DOTM в PPTX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,POTM в GIF Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия GIF в POTM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

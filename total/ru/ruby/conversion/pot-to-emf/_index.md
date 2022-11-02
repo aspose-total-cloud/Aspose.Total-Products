@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в EMF,POT в EMF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия EMF в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

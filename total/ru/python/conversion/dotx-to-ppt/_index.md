@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер DOTX в PPT или Python SDKdescription: Бесплатное преобразование DOTX в PPT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

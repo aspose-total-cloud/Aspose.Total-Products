@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SWF,POT в SWF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SWF в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

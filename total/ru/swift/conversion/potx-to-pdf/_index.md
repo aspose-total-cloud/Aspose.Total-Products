@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDF,POTX в PDF Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PDF в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

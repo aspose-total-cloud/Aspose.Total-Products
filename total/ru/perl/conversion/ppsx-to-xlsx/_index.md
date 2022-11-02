@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,PPSX в XLSX Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLSX в PPSX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

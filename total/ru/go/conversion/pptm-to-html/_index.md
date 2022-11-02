@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в HTML,PPTM в HTML Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия HTML в PPTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

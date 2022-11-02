@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XLSM в PPTX без конвертера или GO sdkdescription: Бесплатная конверсия PPTX в XLSM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

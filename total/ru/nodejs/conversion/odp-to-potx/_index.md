@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTX,ODP в POTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия POTX в ODP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

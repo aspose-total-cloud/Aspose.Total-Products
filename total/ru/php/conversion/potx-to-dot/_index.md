@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,POTX в DOT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOT в POTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

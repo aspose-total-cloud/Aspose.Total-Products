@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер CHM в PPT или Ruby SDKdescription: Бесплатное преобразование CHM в PPT с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

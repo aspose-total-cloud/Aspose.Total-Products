@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,PPTM в JSON Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия JSON в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

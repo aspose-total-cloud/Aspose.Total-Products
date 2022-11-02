@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,POTX в BMP Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия BMP в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

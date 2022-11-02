@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер DOCM в PPSM или CPP SDKdescription: Бесплатное преобразование DOCM в PPSM с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,ODP в DOT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOT в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

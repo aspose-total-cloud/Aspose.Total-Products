@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер RTF в PPS или Ruby SDKdescription: Бесплатное преобразование RTF в PPS с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

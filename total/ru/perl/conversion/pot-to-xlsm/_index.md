@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,POT в XLSM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLSM в POT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

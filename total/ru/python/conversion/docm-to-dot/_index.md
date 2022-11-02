@@ -1,0 +1,1 @@
+---title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер DOCM в DOT или Python SDKdescription: Бесплатное преобразование DOCM в DOT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер DOC в PPSX или Net SDKdescription: Бесплатное преобразование DOC в PPSX с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,PPSM в DOT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOT в PPSM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

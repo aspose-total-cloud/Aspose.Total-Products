@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер RTF в XLSM или Python SDKdescription: Бесплатное преобразование RTF в XLSM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

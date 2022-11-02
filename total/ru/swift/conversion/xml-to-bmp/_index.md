@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в BMP,XML в BMP без конвертера или Swift sdkdescription: Бесплатная конверсия BMP в XML с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

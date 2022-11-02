@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в RTF,XLSX в RTF без конвертера или Android sdkdescription: Бесплатная конверсия RTF в XLSX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

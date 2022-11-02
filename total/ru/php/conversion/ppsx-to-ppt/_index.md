@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPT,PPSX в PPT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PPT в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SWF,POT в SWF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия SWF в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

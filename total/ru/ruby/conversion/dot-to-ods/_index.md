@@ -1,0 +1,1 @@
+---title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер DOT в ODS или Ruby SDKdescription: Бесплатное преобразование DOT в ODS с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

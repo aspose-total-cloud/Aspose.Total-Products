@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер CHM в SXC или Perl SDKdescription: Бесплатное преобразование CHM в SXC с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

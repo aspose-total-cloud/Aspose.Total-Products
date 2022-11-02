@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTM,PPS в POTM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия POTM в PPS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

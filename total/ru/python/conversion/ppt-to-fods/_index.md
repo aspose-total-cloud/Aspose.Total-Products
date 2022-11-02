@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,PPT в FODS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия FODS в PPT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

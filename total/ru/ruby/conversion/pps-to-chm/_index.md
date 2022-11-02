@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CHM,PPS в CHM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия CHM в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

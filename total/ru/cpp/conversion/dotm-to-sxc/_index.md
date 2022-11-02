@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер DOTM в SXC или CPP SDKdescription: Бесплатное преобразование DOTM в SXC с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

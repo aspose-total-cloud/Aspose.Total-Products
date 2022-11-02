@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XML в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

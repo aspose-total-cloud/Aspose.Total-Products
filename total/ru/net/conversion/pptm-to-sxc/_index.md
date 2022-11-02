@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,PPTM в SXC Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия SXC в PPTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

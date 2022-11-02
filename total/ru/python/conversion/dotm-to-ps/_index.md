@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер DOTM в PS или Python SDKdescription: Бесплатное преобразование DOTM в PS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

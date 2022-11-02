@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в BMP,XLSX в BMP без конвертера или Nodejs sdkdescription: Бесплатная конверсия BMP в XLSX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

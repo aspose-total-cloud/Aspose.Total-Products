@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XLT в PPTX без конвертера или GO sdkdescription: Бесплатная конверсия PPTX в XLT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

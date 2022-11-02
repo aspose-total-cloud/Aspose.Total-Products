@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер DOT в PPS или GO SDKdescription: Бесплатное преобразование DOT в PPS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

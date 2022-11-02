@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CSV,PPTM в CSV Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия CSV в PPTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

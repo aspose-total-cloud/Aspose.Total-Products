@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,POTM в GIF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия GIF в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

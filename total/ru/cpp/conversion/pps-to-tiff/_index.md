@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TIFF,PPS в TIFF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия TIFF в PPS с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

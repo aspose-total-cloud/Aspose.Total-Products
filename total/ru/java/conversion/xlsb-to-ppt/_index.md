@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPT,XLSB в PPT без конвертера или Java sdkdescription: Бесплатная конверсия PPT в XLSB с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPT,POT в PPT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPT в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

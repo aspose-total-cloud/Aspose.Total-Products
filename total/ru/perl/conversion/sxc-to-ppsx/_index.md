@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,SXC в PPSX без конвертера или Perl sdkdescription: Бесплатная конверсия PPSX в SXC с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

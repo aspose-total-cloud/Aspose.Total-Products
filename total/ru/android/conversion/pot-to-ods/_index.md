@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODS,POT в ODS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия ODS в POT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

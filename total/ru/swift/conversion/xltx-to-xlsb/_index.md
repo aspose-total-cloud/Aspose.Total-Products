@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLSB,XLTX в XLSB без конвертера или Swift sdkdescription: Бесплатная конверсия XLSB в XLTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

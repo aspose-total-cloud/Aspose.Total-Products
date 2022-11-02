@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLT,OTP в XLT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLT в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

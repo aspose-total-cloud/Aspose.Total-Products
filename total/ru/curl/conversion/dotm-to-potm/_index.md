@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер DOTM в POTM или Curl SDKdescription: Бесплатное преобразование DOTM в POTM с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

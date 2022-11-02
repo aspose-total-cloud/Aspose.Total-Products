@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,PPS в XPS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XPS в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

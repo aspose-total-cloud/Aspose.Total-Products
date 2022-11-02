@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,PPSX в FODS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия FODS в PPSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

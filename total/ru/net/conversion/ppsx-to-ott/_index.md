@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в OTT,PPSX в OTT Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия OTT в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

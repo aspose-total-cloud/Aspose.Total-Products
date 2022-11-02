@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,JSON в PPSX без конвертера или GO sdkdescription: Бесплатная конверсия PPSX в JSON с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

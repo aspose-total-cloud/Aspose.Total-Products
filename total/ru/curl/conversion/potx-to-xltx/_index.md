@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,POTX в XLTX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLTX в POTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

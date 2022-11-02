@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLAM,PPTX в XLAM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLAM в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

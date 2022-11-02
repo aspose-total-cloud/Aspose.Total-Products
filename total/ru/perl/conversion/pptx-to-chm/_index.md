@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CHM,PPTX в CHM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия CHM в PPTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

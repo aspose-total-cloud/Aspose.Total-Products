@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLSB,XLSM в XLSB без конвертера или Python sdkdescription: Бесплатная конверсия XLSB в XLSM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

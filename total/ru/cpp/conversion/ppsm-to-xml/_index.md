@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,PPSM в XML Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XML в PPSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

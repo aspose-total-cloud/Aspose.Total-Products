@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTX,PPTM в POTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия POTX в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

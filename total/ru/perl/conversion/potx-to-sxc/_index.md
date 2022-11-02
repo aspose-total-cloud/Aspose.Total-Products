@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,POTX в SXC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия SXC в POTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

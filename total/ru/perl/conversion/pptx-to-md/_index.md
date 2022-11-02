@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,PPTX в MD Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия MD в PPTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

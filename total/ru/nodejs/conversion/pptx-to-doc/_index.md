@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,PPTX в DOC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOC в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

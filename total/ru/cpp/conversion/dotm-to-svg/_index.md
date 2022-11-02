@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер DOTM в SVG или CPP SDKdescription: Бесплатное преобразование DOTM в SVG с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

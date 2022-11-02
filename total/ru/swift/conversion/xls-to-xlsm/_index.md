@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLSM,XLS в XLSM без конвертера или Swift sdkdescription: Бесплатная конверсия XLSM в XLS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер DOT в POTM или Swift SDKdescription: Бесплатное преобразование DOT в POTM с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

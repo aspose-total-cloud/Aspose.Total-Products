@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTM,OTP в XLTM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLTM в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

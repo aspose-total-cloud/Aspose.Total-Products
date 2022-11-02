@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POTX, БЕСПЛАТНЫЙ конвертер DOC в POTX или Net SDKdescription: Бесплатное преобразование DOC в POTX с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в GIF,XLSX в GIF без конвертера или Swift sdkdescription: Бесплатная конверсия GIF в XLSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

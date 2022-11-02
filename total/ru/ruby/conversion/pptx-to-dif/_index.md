@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DIF,PPTX в DIF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DIF в PPTX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

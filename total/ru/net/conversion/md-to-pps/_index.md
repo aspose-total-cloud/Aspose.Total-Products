@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер MD в PPS или Net SDKdescription: Бесплатное преобразование MD в PPS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

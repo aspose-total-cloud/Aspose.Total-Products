@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODT,POT в ODT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия ODT в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

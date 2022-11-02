@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в TXT,XLTX в TXT без конвертера или Python sdkdescription: Бесплатная конверсия TXT в XLTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

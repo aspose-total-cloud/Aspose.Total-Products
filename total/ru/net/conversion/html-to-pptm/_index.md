@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер HTML в PPTM или Net SDKdescription: Бесплатное преобразование HTML в PPTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

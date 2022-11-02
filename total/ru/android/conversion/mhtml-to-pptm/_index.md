@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер MHTML в PPTM или Android SDKdescription: Бесплатное преобразование MHTML в PPTM с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

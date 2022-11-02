@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,PPT в XLSX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSX в PPT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

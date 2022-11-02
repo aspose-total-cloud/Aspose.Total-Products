@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер DOTX в SWF или Swift SDKdescription: Бесплатное преобразование DOTX в SWF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

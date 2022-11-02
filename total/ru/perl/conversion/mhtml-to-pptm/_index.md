@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер MHTML в PPTM или Perl SDKdescription: Бесплатное преобразование MHTML в PPTM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

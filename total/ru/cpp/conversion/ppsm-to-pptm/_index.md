@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTM,PPSM в PPTM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPTM в PPSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

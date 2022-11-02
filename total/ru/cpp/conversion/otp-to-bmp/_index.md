@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,OTP в BMP Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия BMP в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

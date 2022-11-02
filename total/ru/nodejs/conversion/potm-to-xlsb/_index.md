@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSB,POTM в XLSB Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLSB в POTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

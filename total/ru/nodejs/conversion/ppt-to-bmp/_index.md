@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,PPT в BMP Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия BMP в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

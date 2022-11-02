@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DOTM,XLS в DOTM без конвертера или Perl sdkdescription: Бесплатная конверсия DOTM в XLS с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

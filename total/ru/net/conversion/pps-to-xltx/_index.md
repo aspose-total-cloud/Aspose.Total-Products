@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,PPS в XLTX Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLTX в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

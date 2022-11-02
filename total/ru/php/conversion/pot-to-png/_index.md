@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PNG,POT в PNG Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PNG в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

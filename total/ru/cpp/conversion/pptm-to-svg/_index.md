@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,PPTM в SVG Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия SVG в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

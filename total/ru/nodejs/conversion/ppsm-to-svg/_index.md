@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,PPSM в SVG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SVG в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

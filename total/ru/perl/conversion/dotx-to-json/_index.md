@@ -1,0 +1,1 @@
+---title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер DOTX в JSON или Perl SDKdescription: Бесплатное преобразование DOTX в JSON с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер DOTM в PPTM или PHP SDKdescription: Бесплатное преобразование DOTM в PPTM с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

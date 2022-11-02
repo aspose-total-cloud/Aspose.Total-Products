@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,OTP в SVG Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SVG в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

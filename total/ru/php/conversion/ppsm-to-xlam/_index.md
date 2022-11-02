@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLAM,PPSM в XLAM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLAM в PPSM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

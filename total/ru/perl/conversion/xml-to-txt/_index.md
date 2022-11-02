@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в TXT,XML в TXT без конвертера или Perl sdkdescription: Бесплатная конверсия TXT в XML с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

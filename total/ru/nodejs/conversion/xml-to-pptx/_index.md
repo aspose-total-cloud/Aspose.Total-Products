@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XML в PPTX без конвертера или Nodejs sdkdescription: Бесплатная конверсия PPTX в XML с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

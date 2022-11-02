@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер DOTX в PPSX или Java SDKdescription: Бесплатное преобразование DOTX в PPSX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

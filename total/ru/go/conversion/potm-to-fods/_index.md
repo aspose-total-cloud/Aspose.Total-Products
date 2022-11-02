@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,POTM в FODS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия FODS в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

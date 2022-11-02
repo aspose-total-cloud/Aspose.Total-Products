@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,PPS в JSON Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия JSON в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

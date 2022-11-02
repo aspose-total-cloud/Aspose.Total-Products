@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,ODS в PPTX без конвертера или Java sdkdescription: Бесплатная конверсия PPTX в ODS с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

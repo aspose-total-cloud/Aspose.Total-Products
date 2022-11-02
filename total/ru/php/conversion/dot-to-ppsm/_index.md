@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер DOT в PPSM или PHP SDKdescription: Бесплатное преобразование DOT в PPSM с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

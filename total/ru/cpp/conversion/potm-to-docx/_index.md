@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCX,POTM в DOCX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOCX в POTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

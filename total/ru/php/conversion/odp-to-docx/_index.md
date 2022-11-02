@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCX,ODP в DOCX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOCX в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

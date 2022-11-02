@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,POTM в XPS Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XPS в POTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер DOT в XLS или Perl SDKdescription: Бесплатное преобразование DOT в XLS с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

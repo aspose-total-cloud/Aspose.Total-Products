@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTM,XLSB в PPTM без конвертера или Python sdkdescription: Бесплатная конверсия PPTM в XLSB с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

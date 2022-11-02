@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер DOCX в TXT или Python SDKdescription: Бесплатное преобразование DOCX в TXT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

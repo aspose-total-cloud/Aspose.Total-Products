@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBI,POTX в MOBI Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия MOBI в POTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

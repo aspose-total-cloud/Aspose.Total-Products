@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,ODP в XLSX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSX в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

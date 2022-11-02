@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер DOCX в XLSX или Swift SDKdescription: Бесплатное преобразование DOCX в XLSX с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

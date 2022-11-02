@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,POTX в MD Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия MD в POTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,PPTX в JSON Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия JSON в PPTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

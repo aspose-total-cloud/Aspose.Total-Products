@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,JSON в PPSX без конвертера или Curl sdkdescription: Бесплатная конверсия PPSX в JSON с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

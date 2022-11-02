@@ -1,0 +1,1 @@
+---title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOCM в CSV или Ruby SDKdescription: Бесплатное преобразование DOCM в CSV с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

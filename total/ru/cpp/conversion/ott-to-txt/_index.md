@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер OTT в TXT или CPP SDKdescription: Бесплатное преобразование OTT в TXT с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

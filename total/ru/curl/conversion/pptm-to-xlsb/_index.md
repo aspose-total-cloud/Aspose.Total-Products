@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSB,PPTM в XLSB Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSB в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

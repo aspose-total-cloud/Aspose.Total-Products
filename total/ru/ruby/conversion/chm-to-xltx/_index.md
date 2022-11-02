@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер CHM в XLTX или Ruby SDKdescription: Бесплатное преобразование CHM в XLTX с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

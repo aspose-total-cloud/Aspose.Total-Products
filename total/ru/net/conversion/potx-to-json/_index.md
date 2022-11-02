@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,POTX в JSON Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия JSON в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

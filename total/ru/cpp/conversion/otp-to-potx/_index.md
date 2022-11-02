@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTX,OTP в POTX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия POTX в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

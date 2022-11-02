@@ -1,0 +1,1 @@
+---title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер DOT в DOTM или Android SDKdescription: Бесплатное преобразование DOT в DOTM с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

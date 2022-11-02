@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,PPSM в JSON Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия JSON в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

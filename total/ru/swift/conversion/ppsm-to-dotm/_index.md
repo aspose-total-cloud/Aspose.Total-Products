@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTM,PPSM в DOTM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия DOTM в PPSM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

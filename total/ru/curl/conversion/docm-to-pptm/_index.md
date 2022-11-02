@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер DOCM в PPTM или Curl SDKdescription: Бесплатное преобразование DOCM в PPTM с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

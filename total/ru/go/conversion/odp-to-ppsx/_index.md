@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSX,ODP в PPSX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPSX в ODP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

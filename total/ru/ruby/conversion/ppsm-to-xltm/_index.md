@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTM,PPSM в XLTM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия XLTM в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,PPTM в GIF Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия GIF в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

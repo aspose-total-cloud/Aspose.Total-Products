@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,OTP в XML Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XML в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

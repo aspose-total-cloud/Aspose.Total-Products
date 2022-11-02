@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TXT,ODP в TXT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия TXT в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

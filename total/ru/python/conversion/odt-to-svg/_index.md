@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер ODT в SVG или Python SDKdescription: Бесплатное преобразование ODT в SVG с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

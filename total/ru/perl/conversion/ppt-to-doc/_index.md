@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,PPT в DOC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOC в PPT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

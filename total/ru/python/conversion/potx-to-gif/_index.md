@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,POTX в GIF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия GIF в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

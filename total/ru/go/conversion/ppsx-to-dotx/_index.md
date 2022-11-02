@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTX,PPSX в DOTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOTX в PPSX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

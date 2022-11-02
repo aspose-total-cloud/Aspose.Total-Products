@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTM,POTM в XLTM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLTM в POTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

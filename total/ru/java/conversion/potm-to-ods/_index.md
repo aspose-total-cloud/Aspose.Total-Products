@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODS,POTM в ODS Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия ODS в POTM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

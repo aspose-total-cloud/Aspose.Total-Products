@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер DOTX в SVG или GO SDKdescription: Бесплатное преобразование DOTX в SVG с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

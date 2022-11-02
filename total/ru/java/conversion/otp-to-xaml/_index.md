@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XAML,OTP в XAML Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XAML в OTP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

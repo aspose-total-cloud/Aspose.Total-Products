@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSM,POTM в PPSM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPSM в POTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

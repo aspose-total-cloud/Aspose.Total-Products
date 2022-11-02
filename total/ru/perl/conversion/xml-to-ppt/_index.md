@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPT,XML в PPT без конвертера или Perl sdkdescription: Бесплатная конверсия PPT в XML с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

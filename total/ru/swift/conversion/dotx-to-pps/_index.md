@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер DOTX в PPS или Swift SDKdescription: Бесплатное преобразование DOTX в PPS с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

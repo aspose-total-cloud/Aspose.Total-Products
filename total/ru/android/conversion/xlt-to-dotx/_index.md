@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DOTX,XLT в DOTX без конвертера или Android sdkdescription: Бесплатная конверсия DOTX в XLT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

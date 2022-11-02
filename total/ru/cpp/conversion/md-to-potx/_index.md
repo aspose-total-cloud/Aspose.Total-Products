@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POTX, БЕСПЛАТНЫЙ конвертер MD в POTX или CPP SDKdescription: Бесплатное преобразование MD в POTX с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

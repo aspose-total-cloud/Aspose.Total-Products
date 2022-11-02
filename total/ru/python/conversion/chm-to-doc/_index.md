@@ -1,0 +1,1 @@
+---title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер CHM в DOC или Python SDKdescription: Бесплатное преобразование CHM в DOC с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

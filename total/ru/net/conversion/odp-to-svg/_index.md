@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,ODP в SVG Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия SVG в ODP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

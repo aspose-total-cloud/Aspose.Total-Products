@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,POTX в SVG Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия SVG в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

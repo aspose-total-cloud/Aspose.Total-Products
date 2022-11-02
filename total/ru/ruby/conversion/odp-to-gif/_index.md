@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,ODP в GIF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия GIF в ODP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XLS в PPTX без конвертера или Curl sdkdescription: Бесплатная конверсия PPTX в XLS с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

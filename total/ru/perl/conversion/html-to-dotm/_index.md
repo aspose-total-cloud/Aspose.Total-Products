@@ -1,0 +1,1 @@
+---title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер HTML в DOTM или Perl SDKdescription: Бесплатное преобразование HTML в DOTM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

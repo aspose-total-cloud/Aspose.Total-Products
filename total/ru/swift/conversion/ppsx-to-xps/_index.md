@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,PPSX в XPS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XPS в PPSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

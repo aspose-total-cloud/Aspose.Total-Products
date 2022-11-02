@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,PPS в XLSM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLSM в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

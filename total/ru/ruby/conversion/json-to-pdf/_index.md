@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PDF,JSON в PDF без конвертера или Ruby sdkdescription: Бесплатная конверсия PDF в JSON с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,XLSM в PPSX без конвертера или PHP sdkdescription: Бесплатная конверсия PPSX в XLSM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

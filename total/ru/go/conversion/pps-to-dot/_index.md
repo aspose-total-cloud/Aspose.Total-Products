@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,PPS в DOT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOT в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

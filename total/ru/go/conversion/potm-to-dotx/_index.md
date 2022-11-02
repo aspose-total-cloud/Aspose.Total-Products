@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTX,POTM в DOTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOTX в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

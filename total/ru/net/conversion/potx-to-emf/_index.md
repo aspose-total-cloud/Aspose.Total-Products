@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в EMF,POTX в EMF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия EMF в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

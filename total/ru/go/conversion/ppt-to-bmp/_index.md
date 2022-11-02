@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,PPT в BMP Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия BMP в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,PPSX в XLSM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLSM в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCX,PPSM в DOCX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOCX в PPSM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

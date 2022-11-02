@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,ODP в MD Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия MD в ODP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

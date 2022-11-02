@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,POTX в SXC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SXC в POTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

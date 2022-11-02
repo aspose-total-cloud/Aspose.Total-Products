@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DOTM,XLSB в DOTM без конвертера или CPP sdkdescription: Бесплатная конверсия DOTM в XLSB с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

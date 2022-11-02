@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,ODP в XLTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLTX в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер DOC в PPT или Ruby SDKdescription: Бесплатное преобразование DOC в PPT с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

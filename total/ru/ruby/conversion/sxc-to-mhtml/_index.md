@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в MHTML,SXC в MHTML без конвертера или Ruby sdkdescription: Бесплатная конверсия MHTML в SXC с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

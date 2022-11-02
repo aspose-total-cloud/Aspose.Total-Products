@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,PPTM в MD Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия MD в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

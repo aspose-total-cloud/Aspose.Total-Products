@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODS,PPTX в ODS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия ODS в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

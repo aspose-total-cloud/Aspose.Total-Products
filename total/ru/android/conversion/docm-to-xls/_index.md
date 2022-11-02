@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер DOCM в XLS или Android SDKdescription: Бесплатное преобразование DOCM в XLS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

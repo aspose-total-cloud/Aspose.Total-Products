@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLAM, БЕСПЛАТНЫЙ конвертер DOTM в XLAM или GO SDKdescription: Бесплатное преобразование DOTM в XLAM с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

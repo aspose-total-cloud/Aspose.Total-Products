@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,POTX в DOC Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOC в POTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SWF,PPTX в SWF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SWF в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

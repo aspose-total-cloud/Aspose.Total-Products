@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,PPS в MD Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MD в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

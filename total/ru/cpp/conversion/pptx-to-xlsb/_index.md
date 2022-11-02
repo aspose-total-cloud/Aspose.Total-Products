@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSB,PPTX в XLSB Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLSB в PPTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

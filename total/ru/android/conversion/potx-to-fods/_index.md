@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,POTX в FODS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия FODS в POTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

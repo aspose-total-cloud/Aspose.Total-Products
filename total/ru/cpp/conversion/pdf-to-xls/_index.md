@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер PDF в XLS или CPP SDKdescription: Бесплатное преобразование PDF в XLS с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

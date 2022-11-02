@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер TXT в XML или CPP SDKdescription: Бесплатное преобразование TXT в XML с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

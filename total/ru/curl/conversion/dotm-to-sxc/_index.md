@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер DOTM в SXC или Curl SDKdescription: Бесплатное преобразование DOTM в SXC с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

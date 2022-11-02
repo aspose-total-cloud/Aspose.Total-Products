@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в NUMBERS,PPTM в NUMBERS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия NUMBERS в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

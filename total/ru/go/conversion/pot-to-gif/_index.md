@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,POT в GIF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия GIF в POT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

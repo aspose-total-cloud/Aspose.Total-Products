@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,PPSX в GIF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия GIF в PPSX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPS,XLTX в PPS без конвертера или Perl sdkdescription: Бесплатная конверсия PPS в XLTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

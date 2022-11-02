@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,PPTX в SXC Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия SXC в PPTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

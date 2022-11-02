@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер MOBI в PPTX или Android SDKdescription: Бесплатное преобразование MOBI в PPTX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

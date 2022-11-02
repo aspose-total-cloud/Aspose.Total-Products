@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDF,PPSX в PDF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PDF в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

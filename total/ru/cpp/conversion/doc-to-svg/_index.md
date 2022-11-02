@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер DOC в SVG или CPP SDKdescription: Бесплатное преобразование DOC в SVG с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

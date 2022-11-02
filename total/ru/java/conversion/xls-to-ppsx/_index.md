@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,XLS в PPSX без конвертера или Java sdkdescription: Бесплатная конверсия PPSX в XLS с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

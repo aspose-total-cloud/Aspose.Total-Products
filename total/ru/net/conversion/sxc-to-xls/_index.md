@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLS,SXC в XLS без конвертера или Net sdkdescription: Бесплатная конверсия XLS в SXC с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XLSX в PPTX без конвертера или Java sdkdescription: Бесплатная конверсия PPTX в XLSX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTM,POTX в POTM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия POTM в POTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

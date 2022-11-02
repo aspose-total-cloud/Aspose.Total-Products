@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DIF,XLS в DIF без конвертера или PHP sdkdescription: Бесплатная конверсия DIF в XLS с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

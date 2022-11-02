@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер DOTM в PPTX или Net SDKdescription: Бесплатное преобразование DOTM в PPTX с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

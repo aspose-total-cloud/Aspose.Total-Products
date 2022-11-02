@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер DOTM в XLTX или Python SDKdescription: Бесплатное преобразование DOTM в XLTX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

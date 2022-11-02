@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер DOTX в PPT или Android SDKdescription: Бесплатное преобразование DOTX в PPT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

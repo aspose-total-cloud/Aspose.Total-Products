@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в SVG,XLSB в SVG без конвертера или Ruby sdkdescription: Бесплатная конверсия SVG в XLSB с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

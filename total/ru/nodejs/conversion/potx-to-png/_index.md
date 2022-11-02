@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PNG,POTX в PNG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PNG в POTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

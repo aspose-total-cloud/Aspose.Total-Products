@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер DOCX в PPTX или Ruby SDKdescription: Бесплатное преобразование DOCX в PPTX с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSX,PPTM в PPSX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PPSX в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

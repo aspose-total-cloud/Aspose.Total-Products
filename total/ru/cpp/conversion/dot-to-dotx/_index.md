@@ -1,0 +1,1 @@
+---title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер DOT в DOTX или CPP SDKdescription: Бесплатное преобразование DOT в DOTX с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

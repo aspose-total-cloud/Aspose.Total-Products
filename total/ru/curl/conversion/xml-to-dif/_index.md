@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DIF,XML в DIF без конвертера или Curl sdkdescription: Бесплатная конверсия DIF в XML с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

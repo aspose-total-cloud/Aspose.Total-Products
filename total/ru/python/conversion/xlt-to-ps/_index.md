@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PS,XLT в PS без конвертера или Python sdkdescription: Бесплатная конверсия PS в XLT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

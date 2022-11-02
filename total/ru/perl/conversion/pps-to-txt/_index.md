@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TXT,PPS в TXT Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия TXT в PPS с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

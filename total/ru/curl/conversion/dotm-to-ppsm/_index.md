@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер DOTM в PPSM или Curl SDKdescription: Бесплатное преобразование DOTM в PPSM с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

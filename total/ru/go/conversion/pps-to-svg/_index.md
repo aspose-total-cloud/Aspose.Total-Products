@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,PPS в SVG Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия SVG в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

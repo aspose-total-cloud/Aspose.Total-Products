@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPS,PPT в PPS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPS в PPT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

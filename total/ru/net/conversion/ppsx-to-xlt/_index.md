@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLT,PPSX в XLT Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLT в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

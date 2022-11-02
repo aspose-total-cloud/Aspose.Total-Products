@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XML в PPS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

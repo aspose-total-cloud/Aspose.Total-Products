@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер MHTML в XLTX или Android SDKdescription: Бесплатное преобразование MHTML в XLTX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

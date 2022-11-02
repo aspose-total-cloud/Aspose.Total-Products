@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCX,PPTM в DOCX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOCX в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

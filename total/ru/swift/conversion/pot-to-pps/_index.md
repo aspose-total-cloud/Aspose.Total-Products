@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPS,POT в PPS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPS в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

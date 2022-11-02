@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTM,PPTM в DOTM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOTM в PPTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

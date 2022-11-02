@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в EMF,XLSX в EMF без конвертера или Swift sdkdescription: Бесплатная конверсия EMF в XLSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

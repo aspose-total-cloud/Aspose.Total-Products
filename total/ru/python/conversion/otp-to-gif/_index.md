@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,OTP в GIF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия GIF в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

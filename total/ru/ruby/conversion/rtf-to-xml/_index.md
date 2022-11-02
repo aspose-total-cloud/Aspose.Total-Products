@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер RTF в XML или Ruby SDKdescription: Бесплатное преобразование RTF в XML с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

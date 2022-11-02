@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTM,OTP в POTM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия POTM в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

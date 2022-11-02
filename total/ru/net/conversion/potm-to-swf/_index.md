@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SWF,POTM в SWF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия SWF в POTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

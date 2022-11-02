@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,FODS в PPSX без конвертера или Nodejs sdkdescription: Бесплатная конверсия PPSX в FODS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

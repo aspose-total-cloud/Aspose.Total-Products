@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в HTML,POTM в HTML Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия HTML в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

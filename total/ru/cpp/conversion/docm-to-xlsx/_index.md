@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер DOCM в XLSX или CPP SDKdescription: Бесплатное преобразование DOCM в XLSX с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

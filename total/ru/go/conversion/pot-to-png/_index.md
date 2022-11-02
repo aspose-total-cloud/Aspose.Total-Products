@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PNG,POT в PNG Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PNG в POT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

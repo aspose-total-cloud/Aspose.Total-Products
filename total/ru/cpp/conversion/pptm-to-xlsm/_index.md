@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,PPTM в XLSM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLSM в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

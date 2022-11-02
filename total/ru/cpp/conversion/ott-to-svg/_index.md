@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер OTT в SVG или CPP SDKdescription: Бесплатное преобразование OTT в SVG с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

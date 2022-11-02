@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,PPTM в JSON Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия JSON в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

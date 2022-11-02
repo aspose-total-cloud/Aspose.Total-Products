@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XAML,POT в XAML Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XAML в POT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

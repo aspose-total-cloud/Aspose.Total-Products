@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,PPS в DOC Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия DOC в PPS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

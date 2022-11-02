@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в EMF,CSV в EMF без конвертера или Net sdkdescription: Бесплатная конверсия EMF в CSV с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLAM,PPSX в XLAM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLAM в PPSX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

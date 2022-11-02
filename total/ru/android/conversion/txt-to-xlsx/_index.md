@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер TXT в XLSX или Android SDKdescription: Бесплатное преобразование TXT в XLSX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

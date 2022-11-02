@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODT,PPT в ODT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODT в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

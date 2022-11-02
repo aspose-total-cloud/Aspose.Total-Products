@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBI,PPSX в MOBI Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия MOBI в PPSX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

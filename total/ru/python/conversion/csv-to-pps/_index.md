@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPS,CSV в PPS без конвертера или Python sdkdescription: Бесплатная конверсия PPS в CSV с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

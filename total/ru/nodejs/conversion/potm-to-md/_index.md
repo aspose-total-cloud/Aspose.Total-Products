@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,POTM в MD Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия MD в POTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

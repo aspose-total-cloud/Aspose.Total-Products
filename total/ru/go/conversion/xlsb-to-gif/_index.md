@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в GIF,XLSB в GIF без конвертера или GO sdkdescription: Бесплатная конверсия GIF в XLSB с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

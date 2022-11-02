@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTX,PPSX в POTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия POTX в PPSX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

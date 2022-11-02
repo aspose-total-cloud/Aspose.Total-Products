@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XAML,PPSM в XAML Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XAML в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

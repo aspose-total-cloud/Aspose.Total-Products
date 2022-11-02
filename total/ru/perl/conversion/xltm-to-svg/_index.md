@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в SVG,XLTM в SVG без конвертера или Perl sdkdescription: Бесплатная конверсия SVG в XLTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

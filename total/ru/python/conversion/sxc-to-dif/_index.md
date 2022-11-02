@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DIF,SXC в DIF без конвертера или Python sdkdescription: Бесплатная конверсия DIF в SXC с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

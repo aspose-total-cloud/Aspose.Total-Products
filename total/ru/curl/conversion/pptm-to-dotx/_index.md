@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTX,PPTM в DOTX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOTX в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

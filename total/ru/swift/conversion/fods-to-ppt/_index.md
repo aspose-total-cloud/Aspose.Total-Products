@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPT,FODS в PPT без конвертера или Swift sdkdescription: Бесплатная конверсия PPT в FODS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

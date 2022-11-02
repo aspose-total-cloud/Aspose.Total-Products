@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер DOTX в XLSB или PHP SDKdescription: Бесплатное преобразование DOTX в XLSB с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

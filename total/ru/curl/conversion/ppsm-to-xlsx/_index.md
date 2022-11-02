@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,PPSM в XLSX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSX в PPSM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

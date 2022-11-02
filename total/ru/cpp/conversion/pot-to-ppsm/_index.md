@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSM,POT в PPSM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPSM в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

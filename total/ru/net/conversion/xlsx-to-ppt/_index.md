@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPT,XLSX в PPT без конвертера или Net sdkdescription: Бесплатная конверсия PPT в XLSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

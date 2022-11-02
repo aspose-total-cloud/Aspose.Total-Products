@@ -1,0 +1,1 @@
+---title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер DOTX в MD или Ruby SDKdescription: Бесплатное преобразование DOTX в MD с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

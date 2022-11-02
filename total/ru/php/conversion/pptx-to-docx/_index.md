@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCX,PPTX в DOCX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOCX в PPTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

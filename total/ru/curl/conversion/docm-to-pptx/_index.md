@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер DOCM в PPTX или Curl SDKdescription: Бесплатное преобразование DOCM в PPTX с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

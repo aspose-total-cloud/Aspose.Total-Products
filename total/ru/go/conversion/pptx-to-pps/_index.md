@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPS,PPTX в PPS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPS в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

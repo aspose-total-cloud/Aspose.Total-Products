@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLSM,ODS в XLSM без конвертера или Python sdkdescription: Бесплатная конверсия XLSM в ODS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

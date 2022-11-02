@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в EMF,POT в EMF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия EMF в POT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

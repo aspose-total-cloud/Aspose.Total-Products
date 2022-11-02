@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLSM,JSON в XLSM без конвертера или Ruby sdkdescription: Бесплатная конверсия XLSM в JSON с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

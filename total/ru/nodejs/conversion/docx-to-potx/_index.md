@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POTX, БЕСПЛАТНЫЙ конвертер DOCX в POTX или Nodejs SDKdescription: Бесплатное преобразование DOCX в POTX с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TXT,POTM в TXT Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия TXT в POTM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

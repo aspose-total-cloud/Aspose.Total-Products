@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,POTX в XLSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSM в POTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

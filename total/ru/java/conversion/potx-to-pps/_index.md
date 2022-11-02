@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPS,POTX в PPS Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPS в POTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер HTML в XML или Perl SDKdescription: Бесплатное преобразование HTML в XML с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTM,PPS в XLTM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLTM в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TXT,PPSM в TXT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TXT в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

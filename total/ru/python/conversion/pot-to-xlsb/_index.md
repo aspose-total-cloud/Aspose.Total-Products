@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSB,POT в XLSB Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLSB в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

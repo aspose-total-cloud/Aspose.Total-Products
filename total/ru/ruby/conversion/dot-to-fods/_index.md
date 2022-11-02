@@ -1,0 +1,1 @@
+---title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер DOT в FODS или Ruby SDKdescription: Бесплатное преобразование DOT в FODS с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

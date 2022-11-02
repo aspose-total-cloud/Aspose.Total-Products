@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер ODT в PPSM или Ruby SDKdescription: Бесплатное преобразование ODT в PPSM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

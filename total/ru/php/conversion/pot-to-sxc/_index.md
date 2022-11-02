@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,POT в SXC Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия SXC в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

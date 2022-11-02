@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODT,PPTM в ODT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODT в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

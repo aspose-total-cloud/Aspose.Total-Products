@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,PPTX в XPS Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XPS в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

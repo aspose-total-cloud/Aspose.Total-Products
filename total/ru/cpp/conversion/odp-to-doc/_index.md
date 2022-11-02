@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,ODP в DOC Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOC в ODP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

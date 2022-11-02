@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,PPTX в SXC Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия SXC в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

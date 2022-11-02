@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,PPTX в FODS Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия FODS в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

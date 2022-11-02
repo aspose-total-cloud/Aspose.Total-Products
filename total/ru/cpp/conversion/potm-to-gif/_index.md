@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,POTM в GIF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия GIF в POTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,POTX в JSON Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия JSON в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

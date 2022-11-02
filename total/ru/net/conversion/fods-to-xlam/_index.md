@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLAM,FODS в XLAM без конвертера или Net sdkdescription: Бесплатная конверсия XLAM в FODS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

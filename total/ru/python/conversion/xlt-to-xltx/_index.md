@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLTX,XLT в XLTX без конвертера или Python sdkdescription: Бесплатная конверсия XLTX в XLT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,PPTM в XLTX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLTX в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

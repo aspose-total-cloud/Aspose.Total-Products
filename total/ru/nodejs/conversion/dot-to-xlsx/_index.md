@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер DOT в XLSX или Nodejs SDKdescription: Бесплатное преобразование DOT в XLSX с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHTML,PPS в MHTML Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия MHTML в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

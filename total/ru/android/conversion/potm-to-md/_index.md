@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MD,POTM в MD Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MD в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

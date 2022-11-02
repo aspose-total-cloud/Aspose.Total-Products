@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,PPS в SXC Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия SXC в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PNG,PPTM в PNG Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PNG в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

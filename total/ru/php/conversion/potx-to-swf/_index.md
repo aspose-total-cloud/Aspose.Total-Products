@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SWF,POTX в SWF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия SWF в POTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

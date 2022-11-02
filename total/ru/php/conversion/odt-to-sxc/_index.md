@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер ODT в SXC или PHP SDKdescription: Бесплатное преобразование ODT в SXC с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCM,PPSM в DOCM Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOCM в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

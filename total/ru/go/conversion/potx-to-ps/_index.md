@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PS,POTX в PS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PS в POTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

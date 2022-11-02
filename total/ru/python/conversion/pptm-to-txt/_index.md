@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TXT,PPTM в TXT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия TXT в PPTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

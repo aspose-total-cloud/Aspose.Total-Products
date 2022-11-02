@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLTM,XLSM в XLTM без конвертера или CPP sdkdescription: Бесплатная конверсия XLTM в XLSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

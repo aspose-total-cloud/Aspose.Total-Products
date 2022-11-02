@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,PPSM в XPS Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XPS в PPSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PNG,PPSM в PNG Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PNG в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

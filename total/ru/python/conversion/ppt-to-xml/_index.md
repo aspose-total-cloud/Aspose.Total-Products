@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,PPT в XML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XML в PPT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

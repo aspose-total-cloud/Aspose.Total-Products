@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в POTX,CSV в POTX без конвертера или CPP sdkdescription: Бесплатная конверсия POTX в CSV с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

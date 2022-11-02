@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в GIF,SXC в GIF без конвертера или Nodejs sdkdescription: Бесплатная конверсия GIF в SXC с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

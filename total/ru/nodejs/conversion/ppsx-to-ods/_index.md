@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODS,PPSX в ODS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия ODS в PPSX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

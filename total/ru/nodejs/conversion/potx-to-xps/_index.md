@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,POTX в XPS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XPS в POTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

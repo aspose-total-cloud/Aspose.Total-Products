@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер DOC в XLT или CPP SDKdescription: Бесплатное преобразование DOC в XLT с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

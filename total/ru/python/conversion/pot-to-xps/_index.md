@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XPS,POT в XPS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XPS в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

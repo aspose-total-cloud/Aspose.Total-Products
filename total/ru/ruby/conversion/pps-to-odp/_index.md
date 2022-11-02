@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODP,PPS в ODP Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODP в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

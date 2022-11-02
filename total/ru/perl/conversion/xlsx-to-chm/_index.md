@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в CHM,XLSX в CHM без конвертера или Perl sdkdescription: Бесплатная конверсия CHM в XLSX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

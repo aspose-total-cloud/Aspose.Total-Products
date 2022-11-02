@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTM,PPTX в DOTM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOTM в PPTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в POTX,CSV в POTX без конвертера или GO sdkdescription: Бесплатная конверсия POTX в CSV с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

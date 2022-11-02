@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLS,PPTM в XLS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLS в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

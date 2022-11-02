@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в MD,XLT в MD без конвертера или Curl sdkdescription: Бесплатная конверсия MD в XLT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

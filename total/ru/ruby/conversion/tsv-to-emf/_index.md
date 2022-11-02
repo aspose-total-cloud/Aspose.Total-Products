@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в EMF,TSV в EMF без конвертера или Ruby sdkdescription: Бесплатная конверсия EMF в TSV с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

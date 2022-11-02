@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLT,ODP в XLT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLT в ODP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

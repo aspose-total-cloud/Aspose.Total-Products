@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PCL,XLS в PCL без конвертера или Ruby sdkdescription: Бесплатная конверсия PCL в XLS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

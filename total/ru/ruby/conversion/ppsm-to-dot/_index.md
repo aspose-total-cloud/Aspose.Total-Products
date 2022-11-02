@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,PPSM в DOT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DOT в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

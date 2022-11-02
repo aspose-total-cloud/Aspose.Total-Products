@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SXC,POT в SXC Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия SXC в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

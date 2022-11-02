@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер DOT в POT или PHP SDKdescription: Бесплатное преобразование DOT в POT с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

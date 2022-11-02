@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,PPSX в GIF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия GIF в PPSX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

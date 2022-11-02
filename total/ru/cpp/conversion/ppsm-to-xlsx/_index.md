@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,PPSM в XLSX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLSX в PPSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

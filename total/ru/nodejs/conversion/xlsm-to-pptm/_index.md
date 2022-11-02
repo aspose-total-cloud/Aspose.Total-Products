@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTM,XLSM в PPTM без конвертера или Nodejs sdkdescription: Бесплатная конверсия PPTM в XLSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

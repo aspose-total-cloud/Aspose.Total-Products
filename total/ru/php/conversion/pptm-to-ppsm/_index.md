@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSM,PPTM в PPSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PPSM в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODP,PPTM в ODP Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODP в PPTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

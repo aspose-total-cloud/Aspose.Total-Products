@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,PPT в XLTX Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLTX в PPT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

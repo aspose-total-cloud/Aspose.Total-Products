@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTX,POT в PPTX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPTX в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

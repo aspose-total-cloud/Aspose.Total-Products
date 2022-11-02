@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTX,OTP в PPTX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPTX в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

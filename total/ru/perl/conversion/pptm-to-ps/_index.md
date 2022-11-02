@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PS,PPTM в PS Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия PS в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

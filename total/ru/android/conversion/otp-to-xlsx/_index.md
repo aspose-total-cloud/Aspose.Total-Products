@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSX,OTP в XLSX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSX в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

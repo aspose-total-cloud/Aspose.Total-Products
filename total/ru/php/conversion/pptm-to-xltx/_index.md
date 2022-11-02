@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,PPTM в XLTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLTX в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

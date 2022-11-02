@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSM,POTM в PPSM Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPSM в POTM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

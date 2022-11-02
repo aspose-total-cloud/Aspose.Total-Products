@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POT,PPSX в POT Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия POT в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

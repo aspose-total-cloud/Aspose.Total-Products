@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLS,PPSM в XLS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLS в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

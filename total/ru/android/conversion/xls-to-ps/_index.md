@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PS,XLS в PS без конвертера или Android sdkdescription: Бесплатная конверсия PS в XLS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

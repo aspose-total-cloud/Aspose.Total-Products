@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер PDF в XML или Python SDKdescription: Бесплатное преобразование PDF в XML с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

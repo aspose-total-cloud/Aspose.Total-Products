@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в SXC,CSV в SXC без конвертера или Nodejs sdkdescription: Бесплатная конверсия SXC в CSV с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

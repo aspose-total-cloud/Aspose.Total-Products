@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер DOT в XLSM или Perl SDKdescription: Бесплатное преобразование DOT в XLSM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

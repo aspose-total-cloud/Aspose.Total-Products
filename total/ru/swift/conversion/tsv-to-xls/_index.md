@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLS,TSV в XLS без конвертера или Swift sdkdescription: Бесплатная конверсия XLS в TSV с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

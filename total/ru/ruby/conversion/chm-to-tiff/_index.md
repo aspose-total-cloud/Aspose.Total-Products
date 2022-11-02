@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер CHM в TIFF или Ruby SDKdescription: Бесплатное преобразование CHM в TIFF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

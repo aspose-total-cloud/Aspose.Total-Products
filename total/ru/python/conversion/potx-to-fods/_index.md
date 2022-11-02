@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,POTX в FODS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия FODS в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

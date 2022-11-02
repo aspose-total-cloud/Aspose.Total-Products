@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XLSX в PPTX без конвертера или CPP sdkdescription: Бесплатная конверсия PPTX в XLSX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

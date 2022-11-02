@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLS,PPS в XLS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLS в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

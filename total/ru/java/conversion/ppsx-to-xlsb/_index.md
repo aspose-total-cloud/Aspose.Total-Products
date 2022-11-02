@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSB,PPSX в XLSB Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XLSB в PPSX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPS,ODS в PPS без конвертера или Python sdkdescription: Бесплатная конверсия PPS в ODS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

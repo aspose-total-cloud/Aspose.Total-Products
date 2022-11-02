@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLT,PPSM в XLT Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLT в PPSM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

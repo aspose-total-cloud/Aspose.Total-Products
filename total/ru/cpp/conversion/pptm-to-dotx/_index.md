@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTX,PPTM в DOTX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOTX в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

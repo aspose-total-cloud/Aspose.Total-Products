@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,POT в XLSM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSM в POT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTM,ODP в PPTM Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPTM в ODP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

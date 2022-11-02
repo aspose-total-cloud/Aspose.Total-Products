@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DOTX,XLSB в DOTX без конвертера или Swift sdkdescription: Бесплатная конверсия DOTX в XLSB с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

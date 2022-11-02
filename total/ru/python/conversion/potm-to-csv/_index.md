@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CSV,POTM в CSV Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия CSV в POTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

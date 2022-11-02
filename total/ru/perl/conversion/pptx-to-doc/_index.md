@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,PPTX в DOC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOC в PPTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

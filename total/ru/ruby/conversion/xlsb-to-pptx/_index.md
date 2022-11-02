@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTX,XLSB в PPTX без конвертера или Ruby sdkdescription: Бесплатная конверсия PPTX в XLSB с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

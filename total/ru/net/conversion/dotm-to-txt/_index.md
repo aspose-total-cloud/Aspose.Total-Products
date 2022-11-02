@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер DOTM в TXT или Net SDKdescription: Бесплатное преобразование DOTM в TXT с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в JSON,PPSX в JSON Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия JSON в PPSX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

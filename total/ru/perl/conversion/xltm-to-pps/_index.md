@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPS,XLTM в PPS без конвертера или Perl sdkdescription: Бесплатная конверсия PPS в XLTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

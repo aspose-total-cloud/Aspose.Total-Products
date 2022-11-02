@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,ODP в XML Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XML в ODP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

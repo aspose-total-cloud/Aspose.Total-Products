@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,OTP в DOT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DOT в OTP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

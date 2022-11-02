@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,OTP в DOC Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DOC в OTP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

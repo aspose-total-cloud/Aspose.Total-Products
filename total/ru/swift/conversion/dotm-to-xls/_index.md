@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер DOTM в XLS или Swift SDKdescription: Бесплатное преобразование DOTM в XLS с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

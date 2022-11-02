@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DIF,PPTM в DIF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DIF в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

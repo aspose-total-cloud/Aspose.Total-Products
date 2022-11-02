@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTM,XML в PPTM без конвертера или Curl sdkdescription: Бесплатная конверсия PPTM в XML с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

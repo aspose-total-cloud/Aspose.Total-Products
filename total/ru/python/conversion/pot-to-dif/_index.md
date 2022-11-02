@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DIF,POT в DIF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DIF в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

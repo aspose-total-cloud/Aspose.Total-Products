@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,PPTM в XLTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLTX в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

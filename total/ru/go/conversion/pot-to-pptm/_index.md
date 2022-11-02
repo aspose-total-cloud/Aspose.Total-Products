@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTM,POT в PPTM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPTM в POT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

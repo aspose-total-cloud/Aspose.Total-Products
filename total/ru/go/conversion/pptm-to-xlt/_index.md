@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLT,PPTM в XLT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLT в PPTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTM,OTP в POTM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия POTM в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

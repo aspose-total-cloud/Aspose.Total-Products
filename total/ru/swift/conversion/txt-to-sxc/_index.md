@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер TXT в SXC или Swift SDKdescription: Бесплатное преобразование TXT в SXC с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

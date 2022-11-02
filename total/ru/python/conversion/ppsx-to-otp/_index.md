@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в OTP,PPSX в OTP Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия OTP в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

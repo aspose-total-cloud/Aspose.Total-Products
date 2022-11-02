@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPTM,XLTX в PPTM без конвертера или Perl sdkdescription: Бесплатная конверсия PPTM в XLTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

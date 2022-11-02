@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XAML,PPTM в XAML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XAML в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

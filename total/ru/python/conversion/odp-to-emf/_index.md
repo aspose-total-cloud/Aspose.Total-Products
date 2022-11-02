@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в EMF,ODP в EMF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия EMF в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

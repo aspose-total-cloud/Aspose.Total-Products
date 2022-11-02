@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLT,XLSB в XLT без конвертера или CPP sdkdescription: Бесплатная конверсия XLT в XLSB с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

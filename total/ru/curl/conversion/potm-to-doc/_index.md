@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,POTM в DOC Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOC в POTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

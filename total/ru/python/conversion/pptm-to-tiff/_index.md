@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TIFF,PPTM в TIFF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия TIFF в PPTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в CSV,POT в CSV Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия CSV в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

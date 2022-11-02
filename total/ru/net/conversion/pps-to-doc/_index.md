@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOC,PPS в DOC Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия DOC в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

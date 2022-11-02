@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в RTF,XLSB в RTF без конвертера или CPP sdkdescription: Бесплатная конверсия RTF в XLSB с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

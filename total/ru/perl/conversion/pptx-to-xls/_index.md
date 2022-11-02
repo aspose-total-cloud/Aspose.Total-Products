@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLS,PPTX в XLS Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLS в PPTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

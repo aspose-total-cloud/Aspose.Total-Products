@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в MD,CSV в MD без конвертера или Python sdkdescription: Бесплатная конверсия MD в CSV с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

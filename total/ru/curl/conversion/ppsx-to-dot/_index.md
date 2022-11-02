@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOT,PPSX в DOT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOT в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

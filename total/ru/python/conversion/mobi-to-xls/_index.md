@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер MOBI в XLS или Python SDKdescription: Бесплатное преобразование MOBI в XLS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

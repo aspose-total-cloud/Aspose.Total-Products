@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,PPSM в BMP Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия BMP в PPSM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

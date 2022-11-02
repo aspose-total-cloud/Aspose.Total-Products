@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSX,OTP в PPSX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PPSX в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

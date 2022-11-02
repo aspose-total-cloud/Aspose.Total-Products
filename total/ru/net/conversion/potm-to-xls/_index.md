@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLS,POTM в XLS Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLS в POTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

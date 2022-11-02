@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,ODP в BMP Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия BMP в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

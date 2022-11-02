@@ -1,0 +1,1 @@
+---title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер DOTX в MD или CPP SDKdescription: Бесплатное преобразование DOTX в MD с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

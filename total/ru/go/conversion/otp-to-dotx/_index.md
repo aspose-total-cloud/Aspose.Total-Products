@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTX,OTP в DOTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOTX в OTP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

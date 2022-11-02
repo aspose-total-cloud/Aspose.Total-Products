@@ -1,0 +1,1 @@
+---title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер DOTM в ODT или Perl SDKdescription: Бесплатное преобразование DOTM в ODT с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

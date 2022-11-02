@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBI,PPTM в MOBI Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия MOBI в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

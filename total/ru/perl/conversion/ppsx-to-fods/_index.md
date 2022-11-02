@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,PPSX в FODS Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия FODS в PPSX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

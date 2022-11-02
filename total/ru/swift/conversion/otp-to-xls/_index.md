@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLS,OTP в XLS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLS в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

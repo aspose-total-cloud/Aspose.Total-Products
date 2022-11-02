@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в OTT,POT в OTT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия OTT в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

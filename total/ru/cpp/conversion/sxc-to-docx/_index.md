@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в DOCX,SXC в DOCX без конвертера или CPP sdkdescription: Бесплатная конверсия DOCX в SXC с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

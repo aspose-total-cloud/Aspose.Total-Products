@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTX,OTP в POTX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия POTX в OTP с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

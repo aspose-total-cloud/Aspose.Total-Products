@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в SXC,FODS в SXC без конвертера или Android sdkdescription: Бесплатная конверсия SXC в FODS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

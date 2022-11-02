@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLSM,PPSM в XLSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSM в PPSM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

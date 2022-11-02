@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в POTX,PPS в POTX Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия POTX в PPS с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

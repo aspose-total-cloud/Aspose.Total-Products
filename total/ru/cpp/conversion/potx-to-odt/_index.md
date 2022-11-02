@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в ODT,POTX в ODT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия ODT в POTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

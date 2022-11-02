@@ -1,0 +1,1 @@
+---title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер DOTM в DOCX или Ruby SDKdescription: Бесплатное преобразование DOTM в DOCX с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

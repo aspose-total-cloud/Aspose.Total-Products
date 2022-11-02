@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в BMP,PPS в BMP Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия BMP в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

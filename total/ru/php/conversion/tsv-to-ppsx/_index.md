@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PPSX,TSV в PPSX без конвертера или PHP sdkdescription: Бесплатная конверсия PPSX в TSV с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

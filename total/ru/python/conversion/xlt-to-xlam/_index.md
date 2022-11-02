@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLAM,XLT в XLAM без конвертера или Python sdkdescription: Бесплатная конверсия XLAM в XLT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

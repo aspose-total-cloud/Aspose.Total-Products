@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в SXC,ODS в SXC без конвертера или CPP sdkdescription: Бесплатная конверсия SXC в ODS с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в OTT,POTX в OTT Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия OTT в POTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

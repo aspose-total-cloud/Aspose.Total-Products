@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBI,POTM в MOBI Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия MOBI в POTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

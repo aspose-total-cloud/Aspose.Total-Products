@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер DOTM в PPSX или CPP SDKdescription: Бесплатное преобразование DOTM в PPSX с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

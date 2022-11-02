@@ -1,0 +1,1 @@
+---title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер TXT в CSV или CPP SDKdescription: Бесплатное преобразование TXT в CSV с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер DOCM в POT или Python SDKdescription: Бесплатное преобразование DOCM в POT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

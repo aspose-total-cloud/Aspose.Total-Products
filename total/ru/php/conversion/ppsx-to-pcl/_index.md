@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PCL,PPSX в PCL Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PCL в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

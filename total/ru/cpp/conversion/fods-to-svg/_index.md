@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в SVG,FODS в SVG без конвертера или CPP sdkdescription: Бесплатная конверсия SVG в FODS с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

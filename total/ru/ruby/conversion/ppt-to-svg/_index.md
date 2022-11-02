@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в SVG,PPT в SVG Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия SVG в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

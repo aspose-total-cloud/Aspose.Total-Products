@@ -1,0 +1,1 @@
+---title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер DOTM в SWF или Ruby SDKdescription: Бесплатное преобразование DOTM в SWF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

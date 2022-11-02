@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в GIF,POT в GIF Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия GIF в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

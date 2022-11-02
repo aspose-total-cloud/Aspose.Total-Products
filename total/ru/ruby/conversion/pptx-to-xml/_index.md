@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XML,PPTX в XML Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия XML в PPTX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

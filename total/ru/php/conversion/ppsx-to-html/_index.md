@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в HTML,PPSX в HTML Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия HTML в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

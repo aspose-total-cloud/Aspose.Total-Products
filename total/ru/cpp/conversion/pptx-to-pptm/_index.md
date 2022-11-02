@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPTM,PPTX в PPTM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPTM в PPTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

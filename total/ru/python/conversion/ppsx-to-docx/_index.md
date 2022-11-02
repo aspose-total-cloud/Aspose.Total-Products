@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOCX,PPSX в DOCX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOCX в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

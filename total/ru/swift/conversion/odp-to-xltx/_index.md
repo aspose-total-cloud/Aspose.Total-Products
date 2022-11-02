@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XLTX,ODP в XLTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLTX в ODP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

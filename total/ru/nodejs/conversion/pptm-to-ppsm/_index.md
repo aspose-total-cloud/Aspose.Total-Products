@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PPSM,PPTM в PPSM Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PPSM в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

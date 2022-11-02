@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XPS,XML в XPS без конвертера или Android sdkdescription: Бесплатная конверсия XPS в XML с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер DOTX в XLT или Net SDKdescription: Бесплатное преобразование DOTX в XLT с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

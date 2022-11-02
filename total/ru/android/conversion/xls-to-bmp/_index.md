@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в BMP,XLS в BMP без конвертера или Android sdkdescription: Бесплатная конверсия BMP в XLS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

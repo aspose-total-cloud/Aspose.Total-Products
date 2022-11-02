@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XLS,ODS в XLS без конвертера или Android sdkdescription: Бесплатная конверсия XLS в ODS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

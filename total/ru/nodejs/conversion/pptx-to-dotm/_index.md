@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в DOTM,PPTX в DOTM Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOTM в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

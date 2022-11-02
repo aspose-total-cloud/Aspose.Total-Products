@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в FODS,ODP в FODS Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия FODS в ODP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
