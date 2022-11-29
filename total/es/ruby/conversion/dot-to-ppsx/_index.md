@@ -1,0 +1,1 @@
+---title: Convertir palabra a PPSX, DOT a PPSX FREE Converter o Ruby SDKdescription: Conversión gratuita de DOT a PPSX usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

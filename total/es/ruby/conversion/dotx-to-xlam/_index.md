@@ -1,0 +1,1 @@
+---title: Convertir palabra a XLAM, DOTX a XLAM FREE Converter o Ruby SDKdescription: Conversión gratuita de DOTX a XLAM usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

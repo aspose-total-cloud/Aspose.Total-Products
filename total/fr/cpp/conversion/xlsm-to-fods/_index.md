@@ -1,0 +1,1 @@
+---title: Convertir Excel en FODS, XLSM à FODS Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de XLSM à FODS en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

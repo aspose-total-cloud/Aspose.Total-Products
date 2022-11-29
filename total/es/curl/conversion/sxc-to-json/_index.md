@@ -1,0 +1,1 @@
+---title: Convertir Excel a JSON, SXC a JSON FREE Converter o Curl SDKdescription: Conversión gratuita de SXC a JSON usando Curl API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

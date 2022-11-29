@@ -1,0 +1,1 @@
+---title: Convertir palabra a SVG, HTML a SVG FREE Converter o CPP SDKdescription: Conversión gratuita de HTML a SVG usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

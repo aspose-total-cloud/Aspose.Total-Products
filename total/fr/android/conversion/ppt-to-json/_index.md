@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en JSON, PPT à JSON Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPT à JSON en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

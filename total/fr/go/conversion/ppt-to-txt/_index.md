@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en TXT, PPT à TXT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPT à TXT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir Word en POTX, DOTX à POTX Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de DOTX à POTX en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

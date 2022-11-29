@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en TSV, POTX à TSV Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de POTX à TSV en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

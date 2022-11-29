@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en POTX, PPSM à POTX Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPSM à POTX en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

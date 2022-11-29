@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a XLT, POTX a XLT FREE Converter o Ruby SDKdescription: Conversión gratuita de POTX a XLT usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

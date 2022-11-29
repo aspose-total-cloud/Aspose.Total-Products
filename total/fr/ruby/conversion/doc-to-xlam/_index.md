@@ -1,0 +1,1 @@
+---title: Convertir Word en XLAM, DOC à XLAM Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOC à XLAM en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

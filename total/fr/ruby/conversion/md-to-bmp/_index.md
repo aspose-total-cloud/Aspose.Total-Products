@@ -1,0 +1,1 @@
+---title: Convertir Word en BMP, MD à BMP Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de MD à BMP en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

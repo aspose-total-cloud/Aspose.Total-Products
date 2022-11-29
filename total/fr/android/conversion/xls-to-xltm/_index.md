@@ -1,0 +1,1 @@
+---title: Convertir Excel en XLTM, XLS à XLTM Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de XLS à XLTM en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

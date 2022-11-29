@@ -1,0 +1,1 @@
+---title: Convertir Word en TIFF, DOTX à TIFF Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de DOTX à TIFF en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

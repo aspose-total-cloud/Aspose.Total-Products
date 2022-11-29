@@ -1,0 +1,1 @@
+---title: Convertir Word en PPTM, DOT à PPTM Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de DOT à PPTM en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en BMP, POTX à BMP Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POTX à BMP en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a ODS, PPSX a ODS FREE Converter o Ruby SDKdescription: Conversión gratuita de PPSX a ODS usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

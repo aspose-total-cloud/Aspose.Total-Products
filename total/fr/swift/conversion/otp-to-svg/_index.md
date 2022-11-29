@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en SVG, OTP à SVG Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de OTP à SVG en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

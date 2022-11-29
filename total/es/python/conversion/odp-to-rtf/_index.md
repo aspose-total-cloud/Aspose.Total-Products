@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a RTF, ODP a RTF FREE Converter o Python SDKdescription: Conversión gratuita de ODP a RTF usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

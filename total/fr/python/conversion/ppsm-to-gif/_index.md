@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en GIF, PPSM à GIF Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPSM à GIF en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a SWF, POT a SWF FREE Converter o Ruby SDKdescription: Conversión gratuita de POT a SWF usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

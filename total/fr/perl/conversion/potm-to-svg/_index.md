@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en SVG, POTM à SVG Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de POTM à SVG en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

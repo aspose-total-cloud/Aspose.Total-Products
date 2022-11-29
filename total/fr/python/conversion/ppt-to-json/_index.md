@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en JSON, PPT à JSON Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPT à JSON en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

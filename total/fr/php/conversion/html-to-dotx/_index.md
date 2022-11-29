@@ -1,0 +1,1 @@
+---title: Convertir Word en DOTX, HTML à DOTX Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de HTML à DOTX en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir Excel en SXC, XLT à SXC Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de XLT à SXC en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

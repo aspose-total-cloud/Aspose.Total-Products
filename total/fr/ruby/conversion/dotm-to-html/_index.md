@@ -1,0 +1,1 @@
+---title: Convertir Word en HTML, DOTM à HTML Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOTM à HTML en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

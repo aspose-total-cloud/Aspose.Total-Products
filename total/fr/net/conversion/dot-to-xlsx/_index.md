@@ -1,0 +1,1 @@
+---title: Convertir Word en XLSX, DOT à XLSX Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOT à XLSX en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

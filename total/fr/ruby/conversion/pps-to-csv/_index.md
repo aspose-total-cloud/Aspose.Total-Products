@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en CSV, PPS à CSV Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPS à CSV en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

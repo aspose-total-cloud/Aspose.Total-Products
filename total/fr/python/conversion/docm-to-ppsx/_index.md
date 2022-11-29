@@ -1,0 +1,1 @@
+---title: Convertir Word en PPSX, DOCM à PPSX Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOCM à PPSX en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

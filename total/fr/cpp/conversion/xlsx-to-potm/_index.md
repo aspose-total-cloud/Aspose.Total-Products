@@ -1,0 +1,1 @@
+---title: Convertir Excel en POTM, XLSX à POTM Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de XLSX à POTM en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

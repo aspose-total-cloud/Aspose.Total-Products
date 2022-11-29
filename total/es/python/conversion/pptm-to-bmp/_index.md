@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a BMP, PPTM a BMP FREE Converter o Python SDKdescription: Conversión gratuita de PPTM a BMP usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

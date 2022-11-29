@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en POTX, PPSX à POTX Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPSX à POTX en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

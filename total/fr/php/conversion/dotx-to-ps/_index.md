@@ -1,0 +1,1 @@
+---title: Convertir Word en PS, DOTX à PS Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOTX à PS en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

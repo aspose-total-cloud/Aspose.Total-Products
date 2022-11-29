@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a DOC, PPTM a DOC FREE Converter o Ruby SDKdescription: Conversión gratuita de PPTM a DOC usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

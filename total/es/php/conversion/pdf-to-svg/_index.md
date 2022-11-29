@@ -1,0 +1,1 @@
+---title: Convertir palabra a SVG, PDF a SVG FREE Converter o PHP SDKdescription: Conversión gratuita de PDF a SVG usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

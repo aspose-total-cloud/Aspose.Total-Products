@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en JSON, POTX à JSON Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POTX à JSON en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir palabra a TXT, DOTX a TXT FREE Converter o Swift SDKdescription: Conversión gratuita de DOTX a TXT usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

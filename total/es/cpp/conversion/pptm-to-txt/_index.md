@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a TXT, PPTM a TXT FREE Converter o CPP SDKdescription: Conversión gratuita de PPTM a TXT usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

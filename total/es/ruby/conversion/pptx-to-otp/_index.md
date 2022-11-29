@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a OTP, PPTX a OTP FREE Converter o Ruby SDKdescription: Conversión gratuita de PPTX a OTP usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

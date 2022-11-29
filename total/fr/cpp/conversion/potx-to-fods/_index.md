@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en FODS, POTX à FODS Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de POTX à FODS en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

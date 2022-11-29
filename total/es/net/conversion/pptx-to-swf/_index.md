@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a SWF, PPTX a SWF FREE Converter o Net SDKdescription: Conversión gratuita de PPTX a SWF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

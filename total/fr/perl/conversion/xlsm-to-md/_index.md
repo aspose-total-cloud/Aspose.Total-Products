@@ -1,0 +1,1 @@
+---title: Convertir Excel en MD, XLSM à MD Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de XLSM à MD en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

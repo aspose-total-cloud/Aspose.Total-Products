@@ -1,0 +1,1 @@
+---title: Convertir Excel en JSON, XLSX à JSON Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de XLSX à JSON en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

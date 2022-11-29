@@ -1,0 +1,1 @@
+---title: Convertir Word en FODS, DOCM à FODS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOCM à FODS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

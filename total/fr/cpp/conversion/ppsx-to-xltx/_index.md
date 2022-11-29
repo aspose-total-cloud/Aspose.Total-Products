@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en XLTX, PPSX à XLTX Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de PPSX à XLTX en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

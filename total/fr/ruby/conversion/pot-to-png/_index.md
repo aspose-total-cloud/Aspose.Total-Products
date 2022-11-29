@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en PNG, POT à PNG Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de POT à PNG en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

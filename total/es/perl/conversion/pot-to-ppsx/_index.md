@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a PPSX, POT a PPSX FREE Converter o Perl SDKdescription: Conversión gratuita de POT a PPSX usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

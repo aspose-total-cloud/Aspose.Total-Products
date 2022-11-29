@@ -1,0 +1,1 @@
+---title: Convertir Excel en XML, XLSM à XML Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de XLSM à XML en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

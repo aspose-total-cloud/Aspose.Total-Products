@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a SVG, POT a SVG FREE Converter o Perl SDKdescription: Conversión gratuita de POT a SVG usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

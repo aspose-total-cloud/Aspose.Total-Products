@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en DOCX, POTX à DOCX Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de POTX à DOCX en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

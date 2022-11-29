@@ -1,0 +1,1 @@
+---title: Convertir Excel en XLAM, XLSM à XLAM Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de XLSM à XLAM en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

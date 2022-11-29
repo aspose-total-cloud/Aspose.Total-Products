@@ -1,0 +1,1 @@
+---title: Convertir Word en BMP, DOC à BMP Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de DOC à BMP en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

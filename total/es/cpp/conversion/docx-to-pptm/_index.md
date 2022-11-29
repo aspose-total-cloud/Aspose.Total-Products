@@ -1,0 +1,1 @@
+---title: Convertir palabra a PPTM, DOCX a PPTM FREE Converter o CPP SDKdescription: Conversión gratuita de DOCX a PPTM usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

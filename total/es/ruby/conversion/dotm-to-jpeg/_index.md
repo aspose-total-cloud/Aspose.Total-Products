@@ -1,0 +1,1 @@
+---title: Convertir palabra a JPEG, DOTM a JPEG FREE Converter o Ruby SDKdescription: Conversión gratuita de DOTM a JPEG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

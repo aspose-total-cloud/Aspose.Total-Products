@@ -1,0 +1,1 @@
+---title: Convertir Word en DOTM, DOC à DOTM Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de DOC à DOTM en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

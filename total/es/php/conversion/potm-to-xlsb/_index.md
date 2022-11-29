@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a XLSB, POTM a XLSB FREE Converter o PHP SDKdescription: Conversión gratuita de POTM a XLSB usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

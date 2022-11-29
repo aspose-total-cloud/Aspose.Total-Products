@@ -1,0 +1,1 @@
+---title: Convertir Word en TIFF, TXT à TIFF Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de TXT à TIFF en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

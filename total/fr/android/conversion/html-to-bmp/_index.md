@@ -1,0 +1,1 @@
+---title: Convertir Word en BMP, HTML à BMP Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de HTML à BMP en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

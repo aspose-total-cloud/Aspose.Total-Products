@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en FODS, PPSX à FODS Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPSX à FODS en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

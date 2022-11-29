@@ -1,0 +1,1 @@
+---title: Convertir Excel en TIFF, XLSX à TIFF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de XLSX à TIFF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

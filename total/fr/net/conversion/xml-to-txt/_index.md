@@ -1,0 +1,1 @@
+---title: Convertir Excel en TXT, XML à TXT Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de XML à TXT en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

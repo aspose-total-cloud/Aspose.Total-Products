@@ -1,0 +1,1 @@
+---title: PowerPoint をPPTに、PPTX を PPT に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、PPTX を PPT に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

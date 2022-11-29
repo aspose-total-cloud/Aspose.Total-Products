@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en GIF, PPSX à GIF Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPSX à GIF en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

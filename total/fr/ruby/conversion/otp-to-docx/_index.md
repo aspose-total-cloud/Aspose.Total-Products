@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en DOCX, OTP à DOCX Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTP à DOCX en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

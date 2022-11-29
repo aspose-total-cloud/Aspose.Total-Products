@@ -1,0 +1,1 @@
+---title: Convertir Excel en SVG, XLTM à SVG Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de XLTM à SVG en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

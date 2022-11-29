@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en PS, PPSX à PS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPSX à PS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

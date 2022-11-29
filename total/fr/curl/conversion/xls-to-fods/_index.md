@@ -1,0 +1,1 @@
+---title: Convertir Excel en FODS, XLS à FODS Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de XLS à FODS en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

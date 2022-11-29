@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a RTF, POTX a RTF FREE Converter o Curl SDKdescription: Conversión gratuita de POTX a RTF usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

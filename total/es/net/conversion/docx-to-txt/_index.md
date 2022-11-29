@@ -1,0 +1,1 @@
+---title: Convertir palabra a TXT, DOCX a TXT FREE Converter o Net SDKdescription: Conversión gratuita de DOCX a TXT usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

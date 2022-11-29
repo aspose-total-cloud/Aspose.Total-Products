@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a GIF, PPSX a GIF FREE Converter o Python SDKdescription: Conversión gratuita de PPSX a GIF usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

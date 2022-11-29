@@ -1,0 +1,1 @@
+---title: Convertir Excel en DOT, XLSM à DOT Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de XLSM à DOT en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

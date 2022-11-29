@@ -1,0 +1,1 @@
+---title: Convertir Excel en SXC, XLSM à SXC Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de XLSM à SXC en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

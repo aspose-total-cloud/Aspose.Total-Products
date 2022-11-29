@@ -1,0 +1,1 @@
+---title: Convertir Excel en ODS, SXC à ODS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de SXC à ODS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

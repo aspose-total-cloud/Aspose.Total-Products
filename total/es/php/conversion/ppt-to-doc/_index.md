@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a DOC, PPT a DOC FREE Converter o PHP SDKdescription: Conversión gratuita de PPT a DOC usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

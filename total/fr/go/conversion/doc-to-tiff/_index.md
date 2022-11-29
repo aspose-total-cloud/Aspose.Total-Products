@@ -1,0 +1,1 @@
+---title: Convertir Word en TIFF, DOC à TIFF Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de DOC à TIFF en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

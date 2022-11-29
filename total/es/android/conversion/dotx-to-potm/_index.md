@@ -1,0 +1,1 @@
+---title: Convertir palabra a POTM, DOTX a POTM FREE Converter o Android SDKdescription: Conversión gratuita de DOTX a POTM usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

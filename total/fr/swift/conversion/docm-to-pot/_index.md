@@ -1,0 +1,1 @@
+---title: Convertir Word en POT, DOCM à POT Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de DOCM à POT en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

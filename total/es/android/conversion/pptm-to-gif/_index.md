@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a GIF, PPTM a GIF FREE Converter o Android SDKdescription: Conversión gratuita de PPTM a GIF usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en TIFF, POTM à TIFF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de POTM à TIFF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

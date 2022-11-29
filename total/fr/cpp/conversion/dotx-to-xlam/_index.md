@@ -1,0 +1,1 @@
+---title: Convertir Word en XLAM, DOTX à XLAM Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de DOTX à XLAM en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

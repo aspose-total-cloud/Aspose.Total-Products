@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en GIF, POTM à GIF Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de POTM à GIF en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

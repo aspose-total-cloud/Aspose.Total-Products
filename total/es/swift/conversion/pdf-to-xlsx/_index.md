@@ -1,0 +1,1 @@
+---title: Convertir palabra a XLSX, PDF a XLSX FREE Converter o Swift SDKdescription: Conversión gratuita de PDF a XLSX usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

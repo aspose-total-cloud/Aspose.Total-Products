@@ -1,0 +1,1 @@
+---title: Convertir Word en XLSM, DOC à XLSM Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOC à XLSM en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a PNG, POTX a PNG FREE Converter o CPP SDKdescription: Conversión gratuita de POTX a PNG usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,0 +1,1 @@
+---title: Word をFODSに、DOC を FODS に変換 無料のコンバーターまたはAndroid SDKdescription: Androidのクラウド API と SDK を使用して、DOC を FODS に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

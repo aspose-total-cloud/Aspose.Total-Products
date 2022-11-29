@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en DOCM, PPSX à DOCM Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPSX à DOCM en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

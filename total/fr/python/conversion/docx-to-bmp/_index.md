@@ -1,0 +1,1 @@
+---title: Convertir Word en BMP, DOCX à BMP Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOCX à BMP en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

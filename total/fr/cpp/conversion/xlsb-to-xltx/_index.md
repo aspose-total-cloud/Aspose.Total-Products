@@ -1,0 +1,1 @@
+---title: Convertir Excel en XLTX, XLSB à XLTX Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de XLSB à XLTX en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en XLS, PPSX à XLS Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de PPSX à XLS en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

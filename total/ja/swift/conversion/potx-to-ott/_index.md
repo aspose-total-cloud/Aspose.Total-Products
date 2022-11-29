@@ -1,0 +1,1 @@
+---title: PowerPoint をOTTに、POTX を OTT に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、POTX を OTT に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

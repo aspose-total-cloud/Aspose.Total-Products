@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en TIFF, POTM à TIFF Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de POTM à TIFF en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

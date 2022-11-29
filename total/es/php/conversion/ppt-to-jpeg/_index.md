@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a JPEG, PPT a JPEG FREE Converter o PHP SDKdescription: Conversión gratuita de PPT a JPEG usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

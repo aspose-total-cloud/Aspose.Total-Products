@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a CSV, PPTM a CSV FREE Converter o Net SDKdescription: Conversión gratuita de PPTM a CSV usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

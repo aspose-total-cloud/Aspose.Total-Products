@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a MD, POTX a MD FREE Converter o Curl SDKdescription: Conversión gratuita de POTX a MD usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

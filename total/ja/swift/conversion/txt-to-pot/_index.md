@@ -1,0 +1,1 @@
+---title: Word をPOTに、TXT を POT に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、TXT を POT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

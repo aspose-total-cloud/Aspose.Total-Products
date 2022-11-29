@@ -1,0 +1,1 @@
+---title: Convertir Excel a JSON, XLTM a JSON FREE Converter o Perl SDKdescription: Conversión gratuita de XLTM a JSON usando Perl API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

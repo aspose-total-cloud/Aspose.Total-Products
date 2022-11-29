@@ -1,0 +1,1 @@
+---title: Convertir Word en SVG, TXT à SVG Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de TXT à SVG en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

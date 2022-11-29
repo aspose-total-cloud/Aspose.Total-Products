@@ -1,0 +1,1 @@
+---title: Convertir Word en XLSX, OTT à XLSX Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de OTT à XLSX en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

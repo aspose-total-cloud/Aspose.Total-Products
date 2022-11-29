@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en ODS, PPSM à ODS Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de PPSM à ODS en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

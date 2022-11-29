@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a XLS, PPSM a XLS FREE Converter o Net SDKdescription: Conversión gratuita de PPSM a XLS usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

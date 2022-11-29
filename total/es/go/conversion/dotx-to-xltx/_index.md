@@ -1,0 +1,1 @@
+---title: Convertir palabra a XLTX, DOTX a XLTX FREE Converter o GO SDKdescription: Conversión gratuita de DOTX a XLTX usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

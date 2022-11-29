@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a TXT, PPSM a TXT FREE Converter o Nodejs SDKdescription: Conversión gratuita de PPSM a TXT usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

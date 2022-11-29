@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en TXT, PPTX à TXT Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de PPTX à TXT en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

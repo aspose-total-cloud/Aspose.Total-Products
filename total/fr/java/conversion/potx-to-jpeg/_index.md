@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en JPEG, POTX à JPEG Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de POTX à JPEG en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a GIF, POTX a GIF FREE Converter o PHP SDKdescription: Conversión gratuita de POTX a GIF usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

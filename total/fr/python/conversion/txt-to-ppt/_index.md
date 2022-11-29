@@ -1,0 +1,1 @@
+---title: Convertir Word en PPT, TXT à PPT Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de TXT à PPT en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

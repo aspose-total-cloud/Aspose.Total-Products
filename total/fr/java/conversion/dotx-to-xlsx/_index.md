@@ -1,0 +1,1 @@
+---title: Convertir Word en XLSX, DOTX à XLSX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de DOTX à XLSX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir Word en SXC, DOCX à SXC Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOCX à SXC en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

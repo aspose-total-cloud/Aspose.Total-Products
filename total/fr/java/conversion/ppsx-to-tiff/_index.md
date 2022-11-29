@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en TIFF, PPSX à TIFF Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPSX à TIFF en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir Word en XLTX, DOCM à XLTX Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOCM à XLTX en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

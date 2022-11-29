@@ -1,0 +1,1 @@
+---title: Convertir Excel a FODS, XLT a FODS FREE Converter o Android SDKdescription: Conversión gratuita de XLT a FODS usando Android API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

@@ -1,0 +1,1 @@
+---title: Convertir Excel en RTF, XLTX à RTF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de XLTX à RTF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

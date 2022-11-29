@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en DOC, PPS à DOC Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPS à DOC en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

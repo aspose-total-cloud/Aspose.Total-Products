@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en SVG, POT à SVG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POT à SVG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
