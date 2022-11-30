@@ -1,79 +1,79 @@
 ﻿---
-title: Cloud based Document manipulation SDKs with JSON response 
-description: Platform independent Cloud SDKs offering File Format manipulation capabilities for Word Excel PDF PowerPoint Barcode MS-Project Email Image HTML Video files.
+title: JSON 応答を使用したクラウドベースのドキュメント操作 SDK
+description: Word Excel PDF PowerPoint Barcode MS-Project Email Image HTML Video ファイルのファイル形式操作機能を提供する、プラットフォームに依存しない Cloud SDK。
 weight: 10
 url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Office Documents in Cloud" h2="Cloud SDKs to Manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 other file formats in any type of application." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
+{{< blocks/products/pf/upper-banner h1="クラウドで Office ドキュメントを操作する" h2="Word、Excel、PDF、PowerPoint、Outlook、Visio、およびあらゆる種類のアプリケーションで 100 を超えるその他のファイル形式を操作するためのクラウド SDK。" logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/product-logos/aspose_total-for-cloud.svg" liveDemosLink="https://products.aspose.app" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud/" docsLink="https://docs.aspose.cloud/total/" directDownloadLink="https://releases.aspose.cloud/" pfName="Aspose.Total" subTitlepfName="Cloud Product Family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/product-logos/aspose_total-for-cloud.svg" liveDemosLink="https://products.aspose.app" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud/" docsLink="https://docs.aspose.cloud/total/" directDownloadLink="https://releases.aspose.cloud/" pfName="Aspose.Total" subTitlepfName="クラウド製品ファミリー" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud offers REST based SDKs providing the capabilities for document generation, conversion and automation platform. Use our award winning SDKs and perform all these operations in the cloud. It makes easier for the Web and Mobile application developers to work with Microsoft Word documents, Excel spreadsheets, PowerPoint presentations, Adobe PDFs, OpenDocument formats, Barcodes, OCR, Microsoft Visio Diagrams and Email formats & protocols in their apps. The SDKs can be called from any platform: .NET, Java, Ruby, Salesforce, and Amazon etc. 
+{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud は、ドキュメントの生成、変換、および自動化プラットフォームの機能を提供する REST ベースの SDK を提供します。 受賞歴のある SDK を使用して、これらすべての操作をクラウドで実行します。 Web およびモバイル アプリケーションの開発者は、Microsoft Word ドキュメント、Excel スプレッドシート、PowerPoint プレゼンテーション、Adobe PDF、OpenDocument 形式、バーコード、OCR、Microsoft Visio ダイアグラム、および電子メール形式とプロトコルをアプリで簡単に操作できます。 SDK は、.NET、Java、Ruby、Salesforce、Amazon など、任意のプラットフォームから呼び出すことができます。
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total Cloud includes following document manipulation SDKs:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total Cloud には、次のドキュメント操作 SDK が含まれています。" >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Words Cloud Product Family" imgSrc="/product-logos/aspose_words-for-cloud.svg" href="/words/family/" >}}
-A set of platform independent Word document manipulation SDKs, that can be used on any language supporting HTTP requests. Create, modify and convert Word documents in the cloud. It supports DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB and many other formats.
+{{< blocks/products/pf/total/product-item productName="Aspose.Words Cloud 製品ファミリー" imgSrc="/product-logos/aspose_words-for-cloud.svg" href="/words/family/" >}}
+HTTP 要求をサポートする任意の言語で使用できる、プラットフォームに依存しない Word ドキュメント操作 SDK のセット。 クラウドで Word ドキュメントを作成、変更、変換します。 DOC、DOCX、OOXML、RTF、HTML、OpenDocument、PDF、XPS、EPUB、その他多くの形式をサポートしています。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.PDF Cloud Product Family" imgSrc="/product-logos/aspose_pdf-for-cloud.svg" href="/pdf/family/" >}}
-Aspose.PDF Cloud provides platform independent - true REST based SDKs for creating, modifying, managing and converting PDF files over web, desktop, mobile and cloud platforms. Developers can easily read, write, convert and manipulate PDF documents in the cloud.
+{{< blocks/products/pf/total/product-item productName="Aspose.PDF クラウド製品ファミリ" imgSrc="/product-logos/aspose_pdf-for-cloud.svg" href="/pdf/family/" >}}
+Aspose.PDF Cloud は、Web、デスクトップ、モバイル、およびクラウド プラットフォーム上で PDF ファイルを作成、変更、管理、および変換するための、プラットフォームに依存しない真の REST ベースの SDK を提供します。 開発者は、クラウドで PDF ドキュメントの読み取り、書き込み、変換、操作を簡単に行うことができます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Cells Cloud Product Family" imgSrc="/product-logos/aspose_cells-for-cloud.svg" href="/cells/family/" >}}
-Aspose.Cells Cloud offers REST based SDKs with features to create, modify, manage and convert Excel spreadsheets formats including XLS, XLSX, XLSM, XLTX, XLTM and ODS as well as CSV, TSV & HTML.
+{{< blocks/products/pf/total/product-item productName="Aspose.Cells Cloud 製品ファミリー" imgSrc="/product-logos/aspose_cells-for-cloud.svg" href="/cells/family/" >}}
+Aspose.Cells Cloud は、XLS、XLSX、XLSM、XLTX、XLTM、ODS、CSV、TSV、HTML などの Excel スプレッドシート フォーマットを作成、変更、管理、変換する機能を備えた REST ベースの SDK を提供します。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Email Cloud Product Family" imgSrc="/product-logos/aspose_email-for-cloud.svg" href="/email/family/" >}}
-Aspose.Email Cloud allows email message processing in cloud-based applications. True REST based SDKs can be used with any language and on any platform with native support for Outlook message format such as MSG as well as EML & MHTML formats.
+{{< blocks/products/pf/total/product-item productName="Aspose.Email Cloud 製品ファミリ" imgSrc="/product-logos/aspose_email-for-cloud.svg" href="/email/family/" >}}
+Aspose.Email Cloud を使用すると、クラウドベースのアプリケーションで電子メール メッセージを処理できます。 真の REST ベースの SDK は、MSG や EML および MHTML 形式などの Outlook メッセージ形式をネイティブにサポートする任意の言語およびプラットフォームで使用できます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Slides Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/slides/family/" >}}
-Offers unique PowerPoint management SDKs that enable you to read, write, convert and manipulate PowerPoint presentations in the cloud. It supports most popular presentation formats including PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP and many more.
+{{< blocks/products/pf/total/product-item productName="Aspose.Slides Cloud 製品ファミリー" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/slides/family/" >}}
+クラウドで PowerPoint プレゼンテーションの読み取り、書き込み、変換、および操作を可能にする独自の PowerPoint 管理 SDK を提供します。 PPT、PPTX、PPS、PPSX、PPTM、PPSM、POTX、POTM、ODP など、最も一般的なプレゼンテーション形式をサポートしています。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Imaging Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/imaging/family/" >}}
-Aspose.Imaging Cloud provides imaging SDKs, enabling the developers to manipulate & convert image in their applications. These are developed on top of REST APIs and can be used with any language and on any platform. The SDKs support reading & writing raster image formats including PNG, GIF, BMP, TIFF and JPEG. 
+{{< blocks/products/pf/total/product-item productName="Aspose.Imaging Cloud 製品ファミリ" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/imaging/family/" >}}
+Aspose.Imaging Cloud はイメージング SDK を提供し、開発者がアプリケーションで画像を操作および変換できるようにします。 これらは REST API の上に開発されており、任意の言語および任意のプラットフォームで使用できます。 SDK は、PNG、GIF、BMP、TIFF、JPEG などのラスター イメージ形式の読み取りと書き込みをサポートします。 
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.BarCode Cloud Product Family" imgSrc="/product-logos/aspose_barcode-for-cloud.svg" href="/barcode/family/" >}}
-Aspose.BarCode Cloud enables the developers to quickly and easily add barcode generation and recognition functionalities to their applications. These SDKs are developed on top of true REST APIs, therefore can be used with any language and on any platform.
+{{< blocks/products/pf/total/product-item productName="Aspose.BarCode Cloud 製品ファミリ" imgSrc="/product-logos/aspose_barcode-for-cloud.svg" href="/barcode/family/" >}}
+Aspose.BarCode Cloud を使用すると、開発者はバーコード生成および認識機能をアプリケーションにすばやく簡単に追加できます。 これらの SDK は真の REST API を基に開発されているため、あらゆる言語やプラットフォームで使用できます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Diagram Cloud Product Family" imgSrc="/product-logos/aspose_diagram-for-cloud.svg" href="/diagram/family/" >}}
-Create applications providing the capabilities to Create, Manipulate or Convert Microsoft Visio Diagrams. Platform independence and Cloud computing powers of Cloud SDKs enable you to use our SDKs on any platform, that is capable of calling REST APIs.
+{{< blocks/products/pf/total/product-item productName="Aspose.Diagram Cloud 製品ファミリ" imgSrc="/product-logos/aspose_diagram-for-cloud.svg" href="/diagram/family/" >}}
+Microsoft Visio ダイアグラムを作成、操作、または変換する機能を提供するアプリケーションを作成します。 Cloud SDK のプラットフォーム非依存性とクラウド コンピューティング能力により、REST API を呼び出すことができる任意のプラットフォームで SDK を使用できます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Tasks Cloud Product Family" imgSrc="/product-logos/aspose_tasks-for-cloud.svg" href="/tasks/family/" >}}
-Aspose.Tasks Cloud Product family is a set of REST based SDKs providing the features for manipulating Microsoft Project files, as well as the project data including Tasks, Resources, Task links and Assignments in the cloud. 
+{{< blocks/products/pf/total/product-item productName="Aspose.Tasks Cloud 製品ファミリ" imgSrc="/product-logos/aspose_tasks-for-cloud.svg" href="/tasks/family/" >}}
+Aspose.Tasks Cloud 製品ファミリは、REST ベースの SDK のセットであり、Microsoft Project ファイルを操作するための機能と、クラウド内のタスク、リソース、タスク リンク、および割り当てを含むプロジェクト データを提供します。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.OCR Cloud Product Family" imgSrc="/product-logos/aspose_ocr-for-cloud.svg" href="/ocr/family/" >}}
-Aspose.OCR Cloud provides Optical Character Recognition SDKs that allow developers to add OCR functionality to their applications. These are true REST based SDKs can can be used with any language and on any platform.
+{{< blocks/products/pf/total/product-item productName="Aspose.OCR クラウド製品ファミリ" imgSrc="/product-logos/aspose_ocr-for-cloud.svg" href="/ocr/family/" >}}
+Aspose.OCR Cloud は、開発者がアプリケーションに OCR 機能を追加できるようにする光学式文字認識 SDK を提供します。 これらは真の REST ベースの SDK であり、あらゆる言語やプラットフォームで使用できます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.OMR Cloud Product Family" imgSrc="/product-logos/aspose_omr-for-cloud.svg" href="/omr/family/" >}}
-Empowers the developers to add Optical Mark Recognition functionality to their applications. The SDKs allow reading human-marked data from scans or photos of document forms such as surveys & questionnaires, whereas responses are delivered in JSON format.
+{{< blocks/products/pf/total/product-item productName="Aspose.OMR クラウド製品ファミリ" imgSrc="/product-logos/aspose_omr-for-cloud.svg" href="/omr/family/" >}}
+開発者が光学式マーク認識機能をアプリケーションに追加できるようにします。 SDK を使用すると、アンケートやアンケートなどのドキュメント フォームのスキャンまたは写真から人間がマークしたデータを読み取ることができますが、応答は JSON 形式で配信されます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.CAD Cloud Product Family" imgSrc="/product-logos/aspose_cad-for-cloud.svg" href="/cad/family/" >}}
-Aspose.CAD Cloud enables the developers to convert popular AutoCAD formats including (DWG, DXF etc) to PDF and Raster images. The SDK does does not require AutoCAD or any other software to be installed.
+{{< blocks/products/pf/total/product-item productName="Aspose.CAD クラウド製品ファミリ" imgSrc="/product-logos/aspose_cad-for-cloud.svg" href="/cad/family/" >}}
+Aspose.CAD Cloud を使用すると、開発者は一般的な AutoCAD フォーマット (DWG、DXF など) を PDF およびラスター イメージに変換できます。 SDK では、AutoCAD またはその他のソフトウェアをインストールする必要はありません。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud Product Family" imgSrc="/product-logos/aspose_3d-for-cloud.svg" href="/3d/family/" >}}
-Aspose.3D Cloud helps you fetch 3D objects, models & entities stored on the cloud and perform various operations such as rotation, scaling, transformation, translation, and conversion from one 3D format to another.
+{{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud 製品ファミリ" imgSrc="/product-logos/aspose_3d-for-cloud.svg" href="/3d/family/" >}}
+Aspose.3D Cloud は、クラウドに保存された 3D オブジェクト、モデル、およびエンティティをフェッチし、回転、スケーリング、変換、変換、ある 3D フォーマットから別の 3D フォーマットへの変換などのさまざまな操作を実行するのに役立ちます。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.HTML Cloud Product Family" imgSrc="/product-logos/aspose_html-for-cloud.svg" href="/html/family/" >}}
-A collection of SDKs developed on top of true REST APIs, enabling you to perform a wide range of file processing operations including creation, manipulation, conversion and rendering of HTML file in the cloud. Also support HTML conversion to fixed layout document formats such as PDF, XPS and image formats.
+{{< blocks/products/pf/total/product-item productName="Aspose.HTML Cloud 製品ファミリ" imgSrc="/product-logos/aspose_html-for-cloud.svg" href="/html/family/" >}}
+真の REST API の上に開発された SDK のコレクションで、クラウドでの HTML ファイルの作成、操作、変換、レンダリングなど、さまざまなファイル処理操作を実行できます。 PDF、XPS、画像形式などの固定レイアウト ドキュメント形式への HTML 変換もサポートします。
 {{< /blocks/products/pf/total/product-item  >}}
 
-{{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud Product Family" imgSrc="/product-logos/aspose_video-for-cloud.svg" href="/video/family/" >}}
-Aspose.Video Cloud offers a complete range of SDKs, developed on top of true REST APIs, and they enable you to edit video file properties such as FPS, aspect ratio and resolution. Besides files manipulation, they also enable you to convert the video files to different supported formats and also re-encode them with the different video codecs.
+{{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud 製品ファミリ" imgSrc="/product-logos/aspose_video-for-cloud.svg" href="/video/family/" >}}
+Aspose.Video Cloud は、真の REST API の上に開発された幅広い SDK を提供し、FPS、アスペクト比、解像度などのビデオ ファイル プロパティを編集できるようにします。 ファイルの操作に加えて、ビデオ ファイルをサポートされているさまざまな形式に変換したり、さまざまなビデオ コーデックで再エンコードしたりすることもできます。
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< /blocks/products/pf/total/products >}}
@@ -83,98 +83,98 @@ Aspose.Video Cloud offers a complete range of SDKs, developed on top of true RES
  <a class="anchor" id="features" name="features">
   <div class="row">
   <div class="container">
-<h2 class="h2title"></a> Advanced Features of Aspose.Total Cloud SDKs</h2>
-<p>Delivering our very best, and getting better with each release.</p>
+<h2 class="h2title"></a> Aspose.Total Cloud SDK の高度な機能</h2>
+<p>最高のサービスを提供し、リリースごとに改善します。</p>
 <div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert documents to images</p>
+<p class="col-lg-10">ドキュメントを画像に変換</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-envelope ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Perform mail merge</p>
+<p class="col-lg-10">差し込み印刷を実行する</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-word-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert Microsoft Office, Acrobat PDF, OpenDocument and many other formats</p>
+<div class="col-lg-4"><em class="fa fa-file-word-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Microsoft Office、Acrobat PDF、OpenDocument、その他多くの形式を変換</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-barcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Add barcodes to Word documents</p>
+<p class="col-lg-10">Word 文書にバーコードを追加する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-line-chart ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate reports using mail merge</p>
+<p class="col-lg-10">差し込み印刷を使用してレポートを生成する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Build dynamic Excel reports on the fly</p>
+<p class="col-lg-10">その場で動的な Excel レポートを作成する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">High-fidelity rendering</p>
+<p class="col-lg-10">忠実度の高いレンダリング</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create documents from scratch</p>
+<p class="col-lg-10">ドキュメントをゼロから作成する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-code ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Transform XML to PDF</p>
+<p class="col-lg-10">XML を PDF に変換</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert images to PDF</p>
+<p class="col-lg-10">画像を PDF に変換</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create slides</p>
+<p class="col-lg-10">スライドを作成する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Configure Visio TimeLine shapes</p>
+<p class="col-lg-10">Visio TimeLine 図形を構成する</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Replace or extract text from PDF documents</p>
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">PDF ドキュメントからテキストを置換または抽出する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-image-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Remove, replace or extract images from PDF</p>
+<p class="col-lg-10">PDF から画像を削除、置換、または抽出する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Get information about images in PDF documents</p>
+<p class="col-lg-10">PDF ドキュメント内の画像に関する情報を取得する</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-save  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate barcode images</p>
+<div class="col-lg-4"><em class="fa fa-save ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">バーコード画像を生成する</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-qrcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize barcodes from images</p>
+<p class="col-lg-10">画像からバーコードを認識する</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-text-width  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract text from images</p>
-</div>
-<div class="col-lg-12">
-<h2 class="h2title">Conveniently Transform Files</h2>
-<p>Aspose Cloud SKDs enable you to equip your application with file format conversion & manipulation capabilities in an easy way so that you could perform file format processing without plunging yourself in the complexities of any format's underlying implementation.</p>
-<p>It lets you perform a number of operations such saving quotes to the PDF documents or extracting data as spreadsheets, in order serve the contents in a format that best suits your users.</p>
+<div class="col-lg-4"><em class="fa fa-text-width ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">画像からテキストを抽出</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Create Images & Thumbnails</h2>
-<p>Images of documents, and images in documents, both features can be used for many different types of documents and applications. Creating the images manually could be a huge overhead but creating them automatically can not be too difficult. Aspose Cloud SKDs gives you several tools for creating and managing images.</p>
-<p>Aspose Cloud SKDs includes features to create, extract & embed images. For instance, you can create images of document pages in order to use them as thumbnails or links on the web pages. You may also convert a page in any document - a spreadsheet, Word document, PDF or presentation - to an image and include that in another document.</p>
+<h2 class="h2title">ファイルを便利に変換</h2>
+<p>Aspose Cloud SKD を使用すると、アプリケーションにファイル フォーマットの変換および操作機能を簡単な方法で装備できるため、フォーマットの基盤となる実装の複雑さに煩わされることなく、ファイル フォーマット処理を実行できます。</p>
+<p>ユーザーに最適な形式でコンテンツを提供するために、引用を PDF ドキュメントに保存したり、スプレッドシートとしてデータを抽出したりするなど、さまざまな操作を実行できます。</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Powerful Reporting, Document Assembly & Mail Merge</h2>
-<p>Companies keep data in a lot of different places, however, with Aspose Cloud SKDs, you can bring them all together in your web or mobile apps. Set up templates and merge data from external sources to create letters, reports or documents. Thanks to the wide variety of formats that we support, the final document can be saved in one or more formats as it suits your users.</p>
+<h2 class="h2title">画像とサムネイルの作成</h2>
+<p>文書の画像と文書内の画像の両方の機能を、さまざまな種類の文書やアプリケーションに使用できます。画像を手動で作成すると大きなオーバーヘッドになる可能性がありますが、自動的に作成するのはそれほど難しくありません。 Aspose Cloud SKD は、イメージを作成および管理するためのいくつかのツールを提供します。</p>
+<p>Aspose Cloud SKD には、イメージを作成、抽出、埋め込む機能が含まれています。たとえば、ドキュメント ページの画像を作成して、それらを Web ページのサムネイルまたはリンクとして使用できます。また、スプレッドシート、Word 文書、PDF、プレゼンテーションなど、任意の文書のページを画像に変換し、それを別の文書に含めることもできます。</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Process a Multitude of File Formats</h2>
-<p>Aspose Cloud SKDs allows you to build an incredibly versatile file processing system capable of handling many popular file formats. You can easily create, modify & even inter-convert files . Aspose.Total Cloud will allow you to conveniently process the following file formats:</p>
-<ul class="unstyled"><li>Microsoft Word documents</li>
-<li>Microsoft Excel spreadsheets</li>
-<li>Microsoft PowerPoint presentations</li>
-<li>Adobe PDF Documents</li>
-<li>Microsoft Visio Diagrams</li>
-<li>Commonly used image formats</li>
+<h2 class="h2title">強力なレポート作成、ドキュメント アセンブリ、メール マージ</h2>
+<p>企業はさまざまな場所にデータを保管していますが、Aspose Cloud SKD を使用すると、それらをすべて Web またはモバイル アプリにまとめることができます。テンプレートを設定し、外部ソースからのデータをマージして、レター、レポート、またはドキュメントを作成します。サポートされているさまざまな形式のおかげで、最終的なドキュメントは、ユーザーに合わせて 1 つまたは複数の形式で保存できます。</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">多数のファイル形式を処理</h2>
+<p>Aspose Cloud SKD を使用すると、多くの一般的なファイル フォーマットを処理できる非常に用途の広いファイル処理システムを構築できます。ファイルを簡単に作成、変更、相互変換することもできます。 Aspose.Total Cloud では、次のファイル形式を簡単に処理できます:</p>
+<ul class="unstyled"><li>Microsoft Word ドキュメント</li>
+<li>Microsoft Excel スプレッドシート</li>
+<li>Microsoft PowerPoint プレゼンテーション</li>
+<li>Adobe PDF ドキュメント</li>
+<li>Microsoft Visio ダイアグラム</li>
+<li>一般的に使用される画像形式</li>
 </ul></div>
 <div class="col-lg-12">
-<h2 class="h2title">Manage & Keep Track of Documents</h2>
-<p>Document management is crucial for all companies especially when it comes to track file and archive these generated documents. With Aspose Cloud SKDs, you have several options on how to manage documents:</p>
-<ul class="unstyled"><li>Track documents with barcodes - encode document information and embedded in the document</li>
-<li>Add watermarks to signal a document's status</li>
-<li>Change headers or footers as a document reaches a particular point in a work flow</li>
-<li>Insert text or images to signal a document's status</li>
+<h2 class="h2title">ドキュメントの管理と追跡</h2>
+<p>ドキュメント管理は、特に生成されたドキュメントのファイルの追跡とアーカイブに関しては、すべての企業にとって重要です。 Aspose Cloud SKD では、ドキュメントを管理する方法についていくつかのオプションがあります。</p>
+<ul class="unstyled"><li>バーコードでドキュメントを追跡 - ドキュメント情報をエンコードしてドキュメントに埋め込む</li>
+<li>ドキュメントのステータスを示す透かしを追加する</li>
+<li>ドキュメントがワークフローの特定のポイントに到達したときにヘッダーまたはフッターを変更する</li>
+<li>テキストまたは画像を挿入してドキュメントのステータスを知らせる</li>
 </ul></div>
 <div class="col-lg-12">
-<h2 class="h2title">Language, Platform & Storage Independence</h2>
-<p>Aspose Cloud SKDs are platform independent & are developed on top of true REST based document manipulation APIs. These characteristics allow us to use them in any language: .NET, Java, PHP, Android, Python, Ruby, Rails, Node.js, Swift, jQuery and many more.</p>
-<p>You can use them on any platform i.e. Web, Desktop, Mobile, and Cloud. The SDKs can also integrate with other cloud services to give you the flexibility you need when processing documents. You can also use Aspose.Total Cloud with many third party storage providers including Amazon S3, Google Cloud, Google Drive and DropBox.</p>
+<h2 class="h2title">言語、プラットフォーム、ストレージに依存しない</h2>
+<p>Aspose Cloud SKD はプラットフォームに依存せず、真の REST ベースのドキュメント操作 API の上に開発されています。これらの特性により、.NET、Java、PHP、Android、Python、Ruby、Rails、Node.js、Swift、jQuery など、あらゆる言語で使用できます。</p>
+<p>Web、デスクトップ、モバイル、クラウドなど、あらゆるプラットフォームで使用できます。 SDK を他のクラウド サービスと統合して、ドキュメントを処理する際に必要な柔軟性を提供することもできます。 Aspose.Total Cloud は、Amazon S3、Google Cloud、Google ドライブ、DropBox など、多くのサードパーティ ストレージ プロバイダーでも使用できます。</p>
 </div>
 </div>
 </div>
@@ -184,22 +184,22 @@ Aspose.Video Cloud offers a complete range of SDKs, developed on top of true RES
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/total" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://asposecloud.github.io/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.cloud/total" >}}
+{{< blocks/products/pf/slr-element name="ソースコード" href="https://asposecloud.github.io/" >}}
+{{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.cloud/" >}}
+{{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/total" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/total/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.cloud/c/total" >}}
+{{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.cloud/category/total/" >}}
 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total Cloud?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
-{{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Aspose.Total Cloud を選ぶ理由" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.cloud/customers" >}}
+{{< blocks/products/pf/slr-element name="安全" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
