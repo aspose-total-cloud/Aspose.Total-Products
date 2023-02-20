@@ -1,0 +1,1 @@
+---title: 将 PowerPoint 转换为 POTM，PPTX到POTM免费转换器或RubySDKdescription: 自由转换PPTX到POTM通过使用Ruby 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

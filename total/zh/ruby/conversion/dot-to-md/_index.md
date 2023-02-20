@@ -1,0 +1,1 @@
+---title: 将单词转换为MD，DOT到MD免费转换器或RubySDKdescription: 自由转换DOT到MD通过使用Ruby 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---

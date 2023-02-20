@@ -1,0 +1,1 @@
+---title: 将 PowerPoint 转换为 PPTM，PPSX到PPTM免费转换器或C++SDKdescription: 自由转换PPSX到PPTM通过使用C++ 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

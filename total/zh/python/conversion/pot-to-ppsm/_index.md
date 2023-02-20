@@ -1,0 +1,1 @@
+---title: 将 PowerPoint 转换为 PPSM，POT到PPSM免费转换器或PythonSDKdescription: 自由转换POT到PPSM通过使用Python 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

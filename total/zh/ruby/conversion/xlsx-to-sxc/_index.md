@@ -1,0 +1,1 @@
+---title: 将 Excel 转换为SXC，XLSX到SXC免费转换器或RubySDKdescription: 免费转换XLSX到SXC通过使用Ruby 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Excel、CSV 和 SpreadsheetML 工作表或电子表格。---

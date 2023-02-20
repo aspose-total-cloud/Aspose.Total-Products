@@ -1,0 +1,1 @@
+---title: 将 Excel 转换为POT，FODS到POT免费转换器或GOSDKdescription: 免费转换FODS到POT通过使用GO 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Excel、CSV 和 SpreadsheetML 工作表或电子表格。---

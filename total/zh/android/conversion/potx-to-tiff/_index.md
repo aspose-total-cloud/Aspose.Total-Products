@@ -1,0 +1,1 @@
+---title: 将 PowerPoint 转换为 TIFF，POTX到TIFF免费转换器或AndroidSDKdescription: 自由转换POTX到TIFF通过使用Android 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---
