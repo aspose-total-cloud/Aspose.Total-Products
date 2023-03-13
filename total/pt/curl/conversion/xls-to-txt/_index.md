@@ -1,0 +1,1 @@
+---title: Converter Excel para TXT, XLS para TXT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de XLS para TXT usando Curl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

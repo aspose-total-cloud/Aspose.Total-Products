@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOTM,XLS ถึง DOTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLS ถึง DOTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

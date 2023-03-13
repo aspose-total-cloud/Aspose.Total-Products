@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEPUB,PPTX ถึง EPUB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTX ถึง EPUB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTP,PPTX ถึง OTP ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTX ถึง OTP โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

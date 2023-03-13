@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,POT ถึง GIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง GIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

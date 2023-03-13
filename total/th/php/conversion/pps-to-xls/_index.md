@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLS,PPS ถึง XLS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPS ถึง XLS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

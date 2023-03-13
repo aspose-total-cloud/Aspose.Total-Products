@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSX,DOTM ถึง XLSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTM ถึง XLSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

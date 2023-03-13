@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,POTM ถึง SXC ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOTM ถึง SXC โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

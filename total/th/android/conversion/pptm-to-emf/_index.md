@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,PPTM ถึง EMF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTM ถึง EMF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

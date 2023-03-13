@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLSB,FODS ถึง XLSB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของFODS ถึง XLSB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

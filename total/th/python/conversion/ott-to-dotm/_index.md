@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTM,OTT ถึง DOTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTT ถึง DOTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

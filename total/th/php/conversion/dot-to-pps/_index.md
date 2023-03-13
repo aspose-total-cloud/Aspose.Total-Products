@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPS,DOT ถึง PPS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง PPS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, PPS para TXT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPS para TXT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTM,PPTX ถึง XLTM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTX ถึง XLTM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

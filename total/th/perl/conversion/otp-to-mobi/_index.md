@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBI,OTP ถึง MOBI ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของOTP ถึง MOBI โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

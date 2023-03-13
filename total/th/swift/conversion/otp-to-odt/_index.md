@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODT,OTP ถึง ODT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของOTP ถึง ODT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

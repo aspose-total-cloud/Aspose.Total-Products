@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,POT ถึง XML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง XML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

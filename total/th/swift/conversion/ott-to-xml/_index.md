@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXML,OTT ถึง XML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของOTT ถึง XML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

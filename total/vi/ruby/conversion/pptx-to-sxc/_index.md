@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành SXC, PPTX thành SXC Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của PPTX thành SXC bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

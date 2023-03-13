@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, PPT ke XLS Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari PPT ke XLS dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

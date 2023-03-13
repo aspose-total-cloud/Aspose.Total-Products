@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para EMF, PPS para EMF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPS para EMF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

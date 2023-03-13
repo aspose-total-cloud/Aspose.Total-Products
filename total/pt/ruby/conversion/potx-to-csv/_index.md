@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para CSV, POTX para CSV Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTX para CSV usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

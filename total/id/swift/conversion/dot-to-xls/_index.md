@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLS, DOT ke XLS Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke XLS dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

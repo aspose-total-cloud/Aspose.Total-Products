@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPNG,POT ถึง PNG ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง PNG โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

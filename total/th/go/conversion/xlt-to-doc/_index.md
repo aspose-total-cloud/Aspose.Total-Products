@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOC,XLT ถึง DOC ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLT ถึง DOC โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para RTF, PPTX para RTF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPTX para RTF usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

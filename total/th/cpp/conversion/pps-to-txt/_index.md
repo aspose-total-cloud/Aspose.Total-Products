@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTXT,PPS ถึง TXT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPS ถึง TXT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

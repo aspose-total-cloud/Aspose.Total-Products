@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTM,OTP ถึง PPTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของOTP ถึง PPTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

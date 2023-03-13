@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXPS,OTP ถึง XPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของOTP ถึง XPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

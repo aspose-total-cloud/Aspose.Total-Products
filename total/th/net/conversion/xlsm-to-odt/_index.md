@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODT,XLSM ถึง ODT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSM ถึง ODT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

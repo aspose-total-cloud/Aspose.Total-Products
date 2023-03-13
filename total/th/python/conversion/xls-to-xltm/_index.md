@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLTM,XLS ถึง XLTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLS ถึง XLTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

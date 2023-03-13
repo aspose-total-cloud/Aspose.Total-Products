@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, POTM ke JPEG Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari POTM ke JPEG dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

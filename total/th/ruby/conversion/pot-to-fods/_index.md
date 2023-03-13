@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นFODS,POT ถึง FODS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOT ถึง FODS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

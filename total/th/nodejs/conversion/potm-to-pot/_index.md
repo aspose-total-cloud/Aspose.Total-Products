@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOT,POTM ถึง POT ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOTM ถึง POT โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

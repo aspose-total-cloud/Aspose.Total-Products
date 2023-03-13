@@ -1,0 +1,1 @@
+---title: Converter Word para DOT, DOCX para DOT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOCX para DOT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

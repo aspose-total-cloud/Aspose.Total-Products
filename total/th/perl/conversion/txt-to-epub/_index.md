@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นEPUB,TXT ถึง EPUB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTXT ถึง EPUB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

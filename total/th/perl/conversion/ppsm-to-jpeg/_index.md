@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJPEG,PPSM ถึง JPEG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSM ถึง JPEG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

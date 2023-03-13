@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,PPSX ถึง EMF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSX ถึง EMF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

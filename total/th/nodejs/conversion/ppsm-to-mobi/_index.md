@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBI,PPSM ถึง MOBI ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPSM ถึง MOBI โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLT,FODS ถึง XLT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของFODS ถึง XLT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,POT ถึง SXC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง SXC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

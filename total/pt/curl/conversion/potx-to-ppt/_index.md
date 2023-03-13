@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PPT, POTX para PPT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTX para PPT usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

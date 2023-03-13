@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTIFF,ODT ถึง TIFF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODT ถึง TIFF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

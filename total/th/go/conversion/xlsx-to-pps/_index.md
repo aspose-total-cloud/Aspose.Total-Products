@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPS,XLSX ถึง PPS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLSX ถึง PPS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

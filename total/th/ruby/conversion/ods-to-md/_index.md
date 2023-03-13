@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMD,ODS ถึง MD ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของODS ถึง MD โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

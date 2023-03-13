@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOC, POT ke DOC Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POT ke DOC dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang POTX, XLT thành POTX Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của XLT thành POTX bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

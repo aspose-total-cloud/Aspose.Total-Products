@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPS,DOCM ถึง PS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOCM ถึง PS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

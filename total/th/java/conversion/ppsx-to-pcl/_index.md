@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,PPSX ถึง PCL ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง PCL โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

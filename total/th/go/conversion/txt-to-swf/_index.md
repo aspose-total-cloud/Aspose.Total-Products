@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSWF,TXT ถึง SWF ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTXT ถึง SWF โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

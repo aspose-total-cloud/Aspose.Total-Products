@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTSV,OTP ถึง TSV ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของOTP ถึง TSV โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

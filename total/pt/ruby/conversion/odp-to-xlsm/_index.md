@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSM, ODP para XLSM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODP para XLSM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

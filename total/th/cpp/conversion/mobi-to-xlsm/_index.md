@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSM,MOBI ถึง XLSM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMOBI ถึง XLSM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

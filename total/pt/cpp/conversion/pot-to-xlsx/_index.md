@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSX, POT para XLSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para XLSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSB,PPTX ถึง XLSB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTX ถึง XLSB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PNG, PPTX para PNG Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTX para PNG usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

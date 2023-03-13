@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,POTX ถึง SXC ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTX ถึง SXC โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

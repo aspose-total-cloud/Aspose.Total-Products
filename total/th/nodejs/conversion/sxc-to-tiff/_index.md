@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTIFF,SXC ถึง TIFF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของSXC ถึง TIFF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

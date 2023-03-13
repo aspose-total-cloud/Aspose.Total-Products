@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi JSON, XLS ke JSON Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari XLS ke JSON dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

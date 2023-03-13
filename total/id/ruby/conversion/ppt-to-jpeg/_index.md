@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, PPT ke JPEG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPT ke JPEG dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

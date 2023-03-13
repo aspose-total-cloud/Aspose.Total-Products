@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXAML,XML ถึง XAML ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXML ถึง XAML โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

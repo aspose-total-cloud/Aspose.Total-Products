@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,POTX ถึง XML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง XML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

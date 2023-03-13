@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPS,POTM ถึง PPS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTM ถึง PPS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,PPS ถึง EMF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPS ถึง EMF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

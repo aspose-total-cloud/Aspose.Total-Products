@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi GIF, PPTX ke GIF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTX ke GIF dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

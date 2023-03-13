@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นGIF,XLS ถึง GIF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLS ถึง GIF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

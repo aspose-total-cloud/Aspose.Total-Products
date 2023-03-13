@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDIF,PPS ถึง DIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPS ถึง DIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

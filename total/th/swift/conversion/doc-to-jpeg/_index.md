@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJPEG,DOC ถึง JPEG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOC ถึง JPEG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

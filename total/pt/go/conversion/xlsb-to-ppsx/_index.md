@@ -1,0 +1,1 @@
+---title: Converter Excel para PPSX, XLSB para PPSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de XLSB para PPSX usando GO APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

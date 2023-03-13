@@ -1,0 +1,1 @@
+---title: Converter Excel para SVG, XLSB para SVG Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de XLSB para SVG usando Python APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

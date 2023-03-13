@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para ODP, POTM para ODP Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTM para ODP usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

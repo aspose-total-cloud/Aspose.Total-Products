@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPTX, POTX ke PPTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTX ke PPTX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

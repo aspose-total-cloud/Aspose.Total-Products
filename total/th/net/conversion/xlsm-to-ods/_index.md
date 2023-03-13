@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODS,XLSM ถึง ODS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSM ถึง ODS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

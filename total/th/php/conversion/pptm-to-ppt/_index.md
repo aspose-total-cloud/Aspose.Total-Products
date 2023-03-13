@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPT,PPTM ถึง PPT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTM ถึง PPT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

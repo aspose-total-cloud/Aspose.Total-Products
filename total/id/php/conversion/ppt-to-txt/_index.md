@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, PPT ke TXT Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPT ke TXT dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

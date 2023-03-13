@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPSM,XLSM ถึง PPSM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLSM ถึง PPSM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOT,ODT ถึง POT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของODT ถึง POT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

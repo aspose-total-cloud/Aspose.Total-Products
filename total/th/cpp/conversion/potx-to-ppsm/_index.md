@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSM,POTX ถึง PPSM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTX ถึง PPSM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

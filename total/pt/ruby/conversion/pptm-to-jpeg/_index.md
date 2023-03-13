@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para JPEG, PPTM para JPEG Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTM para JPEG usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

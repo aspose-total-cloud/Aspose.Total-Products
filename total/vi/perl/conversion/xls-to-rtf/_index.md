@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang RTF, XLS thành RTF Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của XLS thành RTF bằng cách sử dụng Perl Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

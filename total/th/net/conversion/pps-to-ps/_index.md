@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPS,PPS ถึง PS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPS ถึง PS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

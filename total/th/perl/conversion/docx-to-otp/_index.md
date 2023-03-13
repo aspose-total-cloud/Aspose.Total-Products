@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTP,DOCX ถึง OTP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOCX ถึง OTP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

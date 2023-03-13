@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTX,MD ถึง DOTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMD ถึง DOTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

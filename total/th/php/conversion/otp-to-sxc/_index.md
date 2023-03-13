@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,OTP ถึง SXC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของOTP ถึง SXC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

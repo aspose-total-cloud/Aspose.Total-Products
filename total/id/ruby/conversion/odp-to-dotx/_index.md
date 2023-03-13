@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOTX, ODP ke DOTX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODP ke DOTX dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

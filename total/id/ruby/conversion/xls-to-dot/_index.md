@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi DOT, XLS ke DOT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLS ke DOT dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

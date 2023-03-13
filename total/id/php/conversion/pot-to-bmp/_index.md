@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, POT ke BMP Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari POT ke BMP dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

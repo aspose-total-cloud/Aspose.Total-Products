@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นCHM,MHTML ถึง CHM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMHTML ถึง CHM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

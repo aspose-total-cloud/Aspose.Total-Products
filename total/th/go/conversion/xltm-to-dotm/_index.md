@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOTM,XLTM ถึง DOTM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLTM ถึง DOTM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

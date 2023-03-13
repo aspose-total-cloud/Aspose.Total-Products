@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOT,ODT ถึง POT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODT ถึง POT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

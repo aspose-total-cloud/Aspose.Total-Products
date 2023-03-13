@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLAM, POTM para XLAM Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de POTM para XLAM usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

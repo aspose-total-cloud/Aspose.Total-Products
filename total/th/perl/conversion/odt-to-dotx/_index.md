@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTX,ODT ถึง DOTX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง DOTX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

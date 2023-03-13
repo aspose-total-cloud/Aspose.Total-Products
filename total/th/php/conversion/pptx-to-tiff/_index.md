@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTIFF,PPTX ถึง TIFF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTX ถึง TIFF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

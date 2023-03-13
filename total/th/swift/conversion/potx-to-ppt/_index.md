@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPT,POTX ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

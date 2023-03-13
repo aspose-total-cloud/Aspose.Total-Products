@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi PPTM, XLSM ke PPTM Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari XLSM ke PPTM dengan menggunakan Swift API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

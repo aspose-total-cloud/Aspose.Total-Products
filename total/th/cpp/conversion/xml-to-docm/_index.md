@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOCM,XML ถึง DOCM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXML ถึง DOCM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

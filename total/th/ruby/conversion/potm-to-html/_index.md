@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นHTML,POTM ถึง HTML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTM ถึง HTML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

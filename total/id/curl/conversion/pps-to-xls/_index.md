@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, PPS ke XLS Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPS ke XLS dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

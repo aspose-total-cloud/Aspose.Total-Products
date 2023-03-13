@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, OTP ke BMP Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari OTP ke BMP dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

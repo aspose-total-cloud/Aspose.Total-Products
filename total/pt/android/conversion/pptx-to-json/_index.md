@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para JSON, PPTX para JSON Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPTX para JSON usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

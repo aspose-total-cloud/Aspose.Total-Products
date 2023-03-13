@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODP,CHM ถึง ODP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง ODP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

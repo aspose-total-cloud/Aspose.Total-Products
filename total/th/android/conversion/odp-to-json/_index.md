@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJSON,ODP ถึง JSON ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง JSON โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

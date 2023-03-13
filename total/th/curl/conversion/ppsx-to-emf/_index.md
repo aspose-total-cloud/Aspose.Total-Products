@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,PPSX ถึง EMF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSX ถึง EMF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

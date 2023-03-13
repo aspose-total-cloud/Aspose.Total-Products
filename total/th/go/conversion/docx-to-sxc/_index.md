@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSXC,DOCX ถึง SXC ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOCX ถึง SXC โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPS,POT ถึง PS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOT ถึง PS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi BMP, DOCX ke BMP Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOCX ke BMP dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

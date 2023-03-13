@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SXC, PPSX para SXC Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para SXC usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

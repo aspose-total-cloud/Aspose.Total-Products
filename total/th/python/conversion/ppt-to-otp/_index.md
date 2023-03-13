@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTP,PPT ถึง OTP ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPT ถึง OTP โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

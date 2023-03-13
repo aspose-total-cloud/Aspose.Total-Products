@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCM,POTM ถึง DOCM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTM ถึง DOCM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

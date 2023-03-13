@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOTX,TSV ถึง POTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของTSV ถึง POTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

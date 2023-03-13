@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODP, POT ke ODP Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari POT ke ODP dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

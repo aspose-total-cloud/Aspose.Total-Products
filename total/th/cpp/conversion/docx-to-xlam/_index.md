@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLAM,DOCX ถึง XLAM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOCX ถึง XLAM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

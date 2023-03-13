@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOCX, POTX para DOCX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de POTX para DOCX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

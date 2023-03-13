@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLAM,XML ถึง XLAM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXML ถึง XLAM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLAM, PPSX para XLAM Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSX para XLAM usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

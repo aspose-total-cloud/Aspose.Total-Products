@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSWF,SXC ถึง SWF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของSXC ถึง SWF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLS, ODP para XLS Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de ODP para XLS usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

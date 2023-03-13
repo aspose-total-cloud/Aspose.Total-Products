@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOCM,DOCX ถึง DOCM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOCX ถึง DOCM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

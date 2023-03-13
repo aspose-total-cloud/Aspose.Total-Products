@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODP, PPTX ke ODP Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPTX ke ODP dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

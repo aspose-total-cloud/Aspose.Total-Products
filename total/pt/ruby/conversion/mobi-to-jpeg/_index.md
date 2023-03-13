@@ -1,0 +1,1 @@
+---title: Converter Word para JPEG, MOBI para JPEG Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para JPEG usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

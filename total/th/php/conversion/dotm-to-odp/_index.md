@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODP,DOTM ถึง ODP ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOTM ถึง ODP โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

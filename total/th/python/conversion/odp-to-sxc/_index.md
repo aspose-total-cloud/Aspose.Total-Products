@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,ODP ถึง SXC ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODP ถึง SXC โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

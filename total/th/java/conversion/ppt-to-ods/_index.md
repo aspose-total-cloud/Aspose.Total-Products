@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,PPT ถึง ODS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPT ถึง ODS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

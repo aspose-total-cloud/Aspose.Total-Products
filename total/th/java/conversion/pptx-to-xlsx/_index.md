@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSX,PPTX ถึง XLSX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTX ถึง XLSX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

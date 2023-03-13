@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTT,PPTM ถึง OTT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTM ถึง OTT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

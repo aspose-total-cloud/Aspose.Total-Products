@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,POT ถึง DOTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง DOTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

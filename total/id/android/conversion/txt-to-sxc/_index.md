@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi SXC, TXT ke SXC Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari TXT ke SXC dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

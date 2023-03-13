@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, POTX ke XLS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POTX ke XLS dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

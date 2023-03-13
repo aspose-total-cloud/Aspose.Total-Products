@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLSM,XML ถึง XLSM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXML ถึง XLSM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

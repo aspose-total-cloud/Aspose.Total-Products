@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,POTM ถึง XLAM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง XLAM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

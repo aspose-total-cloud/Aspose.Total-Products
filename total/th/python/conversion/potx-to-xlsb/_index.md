@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSB,POTX ถึง XLSB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง XLSB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

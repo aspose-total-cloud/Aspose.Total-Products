@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SXC, PPTX para SXC Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de PPTX para SXC usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

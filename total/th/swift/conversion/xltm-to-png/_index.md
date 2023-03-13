@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPNG,XLTM ถึง PNG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXLTM ถึง PNG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

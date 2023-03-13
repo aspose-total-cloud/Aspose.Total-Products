@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi FODS, XML ke FODS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XML ke FODS dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

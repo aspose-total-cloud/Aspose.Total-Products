@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,POT ถึง DOTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOT ถึง DOTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นCSV,RTF ถึง CSV ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของRTF ถึง CSV โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,ODP ถึง SWF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง SWF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

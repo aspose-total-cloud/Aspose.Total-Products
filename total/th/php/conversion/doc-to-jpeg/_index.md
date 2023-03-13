@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJPEG,DOC ถึง JPEG ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOC ถึง JPEG โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi DOC, DOTX ke DOC Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOTX ke DOC dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,PPS ถึง ODP ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPS ถึง ODP โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

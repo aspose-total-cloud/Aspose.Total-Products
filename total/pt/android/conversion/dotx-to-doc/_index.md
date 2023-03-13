@@ -1,0 +1,1 @@
+---title: Converter Word para DOC, DOTX para DOC Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOTX para DOC usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

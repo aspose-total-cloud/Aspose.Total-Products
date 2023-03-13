@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành DOTM, PPSM thành DOTM Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của PPSM thành DOTM bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

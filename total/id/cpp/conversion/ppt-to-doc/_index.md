@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOC, PPT ke DOC Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPT ke DOC dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

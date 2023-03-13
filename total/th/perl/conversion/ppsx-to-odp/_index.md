@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,PPSX ถึง ODP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง ODP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

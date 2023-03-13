@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLAM, DOTM ke XLAM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOTM ke XLAM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

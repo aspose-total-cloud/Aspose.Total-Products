@@ -1,0 +1,1 @@
+---title: Converter Word para TXT, DOCM para TXT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOCM para TXT usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

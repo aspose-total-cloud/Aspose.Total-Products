@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi PPT, XLS ke PPT Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari XLS ke PPT dengan menggunakan Nodejs API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

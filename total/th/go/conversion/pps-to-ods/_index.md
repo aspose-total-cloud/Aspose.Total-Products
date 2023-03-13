@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,PPS ถึง ODS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPS ถึง ODS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

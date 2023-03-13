@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCX,PPS ถึง DOCX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPS ถึง DOCX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

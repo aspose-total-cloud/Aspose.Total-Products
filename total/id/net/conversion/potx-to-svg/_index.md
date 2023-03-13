@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, POTX ke SVG Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POTX ke SVG dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

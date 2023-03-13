@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,DOTX ถึง PPT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOTX ถึง PPT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

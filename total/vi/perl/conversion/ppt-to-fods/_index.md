@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành FODS, PPT thành FODS Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của PPT thành FODS bằng cách sử dụng Perl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

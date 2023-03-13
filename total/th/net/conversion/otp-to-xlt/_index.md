@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLT,OTP ถึง XLT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของOTP ถึง XLT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

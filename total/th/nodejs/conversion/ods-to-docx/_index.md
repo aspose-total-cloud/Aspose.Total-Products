@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOCX,ODS ถึง DOCX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของODS ถึง DOCX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

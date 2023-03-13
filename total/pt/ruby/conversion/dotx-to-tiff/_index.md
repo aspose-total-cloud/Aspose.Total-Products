@@ -1,0 +1,1 @@
+---title: Converter Word para TIFF, DOTX para TIFF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTX para TIFF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJPEG,RTF ถึง JPEG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของRTF ถึง JPEG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

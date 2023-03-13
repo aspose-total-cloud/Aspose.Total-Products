@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBI,PPSM ถึง MOBI ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง MOBI โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

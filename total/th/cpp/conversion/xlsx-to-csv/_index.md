@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นCSV,XLSX ถึง CSV ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLSX ถึง CSV โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

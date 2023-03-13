@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOTX,XLSX ถึง DOTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLSX ถึง DOTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSM, PPSX para XLSM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para XLSM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

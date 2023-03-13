@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành DOTX, PPSM thành DOTX Trình chuyển đổi MIỄN PHÍ hoặc PHP SDKdescription: Chuyển đổi miễn phí của PPSM thành DOTX bằng cách sử dụng PHP Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

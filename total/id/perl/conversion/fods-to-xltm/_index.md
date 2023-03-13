@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi XLTM, FODS ke XLTM Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari FODS ke XLTM dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

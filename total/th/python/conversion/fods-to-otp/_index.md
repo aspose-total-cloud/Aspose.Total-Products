@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นOTP,FODS ถึง OTP ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของFODS ถึง OTP โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

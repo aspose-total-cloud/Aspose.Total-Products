@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para JPEG, PPSX para JPEG Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPSX para JPEG usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

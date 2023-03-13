@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTM,DOTM ถึง XLTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTM ถึง XLTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

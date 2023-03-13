@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTM,ODP ถึง XLTM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODP ถึง XLTM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

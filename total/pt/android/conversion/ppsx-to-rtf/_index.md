@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para RTF, PPSX para RTF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPSX para RTF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

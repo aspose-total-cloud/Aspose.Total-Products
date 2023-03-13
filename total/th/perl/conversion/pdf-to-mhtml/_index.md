@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMHTML,PDF ถึง MHTML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPDF ถึง MHTML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

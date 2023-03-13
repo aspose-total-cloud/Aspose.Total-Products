@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOC,XLTX ถึง DOC ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLTX ถึง DOC โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

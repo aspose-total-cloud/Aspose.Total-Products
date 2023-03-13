@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXML,DOC ถึง XML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOC ถึง XML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

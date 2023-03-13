@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPT,POT ถึง PPT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOT ถึง PPT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

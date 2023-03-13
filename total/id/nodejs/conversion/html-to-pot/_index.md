@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi POT, HTML ke POT Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari HTML ke POT dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

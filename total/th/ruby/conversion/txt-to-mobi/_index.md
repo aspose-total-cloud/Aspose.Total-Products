@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMOBI,TXT ถึง MOBI ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของTXT ถึง MOBI โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

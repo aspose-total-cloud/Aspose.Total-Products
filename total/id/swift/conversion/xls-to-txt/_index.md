@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi TXT, XLS ke TXT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari XLS ke TXT dengan menggunakan Swift API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

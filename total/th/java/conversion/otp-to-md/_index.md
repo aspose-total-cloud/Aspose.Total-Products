@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,OTP ถึง MD ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของOTP ถึง MD โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

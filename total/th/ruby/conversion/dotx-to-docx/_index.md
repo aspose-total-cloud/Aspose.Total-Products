@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOCX,DOTX ถึง DOCX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTX ถึง DOCX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

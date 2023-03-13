@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi SVG, DOC ke SVG Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari DOC ke SVG dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

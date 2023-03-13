@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXML,RTF ถึง XML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของRTF ถึง XML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

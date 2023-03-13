@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSWF,DOT ถึง SWF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOT ถึง SWF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

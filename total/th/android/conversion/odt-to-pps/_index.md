@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPS,ODT ถึง PPS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODT ถึง PPS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

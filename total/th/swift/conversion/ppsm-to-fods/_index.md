@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นFODS,PPSM ถึง FODS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง FODS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

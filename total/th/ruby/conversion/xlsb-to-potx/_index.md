@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOTX,XLSB ถึง POTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLSB ถึง POTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นNUMBERS,TSV ถึง NUMBERS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTSV ถึง NUMBERS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

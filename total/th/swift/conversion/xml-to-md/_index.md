@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMD,XML ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXML ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOTM, PPSX para DOTM Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPSX para DOTM usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

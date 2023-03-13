@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSB, POTX para XLSB Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para XLSB usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

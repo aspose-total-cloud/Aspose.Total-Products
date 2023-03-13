@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, PPTX ke BMP Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari PPTX ke BMP dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPNG,DOC ถึง PNG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง PNG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

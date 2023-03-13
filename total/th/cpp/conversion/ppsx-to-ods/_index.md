@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,PPSX ถึง ODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSX ถึง ODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

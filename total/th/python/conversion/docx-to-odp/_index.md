@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODP,DOCX ถึง ODP ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOCX ถึง ODP โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSWF,SXC ถึง SWF ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของSXC ถึง SWF โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

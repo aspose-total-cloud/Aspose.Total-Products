@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOTX,MHTML ถึง POTX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของMHTML ถึง POTX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

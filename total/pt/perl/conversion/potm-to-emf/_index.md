@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para EMF, POTM para EMF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POTM para EMF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

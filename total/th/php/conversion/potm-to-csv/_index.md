@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCSV,POTM ถึง CSV ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง CSV โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLSM,JSON ถึง XLSM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของJSON ถึง XLSM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

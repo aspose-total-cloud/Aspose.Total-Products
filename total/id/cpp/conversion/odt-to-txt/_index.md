@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TXT, ODT ke TXT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari ODT ke TXT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

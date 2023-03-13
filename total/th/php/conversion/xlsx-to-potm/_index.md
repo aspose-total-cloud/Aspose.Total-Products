@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOTM,XLSX ถึง POTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLSX ถึง POTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

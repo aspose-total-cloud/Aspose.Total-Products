@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,OTP ถึง SWF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTP ถึง SWF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

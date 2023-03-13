@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTP,PPS ถึง OTP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPS ถึง OTP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

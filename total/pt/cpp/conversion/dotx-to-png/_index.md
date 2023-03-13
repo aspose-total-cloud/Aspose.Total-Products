@@ -1,0 +1,1 @@
+---title: Converter Word para PNG, DOTX para PNG Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de DOTX para PNG usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นFODS,PPSX ถึง FODS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSX ถึง FODS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

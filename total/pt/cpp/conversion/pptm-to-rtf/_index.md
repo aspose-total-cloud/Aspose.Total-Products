@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para RTF, PPTM para RTF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPTM para RTF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

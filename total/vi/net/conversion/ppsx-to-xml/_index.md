@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành XML, PPSX thành XML Trình chuyển đổi MIỄN PHÍ hoặc Net SDKdescription: Chuyển đổi miễn phí của PPSX thành XML bằng cách sử dụng Net Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXPS,XLTM ถึง XPS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLTM ถึง XPS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

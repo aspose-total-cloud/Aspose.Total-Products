@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSX, PPTX ke XLSX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPTX ke XLSX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

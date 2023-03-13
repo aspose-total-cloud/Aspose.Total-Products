@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLT, PPSX para XLT Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de PPSX para XLT usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

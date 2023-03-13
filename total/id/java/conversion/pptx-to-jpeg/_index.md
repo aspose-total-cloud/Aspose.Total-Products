@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, PPTX ke JPEG Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari PPTX ke JPEG dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

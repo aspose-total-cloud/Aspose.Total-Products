@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDIF,PPTX ถึง DIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง DIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

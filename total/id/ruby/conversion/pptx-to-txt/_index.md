@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, PPTX ke TXT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTX ke TXT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

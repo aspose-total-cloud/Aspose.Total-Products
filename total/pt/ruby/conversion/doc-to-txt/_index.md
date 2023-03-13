@@ -1,0 +1,1 @@
+---title: Converter Word para TXT, DOC para TXT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOC para TXT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

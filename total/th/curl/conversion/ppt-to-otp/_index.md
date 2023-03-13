@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTP,PPT ถึง OTP ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง OTP โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

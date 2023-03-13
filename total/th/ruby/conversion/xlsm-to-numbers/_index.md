@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นNUMBERS,XLSM ถึง NUMBERS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLSM ถึง NUMBERS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter Word para PPSX, TXT para PPSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de TXT para PPSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

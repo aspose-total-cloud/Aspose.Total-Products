@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSB, POTX ke XLSB Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTX ke XLSB dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

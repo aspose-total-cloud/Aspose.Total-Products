@@ -1,0 +1,1 @@
+---title: Converter Word para XLAM, DOTX para XLAM Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para XLAM usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

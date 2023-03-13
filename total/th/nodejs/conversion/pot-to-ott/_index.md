@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTT,POT ถึง OTT ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOT ถึง OTT โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLTM, PPT ke XLTM Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPT ke XLTM dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

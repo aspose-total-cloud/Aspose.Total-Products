@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCX,PPSX ถึง DOCX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง DOCX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

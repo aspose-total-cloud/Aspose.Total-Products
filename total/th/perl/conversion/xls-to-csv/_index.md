@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นCSV,XLS ถึง CSV ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLS ถึง CSV โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

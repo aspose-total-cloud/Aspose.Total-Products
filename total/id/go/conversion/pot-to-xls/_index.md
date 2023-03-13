@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, POT ke XLS Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari POT ke XLS dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

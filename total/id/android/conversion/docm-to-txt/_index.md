@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TXT, DOCM ke TXT Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOCM ke TXT dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

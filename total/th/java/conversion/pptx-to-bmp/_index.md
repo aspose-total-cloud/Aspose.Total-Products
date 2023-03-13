@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นBMP,PPTX ถึง BMP ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTX ถึง BMP โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

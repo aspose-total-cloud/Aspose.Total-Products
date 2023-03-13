@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXPS,DOT ถึง XPS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง XPS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

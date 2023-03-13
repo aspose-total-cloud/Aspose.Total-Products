@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLS, PDF ke XLS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PDF ke XLS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

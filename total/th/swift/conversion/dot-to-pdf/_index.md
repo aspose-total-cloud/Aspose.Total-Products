@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDF,DOT ถึง PDF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOT ถึง PDF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

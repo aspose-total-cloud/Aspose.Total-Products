@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPCL,PDF ถึง PCL ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPDF ถึง PCL โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

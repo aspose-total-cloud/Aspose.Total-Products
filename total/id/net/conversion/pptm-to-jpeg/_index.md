@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, PPTM ke JPEG Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTM ke JPEG dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

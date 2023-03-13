@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOT,POTX ถึง DOT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTX ถึง DOT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

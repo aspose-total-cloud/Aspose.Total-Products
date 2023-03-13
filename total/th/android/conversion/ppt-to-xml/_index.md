@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,PPT ถึง XML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPT ถึง XML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

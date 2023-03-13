@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOC,DOTX ถึง DOC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOTX ถึง DOC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

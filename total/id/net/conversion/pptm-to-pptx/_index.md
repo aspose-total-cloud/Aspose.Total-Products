@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPTX, PPTM ke PPTX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTM ke PPTX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

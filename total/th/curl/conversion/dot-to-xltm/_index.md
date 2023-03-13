@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTM,DOT ถึง XLTM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOT ถึง XLTM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

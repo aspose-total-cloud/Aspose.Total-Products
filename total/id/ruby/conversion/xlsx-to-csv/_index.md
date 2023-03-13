@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi CSV, XLSX ke CSV Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLSX ke CSV dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

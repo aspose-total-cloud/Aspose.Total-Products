@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นOTP,SXC ถึง OTP ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของSXC ถึง OTP โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

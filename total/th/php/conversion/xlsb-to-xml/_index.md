@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXML,XLSB ถึง XML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLSB ถึง XML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

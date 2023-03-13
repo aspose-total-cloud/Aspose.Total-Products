@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,POT ถึง PCL ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง PCL โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

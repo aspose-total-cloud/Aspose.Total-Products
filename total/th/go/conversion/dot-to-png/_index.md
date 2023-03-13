@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPNG,DOT ถึง PNG ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOT ถึง PNG โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

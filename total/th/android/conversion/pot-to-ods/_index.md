@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,POT ถึง ODS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง ODS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

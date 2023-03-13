@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,PPTX ถึง PCL ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTX ถึง PCL โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นBMP,ODP ถึง BMP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง BMP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

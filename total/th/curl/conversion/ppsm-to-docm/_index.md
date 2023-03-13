@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCM,PPSM ถึง DOCM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง DOCM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

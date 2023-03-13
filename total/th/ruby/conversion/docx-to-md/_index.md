@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMD,DOCX ถึง MD ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOCX ถึง MD โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

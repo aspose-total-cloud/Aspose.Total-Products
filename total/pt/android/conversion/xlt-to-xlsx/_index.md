@@ -1,0 +1,1 @@
+---title: Converter Excel para XLSX, XLT para XLSX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de XLT para XLSX usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

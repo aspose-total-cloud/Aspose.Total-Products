@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, PPTX ke SVG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPTX ke SVG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

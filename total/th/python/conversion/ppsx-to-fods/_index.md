@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นFODS,PPSX ถึง FODS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSX ถึง FODS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

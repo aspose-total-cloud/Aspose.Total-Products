@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,POTX ถึง GIF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTX ถึง GIF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

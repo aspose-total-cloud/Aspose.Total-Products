@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,PPTX ถึง XML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPTX ถึง XML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOCX,XLSX ถึง DOCX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLSX ถึง DOCX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMHTML,HTML ถึง MHTML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของHTML ถึง MHTML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

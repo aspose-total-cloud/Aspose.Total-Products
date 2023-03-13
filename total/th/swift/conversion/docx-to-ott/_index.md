@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTT,DOCX ถึง OTT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCX ถึง OTT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

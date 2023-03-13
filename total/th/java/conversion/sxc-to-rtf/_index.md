@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นRTF,SXC ถึง RTF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของSXC ถึง RTF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

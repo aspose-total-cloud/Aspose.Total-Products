@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi PPTM, DOCX ke PPTM Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOCX ke PPTM dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

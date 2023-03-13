@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPCL,FODS ถึง PCL ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของFODS ถึง PCL โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

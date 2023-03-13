@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSM,PPTX ถึง XLSM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTX ถึง XLSM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

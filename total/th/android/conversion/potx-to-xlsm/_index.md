@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSM,POTX ถึง XLSM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOTX ถึง XLSM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

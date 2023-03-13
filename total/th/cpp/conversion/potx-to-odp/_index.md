@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,POTX ถึง ODP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTX ถึง ODP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

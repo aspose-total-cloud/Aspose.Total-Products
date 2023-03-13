@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para GIF, PPSM para GIF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSM para GIF usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXAML,PPS ถึง XAML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPS ถึง XAML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

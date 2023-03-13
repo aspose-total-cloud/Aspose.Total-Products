@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,CHM ถึง PPT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของCHM ถึง PPT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

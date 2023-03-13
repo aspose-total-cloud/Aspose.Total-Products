@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOTX, POT ke DOTX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari POT ke DOTX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

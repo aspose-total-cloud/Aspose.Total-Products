@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSB, PPSM ke XLSB Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPSM ke XLSB dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

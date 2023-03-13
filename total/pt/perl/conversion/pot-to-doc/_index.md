@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOC, POT para DOC Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POT para DOC usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

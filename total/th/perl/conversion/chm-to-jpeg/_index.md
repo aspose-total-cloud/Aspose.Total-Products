@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJPEG,CHM ถึง JPEG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง JPEG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

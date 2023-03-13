@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOTX,DOT ถึง POTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOT ถึง POTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

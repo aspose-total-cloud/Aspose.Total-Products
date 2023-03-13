@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi POT, XLSB ke POT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari XLSB ke POT dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

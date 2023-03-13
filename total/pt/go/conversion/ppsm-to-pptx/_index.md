@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PPTX, PPSM para PPTX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPSM para PPTX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, OTP ke JPEG Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari OTP ke JPEG dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นFODS,PPTM ถึง FODS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTM ถึง FODS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

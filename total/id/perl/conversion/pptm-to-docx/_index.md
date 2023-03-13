@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOCX, PPTM ke DOCX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTM ke DOCX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

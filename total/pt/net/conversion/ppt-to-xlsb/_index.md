@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSB, PPT para XLSB Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPT para XLSB usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

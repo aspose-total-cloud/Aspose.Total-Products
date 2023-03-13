@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นGIF,DOT ถึง GIF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง GIF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

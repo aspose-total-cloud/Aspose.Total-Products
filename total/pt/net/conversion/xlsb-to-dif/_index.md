@@ -1,0 +1,1 @@
+---title: Converter Excel para DIF, XLSB para DIF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLSB para DIF usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

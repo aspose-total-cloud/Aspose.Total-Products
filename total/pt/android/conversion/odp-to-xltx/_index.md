@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLTX, ODP para XLTX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de ODP para XLTX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

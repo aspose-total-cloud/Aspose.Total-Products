@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành DOCX, ODP thành DOCX Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của ODP thành DOCX bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

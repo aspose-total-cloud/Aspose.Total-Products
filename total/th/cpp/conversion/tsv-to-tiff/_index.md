@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTIFF,TSV ถึง TIFF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTSV ถึง TIFF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

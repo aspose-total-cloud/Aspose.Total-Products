@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBI,POT ถึง MOBI ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOT ถึง MOBI โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

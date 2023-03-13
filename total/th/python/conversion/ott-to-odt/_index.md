@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODT,OTT ถึง ODT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTT ถึง ODT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

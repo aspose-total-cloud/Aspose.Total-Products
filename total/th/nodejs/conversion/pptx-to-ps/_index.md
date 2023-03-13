@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPS,PPTX ถึง PS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPTX ถึง PS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

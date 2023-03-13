@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,POTX ถึง DOC ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTX ถึง DOC โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นFODS,XLTX ถึง FODS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLTX ถึง FODS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Chuyển Word thành XLTX, TXT thành XLTX Trình chuyển đổi MIỄN PHÍ hoặc Swift SDKdescription: Chuyển đổi miễn phí của TXT thành XLTX bằng cách sử dụng Swift Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

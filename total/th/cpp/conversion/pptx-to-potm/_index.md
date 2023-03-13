@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOTM,PPTX ถึง POTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPTX ถึง POTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

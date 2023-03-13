@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi SVG, ODT ke SVG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODT ke SVG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPSX, PPTX ke PPSX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTX ke PPSX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

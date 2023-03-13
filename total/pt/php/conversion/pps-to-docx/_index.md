@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOCX, PPS para DOCX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPS para DOCX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

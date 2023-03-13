@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTXT,OTT ถึง TXT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTT ถึง TXT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

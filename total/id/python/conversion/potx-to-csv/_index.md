@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi CSV, POTX ke CSV Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTX ke CSV dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTSV,POTM ถึง TSV ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOTM ถึง TSV โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi NUMBERS, PPSM ke NUMBERS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke NUMBERS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

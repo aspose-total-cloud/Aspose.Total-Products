@@ -1,0 +1,1 @@
+---title: Converter Word para POTX, DOT para POTX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOT para POTX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

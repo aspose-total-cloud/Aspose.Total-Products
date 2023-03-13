@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSWF,RTF ถึง SWF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของRTF ถึง SWF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

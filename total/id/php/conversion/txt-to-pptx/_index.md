@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi PPTX, TXT ke PPTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari TXT ke PPTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

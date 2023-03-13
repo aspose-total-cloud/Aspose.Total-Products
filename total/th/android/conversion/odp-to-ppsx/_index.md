@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSX,ODP ถึง PPSX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง PPSX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

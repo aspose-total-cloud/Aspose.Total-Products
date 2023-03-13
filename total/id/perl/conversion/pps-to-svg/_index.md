@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, PPS ke SVG Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPS ke SVG dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

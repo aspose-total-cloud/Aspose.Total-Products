@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSB,OTP ถึง XLSB ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTP ถึง XLSB โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

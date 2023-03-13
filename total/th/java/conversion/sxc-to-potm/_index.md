@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOTM,SXC ถึง POTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของSXC ถึง POTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

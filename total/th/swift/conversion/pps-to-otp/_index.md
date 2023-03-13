@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTP,PPS ถึง OTP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPS ถึง OTP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

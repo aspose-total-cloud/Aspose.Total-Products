@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTX,OTT ถึง DOTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของOTT ถึง DOTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

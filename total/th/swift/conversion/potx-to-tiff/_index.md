@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTIFF,POTX ถึง TIFF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง TIFF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSB,TXT ถึง XLSB ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของTXT ถึง XLSB โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

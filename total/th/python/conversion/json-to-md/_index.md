@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMD,JSON ถึง MD ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของJSON ถึง MD โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

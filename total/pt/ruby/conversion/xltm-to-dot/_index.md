@@ -1,0 +1,1 @@
+---title: Converter Excel para DOT, XLTM para DOT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLTM para DOT usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นNUMBERS,PPSM ถึง NUMBERS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง NUMBERS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

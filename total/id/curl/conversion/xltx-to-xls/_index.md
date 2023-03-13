@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi XLS, XLTX ke XLS Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari XLTX ke XLS dengan menggunakan Curl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

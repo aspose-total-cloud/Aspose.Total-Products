@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODP, PPSX ke ODP Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPSX ke ODP dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

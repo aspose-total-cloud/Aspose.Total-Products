@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPNG,PPT ถึง PNG ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPT ถึง PNG โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMD,DOCX ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCX ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

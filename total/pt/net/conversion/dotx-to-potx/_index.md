@@ -1,0 +1,1 @@
+---title: Converter Word para POTX, DOTX para POTX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOTX para POTX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

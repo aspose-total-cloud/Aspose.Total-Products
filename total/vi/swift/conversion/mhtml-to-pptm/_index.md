@@ -1,0 +1,1 @@
+---title: Chuyển Word thành PPTM, MHTML thành PPTM Trình chuyển đổi MIỄN PHÍ hoặc Swift SDKdescription: Chuyển đổi miễn phí của MHTML thành PPTM bằng cách sử dụng Swift Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

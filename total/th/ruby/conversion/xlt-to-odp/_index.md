@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODP,XLT ถึง ODP ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLT ถึง ODP โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

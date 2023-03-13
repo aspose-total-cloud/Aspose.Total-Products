@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTM para SXC usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

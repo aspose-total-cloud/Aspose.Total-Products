@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODT,XML ถึง ODT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXML ถึง ODT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

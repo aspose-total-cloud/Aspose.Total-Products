@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTM,POTM ถึง DOTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTM ถึง DOTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

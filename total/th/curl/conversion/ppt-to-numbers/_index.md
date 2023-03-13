@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นNUMBERS,PPT ถึง NUMBERS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง NUMBERS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

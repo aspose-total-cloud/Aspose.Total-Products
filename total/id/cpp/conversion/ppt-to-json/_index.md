@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JSON, PPT ke JSON Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPT ke JSON dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

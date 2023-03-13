@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นCHM,ODS ถึง CHM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODS ถึง CHM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

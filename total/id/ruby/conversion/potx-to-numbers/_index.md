@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi NUMBERS, POTX ke NUMBERS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POTX ke NUMBERS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

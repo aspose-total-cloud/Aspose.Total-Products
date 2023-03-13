@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นNUMBERS,POTX ถึง NUMBERS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOTX ถึง NUMBERS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

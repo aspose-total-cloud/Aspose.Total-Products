@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para POTX, PPSX para POTX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPSX para POTX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

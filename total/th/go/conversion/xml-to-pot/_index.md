@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOT,XML ถึง POT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXML ถึง POT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

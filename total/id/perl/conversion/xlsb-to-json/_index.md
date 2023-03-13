@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi JSON, XLSB ke JSON Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari XLSB ke JSON dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLSB,XLSM ถึง XLSB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLSM ถึง XLSB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

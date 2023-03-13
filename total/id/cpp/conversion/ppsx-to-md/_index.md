@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MD, PPSX ke MD Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPSX ke MD dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

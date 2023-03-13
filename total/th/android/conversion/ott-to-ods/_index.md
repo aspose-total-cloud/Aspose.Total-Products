@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODS,OTT ถึง ODS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของOTT ถึง ODS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,PPSX ถึง MD ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSX ถึง MD โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

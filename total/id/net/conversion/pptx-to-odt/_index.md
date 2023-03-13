@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODT, PPTX ke ODT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTX ke ODT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

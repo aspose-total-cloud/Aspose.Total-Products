@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTXT,ODP ถึง TXT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง TXT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

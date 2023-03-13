@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLS, DOTM ke XLS Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOTM ke XLS dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

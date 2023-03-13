@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSM,DOTX ถึง PPSM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTX ถึง PPSM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

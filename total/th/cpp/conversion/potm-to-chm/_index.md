@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,POTM ถึง CHM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTM ถึง CHM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

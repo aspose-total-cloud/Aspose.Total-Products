@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XPS, POTX para XPS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para XPS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

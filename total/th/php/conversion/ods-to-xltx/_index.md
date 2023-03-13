@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLTX,ODS ถึง XLTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODS ถึง XLTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

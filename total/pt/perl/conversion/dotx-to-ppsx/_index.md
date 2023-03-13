@@ -1,0 +1,1 @@
+---title: Converter Word para PPSX, DOTX para PPSX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para PPSX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

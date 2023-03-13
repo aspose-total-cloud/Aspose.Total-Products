@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXAML,JSON ถึง XAML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของJSON ถึง XAML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

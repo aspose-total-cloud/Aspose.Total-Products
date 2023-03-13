@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi JSON, XLTM ke JSON Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLTM ke JSON dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

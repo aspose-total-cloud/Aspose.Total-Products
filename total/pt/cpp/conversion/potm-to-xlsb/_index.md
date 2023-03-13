@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSB, POTM para XLSB Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POTM para XLSB usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

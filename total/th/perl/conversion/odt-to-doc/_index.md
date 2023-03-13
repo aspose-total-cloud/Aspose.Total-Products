@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOC,ODT ถึง DOC ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง DOC โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

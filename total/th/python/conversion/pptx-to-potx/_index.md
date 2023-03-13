@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOTX,PPTX ถึง POTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTX ถึง POTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

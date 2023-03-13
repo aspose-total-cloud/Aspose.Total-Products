@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDF,PPTX ถึง PDF ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTX ถึง PDF โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

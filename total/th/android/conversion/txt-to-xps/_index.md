@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXPS,TXT ถึง XPS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTXT ถึง XPS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

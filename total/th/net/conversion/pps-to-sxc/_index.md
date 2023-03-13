@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,PPS ถึง SXC ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPS ถึง SXC โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

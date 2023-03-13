@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOCX, PPTM ke DOCX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke DOCX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

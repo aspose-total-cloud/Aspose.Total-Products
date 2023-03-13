@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นGIF,MHTML ถึง GIF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMHTML ถึง GIF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

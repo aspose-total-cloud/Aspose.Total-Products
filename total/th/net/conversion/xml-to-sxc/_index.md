@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSXC,XML ถึง SXC ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXML ถึง SXC โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

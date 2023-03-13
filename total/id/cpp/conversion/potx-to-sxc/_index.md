@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SXC, POTX ke SXC Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTX ke SXC dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

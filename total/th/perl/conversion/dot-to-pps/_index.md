@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPS,DOT ถึง PPS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOT ถึง PPS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

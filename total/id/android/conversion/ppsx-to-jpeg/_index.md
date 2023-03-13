@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, PPSX ke JPEG Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPSX ke JPEG dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

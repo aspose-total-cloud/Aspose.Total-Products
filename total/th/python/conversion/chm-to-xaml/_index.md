@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXAML,CHM ถึง XAML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของCHM ถึง XAML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

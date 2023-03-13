@@ -1,0 +1,1 @@
+---title: Converter Excel para GIF, XLSB para GIF Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de XLSB para GIF usando Nodejs APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

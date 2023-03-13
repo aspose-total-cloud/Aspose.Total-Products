@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi SVG, DOTX ke SVG Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOTX ke SVG dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

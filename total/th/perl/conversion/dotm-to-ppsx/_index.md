@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSX,DOTM ถึง PPSX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTM ถึง PPSX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

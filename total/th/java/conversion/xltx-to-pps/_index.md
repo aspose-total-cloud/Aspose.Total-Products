@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPS,XLTX ถึง PPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLTX ถึง PPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,OTP ถึง XLAM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของOTP ถึง XLAM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

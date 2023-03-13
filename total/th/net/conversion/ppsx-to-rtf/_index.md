@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นRTF,PPSX ถึง RTF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง RTF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

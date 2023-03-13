@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXAML,MD ถึง XAML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMD ถึง XAML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter Word para XLSX, DOTX para XLSX Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de DOTX para XLSX usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

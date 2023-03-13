@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXPS,PPTX ถึง XPS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTX ถึง XPS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

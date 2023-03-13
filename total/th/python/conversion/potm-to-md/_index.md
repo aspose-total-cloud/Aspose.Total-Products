@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,POTM ถึง MD ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTM ถึง MD โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

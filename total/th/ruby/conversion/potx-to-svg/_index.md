@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSVG,POTX ถึง SVG ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTX ถึง SVG โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành SVG, ODP thành SVG Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của ODP thành SVG bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

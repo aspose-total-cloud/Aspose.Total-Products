@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,PPSM ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

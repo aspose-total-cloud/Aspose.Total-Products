@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นFODS,XML ถึง FODS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXML ถึง FODS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

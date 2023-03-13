@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XAML, PPTM ke XAML Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke XAML dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

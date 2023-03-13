@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXAML,XLTX ถึง XAML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLTX ถึง XAML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

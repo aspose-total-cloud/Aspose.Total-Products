@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOTX,DOC ถึง POTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOC ถึง POTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

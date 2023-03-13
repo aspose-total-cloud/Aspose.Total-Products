@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDIF,PPTM ถึง DIF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTM ถึง DIF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

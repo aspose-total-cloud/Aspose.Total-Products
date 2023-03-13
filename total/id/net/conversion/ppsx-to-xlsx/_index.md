@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSX, PPSX ke XLSX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPSX ke XLSX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

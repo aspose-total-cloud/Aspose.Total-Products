@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTX,DOTX ถึง XLTX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOTX ถึง XLTX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para EMF, PPSM para EMF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSM para EMF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

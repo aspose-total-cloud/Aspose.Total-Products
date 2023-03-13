@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPTM,XML ถึง PPTM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXML ถึง PPTM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

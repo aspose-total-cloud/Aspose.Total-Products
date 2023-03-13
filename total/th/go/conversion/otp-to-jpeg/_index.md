@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJPEG,OTP ถึง JPEG ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของOTP ถึง JPEG โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

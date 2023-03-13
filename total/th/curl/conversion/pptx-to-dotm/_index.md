@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTM,PPTX ถึง DOTM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTX ถึง DOTM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

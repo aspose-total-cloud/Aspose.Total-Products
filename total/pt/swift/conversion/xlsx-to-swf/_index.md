@@ -1,0 +1,1 @@
+---title: Converter Excel para SWF, XLSX para SWF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de XLSX para SWF usando Swift APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

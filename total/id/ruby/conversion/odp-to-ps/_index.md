@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PS, ODP ke PS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODP ke PS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

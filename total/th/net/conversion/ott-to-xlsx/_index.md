@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSX,OTT ถึง XLSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของOTT ถึง XLSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

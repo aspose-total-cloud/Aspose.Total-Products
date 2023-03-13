@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,POTM ถึง PCL ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOTM ถึง PCL โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

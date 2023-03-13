@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTP,CHM ถึง OTP ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของCHM ถึง OTP โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

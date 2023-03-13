@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,ODP ถึง XLAM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง XLAM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi XLS, XLSX ke XLS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari XLSX ke XLS dengan menggunakan Net API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

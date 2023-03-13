@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOT,PPT ถึง POT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPT ถึง POT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

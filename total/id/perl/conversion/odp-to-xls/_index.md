@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, ODP ke XLS Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari ODP ke XLS dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

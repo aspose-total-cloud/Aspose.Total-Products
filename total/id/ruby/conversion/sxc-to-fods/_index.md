@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi FODS, SXC ke FODS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari SXC ke FODS dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

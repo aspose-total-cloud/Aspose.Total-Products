@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOTX,OTP ถึง POTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของOTP ถึง POTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

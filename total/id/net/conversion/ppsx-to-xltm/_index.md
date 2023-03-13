@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLTM, PPSX ke XLTM Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPSX ke XLTM dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

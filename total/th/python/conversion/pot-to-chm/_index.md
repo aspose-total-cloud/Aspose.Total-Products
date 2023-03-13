@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,POT ถึง CHM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOT ถึง CHM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

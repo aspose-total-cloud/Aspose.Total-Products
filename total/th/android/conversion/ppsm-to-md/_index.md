@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,PPSM ถึง MD ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPSM ถึง MD โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

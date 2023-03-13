@@ -1,0 +1,1 @@
+---title: Chuyển Word thành PPSM, DOCX thành PPSM Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của DOCX thành PPSM bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

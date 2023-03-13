@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLS,ODP ถึง XLS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของODP ถึง XLS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

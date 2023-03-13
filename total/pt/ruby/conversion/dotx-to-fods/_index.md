@@ -1,0 +1,1 @@
+---title: Converter Word para FODS, DOTX para FODS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTX para FODS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

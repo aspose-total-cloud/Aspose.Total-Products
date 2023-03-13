@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLTX, POTX ke XLTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari POTX ke XLTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

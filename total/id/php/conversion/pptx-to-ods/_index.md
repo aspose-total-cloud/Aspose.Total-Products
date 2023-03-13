@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODS, PPTX ke ODS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPTX ke ODS dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

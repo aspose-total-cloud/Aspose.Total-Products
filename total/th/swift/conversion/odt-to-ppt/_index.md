@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,ODT ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODT ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

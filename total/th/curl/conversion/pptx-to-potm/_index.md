@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOTM,PPTX ถึง POTM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTX ถึง POTM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

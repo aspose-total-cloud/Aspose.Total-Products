@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOTX, POT para DOTX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de POT para DOTX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,POTX ถึง ODS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง ODS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

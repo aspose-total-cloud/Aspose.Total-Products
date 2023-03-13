@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXAML,POT ถึง XAML ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOT ถึง XAML โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

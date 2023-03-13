@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODT,PPSX ถึง ODT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง ODT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

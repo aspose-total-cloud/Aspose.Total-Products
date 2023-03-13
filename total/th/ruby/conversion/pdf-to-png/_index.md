@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPNG,PDF ถึง PNG ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDF ถึง PNG โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

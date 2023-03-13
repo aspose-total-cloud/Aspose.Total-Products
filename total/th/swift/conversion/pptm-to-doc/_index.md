@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,PPTM ถึง DOC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTM ถึง DOC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

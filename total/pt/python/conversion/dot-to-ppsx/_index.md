@@ -1,0 +1,1 @@
+---title: Converter Word para PPSX, DOT para PPSX Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOT para PPSX usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

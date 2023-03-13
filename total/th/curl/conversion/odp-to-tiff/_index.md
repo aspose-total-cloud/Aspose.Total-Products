@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTIFF,ODP ถึง TIFF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODP ถึง TIFF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

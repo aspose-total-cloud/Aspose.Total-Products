@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOT,POTM ถึง DOT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง DOT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

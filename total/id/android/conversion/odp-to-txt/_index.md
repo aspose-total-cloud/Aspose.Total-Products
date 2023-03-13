@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, ODP ke TXT Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari ODP ke TXT dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTX,DOC ถึง XLTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOC ถึง XLTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

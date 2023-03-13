@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSB,PPTM ถึง XLSB ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTM ถึง XLSB โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

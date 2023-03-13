@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, OTP ke SVG Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari OTP ke SVG dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

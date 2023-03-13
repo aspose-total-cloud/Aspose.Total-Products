@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOCX, POTM para DOCX Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTM para DOCX usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

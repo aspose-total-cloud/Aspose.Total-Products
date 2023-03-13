@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXPS,PPT ถึง XPS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPT ถึง XPS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

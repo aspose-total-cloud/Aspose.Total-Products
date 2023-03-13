@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,PDF ถึง PPT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPDF ถึง PPT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

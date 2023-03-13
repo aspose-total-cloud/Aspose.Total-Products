@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TIFF, PPT para TIFF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPT para TIFF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBI,POTX ถึง MOBI ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTX ถึง MOBI โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

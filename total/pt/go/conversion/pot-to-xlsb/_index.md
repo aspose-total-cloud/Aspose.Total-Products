@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSB, POT para XLSB Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de POT para XLSB usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

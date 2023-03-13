@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODP, POTX ke ODP Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTX ke ODP dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

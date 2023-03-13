@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOC,DOT ถึง DOC ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOT ถึง DOC โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

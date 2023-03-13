@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOT,POT ถึง DOT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOT ถึง DOT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para JSON, POTX para JSON Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de POTX para JSON usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

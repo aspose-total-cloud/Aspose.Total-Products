@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นHTML,CHM ถึง HTML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง HTML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

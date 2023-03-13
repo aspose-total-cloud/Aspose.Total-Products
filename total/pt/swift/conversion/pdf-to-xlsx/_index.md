@@ -1,0 +1,1 @@
+---title: Converter Word para XLSX, PDF para XLSX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PDF para XLSX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

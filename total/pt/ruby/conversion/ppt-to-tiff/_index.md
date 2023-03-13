@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TIFF, PPT para TIFF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPT para TIFF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

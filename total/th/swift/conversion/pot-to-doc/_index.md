@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,POT ถึง DOC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง DOC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

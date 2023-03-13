@@ -1,0 +1,1 @@
+---title: Converter Word para PS, DOTX para PS Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para PS usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

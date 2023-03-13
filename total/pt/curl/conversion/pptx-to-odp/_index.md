@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para ODP, PPTX para ODP Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPTX para ODP usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

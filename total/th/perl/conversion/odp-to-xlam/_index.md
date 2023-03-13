@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,ODP ถึง XLAM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODP ถึง XLAM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

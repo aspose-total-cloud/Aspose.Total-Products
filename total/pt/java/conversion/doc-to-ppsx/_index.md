@@ -1,0 +1,1 @@
+---title: Converter Word para PPSX, DOC para PPSX Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de DOC para PPSX usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

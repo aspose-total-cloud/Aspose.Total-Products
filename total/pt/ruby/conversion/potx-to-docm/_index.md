@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOCM, POTX para DOCM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTX para DOCM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

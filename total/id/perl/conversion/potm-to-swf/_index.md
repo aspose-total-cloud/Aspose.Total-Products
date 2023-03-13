@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SWF, POTM ke SWF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari POTM ke SWF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

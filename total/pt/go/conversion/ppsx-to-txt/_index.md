@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, PPSX para TXT Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPSX para TXT usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

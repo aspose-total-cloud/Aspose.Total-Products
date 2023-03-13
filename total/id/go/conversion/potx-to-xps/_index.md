@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XPS, POTX ke XPS Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari POTX ke XPS dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

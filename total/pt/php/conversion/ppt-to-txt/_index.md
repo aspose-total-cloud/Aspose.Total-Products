@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, PPT para TXT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPT para TXT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

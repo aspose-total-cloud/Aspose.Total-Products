@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para JPEG, POTX para JPEG Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de POTX para JPEG usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

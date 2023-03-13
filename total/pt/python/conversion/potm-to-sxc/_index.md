@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de POTM para SXC usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

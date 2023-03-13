@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSB, PPTX para XLSB Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTX para XLSB usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

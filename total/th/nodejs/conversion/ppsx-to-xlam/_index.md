@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,PPSX ถึง XLAM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPSX ถึง XLAM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

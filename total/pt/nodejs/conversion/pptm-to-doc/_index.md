@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOC, PPTM para DOC Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPTM para DOC usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

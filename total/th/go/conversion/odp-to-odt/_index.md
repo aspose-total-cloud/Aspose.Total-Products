@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODT,ODP ถึง ODT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของODP ถึง ODT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

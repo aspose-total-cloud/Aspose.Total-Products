@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEPUB,OTP ถึง EPUB ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTP ถึง EPUB โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSM,PDF ถึง PPSM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPDF ถึง PPSM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

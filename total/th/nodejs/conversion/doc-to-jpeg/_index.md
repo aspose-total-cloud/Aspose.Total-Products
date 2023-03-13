@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJPEG,DOC ถึง JPEG ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของDOC ถึง JPEG โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

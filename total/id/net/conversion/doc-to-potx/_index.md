@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi POTX, DOC ke POTX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOC ke POTX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

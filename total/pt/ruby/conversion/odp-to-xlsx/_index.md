@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSX, ODP para XLSX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODP para XLSX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,PPTM ถึง EMF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPTM ถึง EMF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

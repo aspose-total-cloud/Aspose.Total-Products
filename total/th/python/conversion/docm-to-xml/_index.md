@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXML,DOCM ถึง XML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOCM ถึง XML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

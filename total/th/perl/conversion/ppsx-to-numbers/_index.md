@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นNUMBERS,PPSX ถึง NUMBERS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง NUMBERS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

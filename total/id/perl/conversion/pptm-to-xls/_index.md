@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, PPTM ke XLS Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTM ke XLS dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

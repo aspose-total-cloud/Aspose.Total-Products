@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSVG,SXC ถึง SVG ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของSXC ถึง SVG โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

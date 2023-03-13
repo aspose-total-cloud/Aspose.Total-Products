@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành MHTML, PPTX thành MHTML Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của PPTX thành MHTML bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

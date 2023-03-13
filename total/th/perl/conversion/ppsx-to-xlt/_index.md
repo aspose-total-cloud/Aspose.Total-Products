@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLT,PPSX ถึง XLT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง XLT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

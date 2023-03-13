@@ -1,0 +1,1 @@
+---title: Converter Word para XLSX, HTML para XLSX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de HTML para XLSX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,POTM ถึง EMF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง EMF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

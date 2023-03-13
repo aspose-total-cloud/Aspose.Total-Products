@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PS, PPSX ke PS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPSX ke PS dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

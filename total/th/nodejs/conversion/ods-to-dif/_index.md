@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDIF,ODS ถึง DIF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของODS ถึง DIF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

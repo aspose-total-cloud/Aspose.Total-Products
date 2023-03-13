@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPTX, PPS ke PPTX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPS ke PPTX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

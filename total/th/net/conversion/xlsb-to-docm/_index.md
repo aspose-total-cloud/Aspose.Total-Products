@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOCM,XLSB ถึง DOCM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSB ถึง DOCM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEPUB,PPS ถึง EPUB ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPS ถึง EPUB โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

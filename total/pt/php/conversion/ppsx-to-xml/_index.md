@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XML, PPSX para XML Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPSX para XML usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

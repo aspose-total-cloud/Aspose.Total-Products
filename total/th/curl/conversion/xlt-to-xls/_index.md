@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLS,XLT ถึง XLS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLT ถึง XLS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

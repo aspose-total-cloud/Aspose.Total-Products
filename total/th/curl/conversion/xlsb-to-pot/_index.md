@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOT,XLSB ถึง POT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLSB ถึง POT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

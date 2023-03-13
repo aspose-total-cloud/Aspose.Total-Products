@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para BMP, POTX para BMP Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POTX para BMP usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

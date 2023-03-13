@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,PPSM ถึง EMF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPSM ถึง EMF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

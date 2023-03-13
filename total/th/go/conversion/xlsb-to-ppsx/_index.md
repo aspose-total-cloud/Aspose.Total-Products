@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPSX,XLSB ถึง PPSX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLSB ถึง PPSX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

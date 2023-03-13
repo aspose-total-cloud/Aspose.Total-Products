@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSX,PPS ถึง XLSX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง XLSX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

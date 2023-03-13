@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นHTML,POTM ถึง HTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTM ถึง HTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

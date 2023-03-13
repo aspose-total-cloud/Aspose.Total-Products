@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCSV,PPSX ถึง CSV ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSX ถึง CSV โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

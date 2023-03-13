@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi POT, PPSX ke POT Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari PPSX ke POT dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

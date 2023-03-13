@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTXT,POT ถึง TXT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง TXT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

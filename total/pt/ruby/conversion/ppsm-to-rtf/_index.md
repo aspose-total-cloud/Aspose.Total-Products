@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para RTF, PPSM para RTF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para RTF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

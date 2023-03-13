@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMHTML,DOC ถึง MHTML ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOC ถึง MHTML โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

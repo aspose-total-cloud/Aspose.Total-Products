@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOT,XLTX ถึง POT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLTX ถึง POT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

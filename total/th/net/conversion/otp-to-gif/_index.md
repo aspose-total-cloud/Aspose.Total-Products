@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,OTP ถึง GIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของOTP ถึง GIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

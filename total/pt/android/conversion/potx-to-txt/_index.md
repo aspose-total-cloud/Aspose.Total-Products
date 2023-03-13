@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, POTX para TXT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para TXT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCSV,PPTM ถึง CSV ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPTM ถึง CSV โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOTX,PPSM ถึง POTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPSM ถึง POTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para POTM, POTX para POTM Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de POTX para POTM usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

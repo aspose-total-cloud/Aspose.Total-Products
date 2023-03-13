@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นNUMBERS,POT ถึง NUMBERS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง NUMBERS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

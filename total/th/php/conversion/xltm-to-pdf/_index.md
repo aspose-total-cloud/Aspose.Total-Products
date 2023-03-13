@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDF,XLTM ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLTM ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

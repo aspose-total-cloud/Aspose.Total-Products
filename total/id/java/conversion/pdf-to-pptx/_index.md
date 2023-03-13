@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi PPTX, PDF ke PPTX Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari PDF ke PPTX dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

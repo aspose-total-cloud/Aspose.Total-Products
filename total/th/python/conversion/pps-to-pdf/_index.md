@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDF,PPS ถึง PDF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง PDF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

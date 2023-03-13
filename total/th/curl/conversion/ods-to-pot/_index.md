@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOT,ODS ถึง POT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODS ถึง POT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

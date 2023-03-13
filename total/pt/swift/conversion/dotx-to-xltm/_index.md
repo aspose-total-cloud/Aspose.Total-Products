@@ -1,0 +1,1 @@
+---title: Converter Word para XLTM, DOTX para XLTM Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOTX para XLTM usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

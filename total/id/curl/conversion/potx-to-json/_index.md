@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JSON, POTX ke JSON Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTX ke JSON dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

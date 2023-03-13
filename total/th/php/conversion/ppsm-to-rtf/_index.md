@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นRTF,PPSM ถึง RTF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSM ถึง RTF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

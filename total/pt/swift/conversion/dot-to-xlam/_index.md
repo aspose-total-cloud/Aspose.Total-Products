@@ -1,0 +1,1 @@
+---title: Converter Word para XLAM, DOT para XLAM Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOT para XLAM usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

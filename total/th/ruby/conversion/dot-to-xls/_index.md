@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLS,DOT ถึง XLS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOT ถึง XLS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

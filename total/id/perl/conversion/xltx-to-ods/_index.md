@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi ODS, XLTX ke ODS Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari XLTX ke ODS dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

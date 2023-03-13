@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPTX,MOBI ถึง PPTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของMOBI ถึง PPTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

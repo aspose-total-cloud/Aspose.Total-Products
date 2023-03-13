@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSVG,TXT ถึง SVG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของTXT ถึง SVG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

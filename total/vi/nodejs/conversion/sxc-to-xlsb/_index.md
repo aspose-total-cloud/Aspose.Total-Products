@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang XLSB, SXC thành XLSB Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của SXC thành XLSB bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

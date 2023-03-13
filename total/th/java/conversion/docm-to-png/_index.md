@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPNG,DOCM ถึง PNG ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCM ถึง PNG โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

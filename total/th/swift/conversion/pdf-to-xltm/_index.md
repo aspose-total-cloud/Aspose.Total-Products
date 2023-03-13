@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTM,PDF ถึง XLTM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPDF ถึง XLTM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

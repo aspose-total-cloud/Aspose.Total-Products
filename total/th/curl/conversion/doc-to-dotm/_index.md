@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTM,DOC ถึง DOTM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOC ถึง DOTM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

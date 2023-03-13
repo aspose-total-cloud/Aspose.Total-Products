@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEPUB,POT ถึง EPUB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOT ถึง EPUB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

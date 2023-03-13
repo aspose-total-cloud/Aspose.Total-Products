@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TXT, DOC ke TXT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOC ke TXT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

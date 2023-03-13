@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLS, POTX para XLS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTX para XLS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

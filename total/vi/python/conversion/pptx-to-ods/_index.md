@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành ODS, PPTX thành ODS Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của PPTX thành ODS bằng cách sử dụng Python Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

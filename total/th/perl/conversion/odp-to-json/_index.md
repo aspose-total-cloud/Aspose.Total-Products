@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJSON,ODP ถึง JSON ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODP ถึง JSON โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

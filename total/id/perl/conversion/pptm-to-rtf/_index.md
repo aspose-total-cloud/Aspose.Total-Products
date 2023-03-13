@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi RTF, PPTM ke RTF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTM ke RTF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

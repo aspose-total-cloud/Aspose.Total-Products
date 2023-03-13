@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOCX,XLTX ถึง DOCX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLTX ถึง DOCX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

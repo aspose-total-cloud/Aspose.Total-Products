@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTT,MHTML ถึง OTT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMHTML ถึง OTT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

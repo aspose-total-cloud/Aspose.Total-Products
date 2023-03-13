@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSM,HTML ถึง PPSM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของHTML ถึง PPSM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

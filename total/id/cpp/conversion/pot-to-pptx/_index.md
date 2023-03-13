@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPTX, POT ke PPTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POT ke PPTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

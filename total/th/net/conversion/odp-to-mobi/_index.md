@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBI,ODP ถึง MOBI ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง MOBI โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

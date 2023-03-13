@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, PPSM ke TXT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPSM ke TXT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLT, POTX para XLT Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POTX para XLT usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

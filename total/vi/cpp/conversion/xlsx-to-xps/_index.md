@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang XPS, XLSX thành XPS Trình chuyển đổi MIỄN PHÍ hoặc C++ SDKdescription: Chuyển đổi miễn phí của XLSX thành XPS bằng cách sử dụng C++ Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

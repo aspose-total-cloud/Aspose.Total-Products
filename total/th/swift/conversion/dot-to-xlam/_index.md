@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLAM,DOT ถึง XLAM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOT ถึง XLAM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

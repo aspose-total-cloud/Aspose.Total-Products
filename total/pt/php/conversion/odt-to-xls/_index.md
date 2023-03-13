@@ -1,0 +1,1 @@
+---title: Converter Word para XLS, ODT para XLS Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de ODT para XLS usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

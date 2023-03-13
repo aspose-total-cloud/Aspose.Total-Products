@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSM,POTM ถึง XLSM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง XLSM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

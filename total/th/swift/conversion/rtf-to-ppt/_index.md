@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,RTF ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของRTF ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

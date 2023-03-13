@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMHTML,SXC ถึง MHTML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของSXC ถึง MHTML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

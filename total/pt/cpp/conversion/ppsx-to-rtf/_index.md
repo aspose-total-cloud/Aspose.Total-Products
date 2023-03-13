@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para RTF, PPSX para RTF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPSX para RTF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

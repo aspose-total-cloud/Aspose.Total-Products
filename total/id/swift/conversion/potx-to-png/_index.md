@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PNG, POTX ke PNG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTX ke PNG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

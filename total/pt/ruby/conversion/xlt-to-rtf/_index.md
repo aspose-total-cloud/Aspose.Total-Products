@@ -1,0 +1,1 @@
+---title: Converter Excel para RTF, XLT para RTF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLT para RTF usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

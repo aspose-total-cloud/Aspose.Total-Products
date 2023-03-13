@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDIF,XML ถึง DIF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXML ถึง DIF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

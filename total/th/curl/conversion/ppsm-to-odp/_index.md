@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,PPSM ถึง ODP ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง ODP โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

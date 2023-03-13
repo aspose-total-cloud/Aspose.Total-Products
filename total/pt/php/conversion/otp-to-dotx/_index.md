@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOTX, OTP para DOTX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de OTP para DOTX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

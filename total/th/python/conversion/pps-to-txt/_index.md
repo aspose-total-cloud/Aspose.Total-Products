@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTXT,PPS ถึง TXT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง TXT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

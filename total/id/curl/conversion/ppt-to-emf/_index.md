@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi EMF, PPT ke EMF Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPT ke EMF dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

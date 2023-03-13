@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTM,DOT ถึง XLTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOT ถึง XLTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

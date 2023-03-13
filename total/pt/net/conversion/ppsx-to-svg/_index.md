@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SVG, PPSX para SVG Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPSX para SVG usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

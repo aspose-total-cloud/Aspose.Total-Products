@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTX,POT ถึง PPTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง PPTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

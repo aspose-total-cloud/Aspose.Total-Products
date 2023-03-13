@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPS,TSV ถึง PPS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของTSV ถึง PPS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

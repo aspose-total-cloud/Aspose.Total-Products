@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,ODP ถึง PCL ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODP ถึง PCL โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

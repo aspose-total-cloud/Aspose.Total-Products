@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLAM, PPTX para XLAM Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPTX para XLAM usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

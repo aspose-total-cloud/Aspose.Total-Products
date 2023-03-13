@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPTM,DOT ถึง PPTM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOT ถึง PPTM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

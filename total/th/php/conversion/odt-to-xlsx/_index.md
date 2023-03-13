@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSX,ODT ถึง XLSX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODT ถึง XLSX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

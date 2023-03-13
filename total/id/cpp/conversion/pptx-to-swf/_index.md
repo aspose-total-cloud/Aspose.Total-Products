@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SWF, PPTX ke SWF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTX ke SWF dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

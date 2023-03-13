@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSM,PPSM ถึง XLSM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง XLSM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

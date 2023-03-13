@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,PPSM ถึง PCL ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง PCL โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,PPSX ถึง SWF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง SWF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

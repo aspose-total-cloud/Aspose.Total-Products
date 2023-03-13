@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPS,XLSM ถึง PPS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXLSM ถึง PPS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

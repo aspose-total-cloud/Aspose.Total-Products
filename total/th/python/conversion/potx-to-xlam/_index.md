@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,POTX ถึง XLAM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง XLAM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

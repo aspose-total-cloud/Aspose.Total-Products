@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXAML,PPSX ถึง XAML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง XAML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MD, PPT ke MD Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPT ke MD dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

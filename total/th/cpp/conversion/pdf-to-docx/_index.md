@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOCX,PDF ถึง DOCX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDF ถึง DOCX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODP,DOCM ถึง ODP ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCM ถึง ODP โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

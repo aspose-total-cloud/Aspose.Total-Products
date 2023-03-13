@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PNG, PPSX ke PNG Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPSX ke PNG dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

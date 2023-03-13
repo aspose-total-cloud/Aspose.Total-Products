@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นRTF,PPTM ถึง RTF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPTM ถึง RTF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

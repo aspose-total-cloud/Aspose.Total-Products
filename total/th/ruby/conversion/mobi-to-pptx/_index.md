@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPTX,MOBI ถึง PPTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMOBI ถึง PPTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

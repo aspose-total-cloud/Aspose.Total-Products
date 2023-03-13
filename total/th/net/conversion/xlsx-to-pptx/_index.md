@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPTX,XLSX ถึง PPTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSX ถึง PPTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

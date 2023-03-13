@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTSV,PPSM ถึง TSV ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSM ถึง TSV โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

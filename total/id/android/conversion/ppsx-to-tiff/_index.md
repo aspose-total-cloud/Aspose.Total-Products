@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TIFF, PPSX ke TIFF Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPSX ke TIFF dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

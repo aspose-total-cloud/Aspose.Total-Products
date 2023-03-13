@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLAM,JSON ถึง XLAM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของJSON ถึง XLAM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

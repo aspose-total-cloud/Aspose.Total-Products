@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, PPSM ke SVG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke SVG dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

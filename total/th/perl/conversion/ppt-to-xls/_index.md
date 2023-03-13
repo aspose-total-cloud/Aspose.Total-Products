@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLS,PPT ถึง XLS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPT ถึง XLS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

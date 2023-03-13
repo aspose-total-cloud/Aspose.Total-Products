@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJSON,POTX ถึง JSON ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOTX ถึง JSON โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

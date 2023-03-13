@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, POT ke XLS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari POT ke XLS dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

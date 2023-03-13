@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi SVG, HTML ke SVG Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari HTML ke SVG dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

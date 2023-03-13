@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นHTML,PPTX ถึง HTML ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTX ถึง HTML โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

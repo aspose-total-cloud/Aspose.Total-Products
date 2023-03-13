@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, POT ke TXT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POT ke TXT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

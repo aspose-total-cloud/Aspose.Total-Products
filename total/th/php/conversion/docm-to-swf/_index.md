@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSWF,DOCM ถึง SWF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOCM ถึง SWF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

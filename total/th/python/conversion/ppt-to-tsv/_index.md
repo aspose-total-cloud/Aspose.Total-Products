@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTSV,PPT ถึง TSV ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPT ถึง TSV โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

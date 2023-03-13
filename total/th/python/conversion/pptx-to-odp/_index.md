@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,PPTX ถึง ODP ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTX ถึง ODP โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

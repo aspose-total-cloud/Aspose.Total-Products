@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTX,POTX ถึง XLTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง XLTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

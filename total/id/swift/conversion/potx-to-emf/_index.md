@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi EMF, POTX ke EMF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTX ke EMF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

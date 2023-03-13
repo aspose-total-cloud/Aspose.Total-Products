@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCSV,POT ถึง CSV ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOT ถึง CSV โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

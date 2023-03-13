@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTP,MOBI ถึง OTP ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMOBI ถึง OTP โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSX,OTP ถึง PPSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของOTP ถึง PPSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

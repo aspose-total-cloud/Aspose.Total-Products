@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นGIF,RTF ถึง GIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของRTF ถึง GIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

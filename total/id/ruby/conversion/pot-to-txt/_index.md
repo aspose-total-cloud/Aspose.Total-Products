@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, POT ke TXT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke TXT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นRTF,POTM ถึง RTF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTM ถึง RTF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDF,TSV ถึง PDF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTSV ถึง PDF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นFODS,XLSX ถึง FODS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLSX ถึง FODS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

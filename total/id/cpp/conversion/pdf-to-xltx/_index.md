@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLTX, PDF ke XLTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PDF ke XLTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

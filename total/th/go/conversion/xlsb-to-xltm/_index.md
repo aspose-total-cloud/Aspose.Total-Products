@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLTM,XLSB ถึง XLTM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLSB ถึง XLTM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

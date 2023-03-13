@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOTX, PPSX ke DOTX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPSX ke DOTX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLTX,XLS ถึง XLTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLS ถึง XLTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

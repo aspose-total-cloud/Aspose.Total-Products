@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOTX, POTM para DOTX Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POTM para DOTX usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

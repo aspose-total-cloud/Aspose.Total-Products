@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSXC,PPSX ถึง SXC ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง SXC โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

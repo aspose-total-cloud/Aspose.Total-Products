@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLTX, POTM para XLTX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTM para XLTX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

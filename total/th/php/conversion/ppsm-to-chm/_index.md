@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,PPSM ถึง CHM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSM ถึง CHM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

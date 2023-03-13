@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXAML,ODT ถึง XAML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง XAML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

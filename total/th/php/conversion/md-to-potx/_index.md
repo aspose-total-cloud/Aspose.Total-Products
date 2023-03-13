@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOTX,MD ถึง POTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของMD ถึง POTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

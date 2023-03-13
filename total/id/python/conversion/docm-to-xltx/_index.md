@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLTX, DOCM ke XLTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari DOCM ke XLTX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

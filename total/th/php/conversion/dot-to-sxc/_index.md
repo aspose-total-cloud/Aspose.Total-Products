@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSXC,DOT ถึง SXC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง SXC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

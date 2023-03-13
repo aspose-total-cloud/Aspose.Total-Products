@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi POTM, XLTX ke POTM Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari XLTX ke POTM dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

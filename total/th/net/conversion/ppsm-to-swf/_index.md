@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,PPSM ถึง SWF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSM ถึง SWF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

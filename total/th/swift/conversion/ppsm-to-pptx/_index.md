@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTX,PPSM ถึง PPTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง PPTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

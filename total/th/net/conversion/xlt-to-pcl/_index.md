@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPCL,XLT ถึง PCL ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLT ถึง PCL โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

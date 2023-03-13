@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSVG,XLSX ถึง SVG ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSX ถึง SVG โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi JPEG, XLTX ke JPEG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLTX ke JPEG dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

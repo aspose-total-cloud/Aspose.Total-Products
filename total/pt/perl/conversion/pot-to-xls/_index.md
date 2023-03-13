@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLS, POT para XLS Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POT para XLS usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

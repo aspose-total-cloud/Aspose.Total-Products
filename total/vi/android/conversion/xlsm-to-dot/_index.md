@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang DOT, XLSM thành DOT Trình chuyển đổi MIỄN PHÍ hoặc Android SDKdescription: Chuyển đổi miễn phí của XLSM thành DOT bằng cách sử dụng Android Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

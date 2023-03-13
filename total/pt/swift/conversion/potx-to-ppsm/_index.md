@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PPSM, POTX para PPSM Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de POTX para PPSM usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

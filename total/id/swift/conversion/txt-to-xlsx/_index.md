@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLSX, TXT ke XLSX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari TXT ke XLSX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

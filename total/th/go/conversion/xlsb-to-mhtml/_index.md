@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMHTML,XLSB ถึง MHTML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLSB ถึง MHTML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

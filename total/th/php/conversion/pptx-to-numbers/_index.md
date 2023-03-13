@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นNUMBERS,PPTX ถึง NUMBERS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTX ถึง NUMBERS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นCHM,TXT ถึง CHM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของTXT ถึง CHM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

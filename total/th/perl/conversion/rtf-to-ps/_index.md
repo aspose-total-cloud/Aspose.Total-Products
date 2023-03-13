@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPS,RTF ถึง PS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของRTF ถึง PS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter Word para XLS, DOTX para XLS Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de DOTX para XLS usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

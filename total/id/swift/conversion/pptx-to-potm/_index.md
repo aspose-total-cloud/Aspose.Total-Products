@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi POTM, PPTX ke POTM Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPTX ke POTM dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

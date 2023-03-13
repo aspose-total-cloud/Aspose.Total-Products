@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDF,XLSM ถึง PDF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLSM ถึง PDF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

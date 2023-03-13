@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi PPSX, DOC ke PPSX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOC ke PPSX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang JSON, XLSM thành JSON Trình chuyển đổi MIỄN PHÍ hoặc Curl SDKdescription: Chuyển đổi miễn phí của XLSM thành JSON bằng cách sử dụng Curl Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

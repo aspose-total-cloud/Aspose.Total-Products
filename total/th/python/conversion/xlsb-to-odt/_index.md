@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODT,XLSB ถึง ODT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLSB ถึง ODT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

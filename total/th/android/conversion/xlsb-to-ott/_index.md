@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นOTT,XLSB ถึง OTT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLSB ถึง OTT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

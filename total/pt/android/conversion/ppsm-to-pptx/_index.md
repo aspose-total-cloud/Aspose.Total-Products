@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PPTX, PPSM para PPTX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPSM para PPTX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

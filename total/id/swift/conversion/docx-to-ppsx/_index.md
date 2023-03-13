@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi PPSX, DOCX ke PPSX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOCX ke PPSX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

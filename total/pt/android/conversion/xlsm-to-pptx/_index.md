@@ -1,0 +1,1 @@
+---title: Converter Excel para PPTX, XLSM para PPTX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de XLSM para PPTX usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

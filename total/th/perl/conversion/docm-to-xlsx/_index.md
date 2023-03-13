@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSX,DOCM ถึง XLSX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOCM ถึง XLSX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

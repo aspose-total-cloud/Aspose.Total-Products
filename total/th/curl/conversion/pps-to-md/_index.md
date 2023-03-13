@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,PPS ถึง MD ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPS ถึง MD โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

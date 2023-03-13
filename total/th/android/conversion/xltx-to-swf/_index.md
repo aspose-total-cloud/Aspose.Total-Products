@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSWF,XLTX ถึง SWF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLTX ถึง SWF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

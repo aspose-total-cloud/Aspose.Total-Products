@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para ODT, PPSX para ODT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPSX para ODT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

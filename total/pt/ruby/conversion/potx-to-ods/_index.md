@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para ODS, POTX para ODS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTX para ODS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

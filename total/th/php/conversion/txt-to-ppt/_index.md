@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,TXT ถึง PPT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของTXT ถึง PPT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

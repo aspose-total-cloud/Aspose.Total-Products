@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLAM, POT ke XLAM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke XLAM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

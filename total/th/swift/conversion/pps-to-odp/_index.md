@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,PPS ถึง ODP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPS ถึง ODP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

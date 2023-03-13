@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, PPSM ke JPEG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke JPEG dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

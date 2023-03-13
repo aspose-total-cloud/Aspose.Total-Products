@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPNG,PPSM ถึง PNG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSM ถึง PNG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

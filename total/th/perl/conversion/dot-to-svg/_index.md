@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSVG,DOT ถึง SVG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOT ถึง SVG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

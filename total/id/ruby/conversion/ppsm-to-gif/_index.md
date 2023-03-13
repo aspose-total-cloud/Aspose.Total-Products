@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi GIF, PPSM ke GIF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke GIF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

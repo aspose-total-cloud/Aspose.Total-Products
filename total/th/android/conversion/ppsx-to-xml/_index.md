@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,PPSX ถึง XML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPSX ถึง XML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

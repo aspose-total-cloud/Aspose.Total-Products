@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTXT,XML ถึง TXT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXML ถึง TXT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

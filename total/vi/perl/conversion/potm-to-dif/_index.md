@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành DIF, POTM thành DIF Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của POTM thành DIF bằng cách sử dụng Perl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

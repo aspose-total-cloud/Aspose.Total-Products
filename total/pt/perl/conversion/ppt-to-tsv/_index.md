@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TSV, PPT para TSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPT para TSV usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

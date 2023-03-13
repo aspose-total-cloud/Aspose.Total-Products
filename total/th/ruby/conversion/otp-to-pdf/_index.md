@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDF,OTP ถึง PDF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTP ถึง PDF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

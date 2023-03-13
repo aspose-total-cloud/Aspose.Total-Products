@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTM,PPT ถึง PPTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPT ถึง PPTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

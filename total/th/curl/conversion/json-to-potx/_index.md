@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPOTX,JSON ถึง POTX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของJSON ถึง POTX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

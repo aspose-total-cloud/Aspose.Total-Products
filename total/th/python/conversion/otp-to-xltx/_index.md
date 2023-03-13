@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTX,OTP ถึง XLTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTP ถึง XLTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

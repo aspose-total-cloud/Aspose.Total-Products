@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSVG,PPTM ถึง SVG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTM ถึง SVG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

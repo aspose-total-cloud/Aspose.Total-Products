@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPSX, POTX ke PPSX Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari POTX ke PPSX dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

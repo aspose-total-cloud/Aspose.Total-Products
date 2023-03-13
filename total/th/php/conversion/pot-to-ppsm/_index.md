@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSM,POT ถึง PPSM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง PPSM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

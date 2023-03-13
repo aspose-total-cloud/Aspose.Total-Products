@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCX,POTM ถึง DOCX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง DOCX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

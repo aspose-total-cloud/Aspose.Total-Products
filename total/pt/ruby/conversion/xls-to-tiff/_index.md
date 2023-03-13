@@ -1,0 +1,1 @@
+---title: Converter Excel para TIFF, XLS para TIFF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLS para TIFF usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

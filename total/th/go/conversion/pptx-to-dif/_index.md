@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDIF,PPTX ถึง DIF ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTX ถึง DIF โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

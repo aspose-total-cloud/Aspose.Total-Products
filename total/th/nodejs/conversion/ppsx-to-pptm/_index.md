@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTM,PPSX ถึง PPTM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPSX ถึง PPTM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

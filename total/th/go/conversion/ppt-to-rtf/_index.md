@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นRTF,PPT ถึง RTF ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPT ถึง RTF โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

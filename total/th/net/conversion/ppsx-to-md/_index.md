@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,PPSX ถึง MD ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง MD โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TIFF, POTX para TIFF Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POTX para TIFF usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

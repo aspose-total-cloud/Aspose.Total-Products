@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi FODS, XLS ke FODS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari XLS ke FODS dengan menggunakan PHP API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

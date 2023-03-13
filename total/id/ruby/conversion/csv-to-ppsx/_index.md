@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi PPSX, CSV ke PPSX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CSV ke PPSX dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

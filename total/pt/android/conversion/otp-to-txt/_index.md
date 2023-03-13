@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, OTP para TXT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de OTP para TXT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,POTM ถึง DOTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง DOTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

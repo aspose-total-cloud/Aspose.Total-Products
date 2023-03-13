@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTM,RTF ถึง DOTM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของRTF ถึง DOTM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

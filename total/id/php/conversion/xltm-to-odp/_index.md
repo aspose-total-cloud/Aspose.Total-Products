@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi ODP, XLTM ke ODP Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari XLTM ke ODP dengan menggunakan PHP API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

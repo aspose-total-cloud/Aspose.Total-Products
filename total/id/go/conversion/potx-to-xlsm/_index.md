@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSM, POTX ke XLSM Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari POTX ke XLSM dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSX, POTX ke XLSX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTX ke XLSX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

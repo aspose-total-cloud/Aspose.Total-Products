@@ -1,0 +1,1 @@
+---title: Converter Word para TXT, DOC para TXT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOC para TXT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

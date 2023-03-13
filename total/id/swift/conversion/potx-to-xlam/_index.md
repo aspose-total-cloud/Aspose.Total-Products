@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLAM, POTX ke XLAM Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTX ke XLAM dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

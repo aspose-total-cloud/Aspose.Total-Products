@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOCX,ODT ถึง DOCX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของODT ถึง DOCX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

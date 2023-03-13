@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi POTX, PPSM ke POTX Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari PPSM ke POTX dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

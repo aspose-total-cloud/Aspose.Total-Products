@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTT,POTX ถึง OTT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOTX ถึง OTT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

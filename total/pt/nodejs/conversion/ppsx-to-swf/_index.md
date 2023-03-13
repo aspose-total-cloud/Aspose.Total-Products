@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SWF, PPSX para SWF Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPSX para SWF usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

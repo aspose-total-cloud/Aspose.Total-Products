@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXML,XLSX ถึง XML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSX ถึง XML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOT,PPS ถึง POT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPS ถึง POT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

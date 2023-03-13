@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang PPSM, XLSM thành PPSM Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của XLSM thành PPSM bằng cách sử dụng Python Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

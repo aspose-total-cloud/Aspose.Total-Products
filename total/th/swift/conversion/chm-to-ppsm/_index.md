@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSM,CHM ถึง PPSM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของCHM ถึง PPSM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

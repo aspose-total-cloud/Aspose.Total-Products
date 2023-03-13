@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นEMF,MHTML ถึง EMF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMHTML ถึง EMF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,PPSX ถึง CHM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSX ถึง CHM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

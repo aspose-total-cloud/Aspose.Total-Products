@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOT,PPT ถึง DOT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPT ถึง DOT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, PPSM ke BMP Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSM ke BMP dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

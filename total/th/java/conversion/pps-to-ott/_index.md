@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTT,PPS ถึง OTT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPS ถึง OTT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

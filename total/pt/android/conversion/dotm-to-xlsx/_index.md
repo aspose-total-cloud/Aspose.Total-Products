@@ -1,0 +1,1 @@
+---title: Converter Word para XLSX, DOTM para XLSX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOTM para XLSX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTSV,POTX ถึง TSV ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง TSV โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

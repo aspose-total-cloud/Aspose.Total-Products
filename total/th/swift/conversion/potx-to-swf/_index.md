@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,POTX ถึง SWF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง SWF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

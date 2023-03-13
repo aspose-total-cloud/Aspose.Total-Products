@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành PPTM, OTP thành PPTM Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của OTP thành PPTM bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

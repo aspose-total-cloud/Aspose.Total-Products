@@ -1,0 +1,1 @@
+---title: Chuyển Word thành XPS, MOBI thành XPS Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của MOBI thành XPS bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

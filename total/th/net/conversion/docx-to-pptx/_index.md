@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPTX,DOCX ถึง PPTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOCX ถึง PPTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

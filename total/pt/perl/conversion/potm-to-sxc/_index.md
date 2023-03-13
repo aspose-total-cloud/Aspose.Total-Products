@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POTM para SXC usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

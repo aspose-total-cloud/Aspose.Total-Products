@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLTM,XLSM ถึง XLTM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLSM ถึง XLTM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

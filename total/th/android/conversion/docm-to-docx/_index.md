@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOCX,DOCM ถึง DOCX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOCM ถึง DOCX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

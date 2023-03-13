@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSVG,POT ถึง SVG ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง SVG โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

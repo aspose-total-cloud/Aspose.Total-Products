@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,POTM ถึง ODS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง ODS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

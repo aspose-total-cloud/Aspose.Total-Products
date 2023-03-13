@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,PPTM ถึง GIF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPTM ถึง GIF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

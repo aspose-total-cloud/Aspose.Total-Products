@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para BMP, POTX para BMP Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de POTX para BMP usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

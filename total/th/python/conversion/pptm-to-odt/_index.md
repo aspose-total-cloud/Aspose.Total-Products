@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODT,PPTM ถึง ODT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTM ถึง ODT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

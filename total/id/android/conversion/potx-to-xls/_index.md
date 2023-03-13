@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, POTX ke XLS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POTX ke XLS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

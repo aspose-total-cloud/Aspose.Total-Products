@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,POTX ถึง EMF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง EMF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นNUMBERS,ODT ถึง NUMBERS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODT ถึง NUMBERS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

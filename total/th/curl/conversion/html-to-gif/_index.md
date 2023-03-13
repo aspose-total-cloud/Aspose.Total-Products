@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นGIF,HTML ถึง GIF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของHTML ถึง GIF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

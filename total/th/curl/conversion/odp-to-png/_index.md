@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPNG,ODP ถึง PNG ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODP ถึง PNG โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

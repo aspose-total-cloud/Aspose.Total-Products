@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PNG, PPTM para PNG Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPTM para PNG usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

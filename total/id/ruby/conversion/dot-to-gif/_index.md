@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi GIF, DOT ke GIF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOT ke GIF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

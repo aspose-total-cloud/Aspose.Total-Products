@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นCSV,DOT ถึง CSV ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOT ถึง CSV โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLT,DOC ถึง XLT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง XLT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

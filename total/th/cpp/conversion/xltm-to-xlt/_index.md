@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLT,XLTM ถึง XLT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLTM ถึง XLT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTM,PPSM ถึง XLTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSM ถึง XLTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

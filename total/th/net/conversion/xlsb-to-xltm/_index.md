@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLTM,XLSB ถึง XLTM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSB ถึง XLTM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

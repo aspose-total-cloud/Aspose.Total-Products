@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLS,OTP ถึง XLS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของOTP ถึง XLS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

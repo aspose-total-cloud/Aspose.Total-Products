@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, PPSM ke SVG Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPSM ke SVG dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

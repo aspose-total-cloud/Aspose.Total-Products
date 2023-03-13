@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,OTP ถึง XML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของOTP ถึง XML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

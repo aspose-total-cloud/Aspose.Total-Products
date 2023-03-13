@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi BMP, DOTM ke BMP Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOTM ke BMP dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành BMP, PPS thành BMP Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của PPS thành BMP bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

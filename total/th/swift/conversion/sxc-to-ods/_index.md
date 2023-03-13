@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODS,SXC ถึง ODS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของSXC ถึง ODS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

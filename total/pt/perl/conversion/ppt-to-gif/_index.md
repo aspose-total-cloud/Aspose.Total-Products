@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para GIF, PPT para GIF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPT para GIF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

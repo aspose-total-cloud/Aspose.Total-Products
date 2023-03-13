@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTIFF,PPS ถึง TIFF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPS ถึง TIFF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

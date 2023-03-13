@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJSON,DOTM ถึง JSON ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTM ถึง JSON โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

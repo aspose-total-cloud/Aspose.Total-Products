@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,PPTM ถึง XLAM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTM ถึง XLAM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

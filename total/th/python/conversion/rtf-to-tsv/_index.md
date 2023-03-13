@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTSV,RTF ถึง TSV ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของRTF ถึง TSV โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

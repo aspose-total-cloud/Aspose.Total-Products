@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOTX,PDF ถึง DOTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDF ถึง DOTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

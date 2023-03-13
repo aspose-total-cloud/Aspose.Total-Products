@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SXC, PPTM ke SXC Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke SXC dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

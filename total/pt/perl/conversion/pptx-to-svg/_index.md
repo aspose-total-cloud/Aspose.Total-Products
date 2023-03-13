@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SVG, PPTX para SVG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPTX para SVG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

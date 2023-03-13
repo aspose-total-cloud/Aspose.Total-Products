@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLT, PPTX para XLT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPTX para XLT usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

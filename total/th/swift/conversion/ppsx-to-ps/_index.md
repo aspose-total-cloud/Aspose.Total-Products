@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPS,PPSX ถึง PS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSX ถึง PS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

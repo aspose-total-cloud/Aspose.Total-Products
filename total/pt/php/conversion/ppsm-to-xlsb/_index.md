@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSB, PPSM para XLSB Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPSM para XLSB usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

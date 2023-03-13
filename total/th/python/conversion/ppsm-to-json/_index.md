@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJSON,PPSM ถึง JSON ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSM ถึง JSON โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

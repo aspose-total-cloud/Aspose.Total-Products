@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,OTP ถึง DOC ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTP ถึง DOC โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

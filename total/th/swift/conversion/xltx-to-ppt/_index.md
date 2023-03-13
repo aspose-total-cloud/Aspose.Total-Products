@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPT,XLTX ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXLTX ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

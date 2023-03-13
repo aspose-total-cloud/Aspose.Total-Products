@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para RTF, POTX para RTF Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POTX para RTF usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

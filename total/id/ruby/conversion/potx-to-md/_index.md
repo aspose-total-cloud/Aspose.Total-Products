@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MD, POTX ke MD Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POTX ke MD dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

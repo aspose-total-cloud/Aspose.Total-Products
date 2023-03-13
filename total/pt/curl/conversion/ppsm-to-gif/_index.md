@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para GIF, PPSM para GIF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSM para GIF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang XLS, XLTM thành XLS Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của XLTM thành XLS bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

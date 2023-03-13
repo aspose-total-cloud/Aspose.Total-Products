@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPTX,XLS ถึง PPTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXLS ถึง PPTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJPEG,PPTX ถึง JPEG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPTX ถึง JPEG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOC, POTM ke DOC Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari POTM ke DOC dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

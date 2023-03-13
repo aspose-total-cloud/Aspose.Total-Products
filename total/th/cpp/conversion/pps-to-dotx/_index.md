@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,PPS ถึง DOTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPS ถึง DOTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

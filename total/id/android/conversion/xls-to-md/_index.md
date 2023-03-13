@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi MD, XLS ke MD Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari XLS ke MD dengan menggunakan Android API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

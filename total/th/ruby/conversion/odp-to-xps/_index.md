@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXPS,ODP ถึง XPS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของODP ถึง XPS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

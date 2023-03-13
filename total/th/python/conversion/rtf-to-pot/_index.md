@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOT,RTF ถึง POT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของRTF ถึง POT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

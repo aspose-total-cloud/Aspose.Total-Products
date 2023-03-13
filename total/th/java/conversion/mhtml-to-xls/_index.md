@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLS,MHTML ถึง XLS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของMHTML ถึง XLS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

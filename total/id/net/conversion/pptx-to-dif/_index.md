@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DIF, PPTX ke DIF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTX ke DIF dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

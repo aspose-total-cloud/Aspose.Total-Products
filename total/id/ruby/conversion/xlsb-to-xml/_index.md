@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi XML, XLSB ke XML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLSB ke XML dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

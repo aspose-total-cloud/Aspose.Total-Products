@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, PPSX ke XLS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPSX ke XLS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

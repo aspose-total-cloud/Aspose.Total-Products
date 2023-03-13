@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOTM,HTML ถึง POTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของHTML ถึง POTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

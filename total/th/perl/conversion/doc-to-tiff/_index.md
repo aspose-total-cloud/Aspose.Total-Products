@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTIFF,DOC ถึง TIFF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOC ถึง TIFF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

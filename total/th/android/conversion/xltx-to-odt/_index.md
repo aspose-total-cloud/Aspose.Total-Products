@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODT,XLTX ถึง ODT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLTX ถึง ODT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

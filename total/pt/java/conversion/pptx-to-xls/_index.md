@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLS, PPTX para XLS Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de PPTX para XLS usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

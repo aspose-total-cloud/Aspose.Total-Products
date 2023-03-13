@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, PPTM ke SVG Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari PPTM ke SVG dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

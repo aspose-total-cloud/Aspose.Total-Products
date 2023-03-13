@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นCHM,DOTM ถึง CHM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTM ถึง CHM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

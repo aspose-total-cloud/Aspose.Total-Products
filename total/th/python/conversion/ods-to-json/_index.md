@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นJSON,ODS ถึง JSON ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODS ถึง JSON โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

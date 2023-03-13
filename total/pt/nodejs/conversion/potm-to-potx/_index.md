@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para POTX, POTM para POTX Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POTM para POTX usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

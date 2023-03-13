@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXAML,TXT ถึง XAML ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของTXT ถึง XAML โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

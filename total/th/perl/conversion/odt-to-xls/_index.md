@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLS,ODT ถึง XLS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง XLS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

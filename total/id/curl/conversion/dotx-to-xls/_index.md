@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLS, DOTX ke XLS Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTX ke XLS dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

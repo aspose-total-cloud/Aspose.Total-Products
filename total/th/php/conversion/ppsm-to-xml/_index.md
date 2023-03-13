@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXML,PPSM ถึง XML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSM ถึง XML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

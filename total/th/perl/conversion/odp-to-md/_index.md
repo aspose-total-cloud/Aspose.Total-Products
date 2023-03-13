@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,ODP ถึง MD ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODP ถึง MD โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

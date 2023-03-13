@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTXT,HTML ถึง TXT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของHTML ถึง TXT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

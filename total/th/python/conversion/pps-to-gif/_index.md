@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,PPS ถึง GIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง GIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

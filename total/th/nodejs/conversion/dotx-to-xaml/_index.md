@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXAML,DOTX ถึง XAML ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของDOTX ถึง XAML โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

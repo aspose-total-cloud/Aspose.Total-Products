@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLSX, DOTM ke XLSX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOTM ke XLSX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,PPSX ถึง GIF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSX ถึง GIF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

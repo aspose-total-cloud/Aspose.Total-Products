@@ -1,0 +1,1 @@
+---title: Converter Word para PPT, MHTML para PPT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MHTML para PPT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

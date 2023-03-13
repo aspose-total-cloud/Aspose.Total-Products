@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นHTML,PPSM ถึง HTML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPSM ถึง HTML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

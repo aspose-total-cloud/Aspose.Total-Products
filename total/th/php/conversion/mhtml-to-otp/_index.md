@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTP,MHTML ถึง OTP ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของMHTML ถึง OTP โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

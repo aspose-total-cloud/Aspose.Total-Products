@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLTX, PPTX para XLTX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPTX para XLTX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

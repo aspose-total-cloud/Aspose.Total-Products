@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMOBI,XML ถึง MOBI ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXML ถึง MOBI โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

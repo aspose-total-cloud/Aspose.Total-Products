@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLT,ODS ถึง XLT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของODS ถึง XLT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

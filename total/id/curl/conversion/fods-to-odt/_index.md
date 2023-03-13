@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi ODT, FODS ke ODT Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari FODS ke ODT dengan menggunakan Curl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

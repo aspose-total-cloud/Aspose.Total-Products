@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นNUMBERS,XLTM ถึง NUMBERS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLTM ถึง NUMBERS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

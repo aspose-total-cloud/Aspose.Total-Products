@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTIFF,PPSX ถึง TIFF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง TIFF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

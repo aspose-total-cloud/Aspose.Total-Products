@@ -1,0 +1,1 @@
+---title: Converter Word para BMP, HTML para BMP Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de HTML para BMP usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

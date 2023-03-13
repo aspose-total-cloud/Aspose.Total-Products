@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODT, PPSM ke ODT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPSM ke ODT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

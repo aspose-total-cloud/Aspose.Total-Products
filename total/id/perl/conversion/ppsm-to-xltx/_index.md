@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLTX, PPSM ke XLTX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPSM ke XLTX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, PPTM ke TXT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTM ke TXT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

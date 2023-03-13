@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MD, PPTX ke MD Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTX ke MD dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

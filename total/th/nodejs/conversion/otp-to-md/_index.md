@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMD,OTP ถึง MD ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTP ถึง MD โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

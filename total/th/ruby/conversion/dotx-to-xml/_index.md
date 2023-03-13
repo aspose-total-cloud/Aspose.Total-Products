@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXML,DOTX ถึง XML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTX ถึง XML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

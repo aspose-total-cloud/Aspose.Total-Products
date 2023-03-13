@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOT,PPT ถึง POT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง POT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

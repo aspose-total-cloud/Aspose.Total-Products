@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นNUMBERS,DOTM ถึง NUMBERS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOTM ถึง NUMBERS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

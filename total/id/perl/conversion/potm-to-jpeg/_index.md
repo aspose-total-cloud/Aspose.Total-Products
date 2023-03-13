@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi JPEG, POTM ke JPEG Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari POTM ke JPEG dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

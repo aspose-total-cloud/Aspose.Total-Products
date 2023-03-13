@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXML,ODS ถึง XML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODS ถึง XML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

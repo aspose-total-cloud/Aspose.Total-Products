@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นGIF,POTM ถึง GIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTM ถึง GIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

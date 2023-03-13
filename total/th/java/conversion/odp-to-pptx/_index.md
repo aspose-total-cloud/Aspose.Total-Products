@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTX,ODP ถึง PPTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของODP ถึง PPTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

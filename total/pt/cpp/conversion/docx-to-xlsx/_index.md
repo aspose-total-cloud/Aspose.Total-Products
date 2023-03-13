@@ -1,0 +1,1 @@
+---title: Converter Word para XLSX, DOCX para XLSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de DOCX para XLSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

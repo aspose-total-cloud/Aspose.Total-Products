@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOC, OTP para DOC Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de OTP para DOC usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTM,ODP ถึง DOTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODP ถึง DOTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

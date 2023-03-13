@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSM,POTM ถึง PPSM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTM ถึง PPSM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

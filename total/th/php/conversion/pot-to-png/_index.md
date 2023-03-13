@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPNG,POT ถึง PNG ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง PNG โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

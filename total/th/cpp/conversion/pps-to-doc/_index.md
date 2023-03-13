@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,PPS ถึง DOC ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPS ถึง DOC โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

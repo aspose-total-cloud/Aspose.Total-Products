@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPSX,XLS ถึง PPSX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLS ถึง PPSX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

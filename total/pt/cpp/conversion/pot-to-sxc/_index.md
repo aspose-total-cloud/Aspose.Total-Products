@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SXC, POT para SXC Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para SXC usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

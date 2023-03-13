@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXML,DOCX ถึง XML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOCX ถึง XML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

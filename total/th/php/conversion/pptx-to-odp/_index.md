@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODP,PPTX ถึง ODP ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTX ถึง ODP โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

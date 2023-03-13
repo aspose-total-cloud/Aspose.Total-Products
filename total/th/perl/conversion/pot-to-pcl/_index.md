@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,POT ถึง PCL ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOT ถึง PCL โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

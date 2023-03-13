@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นGIF,XML ถึง GIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXML ถึง GIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

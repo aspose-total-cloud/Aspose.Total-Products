@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSB,DOCX ถึง XLSB ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCX ถึง XLSB โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

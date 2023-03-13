@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PPT, PPTX para PPT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTX para PPT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

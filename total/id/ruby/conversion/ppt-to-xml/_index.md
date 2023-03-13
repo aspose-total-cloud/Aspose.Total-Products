@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XML, PPT ke XML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPT ke XML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

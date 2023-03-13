@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSM,MOBI ถึง PPSM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMOBI ถึง PPSM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

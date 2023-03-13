@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, PPT ke BMP Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPT ke BMP dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCM,PPSM ถึง DOCM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง DOCM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

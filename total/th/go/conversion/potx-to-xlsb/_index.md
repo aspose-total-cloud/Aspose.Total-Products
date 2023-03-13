@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSB,POTX ถึง XLSB ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTX ถึง XLSB โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

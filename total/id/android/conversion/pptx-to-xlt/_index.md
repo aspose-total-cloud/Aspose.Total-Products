@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLT, PPTX ke XLT Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPTX ke XLT dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

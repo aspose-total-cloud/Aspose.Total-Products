@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi POTM, DOT ke POTM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOT ke POTM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

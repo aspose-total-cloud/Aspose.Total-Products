@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi DOC, PPTM ke DOC Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTM ke DOC dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

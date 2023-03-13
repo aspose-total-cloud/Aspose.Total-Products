@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, PPSM para TXT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSM para TXT usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

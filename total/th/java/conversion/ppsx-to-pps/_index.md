@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPS,PPSX ถึง PPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง PPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

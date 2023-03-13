@@ -1,0 +1,1 @@
+---title: Chuyển Word thành PPTM, DOC thành PPTM Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của DOC thành PPTM bằng cách sử dụng Python Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

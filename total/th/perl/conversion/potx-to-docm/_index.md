@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCM,POTX ถึง DOCM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTX ถึง DOCM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

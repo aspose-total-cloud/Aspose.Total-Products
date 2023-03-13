@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLT,ODS ถึง XLT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODS ถึง XLT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

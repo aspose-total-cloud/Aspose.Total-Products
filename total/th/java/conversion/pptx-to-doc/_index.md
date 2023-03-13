@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,PPTX ถึง DOC ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTX ถึง DOC โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

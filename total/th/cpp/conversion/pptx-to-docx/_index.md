@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCX,PPTX ถึง DOCX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPTX ถึง DOCX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

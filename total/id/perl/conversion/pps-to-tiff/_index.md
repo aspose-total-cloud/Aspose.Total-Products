@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TIFF, PPS ke TIFF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPS ke TIFF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

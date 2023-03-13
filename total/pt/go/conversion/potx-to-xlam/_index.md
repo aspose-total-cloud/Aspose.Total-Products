@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLAM, POTX para XLAM Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de POTX para XLAM usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

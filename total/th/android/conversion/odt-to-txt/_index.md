@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTXT,ODT ถึง TXT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODT ถึง TXT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

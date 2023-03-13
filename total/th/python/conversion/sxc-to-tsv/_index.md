@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTSV,SXC ถึง TSV ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของSXC ถึง TSV โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

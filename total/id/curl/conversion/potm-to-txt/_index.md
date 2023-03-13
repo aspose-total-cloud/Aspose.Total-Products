@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TXT, POTM ke TXT Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTM ke TXT dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

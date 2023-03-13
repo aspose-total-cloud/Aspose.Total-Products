@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPSM,CSV ถึง PPSM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของCSV ถึง PPSM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

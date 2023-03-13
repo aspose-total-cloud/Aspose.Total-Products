@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นFODS,XLS ถึง FODS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXLS ถึง FODS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

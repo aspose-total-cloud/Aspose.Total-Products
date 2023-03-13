@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXML,TSV ถึง XML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTSV ถึง XML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

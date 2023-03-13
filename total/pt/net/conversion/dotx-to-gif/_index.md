@@ -1,0 +1,1 @@
+---title: Converter Word para GIF, DOTX para GIF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOTX para GIF usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

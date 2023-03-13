@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TXT, DOT ke TXT Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari DOT ke TXT dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

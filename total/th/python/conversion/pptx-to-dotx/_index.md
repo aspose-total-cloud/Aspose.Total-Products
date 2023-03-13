@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,PPTX ถึง DOTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTX ถึง DOTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

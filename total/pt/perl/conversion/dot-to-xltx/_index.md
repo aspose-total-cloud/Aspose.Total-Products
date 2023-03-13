@@ -1,0 +1,1 @@
+---title: Converter Word para XLTX, DOT para XLTX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOT para XLTX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

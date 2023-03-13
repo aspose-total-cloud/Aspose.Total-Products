@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi SWF, DOTX ke SWF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOTX ke SWF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

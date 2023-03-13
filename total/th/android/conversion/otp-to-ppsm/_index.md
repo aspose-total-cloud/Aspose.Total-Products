@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSM,OTP ถึง PPSM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของOTP ถึง PPSM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

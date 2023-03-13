@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLSX, OTP para XLSX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de OTP para XLSX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

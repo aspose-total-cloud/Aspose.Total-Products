@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, PPS ke BMP Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari PPS ke BMP dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

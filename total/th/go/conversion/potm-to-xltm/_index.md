@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTM,POTM ถึง XLTM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTM ถึง XLTM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

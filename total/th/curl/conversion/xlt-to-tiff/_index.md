@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTIFF,XLT ถึง TIFF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLT ถึง TIFF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

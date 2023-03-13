@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành POTM, PPTX thành POTM Trình chuyển đổi MIỄN PHÍ hoặc Java SDKdescription: Chuyển đổi miễn phí của PPTX thành POTM bằng cách sử dụng Java Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

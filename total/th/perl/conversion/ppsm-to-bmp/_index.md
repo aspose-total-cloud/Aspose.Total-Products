@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นBMP,PPSM ถึง BMP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSM ถึง BMP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

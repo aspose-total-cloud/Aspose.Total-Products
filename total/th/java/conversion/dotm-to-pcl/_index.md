@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPCL,DOTM ถึง PCL ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTM ถึง PCL โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

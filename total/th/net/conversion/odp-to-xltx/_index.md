@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTX,ODP ถึง XLTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง XLTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

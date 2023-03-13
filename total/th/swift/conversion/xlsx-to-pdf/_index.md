@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDF,XLSX ถึง PDF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXLSX ถึง PDF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

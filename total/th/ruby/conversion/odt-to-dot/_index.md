@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOT,ODT ถึง DOT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของODT ถึง DOT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

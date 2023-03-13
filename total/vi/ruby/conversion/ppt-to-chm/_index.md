@@ -1,0 +1,1 @@
+---title: Chuyển đổi PowerPoint thành CHM, PPT thành CHM Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của PPT thành CHM bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

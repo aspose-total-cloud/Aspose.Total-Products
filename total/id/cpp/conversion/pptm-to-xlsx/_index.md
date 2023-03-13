@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSX, PPTM ke XLSX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke XLSX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

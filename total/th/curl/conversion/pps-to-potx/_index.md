@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOTX,PPS ถึง POTX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPS ถึง POTX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

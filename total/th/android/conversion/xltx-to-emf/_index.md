@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นEMF,XLTX ถึง EMF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLTX ถึง EMF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

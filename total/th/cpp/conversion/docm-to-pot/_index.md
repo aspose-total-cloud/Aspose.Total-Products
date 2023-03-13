@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPOT,DOCM ถึง POT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOCM ถึง POT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

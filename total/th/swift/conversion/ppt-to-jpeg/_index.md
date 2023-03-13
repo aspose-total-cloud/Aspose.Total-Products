@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJPEG,PPT ถึง JPEG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPT ถึง JPEG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

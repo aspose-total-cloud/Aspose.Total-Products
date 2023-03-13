@@ -1,0 +1,1 @@
+---title: Converter Excel para JSON, XLSB para JSON Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de XLSB para JSON usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

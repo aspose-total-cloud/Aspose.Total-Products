@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJSON,POT ถึง JSON ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง JSON โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

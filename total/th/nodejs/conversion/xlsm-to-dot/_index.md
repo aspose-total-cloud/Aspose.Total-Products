@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOT,XLSM ถึง DOT ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLSM ถึง DOT โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPT,DOTM ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOTM ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

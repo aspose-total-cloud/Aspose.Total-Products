@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDIF,PPSM ถึง DIF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง DIF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

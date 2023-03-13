@@ -1,0 +1,1 @@
+---title: Converter Word para XLS, PDF para XLS Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PDF para XLS usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

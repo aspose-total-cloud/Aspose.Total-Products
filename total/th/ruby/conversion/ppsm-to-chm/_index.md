@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,PPSM ถึง CHM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPSM ถึง CHM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

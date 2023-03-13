@@ -1,0 +1,1 @@
+---title: Converter Word para TXT, DOCX para TXT Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de DOCX para TXT usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

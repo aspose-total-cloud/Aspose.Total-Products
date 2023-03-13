@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi XLAM, XLSB ke XLAM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLSB ke XLAM dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

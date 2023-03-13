@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODP, PPSM ke ODP Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke ODP dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

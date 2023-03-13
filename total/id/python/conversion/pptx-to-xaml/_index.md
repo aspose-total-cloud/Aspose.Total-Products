@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XAML, PPTX ke XAML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPTX ke XAML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

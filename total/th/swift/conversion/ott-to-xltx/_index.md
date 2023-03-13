@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTX,OTT ถึง XLTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของOTT ถึง XLTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

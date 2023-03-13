@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSM,PPT ถึง PPSM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPT ถึง PPSM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

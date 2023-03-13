@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPOT,POTM ถึง POT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง POT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

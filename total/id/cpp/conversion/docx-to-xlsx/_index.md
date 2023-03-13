@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi XLSX, DOCX ke XLSX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOCX ke XLSX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi BMP, POT ke BMP Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POT ke BMP dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

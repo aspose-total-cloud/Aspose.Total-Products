@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPSM,PPSX ถึง PPSM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง PPSM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

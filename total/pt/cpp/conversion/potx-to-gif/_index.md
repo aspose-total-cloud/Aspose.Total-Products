@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para GIF, POTX para GIF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POTX para GIF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPPSX,MD ถึง PPSX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของMD ถึง PPSX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

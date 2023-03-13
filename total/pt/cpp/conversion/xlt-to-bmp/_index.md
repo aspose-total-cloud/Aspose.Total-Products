@@ -1,0 +1,1 @@
+---title: Converter Excel para BMP, XLT para BMP Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de XLT para BMP usando C++ APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

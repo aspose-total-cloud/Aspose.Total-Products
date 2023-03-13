@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLAM,POTX ถึง XLAM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTX ถึง XLAM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

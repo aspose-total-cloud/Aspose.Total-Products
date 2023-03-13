@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLAM,DOCX ถึง XLAM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCX ถึง XLAM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

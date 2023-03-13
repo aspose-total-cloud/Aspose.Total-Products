@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTIFF,PPSM ถึง TIFF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSM ถึง TIFF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

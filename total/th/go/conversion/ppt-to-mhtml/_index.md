@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHTML,PPT ถึง MHTML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPT ถึง MHTML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

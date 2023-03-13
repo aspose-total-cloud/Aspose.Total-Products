@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นDOCM,TXT ถึง DOCM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTXT ถึง DOCM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

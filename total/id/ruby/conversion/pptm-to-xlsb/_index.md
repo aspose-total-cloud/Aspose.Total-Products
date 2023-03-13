@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSB, PPTM ke XLSB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke XLSB dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

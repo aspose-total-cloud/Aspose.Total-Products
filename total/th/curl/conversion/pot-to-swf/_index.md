@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,POT ถึง SWF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOT ถึง SWF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

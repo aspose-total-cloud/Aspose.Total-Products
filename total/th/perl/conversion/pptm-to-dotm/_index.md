@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTM,PPTM ถึง DOTM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPTM ถึง DOTM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

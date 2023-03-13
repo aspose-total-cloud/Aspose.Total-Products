@@ -1,0 +1,1 @@
+---title: Converter Word para POTM, DOTX para POTM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTX para POTM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

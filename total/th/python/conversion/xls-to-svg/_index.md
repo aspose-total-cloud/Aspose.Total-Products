@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นSVG,XLS ถึง SVG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLS ถึง SVG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

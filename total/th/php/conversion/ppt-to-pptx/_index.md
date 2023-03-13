@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPTX,PPT ถึง PPTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPT ถึง PPTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi EPUB, ODS ke EPUB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODS ke EPUB dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

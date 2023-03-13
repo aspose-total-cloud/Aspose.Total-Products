@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SXC, PPSX ke SXC Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSX ke SXC dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

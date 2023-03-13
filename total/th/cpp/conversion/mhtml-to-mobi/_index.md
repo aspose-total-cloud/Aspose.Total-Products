@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMOBI,MHTML ถึง MOBI ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMHTML ถึง MOBI โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

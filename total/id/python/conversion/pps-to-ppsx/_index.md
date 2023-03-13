@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PPSX, PPS ke PPSX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPS ke PPSX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

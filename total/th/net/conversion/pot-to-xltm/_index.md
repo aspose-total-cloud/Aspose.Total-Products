@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTM,POT ถึง XLTM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOT ถึง XLTM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

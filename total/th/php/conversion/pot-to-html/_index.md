@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นHTML,POT ถึง HTML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง HTML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSM,PPT ถึง XLSM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPT ถึง XLSM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

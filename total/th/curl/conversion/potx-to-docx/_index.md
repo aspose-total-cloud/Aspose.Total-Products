@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOCX,POTX ถึง DOCX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOTX ถึง DOCX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLSB,MHTML ถึง XLSB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของMHTML ถึง XLSB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

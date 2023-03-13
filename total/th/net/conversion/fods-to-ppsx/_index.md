@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPPSX,FODS ถึง PPSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของFODS ถึง PPSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

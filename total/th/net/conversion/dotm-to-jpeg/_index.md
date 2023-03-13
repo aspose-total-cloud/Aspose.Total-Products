@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นJPEG,DOTM ถึง JPEG ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOTM ถึง JPEG โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

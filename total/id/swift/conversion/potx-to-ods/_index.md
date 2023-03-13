@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi ODS, POTX ke ODS Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTX ke ODS dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

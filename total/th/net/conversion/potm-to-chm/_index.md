@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,POTM ถึง CHM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTM ถึง CHM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

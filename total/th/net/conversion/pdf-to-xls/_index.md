@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLS,PDF ถึง XLS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPDF ถึง XLS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

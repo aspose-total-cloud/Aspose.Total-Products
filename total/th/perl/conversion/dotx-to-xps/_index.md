@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXPS,DOTX ถึง XPS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTX ถึง XPS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODP,TSV ถึง ODP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTSV ถึง ODP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

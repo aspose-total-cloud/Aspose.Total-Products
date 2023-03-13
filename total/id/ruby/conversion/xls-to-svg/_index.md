@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi SVG, XLS ke SVG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLS ke SVG dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

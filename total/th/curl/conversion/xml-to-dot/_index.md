@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOT,XML ถึง DOT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXML ถึง DOT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

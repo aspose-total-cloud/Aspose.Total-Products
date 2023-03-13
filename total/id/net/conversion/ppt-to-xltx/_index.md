@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLTX, PPT ke XLTX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPT ke XLTX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi GIF, POTX ke GIF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POTX ke GIF dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

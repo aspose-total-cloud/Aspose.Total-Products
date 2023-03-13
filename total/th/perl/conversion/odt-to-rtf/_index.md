@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นRTF,ODT ถึง RTF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง RTF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

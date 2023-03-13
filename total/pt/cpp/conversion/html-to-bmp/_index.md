@@ -1,0 +1,1 @@
+---title: Converter Word para BMP, HTML para BMP Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de HTML para BMP usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

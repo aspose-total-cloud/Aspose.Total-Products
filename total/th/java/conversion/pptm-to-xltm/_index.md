@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLTM,PPTM ถึง XLTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTM ถึง XLTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

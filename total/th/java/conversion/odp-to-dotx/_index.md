@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,ODP ถึง DOTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของODP ถึง DOTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang POT, XLTM thành POT Trình chuyển đổi MIỄN PHÍ hoặc Curl SDKdescription: Chuyển đổi miễn phí của XLTM thành POT bằng cách sử dụng Curl Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOTX,POTX ถึง DOTX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOTX ถึง DOTX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

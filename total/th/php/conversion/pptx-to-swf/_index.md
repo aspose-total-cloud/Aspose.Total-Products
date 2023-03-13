@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSWF,PPTX ถึง SWF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTX ถึง SWF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

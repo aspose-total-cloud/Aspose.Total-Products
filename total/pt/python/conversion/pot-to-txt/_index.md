@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, POT para TXT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de POT para TXT usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

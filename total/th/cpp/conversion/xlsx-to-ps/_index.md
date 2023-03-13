@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPS,XLSX ถึง PS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLSX ถึง PS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

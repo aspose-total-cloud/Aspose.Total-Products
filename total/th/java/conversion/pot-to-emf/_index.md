@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นEMF,POT ถึง EMF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOT ถึง EMF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

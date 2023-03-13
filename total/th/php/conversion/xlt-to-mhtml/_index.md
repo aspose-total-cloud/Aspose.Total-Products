@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMHTML,XLT ถึง MHTML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLT ถึง MHTML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

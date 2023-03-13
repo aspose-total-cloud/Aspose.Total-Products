@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXAML,OTT ถึง XAML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTT ถึง XAML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

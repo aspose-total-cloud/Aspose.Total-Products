@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นSWF,MHTML ถึง SWF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMHTML ถึง SWF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

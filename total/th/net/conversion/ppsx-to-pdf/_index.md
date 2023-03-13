@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDF,PPSX ถึง PDF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง PDF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

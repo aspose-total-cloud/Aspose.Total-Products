@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLS, PPTM ke XLS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPTM ke XLS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

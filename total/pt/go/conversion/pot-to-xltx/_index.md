@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XLTX, POT para XLTX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de POT para XLTX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

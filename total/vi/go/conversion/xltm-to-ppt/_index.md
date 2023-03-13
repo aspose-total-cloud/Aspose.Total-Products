@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang PPT, XLTM thành PPT Trình chuyển đổi MIỄN PHÍ hoặc GO SDKdescription: Chuyển đổi miễn phí của XLTM thành PPT bằng cách sử dụng GO Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

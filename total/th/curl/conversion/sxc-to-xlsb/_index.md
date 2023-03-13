@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXLSB,SXC ถึง XLSB ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของSXC ถึง XLSB โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

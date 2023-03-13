@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นOTT,POTM ถึง OTT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTM ถึง OTT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นODS,XML ถึง ODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXML ถึง ODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

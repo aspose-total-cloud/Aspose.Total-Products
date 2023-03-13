@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOCX, POTM para DOCX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de POTM para DOCX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

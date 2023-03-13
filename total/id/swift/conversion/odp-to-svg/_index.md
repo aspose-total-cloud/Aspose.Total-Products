@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi SVG, ODP ke SVG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODP ke SVG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLAM,RTF ถึง XLAM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของRTF ถึง XLAM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJPEG,PPTM ถึง JPEG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTM ถึง JPEG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

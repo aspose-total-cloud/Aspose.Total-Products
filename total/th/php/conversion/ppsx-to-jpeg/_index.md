@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นJPEG,PPSX ถึง JPEG ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSX ถึง JPEG โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

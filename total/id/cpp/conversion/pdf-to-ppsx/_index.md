@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi PPSX, PDF ke PPSX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PDF ke PPSX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

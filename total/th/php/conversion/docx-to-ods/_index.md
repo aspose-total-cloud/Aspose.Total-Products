@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นODS,DOCX ถึง ODS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOCX ถึง ODS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

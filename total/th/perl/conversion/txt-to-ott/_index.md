@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นOTT,TXT ถึง OTT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTXT ถึง OTT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

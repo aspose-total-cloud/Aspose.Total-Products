@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TXT, PPT para TXT Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de PPT para TXT usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

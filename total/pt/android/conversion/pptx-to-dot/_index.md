@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para DOT, PPTX para DOT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPTX para DOT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

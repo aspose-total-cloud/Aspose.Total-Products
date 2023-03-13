@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPCL,ODP ถึง PCL ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของODP ถึง PCL โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

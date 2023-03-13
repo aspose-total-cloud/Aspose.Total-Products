@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDOC,PPTM ถึง DOC ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTM ถึง DOC โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

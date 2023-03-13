@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para SVG, POTM para SVG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTM para SVG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

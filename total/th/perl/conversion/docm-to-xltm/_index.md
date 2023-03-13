@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXLTM,DOCM ถึง XLTM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOCM ถึง XLTM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

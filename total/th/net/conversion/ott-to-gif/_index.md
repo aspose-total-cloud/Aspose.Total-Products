@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นGIF,OTT ถึง GIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของOTT ถึง GIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

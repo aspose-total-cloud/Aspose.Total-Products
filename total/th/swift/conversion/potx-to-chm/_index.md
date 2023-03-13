@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นCHM,POTX ถึง CHM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง CHM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

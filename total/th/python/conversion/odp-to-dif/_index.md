@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นDIF,ODP ถึง DIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODP ถึง DIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

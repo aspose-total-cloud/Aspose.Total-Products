@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นSVG,OTP ถึง SVG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของOTP ถึง SVG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

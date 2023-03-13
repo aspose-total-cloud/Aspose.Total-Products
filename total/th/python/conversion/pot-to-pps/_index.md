@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPPS,POT ถึง PPS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOT ถึง PPS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para PPSX, POTM para PPSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POTM para PPSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

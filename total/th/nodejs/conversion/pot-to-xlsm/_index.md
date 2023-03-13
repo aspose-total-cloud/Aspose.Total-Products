@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXLSM,POT ถึง XLSM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOT ถึง XLSM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

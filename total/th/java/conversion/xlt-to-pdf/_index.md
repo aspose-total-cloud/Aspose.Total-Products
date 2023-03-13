@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDF,XLT ถึง PDF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLT ถึง PDF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

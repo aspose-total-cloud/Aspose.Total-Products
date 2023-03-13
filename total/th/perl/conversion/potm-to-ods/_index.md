@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นODS,POTM ถึง ODS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTM ถึง ODS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

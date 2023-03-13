@@ -1,0 +1,1 @@
+---title: Chuyển Word thành PPSX, RTF thành PPSX Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của RTF thành PPSX bằng cách sử dụng Python Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

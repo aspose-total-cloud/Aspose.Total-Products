@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นDOTM,JSON ถึง DOTM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของJSON ถึง DOTM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XLSX, POTM ke XLSX Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari POTM ke XLSX dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PNG, PPTM ke PNG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPTM ke PNG dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
