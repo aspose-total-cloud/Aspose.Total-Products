@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürTXT, PPSM ila TXT FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPSM ila TXT kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

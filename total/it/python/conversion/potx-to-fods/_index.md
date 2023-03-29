@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in FODS, POTX a FODS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POTX a FODS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

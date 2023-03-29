@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naMOBI, FODS na MOBI BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaFODS na MOBI za pomocą Perl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

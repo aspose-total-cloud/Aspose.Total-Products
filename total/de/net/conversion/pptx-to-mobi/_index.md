@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in MOBI, PPTX bis MOBI KOSTENLOSER Konverter oder Net SDKdescription: Kostenlose Konvertierung von PPTX bis MOBI durch Verwendung von Net Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

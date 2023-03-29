@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naTXT, ODT na TXT BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaODT na TXT za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PPTX, POT bis PPTX KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von POT bis PPTX durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

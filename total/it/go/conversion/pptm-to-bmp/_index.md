@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in BMP, PPTM a BMP Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTM a BMP utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

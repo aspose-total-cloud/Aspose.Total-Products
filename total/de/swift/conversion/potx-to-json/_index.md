@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in JSON, POTX bis JSON KOSTENLOSER Konverter oder Swift SDKdescription: Kostenlose Konvertierung von POTX bis JSON durch Verwendung von Swift Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

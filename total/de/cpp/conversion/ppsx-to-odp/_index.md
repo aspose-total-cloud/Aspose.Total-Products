@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in ODP, PPSX bis ODP KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von PPSX bis ODP durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

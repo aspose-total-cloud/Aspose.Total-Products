@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXAML, MD na XAML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaMD na XAML za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: Converti Excel in FODS, XLS a FODS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLS a FODS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

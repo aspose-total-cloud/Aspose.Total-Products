@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PS, POT a PS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a PS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

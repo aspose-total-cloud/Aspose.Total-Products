@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naSVG, RTF na SVG BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaRTF na SVG za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

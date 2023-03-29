@@ -1,0 +1,1 @@
+---title: Converti Excel in TXT, XLTX a TXT Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di XLTX a TXT utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

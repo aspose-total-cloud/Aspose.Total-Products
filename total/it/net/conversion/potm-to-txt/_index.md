@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TXT, POTM a TXT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTM a TXT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

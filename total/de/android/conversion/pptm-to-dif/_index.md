@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DIF, PPTM bis DIF KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von PPTM bis DIF durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DOTM, POTX bis DOTM KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von POTX bis DOTM durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

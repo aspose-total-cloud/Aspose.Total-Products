@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPPTX, XLTM na PPTX BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXLTM na PPTX za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

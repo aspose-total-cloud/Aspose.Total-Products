@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naMD, SXC na MD BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaSXC na MD za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

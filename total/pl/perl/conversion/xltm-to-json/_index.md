@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naJSON, XLTM na JSON BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaXLTM na JSON za pomocą Perl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

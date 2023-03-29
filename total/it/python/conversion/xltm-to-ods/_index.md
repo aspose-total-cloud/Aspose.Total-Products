@@ -1,0 +1,1 @@
+---title: Converti Excel in ODS, XLTM a ODS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di XLTM a ODS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

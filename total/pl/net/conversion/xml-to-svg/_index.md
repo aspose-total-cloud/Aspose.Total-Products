@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naSVG, XML na SVG BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaXML na SVG za pomocą Net Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

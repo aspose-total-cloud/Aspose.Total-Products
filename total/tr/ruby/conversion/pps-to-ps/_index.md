@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürPS, PPS ila PS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPS ila PS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

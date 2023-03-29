@@ -1,0 +1,1 @@
+---title: Converti Excel in SXC, JSON a SXC Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di JSON a SXC utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

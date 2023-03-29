@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PPSM, POT bis PPSM KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von POT bis PPSM durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

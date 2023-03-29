@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürPPSX, PPT ila PPSX FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPT ila PPSX kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

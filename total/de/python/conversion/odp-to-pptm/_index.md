@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PPTM, ODP bis PPTM KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von ODP bis PPTM durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

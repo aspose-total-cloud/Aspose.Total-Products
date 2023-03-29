@@ -1,0 +1,1 @@
+---title: Converti parola in XLT, DOTX a XLT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOTX a XLT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

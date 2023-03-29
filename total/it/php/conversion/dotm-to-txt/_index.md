@@ -1,0 +1,1 @@
+---title: Converti parola in TXT, DOTM a TXT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOTM a TXT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

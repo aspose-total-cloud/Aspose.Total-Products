@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naMD, PPSX na MD BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPSX na MD za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

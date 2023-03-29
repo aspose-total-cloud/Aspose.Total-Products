@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in POTM, PPT a POTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPT a POTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

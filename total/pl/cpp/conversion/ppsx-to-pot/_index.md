@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPOT, PPSX na POT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPSX na POT za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

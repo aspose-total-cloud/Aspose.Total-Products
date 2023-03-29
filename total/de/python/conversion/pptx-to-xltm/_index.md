@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLTM, PPTX bis XLTM KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPTX bis XLTM durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

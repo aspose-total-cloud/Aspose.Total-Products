@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürGIF, PPTM ila GIF FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPTM ila GIF kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

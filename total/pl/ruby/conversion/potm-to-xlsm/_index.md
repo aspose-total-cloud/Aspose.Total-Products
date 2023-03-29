@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLSM, POTM na XLSM BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPOTM na XLSM za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

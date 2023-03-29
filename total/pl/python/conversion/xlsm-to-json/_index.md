@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naJSON, XLSM na JSON BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaXLSM na JSON za pomocą Python Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naDOTM, XLSM na DOTM BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaXLSM na DOTM za pomocą Curl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

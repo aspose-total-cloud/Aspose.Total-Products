@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naOTT, XLT na OTT BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaXLT na OTT za pomocą Android Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

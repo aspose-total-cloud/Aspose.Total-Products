@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DOTX, PPSM bis DOTX KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPSM bis DOTX durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naDOCX, XLTM na DOCX BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaXLTM na DOCX za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

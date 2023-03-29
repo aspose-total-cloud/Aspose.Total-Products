@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naODS, XLTX na ODS BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXLTX na ODS za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

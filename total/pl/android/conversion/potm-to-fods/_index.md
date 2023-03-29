@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naFODS, POTM na FODS BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTM na FODS za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

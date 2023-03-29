@@ -1,0 +1,1 @@
+---title: Excel konvertieren in XLSX, FODS bis XLSX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von FODS bis XLSX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naODT, XLTM na ODT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaXLTM na ODT za pomocą Java Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSVG, PPSX na SVG BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPSX na SVG za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

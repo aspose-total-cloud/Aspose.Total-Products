@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLTM, PPTM na XLTM BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTM na XLTM za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

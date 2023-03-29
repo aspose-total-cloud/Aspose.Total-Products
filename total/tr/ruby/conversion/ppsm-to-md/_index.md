@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürMD, PPSM ila MD FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPSM ila MD kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

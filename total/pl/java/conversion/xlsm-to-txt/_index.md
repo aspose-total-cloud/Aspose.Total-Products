@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naTXT, XLSM na TXT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaXLSM na TXT za pomocą Java Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

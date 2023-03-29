@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in BMP, POTX a BMP Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POTX a BMP utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

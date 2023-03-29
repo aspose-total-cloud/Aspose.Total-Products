@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in JSON, POT bis JSON KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von POT bis JSON durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

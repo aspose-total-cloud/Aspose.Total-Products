@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOC, PPSX a DOC Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a DOC utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

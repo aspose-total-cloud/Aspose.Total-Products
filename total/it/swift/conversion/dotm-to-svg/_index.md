@@ -1,0 +1,1 @@
+---title: Converti parola in SVG, DOTM a SVG Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di DOTM a SVG utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

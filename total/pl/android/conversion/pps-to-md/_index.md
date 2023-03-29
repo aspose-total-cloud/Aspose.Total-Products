@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naMD, PPS na MD BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPS na MD za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

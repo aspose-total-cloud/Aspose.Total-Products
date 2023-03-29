@@ -1,0 +1,1 @@
+---title: Word umwandeln in SVG, PDF bis SVG KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von PDF bis SVG durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

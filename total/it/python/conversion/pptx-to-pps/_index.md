@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PPS, PPTX a PPS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTX a PPS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

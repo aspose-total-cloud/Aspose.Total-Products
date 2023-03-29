@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naFODS, DOCX na FODS BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaDOCX na FODS za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

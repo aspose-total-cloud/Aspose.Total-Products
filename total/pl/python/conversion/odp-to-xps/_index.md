@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXPS, ODP na XPS BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaODP na XPS za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

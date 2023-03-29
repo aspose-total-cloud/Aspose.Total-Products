@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürJSON, PPSX ila JSON FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSX ila JSON kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

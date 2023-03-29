@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PPSX, OTP a PPSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTP a PPSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

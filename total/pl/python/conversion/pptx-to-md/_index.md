@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naMD, PPTX na MD BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTX na MD za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLT, PPSX ila XLT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSX ila XLT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

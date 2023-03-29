@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürDOT, PPTX ila DOT FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPTX ila DOT kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

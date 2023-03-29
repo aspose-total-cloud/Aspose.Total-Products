@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naODS, PPSM na ODS BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPSM na ODS za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

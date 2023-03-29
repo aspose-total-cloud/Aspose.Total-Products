@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLSX, XLSB na XLSX BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaXLSB na XLSX za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

@@ -1,0 +1,1 @@
+---title: Converti parola in CSV, DOCM a CSV Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOCM a CSV utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

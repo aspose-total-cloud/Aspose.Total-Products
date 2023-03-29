@@ -1,0 +1,1 @@
+---title: Converti Excel in XLS, XLSB a XLS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLSB a XLS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PNG, PPTX a PNG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTX a PNG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

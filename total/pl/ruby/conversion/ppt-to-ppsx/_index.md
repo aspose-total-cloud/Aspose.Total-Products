@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPPSX, PPT na PPSX BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPT na PPSX za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

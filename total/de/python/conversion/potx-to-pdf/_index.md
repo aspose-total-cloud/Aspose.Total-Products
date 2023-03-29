@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PDF, POTX bis PDF KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von POTX bis PDF durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Converti parola in CSV, DOTX a CSV Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di DOTX a CSV utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

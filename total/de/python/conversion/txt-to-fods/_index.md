@@ -1,0 +1,1 @@
+---title: Word umwandeln in FODS, TXT bis FODS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von TXT bis FODS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

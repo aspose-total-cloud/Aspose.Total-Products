@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPPSM, POTM na PPSM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOTM na PPSM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

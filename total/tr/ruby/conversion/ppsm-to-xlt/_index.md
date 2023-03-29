@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLT, PPSM ila XLT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPSM ila XLT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

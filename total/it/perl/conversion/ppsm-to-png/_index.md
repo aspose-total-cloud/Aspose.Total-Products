@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PNG, PPSM a PNG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPSM a PNG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

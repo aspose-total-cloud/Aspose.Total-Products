@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLS, MD bis XLS KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von MD bis XLS durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

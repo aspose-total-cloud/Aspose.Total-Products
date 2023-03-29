@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naDOT, POTX na DOT BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOTX na DOT za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

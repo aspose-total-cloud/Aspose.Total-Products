@@ -1,0 +1,1 @@
+---title: Converti parola in XLS, DOCM a XLS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a XLS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

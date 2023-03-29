@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in ODP, POTX a ODP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POTX a ODP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

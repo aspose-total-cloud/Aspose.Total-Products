@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXAML, POTX na XAML BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOTX na XAML za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

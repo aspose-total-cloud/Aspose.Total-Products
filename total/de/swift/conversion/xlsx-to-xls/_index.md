@@ -1,0 +1,1 @@
+---title: Excel konvertieren in XLS, XLSX bis XLS KOSTENLOSER Konverter oder Swift SDKdescription: Kostenlose Konvertierung von XLSX bis XLS durch Verwendung von Swift Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

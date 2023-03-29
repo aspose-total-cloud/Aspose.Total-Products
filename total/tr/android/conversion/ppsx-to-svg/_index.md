@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürSVG, PPSX ila SVG FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPSX ila SVG kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

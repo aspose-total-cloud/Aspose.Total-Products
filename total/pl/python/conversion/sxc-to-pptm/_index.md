@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPPTM, SXC na PPTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaSXC na PPTM za pomocą Python Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

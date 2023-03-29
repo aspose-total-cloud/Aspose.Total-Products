@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DIF, OTP a DIF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTP a DIF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

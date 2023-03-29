@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XML, PPSX a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSX a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

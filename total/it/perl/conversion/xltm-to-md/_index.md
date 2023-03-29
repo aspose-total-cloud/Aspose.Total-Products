@@ -1,0 +1,1 @@
+---title: Converti Excel in MD, XLTM a MD Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di XLTM a MD utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

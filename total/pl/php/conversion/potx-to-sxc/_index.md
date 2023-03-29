@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSXC, POTX na SXC BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOTX na SXC za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

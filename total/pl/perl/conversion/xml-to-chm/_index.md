@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naCHM, XML na CHM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaXML na CHM za pomocą Perl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

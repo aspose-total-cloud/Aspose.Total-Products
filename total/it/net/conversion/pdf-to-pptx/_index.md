@@ -1,0 +1,1 @@
+---title: Converti parola in PPTX, PDF a PPTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PDF a PPTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

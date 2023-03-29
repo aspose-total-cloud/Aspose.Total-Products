@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürPPTM, MD ila PPTM FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümMD ila PPTM kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naJPEG, PPT na JPEG BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na JPEG za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

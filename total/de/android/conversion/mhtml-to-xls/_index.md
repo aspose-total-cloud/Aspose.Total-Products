@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLS, MHTML bis XLS KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von MHTML bis XLS durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

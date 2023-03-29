@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLTX, PPSX bis XLTX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von PPSX bis XLTX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPOT, CSV na POT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaCSV na POT za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

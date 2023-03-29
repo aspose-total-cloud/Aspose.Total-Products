@@ -1,0 +1,1 @@
+---title: แปลง Microsoft Word, Excel, PowerPoint ฟรีโดยใช้Java SDKdescription: การแปลงเอกสาร Microsoft Word, Excel, PowerPoint และ PDF ฟรีโดยใช้Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

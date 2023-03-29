@@ -1,0 +1,1 @@
+---title: Converti parola in XLTX, TXT a XLTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di TXT a XLTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

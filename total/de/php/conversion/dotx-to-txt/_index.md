@@ -1,0 +1,1 @@
+---title: Word umwandeln in TXT, DOTX bis TXT KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von DOTX bis TXT durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naRTF, ODS na RTF BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaODS na RTF za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

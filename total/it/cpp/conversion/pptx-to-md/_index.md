@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in MD, PPTX a MD Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a MD utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

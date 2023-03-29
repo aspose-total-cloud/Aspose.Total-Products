@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DOTM, PPSX bis DOTM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von PPSX bis DOTM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naRTF, PPTX na RTF BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTX na RTF za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

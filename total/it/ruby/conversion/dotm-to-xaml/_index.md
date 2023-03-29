@@ -1,0 +1,1 @@
+---title: Converti parola in XAML, DOTM a XAML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTM a XAML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

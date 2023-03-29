@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLT, DOTM bis XLT KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von DOTM bis XLT durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

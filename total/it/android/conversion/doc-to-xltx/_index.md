@@ -1,0 +1,1 @@
+---title: Converti parola in XLTX, DOC a XLTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOC a XLTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

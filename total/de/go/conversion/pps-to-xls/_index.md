@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLS, PPS bis XLS KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPS bis XLS durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

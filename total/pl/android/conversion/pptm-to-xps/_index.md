@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXPS, PPTM na XPS BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTM na XPS za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

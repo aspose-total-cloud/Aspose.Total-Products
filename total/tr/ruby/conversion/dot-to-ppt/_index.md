@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürPPT, DOT ila PPT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOT ila PPT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

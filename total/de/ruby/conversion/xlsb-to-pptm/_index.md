@@ -1,0 +1,1 @@
+---title: Excel konvertieren in PPTM, XLSB bis PPTM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von XLSB bis PPTM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

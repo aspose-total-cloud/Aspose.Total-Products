@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naJPEG, XLTM na JPEG BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaXLTM na JPEG za pomocą Nodejs Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

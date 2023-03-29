@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLTM, DOT bis XLTM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von DOT bis XLTM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

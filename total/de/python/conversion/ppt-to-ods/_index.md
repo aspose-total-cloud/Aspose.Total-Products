@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in ODS, PPT bis ODS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPT bis ODS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

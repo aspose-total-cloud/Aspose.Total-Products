@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naFODS, RTF na FODS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaRTF na FODS za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

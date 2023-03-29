@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLS, ODS na XLS BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaODS na XLS za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

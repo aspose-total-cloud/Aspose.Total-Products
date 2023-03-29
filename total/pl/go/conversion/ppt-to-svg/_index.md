@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSVG, PPT na SVG BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPT na SVG za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Word umwandeln in FODS, DOTM bis FODS KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von DOTM bis FODS durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

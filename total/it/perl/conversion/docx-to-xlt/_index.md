@@ -1,0 +1,1 @@
+---title: Converti parola in XLT, DOCX a XLT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di DOCX a XLT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

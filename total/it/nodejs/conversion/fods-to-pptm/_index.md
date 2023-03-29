@@ -1,0 +1,1 @@
+---title: Converti Excel in PPTM, FODS a PPTM Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di FODS a PPTM utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

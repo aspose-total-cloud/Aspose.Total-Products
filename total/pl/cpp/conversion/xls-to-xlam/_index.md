@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLAM, XLS na XLAM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXLS na XLAM za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

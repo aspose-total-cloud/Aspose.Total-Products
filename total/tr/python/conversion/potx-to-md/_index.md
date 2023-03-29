@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürMD, POTX ila MD FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila MD kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

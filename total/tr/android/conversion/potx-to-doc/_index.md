@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürDOC, POTX ila DOC FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPOTX ila DOC kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

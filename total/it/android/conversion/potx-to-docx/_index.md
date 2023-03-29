@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOCX, POTX a DOCX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTX a DOCX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

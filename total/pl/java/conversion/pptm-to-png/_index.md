@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPNG, PPTM na PNG BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTM na PNG za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

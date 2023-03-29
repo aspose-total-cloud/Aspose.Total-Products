@@ -1,0 +1,1 @@
+---title: แปลง Microsoft Word, Excel, PowerPoint ฟรีโดยใช้Perl SDKdescription: การแปลงเอกสาร Microsoft Word, Excel, PowerPoint และ PDF ฟรีโดยใช้Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

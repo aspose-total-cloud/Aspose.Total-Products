@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naDOTX, POTM na DOTX BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOTM na DOTX za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

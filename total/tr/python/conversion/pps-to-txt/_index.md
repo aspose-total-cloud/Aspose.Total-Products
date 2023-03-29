@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürTXT, PPS ila TXT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPS ila TXT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naGIF, PPTM na GIF BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPTM na GIF za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

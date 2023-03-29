@@ -1,0 +1,1 @@
+---title: Converti parola in MD, DOCX a MD Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOCX a MD utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

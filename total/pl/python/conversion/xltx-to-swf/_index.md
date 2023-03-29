@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naSWF, XLTX na SWF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaXLTX na SWF za pomocą Python Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

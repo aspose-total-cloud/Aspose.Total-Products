@@ -1,0 +1,1 @@
+---title: Excel konvertieren in XLS, SXC bis XLS KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von SXC bis XLS durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

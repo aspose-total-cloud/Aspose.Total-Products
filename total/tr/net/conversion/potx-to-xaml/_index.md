@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXAML, POTX ila XAML FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTX ila XAML kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

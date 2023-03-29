@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naDOC, FODS na DOC BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaFODS na DOC za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

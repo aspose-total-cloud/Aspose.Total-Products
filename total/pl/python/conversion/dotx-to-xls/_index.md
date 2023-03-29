@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXLS, DOTX na XLS BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOTX na XLS za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

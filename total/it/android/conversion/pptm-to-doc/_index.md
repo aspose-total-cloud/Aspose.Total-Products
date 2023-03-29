@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOC, PPTM a DOC Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPTM a DOC utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

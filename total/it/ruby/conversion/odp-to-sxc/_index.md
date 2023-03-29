@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in SXC, ODP a SXC Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODP a SXC utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

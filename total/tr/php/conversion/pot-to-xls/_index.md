@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLS, POT ila XLS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOT ila XLS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

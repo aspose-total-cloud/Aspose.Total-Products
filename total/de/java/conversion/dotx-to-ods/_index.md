@@ -1,0 +1,1 @@
+---title: Word umwandeln in ODS, DOTX bis ODS KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von DOTX bis ODS durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

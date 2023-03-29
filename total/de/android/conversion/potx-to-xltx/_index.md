@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLTX, POTX bis XLTX KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von POTX bis XLTX durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

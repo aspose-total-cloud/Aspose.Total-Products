@@ -1,0 +1,1 @@
+---title: Word umwandeln in PPTM, PDF bis PPTM KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von PDF bis PPTM durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

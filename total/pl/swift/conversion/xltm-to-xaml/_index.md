@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXAML, XLTM na XAML BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaXLTM na XAML za pomocą Swift Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

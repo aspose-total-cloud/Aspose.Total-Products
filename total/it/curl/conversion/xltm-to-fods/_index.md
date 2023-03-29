@@ -1,0 +1,1 @@
+---title: Converti Excel in FODS, XLTM a FODS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di XLTM a FODS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

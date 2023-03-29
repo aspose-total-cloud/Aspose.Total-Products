@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOT, PPTX a DOT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a DOT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti parola in XLTM, DOC a XLTM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di DOC a XLTM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

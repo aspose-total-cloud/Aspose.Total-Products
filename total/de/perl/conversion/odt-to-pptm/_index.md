@@ -1,0 +1,1 @@
+---title: Word umwandeln in PPTM, ODT bis PPTM KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von ODT bis PPTM durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

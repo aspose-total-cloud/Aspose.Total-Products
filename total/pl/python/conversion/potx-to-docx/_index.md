@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naDOCX, POTX na DOCX BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOTX na DOCX za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

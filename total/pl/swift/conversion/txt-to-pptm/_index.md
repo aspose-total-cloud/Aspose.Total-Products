@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPTM, TXT na PPTM BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaTXT na PPTM za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

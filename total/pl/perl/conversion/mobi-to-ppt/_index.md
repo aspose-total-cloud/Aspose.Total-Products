@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPT, MOBI na PPT BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMOBI na PPT za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

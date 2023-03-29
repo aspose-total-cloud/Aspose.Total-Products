@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naHTML, XLS na HTML BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaXLS na HTML za pomocą Android Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

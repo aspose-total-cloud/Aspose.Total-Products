@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naBMP, CHM na BMP BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaCHM na BMP za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

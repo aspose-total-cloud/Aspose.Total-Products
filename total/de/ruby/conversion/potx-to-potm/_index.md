@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in POTM, POTX bis POTM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von POTX bis POTM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

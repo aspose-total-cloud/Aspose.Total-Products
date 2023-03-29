@@ -1,0 +1,1 @@
+---title: Converti parola in XLTM, DOCX a XLTM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di DOCX a XLTM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

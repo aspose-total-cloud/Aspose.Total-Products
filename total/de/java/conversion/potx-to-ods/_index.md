@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in ODS, POTX bis ODS KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von POTX bis ODS durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

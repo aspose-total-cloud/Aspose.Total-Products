@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPPTX, SXC na PPTX BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaSXC na PPTX za pomocą PHP Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

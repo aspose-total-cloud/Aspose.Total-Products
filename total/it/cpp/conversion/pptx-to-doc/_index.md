@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOC, PPTX a DOC Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a DOC utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

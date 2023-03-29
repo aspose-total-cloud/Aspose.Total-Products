@@ -1,0 +1,1 @@
+---title: Converti parola in SVG, DOTM a SVG Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOTM a SVG utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

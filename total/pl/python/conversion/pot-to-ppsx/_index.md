@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPPSX, POT na PPSX BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na PPSX za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

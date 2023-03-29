@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naCHM, XLTX na CHM BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaXLTX na CHM za pomocą Net Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

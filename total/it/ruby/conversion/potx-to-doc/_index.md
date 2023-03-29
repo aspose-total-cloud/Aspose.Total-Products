@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOC, POTX a DOC Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POTX a DOC utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

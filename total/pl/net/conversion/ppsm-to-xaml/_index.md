@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXAML, PPSM na XAML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPSM na XAML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Excel konvertieren in POTM, XLTM bis POTM KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von XLTM bis POTM durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPTX, MHTML na PPTX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMHTML na PPTX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

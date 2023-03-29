@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naJSON, PPSM na JSON BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPSM na JSON za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

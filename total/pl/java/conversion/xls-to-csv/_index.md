@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naCSV, XLS na CSV BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaXLS na CSV za pomocą Java Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

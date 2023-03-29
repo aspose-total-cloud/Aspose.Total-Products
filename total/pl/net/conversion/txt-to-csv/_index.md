@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naCSV, TXT na CSV BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaTXT na CSV za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürPPS, PPT ila PPS FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPT ila PPS kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

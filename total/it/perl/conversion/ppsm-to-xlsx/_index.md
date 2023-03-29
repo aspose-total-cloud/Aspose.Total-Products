@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLSX, PPSM a XLSX Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPSM a XLSX utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXML, DOTM na XML BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaDOTM na XML za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLAM, POTX ila XLAM FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPOTX ila XLAM kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

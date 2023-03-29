@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naSVG, MD na SVG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaMD na SVG za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

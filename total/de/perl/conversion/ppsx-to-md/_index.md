@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in MD, PPSX bis MD KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPSX bis MD durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

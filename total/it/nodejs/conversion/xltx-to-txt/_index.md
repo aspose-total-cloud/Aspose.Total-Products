@@ -1,0 +1,1 @@
+---title: Converti Excel in TXT, XLTX a TXT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di XLTX a TXT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

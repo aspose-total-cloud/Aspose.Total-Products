@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in SVG, OTP a SVG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di OTP a SVG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

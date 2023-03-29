@@ -1,0 +1,1 @@
+---title: Converti Excel in PPTM, SXC a PPTM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di SXC a PPTM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

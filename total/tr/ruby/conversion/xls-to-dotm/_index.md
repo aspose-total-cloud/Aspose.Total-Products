@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürDOTM, XLS ila DOTM FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümXLS ila DOTM kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

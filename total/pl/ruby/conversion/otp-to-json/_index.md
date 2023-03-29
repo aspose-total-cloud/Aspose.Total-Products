@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naJSON, OTP na JSON BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaOTP na JSON za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

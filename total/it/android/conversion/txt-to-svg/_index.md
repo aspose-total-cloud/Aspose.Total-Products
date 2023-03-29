@@ -1,0 +1,1 @@
+---title: Converti parola in SVG, TXT a SVG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TXT a SVG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

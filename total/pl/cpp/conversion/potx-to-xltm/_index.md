@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLTM, POTX na XLTM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPOTX na XLTM za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

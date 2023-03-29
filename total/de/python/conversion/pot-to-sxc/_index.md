@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in SXC, POT bis SXC KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von POT bis SXC durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

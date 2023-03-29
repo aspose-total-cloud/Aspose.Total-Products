@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PPSM, POTX a PPSM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POTX a PPSM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLSM, XLSB na XLSM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXLSB na XLSM za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

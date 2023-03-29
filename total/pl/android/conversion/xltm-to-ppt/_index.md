@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPPT, XLTM na PPT BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaXLTM na PPT za pomocą Android Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

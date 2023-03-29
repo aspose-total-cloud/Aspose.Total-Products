@@ -1,0 +1,1 @@
+---title: Converti Excel in SWF, XLSM a SWF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLSM a SWF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

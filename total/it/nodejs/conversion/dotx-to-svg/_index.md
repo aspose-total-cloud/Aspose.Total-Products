@@ -1,0 +1,1 @@
+---title: Converti parola in SVG, DOTX a SVG Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOTX a SVG utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

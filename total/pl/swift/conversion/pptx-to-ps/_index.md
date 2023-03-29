@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPS, PPTX na PS BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTX na PS za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

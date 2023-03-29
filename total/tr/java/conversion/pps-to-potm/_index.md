@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürPOTM, PPS ila POTM FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila POTM kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

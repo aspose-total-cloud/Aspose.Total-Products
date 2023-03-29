@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DOTM, PPS bis DOTM KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPS bis DOTM durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

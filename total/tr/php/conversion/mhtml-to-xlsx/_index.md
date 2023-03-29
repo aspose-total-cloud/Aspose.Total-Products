@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürXLSX, MHTML ila XLSX FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümMHTML ila XLSX kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

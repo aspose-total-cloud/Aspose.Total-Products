@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naSVG, DOCM na SVG BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaDOCM na SVG za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naNUMBERS, XLTX na NUMBERS BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaXLTX na NUMBERS za pomocą Net Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

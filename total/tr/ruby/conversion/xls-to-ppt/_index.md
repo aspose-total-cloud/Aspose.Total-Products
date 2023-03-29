@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürPPT, XLS ila PPT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümXLS ila PPT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

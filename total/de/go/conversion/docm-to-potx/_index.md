@@ -1,0 +1,1 @@
+---title: Word umwandeln in POTX, DOCM bis POTX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von DOCM bis POTX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

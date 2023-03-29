@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TXT, PPSX a TXT Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a TXT utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

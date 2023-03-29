@@ -1,0 +1,1 @@
+---title: Converti Excel in TXT, XLSB a TXT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di XLSB a TXT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

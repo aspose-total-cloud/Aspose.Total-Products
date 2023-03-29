@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürSXC, PPSX ila SXC FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSX ila SXC kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in POTM, PPTX bis POTM KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PPTX bis POTM durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

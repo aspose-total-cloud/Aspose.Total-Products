@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLT, POTX na XLT BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTX na XLT za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

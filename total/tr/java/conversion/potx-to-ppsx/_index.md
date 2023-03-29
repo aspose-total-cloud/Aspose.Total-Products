@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürPPSX, POTX ila PPSX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPOTX ila PPSX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

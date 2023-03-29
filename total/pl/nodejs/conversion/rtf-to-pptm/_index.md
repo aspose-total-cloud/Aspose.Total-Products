@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPTM, RTF na PPTM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaRTF na PPTM za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLS, PPTX a XLS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a XLS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

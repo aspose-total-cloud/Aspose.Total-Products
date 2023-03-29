@@ -1,0 +1,1 @@
+---title: Excel konvertieren in XLTX, XLSX bis XLTX KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von XLSX bis XLTX durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

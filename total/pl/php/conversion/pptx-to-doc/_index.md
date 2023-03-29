@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naDOC, PPTX na DOC BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTX na DOC za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

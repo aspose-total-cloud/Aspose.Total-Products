@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSWF, POT na SWF BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOT na SWF za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

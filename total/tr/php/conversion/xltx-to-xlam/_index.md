@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürXLAM, XLTX ila XLAM FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümXLTX ila XLAM kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

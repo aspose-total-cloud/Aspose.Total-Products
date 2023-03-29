@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PS, PPTX bis PS KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von PPTX bis PS durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

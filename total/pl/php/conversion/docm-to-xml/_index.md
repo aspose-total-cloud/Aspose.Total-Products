@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXML, DOCM na XML BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaDOCM na XML za pomocą PHP Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

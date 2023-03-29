@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naTXT, XLTX na TXT BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaXLTX na TXT za pomocą GO Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

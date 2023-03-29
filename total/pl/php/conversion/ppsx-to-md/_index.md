@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naMD, PPSX na MD BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPSX na MD za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

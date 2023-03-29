@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLS, PPSX ila XLS FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPSX ila XLS kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

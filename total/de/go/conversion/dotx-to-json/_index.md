@@ -1,0 +1,1 @@
+---title: Word umwandeln in JSON, DOTX bis JSON KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von DOTX bis JSON durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

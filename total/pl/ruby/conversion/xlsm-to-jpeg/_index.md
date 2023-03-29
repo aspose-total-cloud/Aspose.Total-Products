@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naJPEG, XLSM na JPEG BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaXLSM na JPEG za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

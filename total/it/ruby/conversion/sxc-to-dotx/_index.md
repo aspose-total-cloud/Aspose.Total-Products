@@ -1,0 +1,1 @@
+---title: Converti Excel in DOTX, SXC a DOTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di SXC a DOTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

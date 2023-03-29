@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in SVG, ODP a SVG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di ODP a SVG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

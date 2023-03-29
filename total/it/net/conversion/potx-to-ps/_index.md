@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PS, POTX a PS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTX a PS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

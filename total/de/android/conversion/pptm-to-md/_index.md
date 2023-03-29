@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in MD, PPTM bis MD KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von PPTM bis MD durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLT, PPSM a XLT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSM a XLT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

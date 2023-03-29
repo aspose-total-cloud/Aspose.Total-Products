@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürMOBI, PPSM ila MOBI FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSM ila MOBI kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

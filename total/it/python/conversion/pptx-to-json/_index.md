@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in JSON, PPTX a JSON Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTX a JSON utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti parola in PPTM, DOTM a PPTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTM a PPTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLT, PPTX na XLT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPTX na XLT za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

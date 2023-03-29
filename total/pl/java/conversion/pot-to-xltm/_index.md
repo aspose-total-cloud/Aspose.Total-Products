@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLTM, POT na XLTM BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPOT na XLTM za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

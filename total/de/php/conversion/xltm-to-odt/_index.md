@@ -1,0 +1,1 @@
+---title: Excel konvertieren in ODT, XLTM bis ODT KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von XLTM bis ODT durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

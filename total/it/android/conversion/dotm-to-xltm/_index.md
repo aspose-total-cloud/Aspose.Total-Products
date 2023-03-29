@@ -1,0 +1,1 @@
+---title: Converti parola in XLTM, DOTM a XLTM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOTM a XLTM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

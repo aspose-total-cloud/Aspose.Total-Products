@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPPTX, ODS na PPTX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODS na PPTX za pomocą Nodejs Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

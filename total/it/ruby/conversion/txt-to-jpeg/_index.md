@@ -1,0 +1,1 @@
+---title: Converti parola in JPEG, TXT a JPEG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a JPEG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

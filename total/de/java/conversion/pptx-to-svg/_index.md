@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in SVG, PPTX bis SVG KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PPTX bis SVG durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLS, PPT ila XLS FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPT ila XLS kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

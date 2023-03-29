@@ -1,0 +1,1 @@
+---title: Word umwandeln in CSV, DOT bis CSV KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von DOT bis CSV durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

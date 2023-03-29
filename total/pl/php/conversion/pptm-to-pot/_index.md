@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPOT, PPTM na POT BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTM na POT za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

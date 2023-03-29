@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLAM, PPSX a XLAM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSX a XLAM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

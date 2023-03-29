@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naCHM, PPT na CHM BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na CHM za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

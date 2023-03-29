@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in FODS, PPTX a FODS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPTX a FODS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

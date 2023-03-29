@@ -1,0 +1,1 @@
+---title: Excel konvertieren in PPTM, XLSB bis PPTM KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von XLSB bis PPTM durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

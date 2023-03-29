@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in SWF, PPT a SWF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPT a SWF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

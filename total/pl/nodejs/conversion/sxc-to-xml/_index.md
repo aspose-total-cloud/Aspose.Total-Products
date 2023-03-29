@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXML, SXC na XML BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaSXC na XML za pomocą Nodejs Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

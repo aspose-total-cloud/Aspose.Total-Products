@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TXT, POTX a TXT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POTX a TXT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

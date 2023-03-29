@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLS, PPTM na XLS BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTM na XLS za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

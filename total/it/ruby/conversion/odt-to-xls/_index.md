@@ -1,0 +1,1 @@
+---title: Converti parola in XLS, ODT a XLS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODT a XLS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

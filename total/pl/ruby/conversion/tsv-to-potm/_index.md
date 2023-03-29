@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naPOTM, TSV na POTM BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaTSV na POTM za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

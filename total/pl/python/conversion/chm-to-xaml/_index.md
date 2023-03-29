@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXAML, CHM na XAML BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaCHM na XAML za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

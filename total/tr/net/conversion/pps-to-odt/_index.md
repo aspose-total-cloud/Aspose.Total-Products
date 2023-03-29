@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürODT, PPS ila ODT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila ODT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

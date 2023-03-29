@@ -1,0 +1,1 @@
+---title: Converti parola in TXT, DOTM a TXT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTM a TXT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

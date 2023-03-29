@@ -1,0 +1,1 @@
+---title: Converti Excel in JPEG, XLTX a JPEG Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLTX a JPEG utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TXT, PPSM a TXT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPSM a TXT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

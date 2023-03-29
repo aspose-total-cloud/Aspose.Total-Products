@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLS, PPS ila XLS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPS ila XLS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naTXT, DOCX na TXT BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCX na TXT za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

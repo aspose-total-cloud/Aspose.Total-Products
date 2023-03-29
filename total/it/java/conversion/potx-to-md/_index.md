@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in MD, POTX a MD Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di POTX a MD utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

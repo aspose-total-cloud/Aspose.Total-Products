@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPTX, DOCX na PPTX BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaDOCX na PPTX za pomocą PHP Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

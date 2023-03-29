@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLTM, PDF bis XLTM KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PDF bis XLTM durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naODS, XLS na ODS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaXLS na ODS za pomocą Curl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

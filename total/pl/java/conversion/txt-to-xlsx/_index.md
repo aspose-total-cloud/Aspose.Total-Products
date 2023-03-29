@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXLSX, TXT na XLSX BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaTXT na XLSX za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

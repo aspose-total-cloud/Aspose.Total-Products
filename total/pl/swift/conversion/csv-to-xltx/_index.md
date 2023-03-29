@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLTX, CSV na XLTX BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaCSV na XLTX za pomocą Swift Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPTM, DOTX na PPTM BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaDOTX na PPTM za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

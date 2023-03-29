@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naODT, PPTX na ODT BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPTX na ODT za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

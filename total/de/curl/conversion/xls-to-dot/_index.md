@@ -1,0 +1,1 @@
+---title: Excel konvertieren in DOT, XLS bis DOT KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von XLS bis DOT durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Converti parola in XLSX, DOCX a XLSX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCX a XLSX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

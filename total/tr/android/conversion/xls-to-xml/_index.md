@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürXML, XLS ila XML FREE Converter veya Android SDKdescription: Ücretsiz DönüşümXLS ila XML kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

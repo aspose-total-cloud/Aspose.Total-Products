@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in MD, PPS a MD Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPS a MD utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

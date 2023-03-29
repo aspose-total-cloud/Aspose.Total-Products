@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLTM, PPSX a XLTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a XLTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

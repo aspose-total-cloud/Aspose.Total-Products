@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSXC, PPS na SXC BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPS na SXC za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

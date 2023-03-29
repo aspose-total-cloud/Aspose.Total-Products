@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DOT, PPTM bis DOT KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPTM bis DOT durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

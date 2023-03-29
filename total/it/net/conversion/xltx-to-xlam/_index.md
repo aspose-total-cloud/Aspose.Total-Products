@@ -1,0 +1,1 @@
+---title: Converti Excel in XLAM, XLTX a XLAM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di XLTX a XLAM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

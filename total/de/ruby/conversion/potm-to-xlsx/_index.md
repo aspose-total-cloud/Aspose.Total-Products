@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLSX, POTM bis XLSX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von POTM bis XLSX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

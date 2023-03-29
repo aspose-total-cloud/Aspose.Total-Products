@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPOTX, OTP na POTX BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaOTP na POTX za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

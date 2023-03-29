@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLSX, PPTM a XLSX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTM a XLSX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

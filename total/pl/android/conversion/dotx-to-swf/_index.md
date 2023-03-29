@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naSWF, DOTX na SWF BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaDOTX na SWF za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

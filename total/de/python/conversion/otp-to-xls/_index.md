@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLS, OTP bis XLS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von OTP bis XLS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

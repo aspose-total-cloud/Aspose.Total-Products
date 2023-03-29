@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPPS, PPT na PPS BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPT na PPS za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

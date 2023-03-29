@@ -1,0 +1,1 @@
+---title: Word umwandeln in HTML, TXT bis HTML KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von TXT bis HTML durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLT, POTX ila XLT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOTX ila XLT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

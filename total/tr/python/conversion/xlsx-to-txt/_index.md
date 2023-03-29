@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürTXT, XLSX ila TXT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümXLSX ila TXT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

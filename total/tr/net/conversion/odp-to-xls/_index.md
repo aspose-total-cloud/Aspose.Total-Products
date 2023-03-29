@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLS, ODP ila XLS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümODP ila XLS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

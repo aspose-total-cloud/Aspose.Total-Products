@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in XLTM, POT bis XLTM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von POT bis XLTM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

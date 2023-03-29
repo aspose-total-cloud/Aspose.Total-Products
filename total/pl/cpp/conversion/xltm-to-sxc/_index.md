@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naSXC, XLTM na SXC BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXLTM na SXC za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürJSON, PPTX ila JSON FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPTX ila JSON kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

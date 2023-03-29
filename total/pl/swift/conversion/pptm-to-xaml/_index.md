@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXAML, PPTM na XAML BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTM na XAML za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

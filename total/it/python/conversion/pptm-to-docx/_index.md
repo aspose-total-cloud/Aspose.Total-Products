@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOCX, PPTM a DOCX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTM a DOCX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

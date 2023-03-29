@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naTXT, FODS na TXT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaFODS na TXT za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

@@ -1,0 +1,1 @@
+---title: Converti parola in XLTM, DOCM a XLTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCM a XLTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

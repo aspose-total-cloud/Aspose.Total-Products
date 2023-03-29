@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naRTF, PPS na RTF BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPS na RTF za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

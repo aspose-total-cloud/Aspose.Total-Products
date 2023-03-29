@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naCHM, XLSM na CHM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaXLSM na CHM za pomocą Python Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

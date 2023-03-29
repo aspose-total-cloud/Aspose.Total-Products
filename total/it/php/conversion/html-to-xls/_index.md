@@ -1,0 +1,1 @@
+---title: Converti parola in XLS, HTML a XLS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di HTML a XLS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,0 +1,1 @@
+---title: Excel konvertieren in XLT, ODS bis XLT KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von ODS bis XLT durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

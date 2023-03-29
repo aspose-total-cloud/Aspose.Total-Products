@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSWF, PPS na SWF BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPS na SWF za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

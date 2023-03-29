@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PPTX, ODP a PPTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODP a PPTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

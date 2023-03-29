@@ -1,0 +1,1 @@
+---title: Converti Excel in SVG, XLTX a SVG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di XLTX a SVG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

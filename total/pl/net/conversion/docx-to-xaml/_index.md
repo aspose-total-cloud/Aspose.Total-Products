@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXAML, DOCX na XAML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaDOCX na XAML za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

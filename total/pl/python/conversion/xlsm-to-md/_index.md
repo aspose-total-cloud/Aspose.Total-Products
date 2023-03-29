@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naMD, XLSM na MD BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaXLSM na MD za pomocą Python Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

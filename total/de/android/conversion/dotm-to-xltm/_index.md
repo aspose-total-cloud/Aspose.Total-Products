@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLTM, DOTM bis XLTM KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von DOTM bis XLTM durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

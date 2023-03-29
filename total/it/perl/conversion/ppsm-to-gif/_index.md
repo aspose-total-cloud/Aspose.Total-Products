@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in GIF, PPSM a GIF Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPSM a GIF utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

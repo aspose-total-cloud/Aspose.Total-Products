@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürXLTM, XLS ila XLTM FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümXLS ila XLTM kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

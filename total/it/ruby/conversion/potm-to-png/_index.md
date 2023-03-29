@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PNG, POTM a PNG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POTM a PNG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

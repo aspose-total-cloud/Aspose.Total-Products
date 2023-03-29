@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in SVG, PPT a SVG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPT a SVG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

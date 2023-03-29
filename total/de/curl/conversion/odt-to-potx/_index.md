@@ -1,0 +1,1 @@
+---title: Word umwandeln in POTX, ODT bis POTX KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von ODT bis POTX durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

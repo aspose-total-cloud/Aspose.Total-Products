@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in RTF, PPTX bis RTF KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von PPTX bis RTF durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

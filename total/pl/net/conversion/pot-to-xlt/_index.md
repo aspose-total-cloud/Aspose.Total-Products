@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLT, POT na XLT BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPOT na XLT za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in XLSX, POT a XLSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a XLSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

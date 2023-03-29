@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PPSM, POT a PPSM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a PPSM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

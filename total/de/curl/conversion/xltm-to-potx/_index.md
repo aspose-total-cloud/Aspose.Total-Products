@@ -1,0 +1,1 @@
+---title: Excel konvertieren in POTX, XLTM bis POTX KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von XLTM bis POTX durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

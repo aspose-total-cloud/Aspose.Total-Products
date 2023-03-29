@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürXLTM, PPTM ila XLTM FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPTM ila XLTM kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

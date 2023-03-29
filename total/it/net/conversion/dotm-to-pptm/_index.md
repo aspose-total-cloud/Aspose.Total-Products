@@ -1,0 +1,1 @@
+---title: Converti parola in PPTM, DOTM a PPTM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOTM a PPTM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

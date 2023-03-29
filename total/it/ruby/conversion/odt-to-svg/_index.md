@@ -1,0 +1,1 @@
+---title: Converti parola in SVG, ODT a SVG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODT a SVG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

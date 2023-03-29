@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLSX, PPTX na XLSX BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPTX na XLSX za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

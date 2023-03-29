@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPS, DOTM na PPS BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaDOTM na PPS za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naTXT, DOC na TXT BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaDOC na TXT za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

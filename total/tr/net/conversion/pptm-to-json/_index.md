@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürJSON, PPTM ila JSON FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPTM ila JSON kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

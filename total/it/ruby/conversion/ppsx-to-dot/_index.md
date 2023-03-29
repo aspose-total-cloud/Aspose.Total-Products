@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOT, PPSX a DOT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSX a DOT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

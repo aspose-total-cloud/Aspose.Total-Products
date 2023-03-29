@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in SVG, PPTM bis SVG KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von PPTM bis SVG durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in JSON, PPSX a JSON Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSX a JSON utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

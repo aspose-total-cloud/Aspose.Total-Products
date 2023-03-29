@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naCHM, PPSM na CHM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPSM na CHM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

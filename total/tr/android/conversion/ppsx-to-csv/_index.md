@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürCSV, PPSX ila CSV FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPSX ila CSV kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naGIF, PPTM na GIF BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTM na GIF za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

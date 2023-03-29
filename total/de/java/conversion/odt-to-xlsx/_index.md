@@ -1,0 +1,1 @@
+---title: Word umwandeln in XLSX, ODT bis XLSX KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von ODT bis XLSX durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in POT, PPTX a POT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a POT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

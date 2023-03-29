@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PPTX, POTM bis PPTX KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von POTM bis PPTX durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in DOTX, PPT bis DOTX KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von PPT bis DOTX durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

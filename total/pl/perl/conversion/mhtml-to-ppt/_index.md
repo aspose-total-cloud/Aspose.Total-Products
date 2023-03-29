@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPPT, MHTML na PPT BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMHTML na PPT za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

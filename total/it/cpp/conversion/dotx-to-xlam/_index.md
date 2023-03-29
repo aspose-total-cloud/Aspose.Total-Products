@@ -1,0 +1,1 @@
+---title: Converti parola in XLAM, DOTX a XLAM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a XLAM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

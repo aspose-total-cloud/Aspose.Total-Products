@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naDOTM, PPSX na DOTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPSX na DOTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

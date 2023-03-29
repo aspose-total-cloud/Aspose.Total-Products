@@ -1,0 +1,1 @@
+---title: Excel konvertieren in EPUB, XLS bis EPUB KOSTENLOSER Konverter oder Android SDKdescription: Kostenlose Konvertierung von XLS bis EPUB durch Verwendung von Android Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

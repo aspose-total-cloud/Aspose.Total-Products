@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PPTM, POTX a PPTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POTX a PPTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

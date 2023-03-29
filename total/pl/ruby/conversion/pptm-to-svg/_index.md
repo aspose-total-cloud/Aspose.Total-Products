@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naSVG, PPTM na SVG BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPTM na SVG za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

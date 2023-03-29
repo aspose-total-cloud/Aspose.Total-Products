@@ -1,0 +1,1 @@
+---title: Excel konvertieren in MD, XLS bis MD KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von XLS bis MD durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

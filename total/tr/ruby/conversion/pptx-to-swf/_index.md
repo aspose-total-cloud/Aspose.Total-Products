@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürSWF, PPTX ila SWF FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPTX ila SWF kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

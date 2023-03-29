@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naTIFF, TXT na TIFF BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaTXT na TIFF za pomocą PHP Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

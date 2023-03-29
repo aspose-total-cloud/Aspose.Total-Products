@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naJPEG, PPSM na JPEG BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPSM na JPEG za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

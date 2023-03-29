@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürPPTX, OTT ila PPTX FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümOTT ila PPTX kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in DOT, POTM a DOT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POTM a DOT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

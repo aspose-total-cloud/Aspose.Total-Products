@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naPNG, DOC na PNG BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaDOC na PNG za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

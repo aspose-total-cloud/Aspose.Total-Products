@@ -1,0 +1,1 @@
+---title: Word umwandeln in ODT, DOTX bis ODT KOSTENLOSER Konverter oder Net SDKdescription: Kostenlose Konvertierung von DOTX bis ODT durch Verwendung von Net Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

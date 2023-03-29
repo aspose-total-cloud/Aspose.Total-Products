@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naRTF, PPSX na RTF BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPSX na RTF za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

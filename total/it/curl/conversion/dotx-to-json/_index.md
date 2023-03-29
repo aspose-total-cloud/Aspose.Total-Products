@@ -1,0 +1,1 @@
+---title: Converti parola in JSON, DOTX a JSON Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOTX a JSON utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in PPTX, PPS bis PPTX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von PPS bis PPTX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

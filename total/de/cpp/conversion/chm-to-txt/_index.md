@@ -1,0 +1,1 @@
+---title: Word umwandeln in TXT, CHM bis TXT KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von CHM bis TXT durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

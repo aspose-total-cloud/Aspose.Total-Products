@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in MD, ODP bis MD KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von ODP bis MD durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

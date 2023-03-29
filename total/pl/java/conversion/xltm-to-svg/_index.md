@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naSVG, XLTM na SVG BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaXLTM na SVG za pomocą Java Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

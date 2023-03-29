@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLT, CSV na XLT BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaCSV na XLT za pomocą Android Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

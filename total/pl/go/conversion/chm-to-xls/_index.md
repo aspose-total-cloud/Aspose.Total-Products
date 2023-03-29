@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXLS, CHM na XLS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaCHM na XLS za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

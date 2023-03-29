@@ -1,0 +1,1 @@
+---title: Word umwandeln in SVG, DOTX bis SVG KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von DOTX bis SVG durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

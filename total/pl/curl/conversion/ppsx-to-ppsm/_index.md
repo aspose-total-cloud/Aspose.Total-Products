@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naPPSM, PPSX na PPSM BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPSX na PPSM za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Word umwandeln in POTX, CHM bis POTX KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von CHM bis POTX durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

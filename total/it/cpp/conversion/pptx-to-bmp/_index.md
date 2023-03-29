@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in BMP, PPTX a BMP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a BMP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

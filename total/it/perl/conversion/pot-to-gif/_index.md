@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in GIF, POT a GIF Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POT a GIF utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

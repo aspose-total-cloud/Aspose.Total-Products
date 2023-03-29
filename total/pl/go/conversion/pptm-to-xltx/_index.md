@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLTX, PPTM na XLTX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPTM na XLTX za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

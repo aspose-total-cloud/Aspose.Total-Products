@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naXLS, XLSB na XLS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaXLSB na XLS za pomocą Perl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

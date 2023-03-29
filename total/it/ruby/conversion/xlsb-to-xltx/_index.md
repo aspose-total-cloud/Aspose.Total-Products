@@ -1,0 +1,1 @@
+---title: Converti Excel in XLTX, XLSB a XLTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLSB a XLTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

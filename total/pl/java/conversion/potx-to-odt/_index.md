@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naODT, POTX na ODT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPOTX na ODT za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

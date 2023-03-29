@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naCSV, XLTM na CSV BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXLTM na CSV za pomocą C++ Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

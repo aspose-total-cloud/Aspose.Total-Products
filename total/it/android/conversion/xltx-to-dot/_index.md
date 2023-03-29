@@ -1,0 +1,1 @@
+---title: Converti Excel in DOT, XLTX a DOT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di XLTX a DOT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naXLSX, PPTM na XLSX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPTM na XLSX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

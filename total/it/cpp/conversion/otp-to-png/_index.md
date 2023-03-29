@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PNG, OTP a PNG Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PNG utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
