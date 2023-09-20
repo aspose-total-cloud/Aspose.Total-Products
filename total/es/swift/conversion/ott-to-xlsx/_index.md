@@ -1,1 +1,1 @@
----title: Convertir palabra a XLSX, OTT a XLSX FREE Converter o Swift SDKdescription: Conversión gratuita de OTT a XLSX usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XLSX, OTT a XLSX FREE Converter o Swift SDKdescription: Conversión gratuita de OTT a XLSX usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

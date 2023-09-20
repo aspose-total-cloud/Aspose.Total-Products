@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a SXC, ODP a SXC FREE Converter o Curl SDKdescription: Conversión gratuita de ODP a SXC usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a SXC, ODP a SXC FREE Converter o Curl SDKdescription: Conversión gratuita de ODP a SXC usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

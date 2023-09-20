@@ -1,1 +1,1 @@
----title: Convertir palabra a DIF, RTF a DIF FREE Converter o CPP SDKdescription: Conversión gratuita de RTF a DIF usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a DIF, RTF a DIF FREE Converter o C++ SDKdescription: Conversión gratuita de RTF a DIF usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

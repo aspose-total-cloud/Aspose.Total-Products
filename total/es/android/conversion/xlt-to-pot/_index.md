@@ -1,1 +1,1 @@
----title: Convertir Excel a POT, XLT a POT FREE Converter o Android SDKdescription: Conversión gratuita de XLT a POT usando Android API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a POT, XLT a POT FREE Converter o Android SDKdescription: Conversión gratuita de XLT a POT usando Android API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

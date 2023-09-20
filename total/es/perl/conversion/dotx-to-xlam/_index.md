@@ -1,1 +1,1 @@
----title: Convertir palabra a XLAM, DOTX a XLAM FREE Converter o Perl SDKdescription: Conversión gratuita de DOTX a XLAM usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XLAM, DOTX a XLAM FREE Converter o Perl SDKdescription: Conversión gratuita de DOTX a XLAM usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

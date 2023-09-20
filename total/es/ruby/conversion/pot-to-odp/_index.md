@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a ODP, POT a ODP FREE Converter o Ruby SDKdescription: Conversión gratuita de POT a ODP usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a ODP, POT a ODP FREE Converter o Ruby SDKdescription: Conversión gratuita de POT a ODP usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

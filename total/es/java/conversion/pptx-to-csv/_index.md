@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a CSV, PPTX a CSV FREE Converter o Java SDKdescription: Conversión gratuita de PPTX a CSV usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a CSV, PPTX a CSV FREE Converter o Java SDKdescription: Conversión gratuita de PPTX a CSV usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

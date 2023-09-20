@@ -1,1 +1,1 @@
----title: Convertir palabra a ODT, DOCX a ODT FREE Converter o Nodejs SDKdescription: Conversión gratuita de DOCX a ODT usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a ODT, DOCX a ODT FREE Converter o Nodejs SDKdescription: Conversión gratuita de DOCX a ODT usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

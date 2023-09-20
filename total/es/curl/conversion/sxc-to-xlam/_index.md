@@ -1,1 +1,1 @@
----title: Convertir Excel a XLAM, SXC a XLAM FREE Converter o Curl SDKdescription: Conversión gratuita de SXC a XLAM usando Curl API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a XLAM, SXC a XLAM FREE Converter o Curl SDKdescription: Conversión gratuita de SXC a XLAM usando Curl API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

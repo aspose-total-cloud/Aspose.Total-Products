@@ -1,1 +1,1 @@
----title: Convertir Excel a MD, XLSM a MD FREE Converter o Ruby SDKdescription: Conversión gratuita de XLSM a MD usando Ruby API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a MD, XLSM a MD FREE Converter o Ruby SDKdescription: Conversión gratuita de XLSM a MD usando Ruby API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir palabra a XML, DOTX a XML FREE Converter o PHP SDKdescription: Conversión gratuita de DOTX a XML usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XML, DOTX a XML FREE Converter o PHP SDKdescription: Conversión gratuita de DOTX a XML usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

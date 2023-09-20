@@ -1,1 +1,1 @@
----title: Convertir palabra a DOTX, PDF a DOTX FREE Converter o Android SDKdescription: Conversión gratuita de PDF a DOTX usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a DOTX, PDF a DOTX FREE Converter o Android SDKdescription: Conversión gratuita de PDF a DOTX usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

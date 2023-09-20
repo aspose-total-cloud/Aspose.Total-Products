@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a XLAM, PPS a XLAM FREE Converter o Ruby SDKdescription: Conversión gratuita de PPS a XLAM usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a XLAM, PPS a XLAM FREE Converter o Ruby SDKdescription: Conversión gratuita de PPS a XLAM usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

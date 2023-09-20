@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a TXT, PPSX a TXT FREE Converter o PHP SDKdescription: Conversión gratuita de PPSX a TXT usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a TXT, PPSX a TXT FREE Converter o PHP SDKdescription: Conversión gratuita de PPSX a TXT usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

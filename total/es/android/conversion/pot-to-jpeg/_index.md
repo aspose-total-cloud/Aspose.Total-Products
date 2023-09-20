@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a JPEG, POT a JPEG FREE Converter o Android SDKdescription: Conversión gratuita de POT a JPEG usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a JPEG, POT a JPEG FREE Converter o Android SDKdescription: Conversión gratuita de POT a JPEG usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

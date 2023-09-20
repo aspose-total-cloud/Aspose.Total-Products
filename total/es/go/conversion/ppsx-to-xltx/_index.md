@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a XLTX, PPSX a XLTX FREE Converter o GO SDKdescription: Conversión gratuita de PPSX a XLTX usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a XLTX, PPSX a XLTX FREE Converter o GO SDKdescription: Conversión gratuita de PPSX a XLTX usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

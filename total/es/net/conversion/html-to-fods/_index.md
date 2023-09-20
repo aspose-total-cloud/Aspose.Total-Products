@@ -1,1 +1,1 @@
----title: Convertir palabra a FODS, HTML a FODS FREE Converter o Net SDKdescription: Conversión gratuita de HTML a FODS usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a FODS, HTML a FODS FREE Converter o Net SDKdescription: Conversión gratuita de HTML a FODS usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

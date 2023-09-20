@@ -1,1 +1,1 @@
----title: Convertir palabra a TIFF, RTF a TIFF FREE Converter o Nodejs SDKdescription: Conversión gratuita de RTF a TIFF usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a TIFF, RTF a TIFF FREE Converter o Nodejs SDKdescription: Conversión gratuita de RTF a TIFF usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

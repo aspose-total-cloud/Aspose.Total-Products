@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a PCL, PPS a PCL FREE Converter o PHP SDKdescription: Conversión gratuita de PPS a PCL usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a PCL, PPS a PCL FREE Converter o PHP SDKdescription: Conversión gratuita de PPS a PCL usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

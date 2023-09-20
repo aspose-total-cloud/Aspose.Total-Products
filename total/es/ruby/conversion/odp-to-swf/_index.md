@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a SWF, ODP a SWF FREE Converter o Ruby SDKdescription: Conversión gratuita de ODP a SWF usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a SWF, ODP a SWF FREE Converter o Ruby SDKdescription: Conversión gratuita de ODP a SWF usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

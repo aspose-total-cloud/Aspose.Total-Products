@@ -1,1 +1,1 @@
----title: Convertir palabra a EMF, MOBI a EMF FREE Converter o Net SDKdescription: Conversión gratuita de MOBI a EMF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a EMF, MOBI a EMF FREE Converter o Net SDKdescription: Conversión gratuita de MOBI a EMF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

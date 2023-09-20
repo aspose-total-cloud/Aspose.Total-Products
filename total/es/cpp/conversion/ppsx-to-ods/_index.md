@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a ODS, PPSX a ODS FREE Converter o CPP SDKdescription: Conversión gratuita de PPSX a ODS usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a ODS, PPSX a ODS FREE Converter o C++ SDKdescription: Conversión gratuita de PPSX a ODS usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

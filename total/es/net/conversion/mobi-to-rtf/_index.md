@@ -1,1 +1,1 @@
----title: Convertir palabra a RTF, MOBI a RTF FREE Converter o Net SDKdescription: Conversión gratuita de MOBI a RTF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a RTF, MOBI a RTF FREE Converter o Net SDKdescription: Conversión gratuita de MOBI a RTF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

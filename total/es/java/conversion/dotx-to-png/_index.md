@@ -1,1 +1,1 @@
----title: Convertir palabra a PNG, DOTX a PNG FREE Converter o Java SDKdescription: Conversión gratuita de DOTX a PNG usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PNG, DOTX a PNG FREE Converter o Java SDKdescription: Conversión gratuita de DOTX a PNG usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

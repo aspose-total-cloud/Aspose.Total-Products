@@ -1,1 +1,1 @@
----title: Convertir palabra a PPS, DOCX a PPS FREE Converter o Android SDKdescription: Conversión gratuita de DOCX a PPS usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PPS, DOCX a PPS FREE Converter o Android SDKdescription: Conversión gratuita de DOCX a PPS usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

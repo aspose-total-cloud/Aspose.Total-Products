@@ -1,1 +1,1 @@
----title: Convertir palabra a XLTX, RTF a XLTX FREE Converter o Java SDKdescription: Conversión gratuita de RTF a XLTX usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XLTX, RTF a XLTX FREE Converter o Java SDKdescription: Conversión gratuita de RTF a XLTX usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

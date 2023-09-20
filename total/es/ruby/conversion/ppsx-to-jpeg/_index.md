@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a JPEG, PPSX a JPEG FREE Converter o Ruby SDKdescription: Conversión gratuita de PPSX a JPEG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a JPEG, PPSX a JPEG FREE Converter o Ruby SDKdescription: Conversión gratuita de PPSX a JPEG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,0 +1,1 @@
+---title: Convertir PDF a DOTM, SVG a DOTM FREE Converter o Nodejs SDKdescription: Conversión gratuita de SVG a DOTM usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de PDF en la nube.---

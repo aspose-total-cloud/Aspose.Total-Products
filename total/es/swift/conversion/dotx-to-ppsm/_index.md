@@ -1,1 +1,1 @@
----title: Convertir palabra a PPSM, DOTX a PPSM FREE Converter o Swift SDKdescription: Conversión gratuita de DOTX a PPSM usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PPSM, DOTX a PPSM FREE Converter o Swift SDKdescription: Conversión gratuita de DOTX a PPSM usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

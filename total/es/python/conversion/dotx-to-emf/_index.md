@@ -1,1 +1,1 @@
----title: Convertir palabra a EMF, DOTX a EMF FREE Converter o Python SDKdescription: Conversión gratuita de DOTX a EMF usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a EMF, DOTX a EMF FREE Converter o Python SDKdescription: Conversión gratuita de DOTX a EMF usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

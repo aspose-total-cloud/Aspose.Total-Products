@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a PPS, PPTX a PPS FREE Converter o Android SDKdescription: Conversión gratuita de PPTX a PPS usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a PPS, PPTX a PPS FREE Converter o Android SDKdescription: Conversión gratuita de PPTX a PPS usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir palabra a XLT, MD a XLT FREE Converter o Java SDKdescription: Conversión gratuita de MD a XLT usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XLT, MD a XLT FREE Converter o Java SDKdescription: Conversión gratuita de MD a XLT usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

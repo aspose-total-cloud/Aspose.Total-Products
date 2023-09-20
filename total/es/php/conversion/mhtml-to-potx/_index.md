@@ -1,1 +1,1 @@
----title: Convertir palabra a POTX, MHTML a POTX FREE Converter o PHP SDKdescription: Conversión gratuita de MHTML a POTX usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a POTX, MHTML a POTX FREE Converter o PHP SDKdescription: Conversión gratuita de MHTML a POTX usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

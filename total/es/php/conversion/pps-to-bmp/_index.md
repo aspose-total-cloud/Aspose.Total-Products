@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a BMP, PPS a BMP FREE Converter o PHP SDKdescription: Conversión gratuita de PPS a BMP usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a BMP, PPS a BMP FREE Converter o PHP SDKdescription: Conversión gratuita de PPS a BMP usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

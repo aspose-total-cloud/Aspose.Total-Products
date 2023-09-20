@@ -1,1 +1,1 @@
----title: Convertir Excel a SXC, XLTM a SXC FREE Converter o CPP SDKdescription: Conversión gratuita de XLTM a SXC usando CPP API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a SXC, XLTM a SXC FREE Converter o C++ SDKdescription: Conversión gratuita de XLTM a SXC usando C++ API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

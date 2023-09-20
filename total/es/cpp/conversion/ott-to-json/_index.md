@@ -1,1 +1,1 @@
----title: Convertir palabra a JSON, OTT a JSON FREE Converter o CPP SDKdescription: Conversión gratuita de OTT a JSON usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a JSON, OTT a JSON FREE Converter o C++ SDKdescription: Conversión gratuita de OTT a JSON usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir Excel a RTF, XLTX a RTF FREE Converter o Net SDKdescription: Conversión gratuita de XLTX a RTF usando Net API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a RTF, XLTX a RTF FREE Converter o Net SDKdescription: Conversión gratuita de XLTX a RTF usando Net API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

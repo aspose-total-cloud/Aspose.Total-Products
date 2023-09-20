@@ -1,1 +1,1 @@
----title: Convertir palabra a JSON, MD a JSON FREE Converter o Perl SDKdescription: Conversión gratuita de MD a JSON usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a JSON, MD a JSON FREE Converter o Perl SDKdescription: Conversión gratuita de MD a JSON usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

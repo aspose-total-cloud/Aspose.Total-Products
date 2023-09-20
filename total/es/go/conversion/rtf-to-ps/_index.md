@@ -1,1 +1,1 @@
----title: Convertir palabra a PS, RTF a PS FREE Converter o GO SDKdescription: Conversión gratuita de RTF a PS usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PS, RTF a PS FREE Converter o GO SDKdescription: Conversión gratuita de RTF a PS usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

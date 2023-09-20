@@ -1,1 +1,1 @@
----title: Convertir palabra a BMP, OTT a BMP FREE Converter o Perl SDKdescription: Conversión gratuita de OTT a BMP usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a BMP, OTT a BMP FREE Converter o Perl SDKdescription: Conversión gratuita de OTT a BMP usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

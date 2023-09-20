@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a DOC, PPSX a DOC FREE Converter o Ruby SDKdescription: Conversión gratuita de PPSX a DOC usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a DOC, PPSX a DOC FREE Converter o Ruby SDKdescription: Conversión gratuita de PPSX a DOC usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

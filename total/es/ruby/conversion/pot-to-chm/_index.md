@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a CHM, POT a CHM FREE Converter o Ruby SDKdescription: Conversión gratuita de POT a CHM usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a CHM, POT a CHM FREE Converter o Ruby SDKdescription: Conversión gratuita de POT a CHM usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a PNG, OTP a PNG FREE Converter o Swift SDKdescription: Conversión gratuita de OTP a PNG usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a PNG, OTP a PNG FREE Converter o Swift SDKdescription: Conversión gratuita de OTP a PNG usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

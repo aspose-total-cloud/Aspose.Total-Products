@@ -1,1 +1,1 @@
----title: Convertir palabra a POTX, OTT a POTX FREE Converter o Java SDKdescription: Conversión gratuita de OTT a POTX usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a POTX, OTT a POTX FREE Converter o Java SDKdescription: Conversión gratuita de OTT a POTX usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a MD, POT a MD FREE Converter o Android SDKdescription: Conversión gratuita de POT a MD usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a MD, POT a MD FREE Converter o Android SDKdescription: Conversión gratuita de POT a MD usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

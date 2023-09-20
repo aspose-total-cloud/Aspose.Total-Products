@@ -1,0 +1,1 @@
+---title: Convertir PDF a SXC, SVG a SXC FREE Converter o GO SDKdescription: Conversión gratuita de SVG a SXC usando GO API y SDK en la nube. También cree, edite y renderice documentos de PDF en la nube.---

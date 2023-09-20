@@ -1,1 +1,1 @@
----title: Convertir Excel a RTF, XLTM a RTF FREE Converter o CPP SDKdescription: Conversión gratuita de XLTM a RTF usando CPP API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a RTF, XLTM a RTF FREE Converter o C++ SDKdescription: Conversión gratuita de XLTM a RTF usando C++ API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

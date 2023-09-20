@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a HTML, PPS a HTML FREE Converter o Ruby SDKdescription: Conversión gratuita de PPS a HTML usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a HTML, PPS a HTML FREE Converter o Ruby SDKdescription: Conversión gratuita de PPS a HTML usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

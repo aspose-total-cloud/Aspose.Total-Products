@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a RTF, PPT a RTF FREE Converter o Ruby SDKdescription: Conversión gratuita de PPT a RTF usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a RTF, PPT a RTF FREE Converter o Ruby SDKdescription: Conversión gratuita de PPT a RTF usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

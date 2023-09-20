@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a DOTX, PPTM a DOTX FREE Converter o PHP SDKdescription: Conversión gratuita de PPTM a DOTX usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a DOTX, PPTM a DOTX FREE Converter o PHP SDKdescription: Conversión gratuita de PPTM a DOTX usando PHP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

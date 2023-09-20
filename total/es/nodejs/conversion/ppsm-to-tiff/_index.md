@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a TIFF, PPSM a TIFF FREE Converter o Nodejs SDKdescription: Conversión gratuita de PPSM a TIFF usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a TIFF, PPSM a TIFF FREE Converter o Nodejs SDKdescription: Conversión gratuita de PPSM a TIFF usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

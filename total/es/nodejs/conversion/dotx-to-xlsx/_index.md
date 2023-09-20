@@ -1,1 +1,1 @@
----title: Convertir palabra a XLSX, DOTX a XLSX FREE Converter o Nodejs SDKdescription: Conversión gratuita de DOTX a XLSX usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XLSX, DOTX a XLSX FREE Converter o Nodejs SDKdescription: Conversión gratuita de DOTX a XLSX usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

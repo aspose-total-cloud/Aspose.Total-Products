@@ -1,1 +1,1 @@
----title: Convertir palabra a TIFF, DOCM a TIFF FREE Converter o Perl SDKdescription: Conversión gratuita de DOCM a TIFF usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a TIFF, DOCM a TIFF FREE Converter o Perl SDKdescription: Conversión gratuita de DOCM a TIFF usando Perl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

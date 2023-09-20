@@ -1,1 +1,1 @@
----title: Convertir palabra a XPS, MHTML a XPS FREE Converter o CPP SDKdescription: Conversión gratuita de MHTML a XPS usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a XPS, MHTML a XPS FREE Converter o C++ SDKdescription: Conversión gratuita de MHTML a XPS usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

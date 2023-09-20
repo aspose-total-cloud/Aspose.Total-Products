@@ -1,1 +1,1 @@
----title: Convertir palabra a PNG, DOCX a PNG FREE Converter o Ruby SDKdescription: Conversión gratuita de DOCX a PNG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PNG, DOCX a PNG FREE Converter o Ruby SDKdescription: Conversión gratuita de DOCX a PNG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

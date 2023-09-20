@@ -1,1 +1,1 @@
----title: Convertir palabra a ODP, DOCX a ODP FREE Converter o CPP SDKdescription: Conversión gratuita de DOCX a ODP usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a ODP, DOCX a ODP FREE Converter o C++ SDKdescription: Conversión gratuita de DOCX a ODP usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

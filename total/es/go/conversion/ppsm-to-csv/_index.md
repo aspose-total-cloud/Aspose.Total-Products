@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a CSV, PPSM a CSV FREE Converter o GO SDKdescription: Conversión gratuita de PPSM a CSV usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a CSV, PPSM a CSV FREE Converter o GO SDKdescription: Conversión gratuita de PPSM a CSV usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir palabra a NUMBERS, MD a NUMBERS FREE Converter o CPP SDKdescription: Conversión gratuita de MD a NUMBERS usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a NUMBERS, MD a NUMBERS FREE Converter o C++ SDKdescription: Conversión gratuita de MD a NUMBERS usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

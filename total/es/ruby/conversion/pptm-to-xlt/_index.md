@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a XLT, PPTM a XLT FREE Converter o Ruby SDKdescription: Conversión gratuita de PPTM a XLT usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a XLT, PPTM a XLT FREE Converter o Ruby SDKdescription: Conversión gratuita de PPTM a XLT usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

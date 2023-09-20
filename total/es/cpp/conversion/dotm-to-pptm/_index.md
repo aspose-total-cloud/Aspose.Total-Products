@@ -1,1 +1,1 @@
----title: Convertir palabra a PPTM, DOTM a PPTM FREE Converter o CPP SDKdescription: Conversión gratuita de DOTM a PPTM usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PPTM, DOTM a PPTM FREE Converter o C++ SDKdescription: Conversión gratuita de DOTM a PPTM usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

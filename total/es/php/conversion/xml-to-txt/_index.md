@@ -1,1 +1,1 @@
----title: Convertir Excel a TXT, XML a TXT FREE Converter o PHP SDKdescription: Conversión gratuita de XML a TXT usando PHP API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a TXT, XML a TXT FREE Converter o PHP SDKdescription: Conversión gratuita de XML a TXT usando PHP API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

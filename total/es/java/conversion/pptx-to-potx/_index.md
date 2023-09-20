@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a POTX, PPTX a POTX FREE Converter o Java SDKdescription: Conversión gratuita de PPTX a POTX usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a POTX, PPTX a POTX FREE Converter o Java SDKdescription: Conversión gratuita de PPTX a POTX usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

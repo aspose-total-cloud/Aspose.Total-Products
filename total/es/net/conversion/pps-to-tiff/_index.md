@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a TIFF, PPS a TIFF FREE Converter o Net SDKdescription: Conversión gratuita de PPS a TIFF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a TIFF, PPS a TIFF FREE Converter o Net SDKdescription: Conversión gratuita de PPS a TIFF usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

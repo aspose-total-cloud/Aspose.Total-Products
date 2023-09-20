@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a JPEG, PPTX a JPEG FREE Converter o CPP SDKdescription: Conversión gratuita de PPTX a JPEG usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a JPEG, PPTX a JPEG FREE Converter o C++ SDKdescription: Conversión gratuita de PPTX a JPEG usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

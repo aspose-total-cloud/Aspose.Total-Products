@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a DOT, PPS a DOT FREE Converter o CPP SDKdescription: Conversión gratuita de PPS a DOT usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a DOT, PPS a DOT FREE Converter o C++ SDKdescription: Conversión gratuita de PPS a DOT usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

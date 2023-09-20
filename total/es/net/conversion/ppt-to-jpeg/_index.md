@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a JPEG, PPT a JPEG FREE Converter o Net SDKdescription: Conversión gratuita de PPT a JPEG usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a JPEG, PPT a JPEG FREE Converter o Net SDKdescription: Conversión gratuita de PPT a JPEG usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

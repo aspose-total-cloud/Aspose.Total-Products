@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a DOC, ODP a DOC FREE Converter o CPP SDKdescription: Conversión gratuita de ODP a DOC usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a DOC, ODP a DOC FREE Converter o C++ SDKdescription: Conversión gratuita de ODP a DOC usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

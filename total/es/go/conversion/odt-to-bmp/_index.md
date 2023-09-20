@@ -1,1 +1,1 @@
----title: Convertir palabra a BMP, ODT a BMP FREE Converter o GO SDKdescription: Conversión gratuita de ODT a BMP usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a BMP, ODT a BMP FREE Converter o GO SDKdescription: Conversión gratuita de ODT a BMP usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

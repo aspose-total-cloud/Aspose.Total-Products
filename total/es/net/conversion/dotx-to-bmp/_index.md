@@ -1,1 +1,1 @@
----title: Convertir palabra a BMP, DOTX a BMP FREE Converter o Net SDKdescription: Conversión gratuita de DOTX a BMP usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a BMP, DOTX a BMP FREE Converter o Net SDKdescription: Conversión gratuita de DOTX a BMP usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

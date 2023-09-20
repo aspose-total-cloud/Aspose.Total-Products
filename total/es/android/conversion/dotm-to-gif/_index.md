@@ -1,1 +1,1 @@
----title: Convertir palabra a GIF, DOTM a GIF FREE Converter o Android SDKdescription: Conversión gratuita de DOTM a GIF usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a GIF, DOTM a GIF FREE Converter o Android SDKdescription: Conversión gratuita de DOTM a GIF usando Android API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

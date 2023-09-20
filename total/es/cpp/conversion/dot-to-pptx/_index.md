@@ -1,1 +1,1 @@
----title: Convertir palabra a PPTX, DOT a PPTX FREE Converter o CPP SDKdescription: Conversión gratuita de DOT a PPTX usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PPTX, DOT a PPTX FREE Converter o C++ SDKdescription: Conversión gratuita de DOT a PPTX usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

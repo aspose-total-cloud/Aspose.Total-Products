@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a XLSX, POTX a XLSX FREE Converter o Nodejs SDKdescription: Conversión gratuita de POTX a XLSX usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a XLSX, POTX a XLSX FREE Converter o Nodejs SDKdescription: Conversión gratuita de POTX a XLSX usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

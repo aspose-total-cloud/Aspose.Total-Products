@@ -1,1 +1,1 @@
----title: Convertir palabra a POTM, DOC a POTM FREE Converter o Net SDKdescription: Conversión gratuita de DOC a POTM usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a POTM, DOC a POTM FREE Converter o Net SDKdescription: Conversión gratuita de DOC a POTM usando Net API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

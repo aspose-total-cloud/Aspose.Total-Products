@@ -1,1 +1,1 @@
----title: Convertir palabra a SXC, DOTM a SXC FREE Converter o Swift SDKdescription: Conversión gratuita de DOTM a SXC usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a SXC, DOTM a SXC FREE Converter o Swift SDKdescription: Conversión gratuita de DOTM a SXC usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

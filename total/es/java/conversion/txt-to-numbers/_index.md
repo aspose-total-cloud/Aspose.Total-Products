@@ -1,1 +1,1 @@
----title: Convertir palabra a NUMBERS, TXT a NUMBERS FREE Converter o Java SDKdescription: Conversión gratuita de TXT a NUMBERS usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a NUMBERS, TXT a NUMBERS FREE Converter o Java SDKdescription: Conversión gratuita de TXT a NUMBERS usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

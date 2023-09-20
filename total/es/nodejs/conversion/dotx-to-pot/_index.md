@@ -1,1 +1,1 @@
----title: Convertir palabra a POT, DOTX a POT FREE Converter o Nodejs SDKdescription: Conversión gratuita de DOTX a POT usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a POT, DOTX a POT FREE Converter o Nodejs SDKdescription: Conversión gratuita de DOTX a POT usando Nodejs API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a SWF, PPSM a SWF FREE Converter o CPP SDKdescription: Conversión gratuita de PPSM a SWF usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a SWF, PPSM a SWF FREE Converter o C++ SDKdescription: Conversión gratuita de PPSM a SWF usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

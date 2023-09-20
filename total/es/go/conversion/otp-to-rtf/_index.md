@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a RTF, OTP a RTF FREE Converter o GO SDKdescription: Conversión gratuita de OTP a RTF usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a RTF, OTP a RTF FREE Converter o GO SDKdescription: Conversión gratuita de OTP a RTF usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a TXT, PPSM a TXT FREE Converter o Java SDKdescription: Conversión gratuita de PPSM a TXT usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a TXT, PPSM a TXT FREE Converter o Java SDKdescription: Conversión gratuita de PPSM a TXT usando Java API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

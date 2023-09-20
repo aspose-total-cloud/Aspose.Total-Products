@@ -1,0 +1,1 @@
+---title: Convertir Excel a TEX, XLTX a TEX FREE Converter o Android SDKdescription: Conversión gratuita de XLTX a TEX usando Android API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

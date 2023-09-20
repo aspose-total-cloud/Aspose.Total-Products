@@ -1,1 +1,1 @@
----title: Convertir Excel a PCL, XML a PCL FREE Converter o Ruby SDKdescription: Conversión gratuita de XML a PCL usando Ruby API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a PCL, XML a PCL FREE Converter o Ruby SDKdescription: Conversión gratuita de XML a PCL usando Ruby API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

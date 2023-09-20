@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a CSV, PPS a CSV FREE Converter o Python SDKdescription: Conversión gratuita de PPS a CSV usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a CSV, PPS a CSV FREE Converter o Python SDKdescription: Conversión gratuita de PPS a CSV usando Python API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir palabra a ODS, PDF a ODS FREE Converter o CPP SDKdescription: Conversión gratuita de PDF a ODS usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a ODS, PDF a ODS FREE Converter o C++ SDKdescription: Conversión gratuita de PDF a ODS usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

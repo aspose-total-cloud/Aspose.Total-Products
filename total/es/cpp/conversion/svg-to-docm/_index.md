@@ -1,0 +1,1 @@
+---title: Convertir PDF a DOCM, SVG a DOCM FREE Converter o C++ SDKdescription: Conversión gratuita de SVG a DOCM usando C++ API y SDK en la nube. También cree, edite y renderice documentos de PDF en la nube.---

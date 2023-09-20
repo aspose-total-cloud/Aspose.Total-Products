@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint a TEX, PPTX a TEX FREE Converter o Ruby SDKdescription: Conversión gratuita de PPTX a TEX usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

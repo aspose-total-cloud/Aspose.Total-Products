@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a SWF, POTX a SWF FREE Converter o Swift SDKdescription: Conversión gratuita de POTX a SWF usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a SWF, POTX a SWF FREE Converter o Swift SDKdescription: Conversión gratuita de POTX a SWF usando Swift API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

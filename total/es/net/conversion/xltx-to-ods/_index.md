@@ -1,1 +1,1 @@
----title: Convertir Excel a ODS, XLTX a ODS FREE Converter o Net SDKdescription: Conversión gratuita de XLTX a ODS usando Net API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a ODS, XLTX a ODS FREE Converter o Net SDKdescription: Conversión gratuita de XLTX a ODS usando Net API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

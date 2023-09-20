@@ -1,1 +1,1 @@
----title: Convertir Excel a SVG, CSV a SVG FREE Converter o Ruby SDKdescription: Conversión gratuita de CSV a SVG usando Ruby API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a SVG, CSV a SVG FREE Converter o Ruby SDKdescription: Conversión gratuita de CSV a SVG usando Ruby API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

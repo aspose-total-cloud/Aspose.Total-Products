@@ -1,1 +1,1 @@
----title: Convertir Excel a DIF, XLS a DIF FREE Converter o Net SDKdescription: Conversión gratuita de XLS a DIF usando Net API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a DIF, XLS a DIF FREE Converter o Net SDKdescription: Conversión gratuita de XLS a DIF usando Net API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

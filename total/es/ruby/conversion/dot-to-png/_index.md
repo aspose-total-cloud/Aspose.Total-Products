@@ -1,1 +1,1 @@
----title: Convertir palabra a PNG, DOT a PNG FREE Converter o Ruby SDKdescription: Conversión gratuita de DOT a PNG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a PNG, DOT a PNG FREE Converter o Ruby SDKdescription: Conversión gratuita de DOT a PNG usando Ruby API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

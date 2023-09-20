@@ -1,1 +1,1 @@
----title: Convertir Excel a SXC, XLSX a SXC FREE Converter o Android SDKdescription: Conversión gratuita de XLSX a SXC usando Android API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a SXC, XLSX a SXC FREE Converter o Android SDKdescription: Conversión gratuita de XLSX a SXC usando Android API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

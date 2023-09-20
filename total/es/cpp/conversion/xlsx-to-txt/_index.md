@@ -1,1 +1,1 @@
----title: Convertir Excel a TXT, XLSX a TXT FREE Converter o CPP SDKdescription: Conversión gratuita de XLSX a TXT usando CPP API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a TXT, XLSX a TXT FREE Converter o C++ SDKdescription: Conversión gratuita de XLSX a TXT usando C++ API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

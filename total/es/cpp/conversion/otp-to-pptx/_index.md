@@ -1,1 +1,1 @@
----title: Convertir PowerPoint a PPTX, OTP a PPTX FREE Converter o CPP SDKdescription: Conversión gratuita de OTP a PPTX usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---
+---title: Convertir PowerPoint a PPTX, OTP a PPTX FREE Converter o C++ SDKdescription: Conversión gratuita de OTP a PPTX usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft PowerPoint en la nube.---

@@ -1,1 +1,1 @@
----title: Convertir Excel a SVG, JSON a SVG FREE Converter o CPP SDKdescription: Conversión gratuita de JSON a SVG usando CPP API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---
+---title: Convertir Excel a SVG, JSON a SVG FREE Converter o C++ SDKdescription: Conversión gratuita de JSON a SVG usando C++ API y SDK en la nube. También cree, edite y renderice hojas de cálculo u hojas de cálculo de Microsoft Excel, CSV y SpreadsheetML en la nube.---

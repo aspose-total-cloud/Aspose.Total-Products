@@ -1,1 +1,1 @@
----title: Convertir palabra a NUMBERS, DOT a NUMBERS FREE Converter o Curl SDKdescription: Conversión gratuita de DOT a NUMBERS usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a NUMBERS, DOT a NUMBERS FREE Converter o Curl SDKdescription: Conversión gratuita de DOT a NUMBERS usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

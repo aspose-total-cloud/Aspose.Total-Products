@@ -1,1 +1,1 @@
----title: Convertir palabra a RTF, DOTM a RTF FREE Converter o CPP SDKdescription: Conversión gratuita de DOTM a RTF usando CPP API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a RTF, DOTM a RTF FREE Converter o C++ SDKdescription: Conversión gratuita de DOTM a RTF usando C++ API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

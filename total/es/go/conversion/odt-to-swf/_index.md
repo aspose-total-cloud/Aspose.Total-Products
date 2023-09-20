@@ -1,1 +1,1 @@
----title: Convertir palabra a SWF, ODT a SWF FREE Converter o GO SDKdescription: Conversión gratuita de ODT a SWF usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a SWF, ODT a SWF FREE Converter o GO SDKdescription: Conversión gratuita de ODT a SWF usando GO API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---

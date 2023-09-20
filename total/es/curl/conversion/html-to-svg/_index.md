@@ -1,1 +1,1 @@
----title: Convertir palabra a SVG, HTML a SVG FREE Converter o Curl SDKdescription: Conversión gratuita de HTML a SVG usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
+---title: Convertir palabra a SVG, HTML a SVG FREE Converter o Curl SDKdescription: Conversión gratuita de HTML a SVG usando Curl API y SDK en la nube. También cree, edite y renderice documentos de Microsoft Word y OpenOffice en la nube.---
