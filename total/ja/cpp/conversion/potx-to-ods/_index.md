@@ -1,1 +1,1 @@
----title: PowerPoint をODSに、POTX を ODS に変換 無料のコンバーターまたはCPP SDKdescription: CPPのクラウド API と SDK を使用して、POTX を ODS に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をODSに、POTX を ODS に変換 無料のコンバーターまたはC++ SDKdescription: C++のクラウド API と SDK を使用して、POTX を ODS に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

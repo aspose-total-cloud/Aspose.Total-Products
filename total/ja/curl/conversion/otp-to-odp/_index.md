@@ -1,1 +1,1 @@
----title: PowerPoint をODPに、OTP を ODP に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、OTP を ODP に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をODPに、OTP を ODP に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、OTP を ODP に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

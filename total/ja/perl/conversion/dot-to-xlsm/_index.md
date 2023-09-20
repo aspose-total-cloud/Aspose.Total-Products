@@ -1,1 +1,1 @@
----title: Word をXLSMに、DOT を XLSM に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、DOT を XLSM に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をXLSMに、DOT を XLSM に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、DOT を XLSM に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

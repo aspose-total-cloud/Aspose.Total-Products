@@ -1,1 +1,1 @@
----title: Word をTIFFに、DOTX を TIFF に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、DOTX を TIFF に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をTIFFに、DOTX を TIFF に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、DOTX を TIFF に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

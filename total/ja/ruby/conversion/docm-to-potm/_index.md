@@ -1,1 +1,1 @@
----title: Word をPOTMに、DOCM を POTM に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、DOCM を POTM に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をPOTMに、DOCM を POTM に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、DOCM を POTM に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

@@ -1,1 +1,1 @@
----title: PowerPoint をPPSXに、POTM を PPSX に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、POTM を PPSX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をPPSXに、POTM を PPSX に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、POTM を PPSX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

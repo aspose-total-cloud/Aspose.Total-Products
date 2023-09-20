@@ -1,0 +1,1 @@
+---title: PDF をGIFに、PDFA を GIF に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、PDFA を GIF に無料で変換します。 また、クラウドで PDF および OpenOffice ドキュメントを作成、編集、レンダリングします。---

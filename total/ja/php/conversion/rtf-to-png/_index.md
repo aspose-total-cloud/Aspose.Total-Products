@@ -1,1 +1,1 @@
----title: Word をPNGに、RTF を PNG に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、RTF を PNG に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をPNGに、RTF を PNG に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、RTF を PNG に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

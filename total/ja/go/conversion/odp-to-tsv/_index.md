@@ -1,1 +1,1 @@
----title: PowerPoint をTSVに、ODP を TSV に変換 無料のコンバーターまたはGO SDKdescription: GOのクラウド API と SDK を使用して、ODP を TSV に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をTSVに、ODP を TSV に変換 無料のコンバーターまたはGO SDKdescription: GOのクラウド API と SDK を使用して、ODP を TSV に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

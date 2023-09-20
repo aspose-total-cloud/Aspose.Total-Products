@@ -1,1 +1,1 @@
----title: Excel をXLTXに、XML を XLTX に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、XML を XLTX に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をXLTXに、XML を XLTX に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、XML を XLTX に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

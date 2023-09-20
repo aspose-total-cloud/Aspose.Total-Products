@@ -1,1 +1,1 @@
----title: Word をTSVに、MOBI を TSV に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、MOBI を TSV に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をTSVに、MOBI を TSV に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、MOBI を TSV に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

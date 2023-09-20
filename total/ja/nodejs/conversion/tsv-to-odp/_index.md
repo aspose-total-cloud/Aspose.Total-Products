@@ -1,1 +1,1 @@
----title: Excel をODPに、TSV を ODP に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、TSV を ODP に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をODPに、TSV を ODP に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、TSV を ODP に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

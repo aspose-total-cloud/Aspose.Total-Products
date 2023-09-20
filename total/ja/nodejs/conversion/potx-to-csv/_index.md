@@ -1,1 +1,1 @@
----title: PowerPoint をCSVに、POTX を CSV に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、POTX を CSV に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をCSVに、POTX を CSV に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、POTX を CSV に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

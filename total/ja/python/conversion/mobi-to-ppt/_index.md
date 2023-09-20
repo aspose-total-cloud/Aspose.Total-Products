@@ -1,1 +1,1 @@
----title: Word をPPTに、MOBI を PPT に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、MOBI を PPT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をPPTに、MOBI を PPT に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、MOBI を PPT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

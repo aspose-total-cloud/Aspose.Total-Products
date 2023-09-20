@@ -1,1 +1,1 @@
----title: PowerPoint をRTFに、PPS を RTF に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、PPS を RTF に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をRTFに、PPS を RTF に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、PPS を RTF に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

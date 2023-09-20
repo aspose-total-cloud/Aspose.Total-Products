@@ -1,1 +1,1 @@
----title: PowerPoint をDOTXに、POTX を DOTX に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、POTX を DOTX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をDOTXに、POTX を DOTX に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、POTX を DOTX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

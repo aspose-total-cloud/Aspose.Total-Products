@@ -1,1 +1,1 @@
----title: Excel をSWFに、XLSM を SWF に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、XLSM を SWF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をSWFに、XLSM を SWF に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、XLSM を SWF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

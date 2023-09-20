@@ -1,1 +1,1 @@
----title: Excel をPOTXに、XLT を POTX に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、XLT を POTX に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をPOTXに、XLT を POTX に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、XLT を POTX に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

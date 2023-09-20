@@ -1,1 +1,1 @@
----title: PowerPoint をPNGに、PPTX を PNG に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、PPTX を PNG に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をPNGに、PPTX を PNG に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、PPTX を PNG に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

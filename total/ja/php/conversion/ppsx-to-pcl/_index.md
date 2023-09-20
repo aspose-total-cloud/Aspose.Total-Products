@@ -1,1 +1,1 @@
----title: PowerPoint をPCLに、PPSX を PCL に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、PPSX を PCL に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をPCLに、PPSX を PCL に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、PPSX を PCL に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

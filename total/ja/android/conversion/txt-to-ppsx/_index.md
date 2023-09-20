@@ -1,1 +1,1 @@
----title: Word をPPSXに、TXT を PPSX に変換 無料のコンバーターまたはAndroid SDKdescription: Androidのクラウド API と SDK を使用して、TXT を PPSX に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をPPSXに、TXT を PPSX に変換 無料のコンバーターまたはAndroid SDKdescription: Androidのクラウド API と SDK を使用して、TXT を PPSX に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

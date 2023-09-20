@@ -1,1 +1,1 @@
----title: Word をXLSに、CHM を XLS に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、CHM を XLS に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をXLSに、CHM を XLS に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、CHM を XLS に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

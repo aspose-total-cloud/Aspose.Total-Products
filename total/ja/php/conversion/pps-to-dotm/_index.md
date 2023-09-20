@@ -1,1 +1,1 @@
----title: PowerPoint をDOTMに、PPS を DOTM に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、PPS を DOTM に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をDOTMに、PPS を DOTM に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、PPS を DOTM に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

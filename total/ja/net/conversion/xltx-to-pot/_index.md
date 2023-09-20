@@ -1,1 +1,1 @@
----title: Excel をPOTに、XLTX を POT に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、XLTX を POT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をPOTに、XLTX を POT に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、XLTX を POT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

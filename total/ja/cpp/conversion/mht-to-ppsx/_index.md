@@ -1,0 +1,1 @@
+---title: PDF をPPSXに、MHT を PPSX に変換 無料のコンバーターまたはC++ SDKdescription: C++のクラウド API と SDK を使用して、MHT を PPSX に無料で変換します。 また、クラウドで PDF および OpenOffice ドキュメントを作成、編集、レンダリングします。---

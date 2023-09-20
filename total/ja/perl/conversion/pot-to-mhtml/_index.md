@@ -1,1 +1,1 @@
----title: PowerPoint をMHTMLに、POT を MHTML に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、POT を MHTML に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をMHTMLに、POT を MHTML に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、POT を MHTML に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

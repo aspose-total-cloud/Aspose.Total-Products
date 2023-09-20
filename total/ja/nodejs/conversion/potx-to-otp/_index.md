@@ -1,1 +1,1 @@
----title: PowerPoint をOTPに、POTX を OTP に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、POTX を OTP に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をOTPに、POTX を OTP に変換 無料のコンバーターまたはNodejs SDKdescription: Nodejsのクラウド API と SDK を使用して、POTX を OTP に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

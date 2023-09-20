@@ -1,1 +1,1 @@
----title: Word をHTMLに、RTF を HTML に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、RTF を HTML に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をHTMLに、RTF を HTML に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、RTF を HTML に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

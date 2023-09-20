@@ -1,1 +1,1 @@
----title: Word をXLTXに、PDF を XLTX に変換 無料のコンバーターまたはCPP SDKdescription: CPPのクラウド API と SDK を使用して、PDF を XLTX に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をXLTXに、PDF を XLTX に変換 無料のコンバーターまたはC++ SDKdescription: C++のクラウド API と SDK を使用して、PDF を XLTX に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

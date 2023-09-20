@@ -1,1 +1,1 @@
----title: Excel をODTに、XLSM を ODT に変換 無料のコンバーターまたはAndroid SDKdescription: Androidのクラウド API と SDK を使用して、XLSM を ODT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をODTに、XLSM を ODT に変換 無料のコンバーターまたはAndroid SDKdescription: Androidのクラウド API と SDK を使用して、XLSM を ODT に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

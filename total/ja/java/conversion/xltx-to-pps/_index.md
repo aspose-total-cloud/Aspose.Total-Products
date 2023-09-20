@@ -1,1 +1,1 @@
----title: Excel をPPSに、XLTX を PPS に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、XLTX を PPS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をPPSに、XLTX を PPS に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、XLTX を PPS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

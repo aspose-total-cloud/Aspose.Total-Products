@@ -1,1 +1,1 @@
----title: Excel をSVGに、SXC を SVG に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、SXC を SVG に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をSVGに、SXC を SVG に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、SXC を SVG に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

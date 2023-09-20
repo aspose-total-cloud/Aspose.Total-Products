@@ -1,1 +1,1 @@
----title: Word をCSVに、TXT を CSV に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、TXT を CSV に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をCSVに、TXT を CSV に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、TXT を CSV に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

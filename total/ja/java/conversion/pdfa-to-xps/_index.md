@@ -1,0 +1,1 @@
+---title: PDF をXPSに、PDFA を XPS に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、PDFA を XPS に無料で変換します。 また、クラウドで PDF および OpenOffice ドキュメントを作成、編集、レンダリングします。---

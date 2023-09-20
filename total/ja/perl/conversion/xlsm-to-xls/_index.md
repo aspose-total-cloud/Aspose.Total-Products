@@ -1,1 +1,1 @@
----title: Excel をXLSに、XLSM を XLS に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、XLSM を XLS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をXLSに、XLSM を XLS に変換 無料のコンバーターまたはPerl SDKdescription: Perlのクラウド API と SDK を使用して、XLSM を XLS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

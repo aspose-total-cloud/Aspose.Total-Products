@@ -1,1 +1,1 @@
----title: Word をODPに、MD を ODP に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、MD を ODP に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をODPに、MD を ODP に変換 無料のコンバーターまたはNet SDKdescription: Netのクラウド API と SDK を使用して、MD を ODP に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

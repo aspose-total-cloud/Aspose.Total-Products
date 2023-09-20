@@ -1,1 +1,1 @@
----title: Word をDOTに、ODT を DOT に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、ODT を DOT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をDOTに、ODT を DOT に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、ODT を DOT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

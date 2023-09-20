@@ -1,1 +1,1 @@
----title: Excel をPPSに、XLT を PPS に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、XLT を PPS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をPPSに、XLT を PPS に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、XLT を PPS に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

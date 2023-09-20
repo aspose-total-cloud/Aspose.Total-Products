@@ -1,1 +1,1 @@
----title: Word をEMFに、TXT を EMF に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、TXT を EMF に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をEMFに、TXT を EMF に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、TXT を EMF に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

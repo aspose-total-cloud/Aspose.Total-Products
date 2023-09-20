@@ -1,1 +1,1 @@
----title: Excel をGIFに、CSV を GIF に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、CSV を GIF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をGIFに、CSV を GIF に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、CSV を GIF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

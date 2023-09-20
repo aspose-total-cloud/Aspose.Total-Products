@@ -1,1 +1,1 @@
----title: Excel をBMPに、XLSB を BMP に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、XLSB を BMP に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をBMPに、XLSB を BMP に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、XLSB を BMP に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

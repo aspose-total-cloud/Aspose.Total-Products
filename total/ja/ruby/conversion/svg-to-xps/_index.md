@@ -1,0 +1,1 @@
+---title: PDF をXPSに、SVG を XPS に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、SVG を XPS に無料で変換します。 また、クラウドで PDF および OpenOffice ドキュメントを作成、編集、レンダリングします。---

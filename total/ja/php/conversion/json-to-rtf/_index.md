@@ -1,1 +1,1 @@
----title: Excel をRTFに、JSON を RTF に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、JSON を RTF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をRTFに、JSON を RTF に変換 無料のコンバーターまたはPHP SDKdescription: PHPのクラウド API と SDK を使用して、JSON を RTF に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

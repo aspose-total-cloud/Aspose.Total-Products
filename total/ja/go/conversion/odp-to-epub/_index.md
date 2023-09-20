@@ -1,1 +1,1 @@
----title: PowerPoint をEPUBに、ODP を EPUB に変換 無料のコンバーターまたはGO SDKdescription: GOのクラウド API と SDK を使用して、ODP を EPUB に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をEPUBに、ODP を EPUB に変換 無料のコンバーターまたはGO SDKdescription: GOのクラウド API と SDK を使用して、ODP を EPUB に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

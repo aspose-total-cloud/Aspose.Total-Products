@@ -1,1 +1,1 @@
----title: Excel をJSONに、SXC を JSON に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、SXC を JSON に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をJSONに、SXC を JSON に変換 無料のコンバーターまたはCurl SDKdescription: Curlのクラウド API と SDK を使用して、SXC を JSON に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

@@ -1,1 +1,1 @@
----title: Word をOTTに、CHM を OTT に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、CHM を OTT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をOTTに、CHM を OTT に変換 無料のコンバーターまたはPython SDKdescription: Pythonのクラウド API と SDK を使用して、CHM を OTT に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

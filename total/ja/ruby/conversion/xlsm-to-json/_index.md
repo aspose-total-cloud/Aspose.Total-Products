@@ -1,1 +1,1 @@
----title: Excel をJSONに、XLSM を JSON に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、XLSM を JSON に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---
+---title: Excel をJSONに、XLSM を JSON に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、XLSM を JSON に無料で変換します。 また、クラウドで Microsoft Excel および SpreadsheetML、worksheets、spreadsheet ドキュメントを作成、編集、レンダリングします。---

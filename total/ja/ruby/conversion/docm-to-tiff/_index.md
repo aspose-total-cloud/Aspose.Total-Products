@@ -1,1 +1,1 @@
----title: Word をTIFFに、DOCM を TIFF に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、DOCM を TIFF に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: Word をTIFFに、DOCM を TIFF に変換 無料のコンバーターまたはRuby SDKdescription: Rubyのクラウド API と SDK を使用して、DOCM を TIFF に無料で変換します。 また、クラウドで Microsoft Word および OpenOffice ドキュメントを作成、編集、レンダリングします。---

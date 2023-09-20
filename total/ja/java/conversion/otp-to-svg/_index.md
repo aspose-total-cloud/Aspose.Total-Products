@@ -1,1 +1,1 @@
----title: PowerPoint をSVGに、OTP を SVG に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、OTP を SVG に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をSVGに、OTP を SVG に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、OTP を SVG に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

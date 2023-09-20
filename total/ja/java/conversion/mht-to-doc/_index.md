@@ -1,0 +1,1 @@
+---title: PDF をDOCに、MHT を DOC に変換 無料のコンバーターまたはJava SDKdescription: Javaのクラウド API と SDK を使用して、MHT を DOC に無料で変換します。 また、クラウドで PDF および OpenOffice ドキュメントを作成、編集、レンダリングします。---

@@ -1,1 +1,1 @@
----title: PowerPoint をPOTXに、PPT を POTX に変換 無料のコンバーターまたはCPP SDKdescription: CPPのクラウド API と SDK を使用して、PPT を POTX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をPOTXに、PPT を POTX に変換 無料のコンバーターまたはC++ SDKdescription: C++のクラウド API と SDK を使用して、PPT を POTX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---

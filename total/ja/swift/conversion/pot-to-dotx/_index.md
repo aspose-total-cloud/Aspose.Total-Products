@@ -1,1 +1,1 @@
----title: PowerPoint をDOTXに、POT を DOTX に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、POT を DOTX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
+---title: PowerPoint をDOTXに、POT を DOTX に変換 無料のコンバーターまたはSwift SDKdescription: Swiftのクラウド API と SDK を使用して、POT を DOTX に無料で変換します。 また、クラウドで Microsoft PowerPoint および OpenOffice ドキュメントを作成、編集、レンダリングします。---
