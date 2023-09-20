@@ -1,1 +1,1 @@
----title: Converti parola in XAML, DOC a XAML Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOC a XAML utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XAML, DOC a XAML Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOC a XAML utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

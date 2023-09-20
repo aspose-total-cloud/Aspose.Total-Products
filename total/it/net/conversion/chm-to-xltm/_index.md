@@ -1,1 +1,1 @@
----title: Converti parola in XLTM, CHM a XLTM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di CHM a XLTM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLTM, CHM a XLTM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di CHM a XLTM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

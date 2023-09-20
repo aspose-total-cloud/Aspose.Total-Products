@@ -1,0 +1,1 @@
+---title: Converti PDF in XLS, TEX a XLS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di TEX a XLS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

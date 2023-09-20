@@ -1,1 +1,1 @@
----title: Converti PowerPoint in FODS, POT a FODS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POT a FODS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in FODS, POT a FODS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POT a FODS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

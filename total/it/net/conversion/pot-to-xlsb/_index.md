@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLSB, POT a XLSB Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POT a XLSB utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLSB, POT a XLSB Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POT a XLSB utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

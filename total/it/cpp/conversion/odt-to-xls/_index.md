@@ -1,1 +1,1 @@
----title: Converti parola in XLS, ODT a XLS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di ODT a XLS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLS, ODT a XLS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di ODT a XLS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

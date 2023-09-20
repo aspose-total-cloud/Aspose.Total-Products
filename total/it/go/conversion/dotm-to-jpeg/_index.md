@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, DOTM a JPEG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a JPEG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, DOTM a JPEG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a JPEG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

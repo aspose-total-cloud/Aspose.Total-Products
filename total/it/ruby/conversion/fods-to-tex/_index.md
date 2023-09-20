@@ -1,0 +1,1 @@
+---title: Converti Excel in TEX, FODS a TEX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di FODS a TEX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

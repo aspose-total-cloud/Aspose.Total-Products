@@ -1,1 +1,1 @@
----title: Converti PowerPoint in EPUB, POT a EPUB Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a EPUB utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in EPUB, POT a EPUB Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a EPUB utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in MD, DOT a MD Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOT a MD utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, DOT a MD Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOT a MD utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

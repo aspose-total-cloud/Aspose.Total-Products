@@ -1,1 +1,1 @@
----title: Converti parola in CHM, MHTML a CHM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di MHTML a CHM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in CHM, MHTML a CHM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di MHTML a CHM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

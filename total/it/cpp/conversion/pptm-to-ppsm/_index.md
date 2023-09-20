@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPSM, PPTM a PPSM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTM a PPSM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPSM, PPTM a PPSM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTM a PPSM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

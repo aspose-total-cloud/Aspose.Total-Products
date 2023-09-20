@@ -1,1 +1,1 @@
----title: Converti parola in MD, OTT a MD Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTT a MD utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, OTT a MD Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTT a MD utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

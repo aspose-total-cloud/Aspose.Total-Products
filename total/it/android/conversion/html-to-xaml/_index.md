@@ -1,1 +1,1 @@
----title: Converti parola in XAML, HTML a XAML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di HTML a XAML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XAML, HTML a XAML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di HTML a XAML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

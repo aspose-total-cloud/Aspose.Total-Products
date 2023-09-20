@@ -1,1 +1,1 @@
----title: Converti parola in POT, TXT a POT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di TXT a POT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, TXT a POT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di TXT a POT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

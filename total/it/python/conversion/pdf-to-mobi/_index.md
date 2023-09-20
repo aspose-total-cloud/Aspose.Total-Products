@@ -1,1 +1,1 @@
----title: Converti parola in MOBI, PDF a MOBI Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PDF a MOBI utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MOBI, PDF a MOBI Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PDF a MOBI utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

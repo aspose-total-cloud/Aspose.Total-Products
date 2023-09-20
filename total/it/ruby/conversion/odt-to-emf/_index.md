@@ -1,1 +1,1 @@
----title: Converti parola in EMF, ODT a EMF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODT a EMF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in EMF, ODT a EMF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODT a EMF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

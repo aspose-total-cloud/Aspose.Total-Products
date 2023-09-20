@@ -1,1 +1,1 @@
----title: Converti parola in FODS, TXT a FODS Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TXT a FODS utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in FODS, TXT a FODS Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TXT a FODS utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

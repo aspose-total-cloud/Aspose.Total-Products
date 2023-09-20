@@ -1,1 +1,1 @@
----title: Converti parola in XLSX, MD a XLSX Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di MD a XLSX utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLSX, MD a XLSX Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di MD a XLSX utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in GIF, OTP a GIF Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di OTP a GIF utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in GIF, OTP a GIF Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di OTP a GIF utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLSX, POTX a XLSX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POTX a XLSX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLSX, POTX a XLSX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POTX a XLSX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

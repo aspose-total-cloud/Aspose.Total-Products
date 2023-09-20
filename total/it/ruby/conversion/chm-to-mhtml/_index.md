@@ -1,1 +1,1 @@
----title: Converti parola in MHTML, CHM a MHTML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di CHM a MHTML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MHTML, CHM a MHTML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di CHM a MHTML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in TXT, POT a TXT Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POT a TXT utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in TXT, POT a TXT Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POT a TXT utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

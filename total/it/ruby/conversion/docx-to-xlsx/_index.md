@@ -1,1 +1,1 @@
----title: Converti parola in XLSX, DOCX a XLSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCX a XLSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLSX, DOCX a XLSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCX a XLSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

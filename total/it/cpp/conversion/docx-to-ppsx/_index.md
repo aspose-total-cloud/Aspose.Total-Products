@@ -1,1 +1,1 @@
----title: Converti parola in PPSX, DOCX a PPSX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOCX a PPSX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSX, DOCX a PPSX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOCX a PPSX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

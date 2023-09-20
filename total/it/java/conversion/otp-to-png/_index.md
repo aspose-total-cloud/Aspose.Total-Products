@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PNG, OTP a PNG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di OTP a PNG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PNG, OTP a PNG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di OTP a PNG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

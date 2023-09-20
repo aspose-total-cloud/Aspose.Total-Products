@@ -1,1 +1,1 @@
----title: Converti PowerPoint in GIF, POT a GIF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POT a GIF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in GIF, POT a GIF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POT a GIF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

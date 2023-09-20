@@ -1,1 +1,1 @@
----title: Converti PowerPoint in POT, PPTM a POT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTM a POT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in POT, PPTM a POT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTM a POT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLAM, POT a XLAM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POT a XLAM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLAM, POT a XLAM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POT a XLAM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

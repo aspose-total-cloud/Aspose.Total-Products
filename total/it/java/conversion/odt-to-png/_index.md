@@ -1,1 +1,1 @@
----title: Converti parola in PNG, ODT a PNG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di ODT a PNG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PNG, ODT a PNG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di ODT a PNG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

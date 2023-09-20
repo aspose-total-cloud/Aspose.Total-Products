@@ -1,1 +1,1 @@
----title: Converti parola in SWF, DOTM a SWF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a SWF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SWF, DOTM a SWF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a SWF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

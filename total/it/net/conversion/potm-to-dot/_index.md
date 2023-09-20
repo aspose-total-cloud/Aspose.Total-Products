@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOT, POTM a DOT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTM a DOT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOT, POTM a DOT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTM a DOT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

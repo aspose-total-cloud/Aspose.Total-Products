@@ -1,1 +1,1 @@
----title: Converti PowerPoint in HTML, POTM a HTML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTM a HTML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in HTML, POTM a HTML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTM a HTML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

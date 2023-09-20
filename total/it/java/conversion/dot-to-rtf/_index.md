@@ -1,1 +1,1 @@
----title: Converti parola in RTF, DOT a RTF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di DOT a RTF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in RTF, DOT a RTF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di DOT a RTF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in FODS, PPSX a FODS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di PPSX a FODS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in FODS, PPSX a FODS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di PPSX a FODS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

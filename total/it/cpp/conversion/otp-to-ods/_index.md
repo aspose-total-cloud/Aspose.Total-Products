@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODS, OTP a ODS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a ODS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODS, OTP a ODS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a ODS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

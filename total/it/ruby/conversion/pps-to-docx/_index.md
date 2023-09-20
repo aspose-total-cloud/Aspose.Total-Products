@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOCX, PPS a DOCX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPS a DOCX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOCX, PPS a DOCX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPS a DOCX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

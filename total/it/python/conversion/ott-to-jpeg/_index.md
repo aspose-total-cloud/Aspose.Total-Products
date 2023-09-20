@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, OTT a JPEG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di OTT a JPEG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, OTT a JPEG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di OTT a JPEG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

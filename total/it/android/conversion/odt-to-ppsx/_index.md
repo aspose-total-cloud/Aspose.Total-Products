@@ -1,1 +1,1 @@
----title: Converti parola in PPSX, ODT a PPSX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di ODT a PPSX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSX, ODT a PPSX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di ODT a PPSX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

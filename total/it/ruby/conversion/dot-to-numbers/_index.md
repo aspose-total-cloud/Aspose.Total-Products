@@ -1,1 +1,1 @@
----title: Converti parola in NUMBERS, DOT a NUMBERS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOT a NUMBERS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in NUMBERS, DOT a NUMBERS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOT a NUMBERS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

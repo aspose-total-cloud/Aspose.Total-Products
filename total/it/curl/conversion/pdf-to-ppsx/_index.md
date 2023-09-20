@@ -1,1 +1,1 @@
----title: Converti parola in PPSX, PDF a PPSX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di PDF a PPSX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSX, PDF a PPSX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di PDF a PPSX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

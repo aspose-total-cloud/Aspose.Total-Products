@@ -1,1 +1,1 @@
----title: Converti parola in PPS, HTML a PPS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di HTML a PPS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPS, HTML a PPS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di HTML a PPS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

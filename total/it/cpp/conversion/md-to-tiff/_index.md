@@ -1,1 +1,1 @@
----title: Converti parola in TIFF, MD a TIFF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a TIFF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TIFF, MD a TIFF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a TIFF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

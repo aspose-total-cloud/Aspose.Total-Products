@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XAML, POT a XAML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a XAML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XAML, POT a XAML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a XAML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

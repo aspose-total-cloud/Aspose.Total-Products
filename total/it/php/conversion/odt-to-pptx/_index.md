@@ -1,1 +1,1 @@
----title: Converti parola in PPTX, ODT a PPTX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODT a PPTX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTX, ODT a PPTX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODT a PPTX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

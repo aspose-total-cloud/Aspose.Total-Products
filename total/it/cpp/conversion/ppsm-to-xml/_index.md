@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XML, PPSM a XML Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a XML utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XML, PPSM a XML Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a XML utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

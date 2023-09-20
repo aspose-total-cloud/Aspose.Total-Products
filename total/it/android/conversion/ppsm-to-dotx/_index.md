@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOTX, PPSM a DOTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPSM a DOTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOTX, PPSM a DOTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPSM a DOTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

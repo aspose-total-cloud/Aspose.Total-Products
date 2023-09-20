@@ -1,1 +1,1 @@
----title: Converti Excel in GIF, FODS a GIF Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di FODS a GIF utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in GIF, FODS a GIF Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di FODS a GIF utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

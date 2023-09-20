@@ -1,0 +1,1 @@
+---title: Converti PDF in FODS, SVG a FODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di SVG a FODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

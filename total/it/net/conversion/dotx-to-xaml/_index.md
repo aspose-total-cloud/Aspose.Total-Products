@@ -1,1 +1,1 @@
----title: Converti parola in XAML, DOTX a XAML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOTX a XAML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XAML, DOTX a XAML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOTX a XAML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

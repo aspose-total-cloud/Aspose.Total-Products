@@ -1,1 +1,1 @@
----title: Converti Excel in DOT, XLSM a DOT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLSM a DOT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in DOT, XLSM a DOT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLSM a DOT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

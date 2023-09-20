@@ -1,1 +1,1 @@
----title: Converti PowerPoint in MD, OTP a MD Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTP a MD utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in MD, OTP a MD Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTP a MD utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

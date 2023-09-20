@@ -1,1 +1,1 @@
----title: Converti parola in ODP, MD a ODP Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MD a ODP utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODP, MD a ODP Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MD a ODP utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

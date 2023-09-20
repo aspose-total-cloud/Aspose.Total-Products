@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SVG, PPT a SVG Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PPT a SVG utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SVG, PPT a SVG Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PPT a SVG utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti Excel in XML, XLTX a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLTX a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XML, XLTX a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLTX a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPSM, POTX a PPSM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POTX a PPSM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPSM, POTX a PPSM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POTX a PPSM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

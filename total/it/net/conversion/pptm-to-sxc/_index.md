@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SXC, PPTM a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTM a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SXC, PPTM a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTM a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

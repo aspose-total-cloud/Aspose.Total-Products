@@ -1,1 +1,1 @@
----title: Converti parola in XLTM, RTF a XLTM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di RTF a XLTM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLTM, RTF a XLTM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di RTF a XLTM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTT, POTX a OTT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTX a OTT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTT, POTX a OTT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTX a OTT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

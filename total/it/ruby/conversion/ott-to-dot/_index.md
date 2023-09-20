@@ -1,1 +1,1 @@
----title: Converti parola in DOT, OTT a DOT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTT a DOT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOT, OTT a DOT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTT a DOT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in GIF, MD a GIF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a GIF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in GIF, MD a GIF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a GIF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

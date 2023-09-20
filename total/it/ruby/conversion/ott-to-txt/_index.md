@@ -1,1 +1,1 @@
----title: Converti parola in TXT, OTT a TXT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTT a TXT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TXT, OTT a TXT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di OTT a TXT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

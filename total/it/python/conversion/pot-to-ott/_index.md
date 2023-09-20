@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTT, POT a OTT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POT a OTT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTT, POT a OTT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POT a OTT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

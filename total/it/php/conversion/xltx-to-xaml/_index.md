@@ -1,1 +1,1 @@
----title: Converti Excel in XAML, XLTX a XAML Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLTX a XAML utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XAML, XLTX a XAML Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLTX a XAML utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

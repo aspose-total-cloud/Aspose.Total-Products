@@ -1,1 +1,1 @@
----title: Converti Excel in TIFF, XLSB a TIFF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di XLSB a TIFF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in TIFF, XLSB a TIFF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di XLSB a TIFF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

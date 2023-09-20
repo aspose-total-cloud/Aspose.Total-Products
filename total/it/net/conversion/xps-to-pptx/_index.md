@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTX, XPS a PPTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di XPS a PPTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

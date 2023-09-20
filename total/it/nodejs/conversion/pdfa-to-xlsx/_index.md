@@ -1,0 +1,1 @@
+---title: Converti PDF in XLSX, PDFA a XLSX Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PDFA a XLSX utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

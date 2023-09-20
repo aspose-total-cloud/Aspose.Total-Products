@@ -1,1 +1,1 @@
----title: Converti parola in POTX, CHM a POTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di CHM a POTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTX, CHM a POTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di CHM a POTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

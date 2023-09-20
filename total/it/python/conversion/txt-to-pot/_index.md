@@ -1,1 +1,1 @@
----title: Converti parola in POT, TXT a POT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di TXT a POT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, TXT a POT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di TXT a POT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

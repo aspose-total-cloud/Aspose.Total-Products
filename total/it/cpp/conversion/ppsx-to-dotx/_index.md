@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOTX, PPSX a DOTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a DOTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOTX, PPSX a DOTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a DOTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

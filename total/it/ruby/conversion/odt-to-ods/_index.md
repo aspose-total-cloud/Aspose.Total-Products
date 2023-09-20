@@ -1,1 +1,1 @@
----title: Converti parola in ODS, ODT a ODS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODT a ODS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODS, ODT a ODS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODT a ODS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

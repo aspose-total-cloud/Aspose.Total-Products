@@ -1,1 +1,1 @@
----title: Converti parola in PPSX, PDF a PPSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PDF a PPSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSX, PDF a PPSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PDF a PPSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

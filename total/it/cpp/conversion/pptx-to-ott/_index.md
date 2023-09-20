@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTT, PPTX a OTT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a OTT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTT, PPTX a OTT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a OTT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

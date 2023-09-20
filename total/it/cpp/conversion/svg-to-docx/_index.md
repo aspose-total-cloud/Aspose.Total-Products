@@ -1,0 +1,1 @@
+---title: Converti PDF in DOCX, SVG a DOCX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di SVG a DOCX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

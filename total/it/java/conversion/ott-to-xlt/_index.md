@@ -1,1 +1,1 @@
----title: Converti parola in XLT, OTT a XLT Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di OTT a XLT utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLT, OTT a XLT Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di OTT a XLT utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

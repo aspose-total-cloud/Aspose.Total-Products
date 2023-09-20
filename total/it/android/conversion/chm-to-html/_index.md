@@ -1,1 +1,1 @@
----title: Converti parola in HTML, CHM a HTML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di CHM a HTML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in HTML, CHM a HTML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di CHM a HTML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

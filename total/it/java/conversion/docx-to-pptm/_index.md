@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, DOCX a PPTM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di DOCX a PPTM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, DOCX a PPTM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di DOCX a PPTM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

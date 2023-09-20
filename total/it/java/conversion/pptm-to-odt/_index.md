@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODT, PPTM a ODT Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPTM a ODT utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODT, PPTM a ODT Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPTM a ODT utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

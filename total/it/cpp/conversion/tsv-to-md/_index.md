@@ -1,1 +1,1 @@
----title: Converti Excel in MD, TSV a MD Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TSV a MD utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in MD, TSV a MD Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TSV a MD utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

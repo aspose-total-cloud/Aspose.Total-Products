@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTM, PS a PPTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PS a PPTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

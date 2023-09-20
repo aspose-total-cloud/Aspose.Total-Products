@@ -1,1 +1,1 @@
----title: Converti parola in EMF, DOTX a EMF Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOTX a EMF utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in EMF, DOTX a EMF Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOTX a EMF utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

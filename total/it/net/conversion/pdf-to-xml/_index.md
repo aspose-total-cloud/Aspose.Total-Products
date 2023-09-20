@@ -1,1 +1,1 @@
----title: Converti parola in XML, PDF a XML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PDF a XML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XML, PDF a XML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PDF a XML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

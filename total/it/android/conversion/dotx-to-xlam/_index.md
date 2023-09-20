@@ -1,1 +1,1 @@
----title: Converti parola in XLAM, DOTX a XLAM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOTX a XLAM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLAM, DOTX a XLAM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOTX a XLAM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

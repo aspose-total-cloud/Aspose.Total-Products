@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPSM, PPTX a PPSM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a PPSM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPSM, PPTX a PPSM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a PPSM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

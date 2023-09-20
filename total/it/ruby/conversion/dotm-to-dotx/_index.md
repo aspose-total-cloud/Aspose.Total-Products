@@ -1,1 +1,1 @@
----title: Converti parola in DOTX, DOTM a DOTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTM a DOTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOTX, DOTM a DOTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTM a DOTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

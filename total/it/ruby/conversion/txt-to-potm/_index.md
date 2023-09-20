@@ -1,1 +1,1 @@
----title: Converti parola in POTM, TXT a POTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a POTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTM, TXT a POTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a POTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, DOC a PPTM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di DOC a PPTM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, DOC a PPTM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di DOC a PPTM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

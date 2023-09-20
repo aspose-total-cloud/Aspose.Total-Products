@@ -1,0 +1,1 @@
+---title: Converti PDF in XLSX, SVG a XLSX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di SVG a XLSX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

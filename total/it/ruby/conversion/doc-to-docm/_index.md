@@ -1,1 +1,1 @@
----title: Converti parola in DOCM, DOC a DOCM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOC a DOCM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOCM, DOC a DOCM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOC a DOCM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

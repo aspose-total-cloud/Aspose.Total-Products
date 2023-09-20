@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XAML, PPTX a XAML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a XAML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XAML, PPTX a XAML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a XAML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

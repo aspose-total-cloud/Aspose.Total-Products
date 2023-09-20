@@ -1,1 +1,1 @@
----title: Converti parola in PPSM, OTT a PPSM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di OTT a PPSM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSM, OTT a PPSM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di OTT a PPSM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

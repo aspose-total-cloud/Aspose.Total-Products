@@ -1,1 +1,1 @@
----title: Converti parola in PPS, ODT a PPS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODT a PPS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPS, ODT a PPS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODT a PPS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

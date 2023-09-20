@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPS, POT a PPS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POT a PPS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPS, POT a PPS Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POT a PPS utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

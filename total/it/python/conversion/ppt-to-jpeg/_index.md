@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JPEG, PPT a JPEG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPT a JPEG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JPEG, PPT a JPEG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPT a JPEG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

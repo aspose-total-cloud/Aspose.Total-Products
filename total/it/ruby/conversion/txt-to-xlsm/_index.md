@@ -1,1 +1,1 @@
----title: Converti parola in XLSM, TXT a XLSM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a XLSM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLSM, TXT a XLSM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a XLSM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, HTML a JPEG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di HTML a JPEG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, HTML a JPEG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di HTML a JPEG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

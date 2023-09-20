@@ -1,1 +1,1 @@
----title: Converti PowerPoint in CSV, PPSM a CSV Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a CSV utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in CSV, PPSM a CSV Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a CSV utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

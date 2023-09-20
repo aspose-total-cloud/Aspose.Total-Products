@@ -1,1 +1,1 @@
----title: Converti parola in BMP, DOTX a BMP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTX a BMP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in BMP, DOTX a BMP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTX a BMP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

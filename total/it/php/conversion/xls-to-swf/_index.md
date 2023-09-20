@@ -1,1 +1,1 @@
----title: Converti Excel in SWF, XLS a SWF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLS a SWF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in SWF, XLS a SWF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLS a SWF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

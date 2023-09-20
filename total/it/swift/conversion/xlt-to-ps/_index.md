@@ -1,1 +1,1 @@
----title: Converti Excel in PS, XLT a PS Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di XLT a PS utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in PS, XLT a PS Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di XLT a PS utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

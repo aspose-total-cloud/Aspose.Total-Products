@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTP, PPS a OTP Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPS a OTP utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTP, PPS a OTP Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPS a OTP utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLS, PPSX a XLS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a XLS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLS, PPSX a XLS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a XLS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

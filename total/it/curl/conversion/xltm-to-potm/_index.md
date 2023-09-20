@@ -1,1 +1,1 @@
----title: Converti Excel in POTM, XLTM a POTM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di XLTM a POTM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in POTM, XLTM a POTM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di XLTM a POTM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

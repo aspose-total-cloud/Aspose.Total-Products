@@ -1,1 +1,1 @@
----title: Converti parola in MOBI, DOC a MOBI Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOC a MOBI utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MOBI, DOC a MOBI Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOC a MOBI utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

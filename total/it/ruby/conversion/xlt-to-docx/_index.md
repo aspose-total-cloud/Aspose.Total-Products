@@ -1,1 +1,1 @@
----title: Converti Excel in DOCX, XLT a DOCX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLT a DOCX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in DOCX, XLT a DOCX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLT a DOCX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

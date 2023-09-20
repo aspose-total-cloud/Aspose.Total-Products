@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XML, ODP a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODP a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XML, ODP a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODP a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

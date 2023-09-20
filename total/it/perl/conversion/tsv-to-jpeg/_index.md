@@ -1,1 +1,1 @@
----title: Converti Excel in JPEG, TSV a JPEG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di TSV a JPEG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in JPEG, TSV a JPEG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di TSV a JPEG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

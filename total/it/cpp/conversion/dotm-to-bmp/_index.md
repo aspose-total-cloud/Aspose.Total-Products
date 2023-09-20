@@ -1,1 +1,1 @@
----title: Converti parola in BMP, DOTM a BMP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTM a BMP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in BMP, DOTM a BMP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTM a BMP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in SWF, RTF a SWF Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di RTF a SWF utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SWF, RTF a SWF Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di RTF a SWF utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

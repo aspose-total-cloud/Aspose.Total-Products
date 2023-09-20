@@ -1,0 +1,1 @@
+---title: Converti PDF in XLS, SVG a XLS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di SVG a XLS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

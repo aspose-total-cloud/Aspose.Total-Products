@@ -1,1 +1,1 @@
----title: Converti parola in DIF, DOC a DIF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOC a DIF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DIF, DOC a DIF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOC a DIF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

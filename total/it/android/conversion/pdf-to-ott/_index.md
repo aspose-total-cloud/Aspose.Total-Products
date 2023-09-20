@@ -1,1 +1,1 @@
----title: Converti parola in OTT, PDF a OTT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PDF a OTT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in OTT, PDF a OTT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PDF a OTT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

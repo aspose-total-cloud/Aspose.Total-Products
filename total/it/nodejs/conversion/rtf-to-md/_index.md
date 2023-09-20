@@ -1,1 +1,1 @@
----title: Converti parola in MD, RTF a MD Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di RTF a MD utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, RTF a MD Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di RTF a MD utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

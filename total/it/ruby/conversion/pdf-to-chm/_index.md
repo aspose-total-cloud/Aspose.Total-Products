@@ -1,1 +1,1 @@
----title: Converti parola in CHM, PDF a CHM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PDF a CHM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in CHM, PDF a CHM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PDF a CHM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

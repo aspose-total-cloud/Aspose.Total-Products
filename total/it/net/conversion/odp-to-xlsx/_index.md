@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLSX, ODP a XLSX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di ODP a XLSX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLSX, ODP a XLSX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di ODP a XLSX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

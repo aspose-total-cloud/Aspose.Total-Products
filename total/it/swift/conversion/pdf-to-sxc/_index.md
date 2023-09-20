@@ -1,1 +1,1 @@
----title: Converti parola in SXC, PDF a SXC Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PDF a SXC utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, PDF a SXC Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PDF a SXC utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

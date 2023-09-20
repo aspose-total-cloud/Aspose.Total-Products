@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOTX, ODP a DOTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di ODP a DOTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOTX, ODP a DOTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di ODP a DOTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in POT, DOTX a POT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a POT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, DOTX a POT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a POT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

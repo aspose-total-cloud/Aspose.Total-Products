@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOCM, PPT a DOCM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPT a DOCM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOCM, PPT a DOCM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPT a DOCM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

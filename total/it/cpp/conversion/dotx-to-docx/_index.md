@@ -1,1 +1,1 @@
----title: Converti parola in DOCX, DOTX a DOCX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a DOCX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOCX, DOTX a DOCX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a DOCX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

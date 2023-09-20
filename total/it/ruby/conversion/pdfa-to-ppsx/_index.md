@@ -1,0 +1,1 @@
+---title: Converti PDF in PPSX, PDFA a PPSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PDFA a PPSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

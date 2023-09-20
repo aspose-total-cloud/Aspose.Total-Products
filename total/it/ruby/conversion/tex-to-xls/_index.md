@@ -1,0 +1,1 @@
+---title: Converti PDF in XLS, TEX a XLS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TEX a XLS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

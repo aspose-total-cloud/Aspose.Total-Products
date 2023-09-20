@@ -1,1 +1,1 @@
----title: Converti parola in EMF, DOCX a EMF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOCX a EMF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in EMF, DOCX a EMF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOCX a EMF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOT, PPSM a DOT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPSM a DOT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOT, PPSM a DOT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPSM a DOT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

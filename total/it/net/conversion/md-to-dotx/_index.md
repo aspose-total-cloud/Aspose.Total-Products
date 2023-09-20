@@ -1,1 +1,1 @@
----title: Converti parola in DOTX, MD a DOTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di MD a DOTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOTX, MD a DOTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di MD a DOTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

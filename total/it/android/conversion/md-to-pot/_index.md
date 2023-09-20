@@ -1,1 +1,1 @@
----title: Converti parola in POT, MD a POT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di MD a POT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, MD a POT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di MD a POT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

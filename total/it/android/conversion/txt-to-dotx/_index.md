@@ -1,1 +1,1 @@
----title: Converti parola in DOTX, TXT a DOTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TXT a DOTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOTX, TXT a DOTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TXT a DOTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

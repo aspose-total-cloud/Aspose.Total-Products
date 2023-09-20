@@ -1,1 +1,1 @@
----title: Converti parola in SXC, DOTX a SXC Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a SXC utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, DOTX a SXC Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTX a SXC utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

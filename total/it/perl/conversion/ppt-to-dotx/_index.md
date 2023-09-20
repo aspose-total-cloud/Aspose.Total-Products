@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOTX, PPT a DOTX Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPT a DOTX utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOTX, PPT a DOTX Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPT a DOTX utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

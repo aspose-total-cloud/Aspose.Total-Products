@@ -1,1 +1,1 @@
----title: Converti parola in GIF, MHTML a GIF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di MHTML a GIF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in GIF, MHTML a GIF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di MHTML a GIF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

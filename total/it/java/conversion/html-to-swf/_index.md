@@ -1,1 +1,1 @@
----title: Converti parola in SWF, HTML a SWF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di HTML a SWF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SWF, HTML a SWF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di HTML a SWF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

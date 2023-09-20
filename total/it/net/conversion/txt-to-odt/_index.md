@@ -1,1 +1,1 @@
----title: Converti parola in ODT, TXT a ODT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di TXT a ODT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODT, TXT a ODT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di TXT a ODT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

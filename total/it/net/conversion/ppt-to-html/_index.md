@@ -1,1 +1,1 @@
----title: Converti PowerPoint in HTML, PPT a HTML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPT a HTML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in HTML, PPT a HTML Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPT a HTML utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

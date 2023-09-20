@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODP, PPS a ODP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPS a ODP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODP, PPS a ODP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPS a ODP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

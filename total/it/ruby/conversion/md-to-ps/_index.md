@@ -1,1 +1,1 @@
----title: Converti parola in PS, MD a PS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MD a PS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, MD a PS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MD a PS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in SWF, DOT a SWF Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOT a SWF utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SWF, DOT a SWF Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOT a SWF utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

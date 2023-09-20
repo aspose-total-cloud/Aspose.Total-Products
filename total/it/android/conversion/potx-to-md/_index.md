@@ -1,1 +1,1 @@
----title: Converti PowerPoint in MD, POTX a MD Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTX a MD utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in MD, POTX a MD Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTX a MD utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

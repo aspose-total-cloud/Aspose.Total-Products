@@ -1,1 +1,1 @@
----title: Converti PowerPoint in POTX, PPTX a POTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a POTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in POTX, PPTX a POTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPTX a POTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

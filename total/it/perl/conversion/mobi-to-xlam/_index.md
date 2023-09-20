@@ -1,1 +1,1 @@
----title: Converti parola in XLAM, MOBI a XLAM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MOBI a XLAM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLAM, MOBI a XLAM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MOBI a XLAM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

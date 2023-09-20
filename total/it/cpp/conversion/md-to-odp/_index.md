@@ -1,1 +1,1 @@
----title: Converti parola in ODP, MD a ODP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a ODP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODP, MD a ODP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a ODP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti Excel in XML, FODS a XML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di FODS a XML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XML, FODS a XML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di FODS a XML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

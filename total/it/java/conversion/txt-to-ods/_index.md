@@ -1,1 +1,1 @@
----title: Converti parola in ODS, TXT a ODS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di TXT a ODS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODS, TXT a ODS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di TXT a ODS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

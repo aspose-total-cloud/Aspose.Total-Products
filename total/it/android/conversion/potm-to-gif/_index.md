@@ -1,1 +1,1 @@
----title: Converti PowerPoint in GIF, POTM a GIF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTM a GIF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in GIF, POTM a GIF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTM a GIF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

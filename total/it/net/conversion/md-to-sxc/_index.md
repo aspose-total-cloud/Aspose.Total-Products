@@ -1,1 +1,1 @@
----title: Converti parola in SXC, MD a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di MD a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, MD a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di MD a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

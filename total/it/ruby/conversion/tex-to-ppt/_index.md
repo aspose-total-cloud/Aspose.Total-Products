@@ -1,0 +1,1 @@
+---title: Converti PDF in PPT, TEX a PPT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TEX a PPT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in GIF, OTP a GIF Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di OTP a GIF utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in GIF, OTP a GIF Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di OTP a GIF utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

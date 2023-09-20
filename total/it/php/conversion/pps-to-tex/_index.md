@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TEX, PPS a TEX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPS a TEX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

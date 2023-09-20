@@ -1,1 +1,1 @@
----title: Converti parola in POTX, TXT a POTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di TXT a POTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTX, TXT a POTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di TXT a POTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

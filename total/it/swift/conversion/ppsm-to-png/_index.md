@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PNG, PPSM a PNG Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPSM a PNG utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PNG, PPSM a PNG Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPSM a PNG utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

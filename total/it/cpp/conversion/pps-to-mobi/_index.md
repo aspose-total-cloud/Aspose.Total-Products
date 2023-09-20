@@ -1,1 +1,1 @@
----title: Converti PowerPoint in MOBI, PPS a MOBI Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPS a MOBI utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in MOBI, PPS a MOBI Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPS a MOBI utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

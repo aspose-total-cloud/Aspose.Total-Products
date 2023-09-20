@@ -1,1 +1,1 @@
----title: Converti Excel in MHTML, SXC a MHTML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di SXC a MHTML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in MHTML, SXC a MHTML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di SXC a MHTML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

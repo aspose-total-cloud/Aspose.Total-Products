@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XML, PPTX a XML Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPTX a XML utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XML, PPTX a XML Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPTX a XML utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

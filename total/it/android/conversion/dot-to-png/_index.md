@@ -1,1 +1,1 @@
----title: Converti parola in PNG, DOT a PNG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOT a PNG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PNG, DOT a PNG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOT a PNG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

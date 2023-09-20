@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PCL, ODP a PCL Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di ODP a PCL utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PCL, ODP a PCL Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di ODP a PCL utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

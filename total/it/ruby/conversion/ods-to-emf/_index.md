@@ -1,1 +1,1 @@
----title: Converti Excel in EMF, ODS a EMF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODS a EMF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in EMF, ODS a EMF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di ODS a EMF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti Excel in SVG, XLT a SVG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di XLT a SVG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in SVG, XLT a SVG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di XLT a SVG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TEX, PPTM a TEX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPTM a TEX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

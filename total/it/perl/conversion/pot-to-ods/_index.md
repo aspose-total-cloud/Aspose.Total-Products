@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODS, POT a ODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POT a ODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODS, POT a ODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POT a ODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

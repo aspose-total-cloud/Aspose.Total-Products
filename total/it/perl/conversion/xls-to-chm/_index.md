@@ -1,1 +1,1 @@
----title: Converti Excel in CHM, XLS a CHM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di XLS a CHM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in CHM, XLS a CHM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di XLS a CHM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

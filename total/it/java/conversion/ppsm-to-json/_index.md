@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JSON, PPSM a JSON Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSM a JSON utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JSON, PPSM a JSON Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSM a JSON utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

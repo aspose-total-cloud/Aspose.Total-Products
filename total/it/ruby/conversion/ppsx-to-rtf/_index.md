@@ -1,1 +1,1 @@
----title: Converti PowerPoint in RTF, PPSX a RTF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSX a RTF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in RTF, PPSX a RTF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSX a RTF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

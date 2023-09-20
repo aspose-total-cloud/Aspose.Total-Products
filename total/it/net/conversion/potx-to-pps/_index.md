@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPS, POTX a PPS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTX a PPS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPS, POTX a PPS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTX a PPS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

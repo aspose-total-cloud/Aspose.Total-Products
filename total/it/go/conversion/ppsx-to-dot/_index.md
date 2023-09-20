@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOT, PPSX a DOT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPSX a DOT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOT, PPSX a DOT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPSX a DOT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

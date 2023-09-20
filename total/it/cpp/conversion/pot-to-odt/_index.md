@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODT, POT a ODT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POT a ODT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODT, POT a ODT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di POT a ODT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

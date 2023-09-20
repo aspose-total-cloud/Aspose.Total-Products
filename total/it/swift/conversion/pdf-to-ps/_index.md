@@ -1,1 +1,1 @@
----title: Converti parola in PS, PDF a PS Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PDF a PS utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, PDF a PS Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PDF a PS utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

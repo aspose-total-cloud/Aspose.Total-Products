@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPTM, POTM a PPTM Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POTM a PPTM utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPTM, POTM a PPTM Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POTM a PPTM utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

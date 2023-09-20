@@ -1,1 +1,1 @@
----title: Converti parola in CHM, DOC a CHM Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di DOC a CHM utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in CHM, DOC a CHM Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di DOC a CHM utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

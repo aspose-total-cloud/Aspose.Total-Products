@@ -1,1 +1,1 @@
----title: Converti parola in TXT, DOC a TXT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOC a TXT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TXT, DOC a TXT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOC a TXT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

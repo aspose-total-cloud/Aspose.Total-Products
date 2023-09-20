@@ -1,1 +1,1 @@
----title: Converti parola in NUMBERS, DOCX a NUMBERS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOCX a NUMBERS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in NUMBERS, DOCX a NUMBERS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOCX a NUMBERS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XAML, POTX a XAML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTX a XAML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XAML, POTX a XAML Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTX a XAML utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

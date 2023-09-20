@@ -1,1 +1,1 @@
----title: Converti parola in XML, RTF a XML Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di RTF a XML utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XML, RTF a XML Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di RTF a XML utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

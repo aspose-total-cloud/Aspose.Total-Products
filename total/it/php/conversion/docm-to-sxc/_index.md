@@ -1,1 +1,1 @@
----title: Converti parola in SXC, DOCM a SXC Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a SXC utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, DOCM a SXC Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a SXC utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

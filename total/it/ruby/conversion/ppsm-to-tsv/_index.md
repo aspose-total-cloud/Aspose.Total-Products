@@ -1,1 +1,1 @@
----title: Converti PowerPoint in TSV, PPSM a TSV Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSM a TSV utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in TSV, PPSM a TSV Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPSM a TSV utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

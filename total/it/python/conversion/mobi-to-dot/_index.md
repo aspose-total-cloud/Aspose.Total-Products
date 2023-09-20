@@ -1,1 +1,1 @@
----title: Converti parola in DOT, MOBI a DOT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MOBI a DOT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOT, MOBI a DOT Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MOBI a DOT utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

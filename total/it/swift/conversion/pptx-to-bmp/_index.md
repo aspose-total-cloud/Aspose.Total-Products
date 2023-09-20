@@ -1,1 +1,1 @@
----title: Converti PowerPoint in BMP, PPTX a BMP Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPTX a BMP utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in BMP, PPTX a BMP Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPTX a BMP utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

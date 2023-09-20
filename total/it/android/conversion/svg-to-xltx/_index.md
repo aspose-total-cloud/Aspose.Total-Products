@@ -1,0 +1,1 @@
+---title: Converti PDF in XLTX, SVG a XLTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di SVG a XLTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

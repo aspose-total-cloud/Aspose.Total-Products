@@ -1,1 +1,1 @@
----title: Converti PowerPoint in TIFF, PPS a TIFF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPS a TIFF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in TIFF, PPS a TIFF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPS a TIFF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

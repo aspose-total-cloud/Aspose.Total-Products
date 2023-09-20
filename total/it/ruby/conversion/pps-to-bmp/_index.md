@@ -1,1 +1,1 @@
----title: Converti PowerPoint in BMP, PPS a BMP Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPS a BMP utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in BMP, PPS a BMP Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPS a BMP utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

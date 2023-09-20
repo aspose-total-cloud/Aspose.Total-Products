@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PS, POTX a PS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POTX a PS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PS, POTX a PS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POTX a PS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

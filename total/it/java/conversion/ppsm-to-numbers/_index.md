@@ -1,1 +1,1 @@
----title: Converti PowerPoint in NUMBERS, PPSM a NUMBERS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSM a NUMBERS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in NUMBERS, PPSM a NUMBERS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSM a NUMBERS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

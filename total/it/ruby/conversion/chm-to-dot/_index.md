@@ -1,1 +1,1 @@
----title: Converti parola in DOT, CHM a DOT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di CHM a DOT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOT, CHM a DOT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di CHM a DOT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

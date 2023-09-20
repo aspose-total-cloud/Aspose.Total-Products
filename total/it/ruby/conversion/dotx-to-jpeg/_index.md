@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, DOTX a JPEG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTX a JPEG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, DOTX a JPEG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTX a JPEG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

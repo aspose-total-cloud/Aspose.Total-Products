@@ -1,1 +1,1 @@
----title: Converti parola in POTM, DOC a POTM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOC a POTM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTM, DOC a POTM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOC a POTM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

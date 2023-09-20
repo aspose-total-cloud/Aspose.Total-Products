@@ -1,1 +1,1 @@
----title: Converti Excel in ODS, XLTM a ODS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di XLTM a ODS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in ODS, XLTM a ODS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di XLTM a ODS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

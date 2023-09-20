@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SWF, PPT a SWF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPT a SWF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SWF, PPT a SWF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPT a SWF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

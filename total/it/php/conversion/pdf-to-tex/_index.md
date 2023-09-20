@@ -1,0 +1,1 @@
+---title: Converti parola in TEX, PDF a TEX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PDF a TEX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

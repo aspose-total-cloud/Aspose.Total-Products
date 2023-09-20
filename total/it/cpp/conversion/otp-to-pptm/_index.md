@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPTM, OTP a PPTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PPTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPTM, OTP a PPTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PPTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

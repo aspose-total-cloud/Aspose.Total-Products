@@ -1,1 +1,1 @@
----title: Converti PowerPoint in EMF, POTM a EMF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POTM a EMF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in EMF, POTM a EMF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POTM a EMF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

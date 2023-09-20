@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, DOCM a JPEG Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a JPEG utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, DOCM a JPEG Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a JPEG utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

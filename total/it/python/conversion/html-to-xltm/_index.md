@@ -1,1 +1,1 @@
----title: Converti parola in XLTM, HTML a XLTM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di HTML a XLTM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLTM, HTML a XLTM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di HTML a XLTM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

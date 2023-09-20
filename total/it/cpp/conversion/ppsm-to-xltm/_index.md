@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLTM, PPSM a XLTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a XLTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLTM, PPSM a XLTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a XLTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

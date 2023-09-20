@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, CHM a PPTM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di CHM a PPTM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, CHM a PPTM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di CHM a PPTM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

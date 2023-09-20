@@ -1,1 +1,1 @@
----title: Converti parola in POT, DOT a POT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOT a POT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, DOT a POT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOT a POT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

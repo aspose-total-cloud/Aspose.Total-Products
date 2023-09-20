@@ -1,1 +1,1 @@
----title: Converti parola in TIFF, DOTM a TIFF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTM a TIFF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TIFF, DOTM a TIFF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTM a TIFF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

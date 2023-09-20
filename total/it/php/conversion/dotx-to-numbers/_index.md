@@ -1,1 +1,1 @@
----title: Converti parola in NUMBERS, DOTX a NUMBERS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOTX a NUMBERS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in NUMBERS, DOTX a NUMBERS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOTX a NUMBERS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

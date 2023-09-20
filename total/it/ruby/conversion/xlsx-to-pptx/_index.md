@@ -1,1 +1,1 @@
----title: Converti Excel in PPTX, XLSX a PPTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLSX a PPTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in PPTX, XLSX a PPTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di XLSX a PPTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

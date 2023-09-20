@@ -1,1 +1,1 @@
----title: Converti Excel in SXC, JSON a SXC Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di JSON a SXC utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in SXC, JSON a SXC Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di JSON a SXC utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

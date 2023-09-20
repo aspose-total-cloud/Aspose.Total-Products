@@ -1,0 +1,1 @@
+---title: Converti PDF in CSV, SVG a CSV Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di SVG a CSV utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

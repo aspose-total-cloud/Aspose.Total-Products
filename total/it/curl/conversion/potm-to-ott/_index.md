@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTT, POTM a OTT Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POTM a OTT utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTT, POTM a OTT Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POTM a OTT utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

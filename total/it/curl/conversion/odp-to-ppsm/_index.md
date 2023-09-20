@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPSM, ODP a PPSM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODP a PPSM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPSM, ODP a PPSM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODP a PPSM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

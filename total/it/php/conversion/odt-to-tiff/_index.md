@@ -1,1 +1,1 @@
----title: Converti parola in TIFF, ODT a TIFF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODT a TIFF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TIFF, ODT a TIFF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODT a TIFF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

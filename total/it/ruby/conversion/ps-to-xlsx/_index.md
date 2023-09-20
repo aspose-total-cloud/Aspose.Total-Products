@@ -1,0 +1,1 @@
+---title: Converti PDF in XLSX, PS a XLSX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PS a XLSX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

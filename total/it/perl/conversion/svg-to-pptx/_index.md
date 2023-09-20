@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTX, SVG a PPTX Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di SVG a PPTX utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

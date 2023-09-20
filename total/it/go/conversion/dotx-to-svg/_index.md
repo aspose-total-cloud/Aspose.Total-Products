@@ -1,1 +1,1 @@
----title: Converti parola in SVG, DOTX a SVG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTX a SVG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SVG, DOTX a SVG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTX a SVG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

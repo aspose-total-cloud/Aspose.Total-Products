@@ -1,1 +1,1 @@
----title: Converti parola in PPTX, MHTML a PPTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MHTML a PPTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTX, MHTML a PPTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MHTML a PPTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

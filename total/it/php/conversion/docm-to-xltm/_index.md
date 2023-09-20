@@ -1,1 +1,1 @@
----title: Converti parola in XLTM, DOCM a XLTM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a XLTM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLTM, DOCM a XLTM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCM a XLTM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

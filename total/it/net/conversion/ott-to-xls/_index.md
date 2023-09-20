@@ -1,1 +1,1 @@
----title: Converti parola in XLS, OTT a XLS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTT a XLS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLS, OTT a XLS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTT a XLS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

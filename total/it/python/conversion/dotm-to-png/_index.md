@@ -1,1 +1,1 @@
----title: Converti parola in PNG, DOTM a PNG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTM a PNG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PNG, DOTM a PNG Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTM a PNG utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

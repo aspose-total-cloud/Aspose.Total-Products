@@ -1,1 +1,1 @@
----title: Converti parola in XML, RTF a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di RTF a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XML, RTF a XML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di RTF a XML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in BMP, PPS a BMP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPS a BMP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in BMP, PPS a BMP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPS a BMP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

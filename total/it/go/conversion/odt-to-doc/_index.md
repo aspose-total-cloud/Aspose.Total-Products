@@ -1,1 +1,1 @@
----title: Converti parola in DOC, ODT a DOC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di ODT a DOC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOC, ODT a DOC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di ODT a DOC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

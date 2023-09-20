@@ -1,0 +1,1 @@
+---title: Converti Excel in TEX, XLT a TEX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLT a TEX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

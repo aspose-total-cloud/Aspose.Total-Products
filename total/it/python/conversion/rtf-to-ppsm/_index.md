@@ -1,1 +1,1 @@
----title: Converti parola in PPSM, RTF a PPSM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di RTF a PPSM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSM, RTF a PPSM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di RTF a PPSM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

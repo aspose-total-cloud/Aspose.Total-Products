@@ -1,1 +1,1 @@
----title: Converti parola in DOT, DOTX a DOT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOTX a DOT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOT, DOTX a DOT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOTX a DOT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

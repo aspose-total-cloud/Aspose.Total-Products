@@ -1,1 +1,1 @@
----title: Converti parola in MD, DOTX a MD Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTX a MD utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, DOTX a MD Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTX a MD utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

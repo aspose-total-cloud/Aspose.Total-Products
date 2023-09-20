@@ -1,1 +1,1 @@
----title: Converti parola in XLS, MHTML a XLS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di MHTML a XLS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLS, MHTML a XLS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di MHTML a XLS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

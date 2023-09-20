@@ -1,1 +1,1 @@
----title: Converti parola in SVG, MOBI a SVG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MOBI a SVG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SVG, MOBI a SVG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MOBI a SVG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

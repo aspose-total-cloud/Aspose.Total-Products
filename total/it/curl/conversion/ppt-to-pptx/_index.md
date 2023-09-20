@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPTX, PPT a PPTX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di PPT a PPTX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPTX, PPT a PPTX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di PPT a PPTX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

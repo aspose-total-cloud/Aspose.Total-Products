@@ -1,1 +1,1 @@
----title: Converti PowerPoint in HTML, POT a HTML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a HTML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in HTML, POT a HTML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di POT a HTML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

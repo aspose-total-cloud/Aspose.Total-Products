@@ -1,1 +1,1 @@
----title: Converti parola in MHTML, PDF a MHTML Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PDF a MHTML utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MHTML, PDF a MHTML Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PDF a MHTML utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

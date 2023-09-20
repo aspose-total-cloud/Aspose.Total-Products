@@ -1,1 +1,1 @@
----title: Converti parola in GIF, ODT a GIF Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODT a GIF utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in GIF, ODT a GIF Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODT a GIF utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

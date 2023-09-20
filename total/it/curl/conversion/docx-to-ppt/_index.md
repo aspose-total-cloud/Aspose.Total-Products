@@ -1,1 +1,1 @@
----title: Converti parola in PPT, DOCX a PPT Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOCX a PPT utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPT, DOCX a PPT Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOCX a PPT utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

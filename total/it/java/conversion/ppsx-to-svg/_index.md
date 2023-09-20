@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SVG, PPSX a SVG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a SVG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SVG, PPSX a SVG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a SVG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

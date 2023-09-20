@@ -1,1 +1,1 @@
----title: Converti parola in PS, HTML a PS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di HTML a PS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, HTML a PS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di HTML a PS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

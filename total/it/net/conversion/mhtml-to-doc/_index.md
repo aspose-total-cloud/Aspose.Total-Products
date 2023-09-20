@@ -1,1 +1,1 @@
----title: Converti parola in DOC, MHTML a DOC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di MHTML a DOC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOC, MHTML a DOC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di MHTML a DOC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

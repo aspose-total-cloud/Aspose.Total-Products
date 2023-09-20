@@ -1,1 +1,1 @@
----title: Converti Excel in JPEG, SXC a JPEG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di SXC a JPEG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in JPEG, SXC a JPEG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di SXC a JPEG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

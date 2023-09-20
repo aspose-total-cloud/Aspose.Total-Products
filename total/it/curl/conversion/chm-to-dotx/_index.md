@@ -1,1 +1,1 @@
----title: Converti parola in DOTX, CHM a DOTX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di CHM a DOTX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOTX, CHM a DOTX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di CHM a DOTX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

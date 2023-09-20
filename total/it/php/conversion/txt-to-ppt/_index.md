@@ -1,1 +1,1 @@
----title: Converti parola in PPT, TXT a PPT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di TXT a PPT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPT, TXT a PPT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di TXT a PPT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

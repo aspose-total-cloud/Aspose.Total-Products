@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTM, SVG a PPTM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di SVG a PPTM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

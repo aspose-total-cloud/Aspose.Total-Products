@@ -1,1 +1,1 @@
----title: Converti parola in PPTX, PDF a PPTX Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PDF a PPTX utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTX, PDF a PPTX Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PDF a PPTX utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

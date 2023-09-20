@@ -1,1 +1,1 @@
----title: Converti parola in PPTX, DOCX a PPTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCX a PPTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTX, DOCX a PPTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCX a PPTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

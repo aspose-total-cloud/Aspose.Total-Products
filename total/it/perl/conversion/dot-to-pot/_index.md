@@ -1,1 +1,1 @@
----title: Converti parola in POT, DOT a POT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di DOT a POT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, DOT a POT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di DOT a POT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

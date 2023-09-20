@@ -1,1 +1,1 @@
----title: Converti parola in JSON, CHM a JSON Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di CHM a JSON utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JSON, CHM a JSON Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di CHM a JSON utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

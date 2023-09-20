@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTX, PS a PPTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PS a PPTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

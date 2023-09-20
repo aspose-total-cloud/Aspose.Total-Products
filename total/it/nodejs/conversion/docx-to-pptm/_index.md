@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, DOCX a PPTM Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOCX a PPTM utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, DOCX a PPTM Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOCX a PPTM utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

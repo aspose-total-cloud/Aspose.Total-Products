@@ -1,1 +1,1 @@
----title: Converti parola in MD, MOBI a MD Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MOBI a MD utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, MOBI a MD Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MOBI a MD utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

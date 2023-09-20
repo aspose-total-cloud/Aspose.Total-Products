@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTP, POT a OTP Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POT a OTP utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTP, POT a OTP Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POT a OTP utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

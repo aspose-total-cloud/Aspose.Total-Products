@@ -1,1 +1,1 @@
----title: Converti parola in PPT, HTML a PPT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di HTML a PPT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPT, HTML a PPT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di HTML a PPT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

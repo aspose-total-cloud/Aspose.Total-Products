@@ -1,1 +1,1 @@
----title: Converti PowerPoint in MOBI, POT a MOBI Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a MOBI utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in MOBI, POT a MOBI Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a MOBI utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in HTML, PPS a HTML Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a HTML utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in HTML, PPS a HTML Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a HTML utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

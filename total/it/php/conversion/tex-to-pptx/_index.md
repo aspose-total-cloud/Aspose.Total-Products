@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTX, TEX a PPTX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di TEX a PPTX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

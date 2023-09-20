@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOTX, POTX a DOTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTX a DOTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOTX, POTX a DOTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTX a DOTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

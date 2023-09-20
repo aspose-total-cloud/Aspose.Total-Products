@@ -1,1 +1,1 @@
----title: Converti parola in CSV, TXT a CSV Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TXT a CSV utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in CSV, TXT a CSV Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TXT a CSV utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

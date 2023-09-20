@@ -1,1 +1,1 @@
----title: Converti Excel in XLTM, SXC a XLTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di SXC a XLTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XLTM, SXC a XLTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di SXC a XLTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

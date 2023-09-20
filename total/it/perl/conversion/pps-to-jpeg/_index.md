@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JPEG, PPS a JPEG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a JPEG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JPEG, PPS a JPEG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a JPEG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti Excel in XLAM, SXC a XLAM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di SXC a XLAM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XLAM, SXC a XLAM Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di SXC a XLAM utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in XLAM, TXT a XLAM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di TXT a XLAM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLAM, TXT a XLAM Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di TXT a XLAM utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

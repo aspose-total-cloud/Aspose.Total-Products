@@ -1,1 +1,1 @@
----title: Converti parola in ODT, DOT a ODT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOT a ODT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODT, DOT a ODT Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOT a ODT utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

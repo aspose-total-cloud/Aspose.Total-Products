@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DIF, PPTM a DIF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPTM a DIF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DIF, PPTM a DIF Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPTM a DIF utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

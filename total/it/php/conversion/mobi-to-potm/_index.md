@@ -1,1 +1,1 @@
----title: Converti parola in POTM, MOBI a POTM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di MOBI a POTM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTM, MOBI a POTM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di MOBI a POTM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

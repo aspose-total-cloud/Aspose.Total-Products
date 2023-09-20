@@ -1,1 +1,1 @@
----title: Converti parola in TSV, HTML a TSV Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di HTML a TSV utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TSV, HTML a TSV Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di HTML a TSV utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

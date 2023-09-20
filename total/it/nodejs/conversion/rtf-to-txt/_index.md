@@ -1,1 +1,1 @@
----title: Converti parola in TXT, RTF a TXT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di RTF a TXT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TXT, RTF a TXT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di RTF a TXT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

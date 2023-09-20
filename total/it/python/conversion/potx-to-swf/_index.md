@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SWF, POTX a SWF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POTX a SWF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SWF, POTX a SWF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di POTX a SWF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

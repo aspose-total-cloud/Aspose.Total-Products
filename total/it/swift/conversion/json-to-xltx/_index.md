@@ -1,1 +1,1 @@
----title: Converti Excel in XLTX, JSON a XLTX Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di JSON a XLTX utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XLTX, JSON a XLTX Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di JSON a XLTX utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

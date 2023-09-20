@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, OTT a PPTM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di OTT a PPTM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, OTT a PPTM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di OTT a PPTM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

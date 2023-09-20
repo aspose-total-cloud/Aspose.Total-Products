@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTM, PDFA a PPTM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PDFA a PPTM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in CHM, POTX a CHM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di POTX a CHM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in CHM, POTX a CHM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di POTX a CHM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, OTT a PPTM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di OTT a PPTM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, OTT a PPTM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di OTT a PPTM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

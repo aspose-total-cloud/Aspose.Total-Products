@@ -1,0 +1,1 @@
+---title: Converti PDF in XLS, PDFA a XLS Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PDFA a XLS utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

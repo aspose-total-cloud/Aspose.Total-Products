@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOT, PPSX a DOT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSX a DOT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOT, PPSX a DOT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSX a DOT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

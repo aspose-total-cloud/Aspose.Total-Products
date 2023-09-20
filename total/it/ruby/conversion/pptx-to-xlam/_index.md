@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLAM, PPTX a XLAM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPTX a XLAM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLAM, PPTX a XLAM Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPTX a XLAM utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in ODP, DOT a ODP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOT a ODP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODP, DOT a ODP Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOT a ODP utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in XLS, DOCX a XLS Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOCX a XLS utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLS, DOCX a XLS Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di DOCX a XLS utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODT, PPS a ODT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPS a ODT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODT, PPS a ODT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPS a ODT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

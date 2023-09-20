@@ -1,1 +1,1 @@
----title: Converti PowerPoint in RTF, OTP a RTF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di OTP a RTF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in RTF, OTP a RTF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di OTP a RTF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

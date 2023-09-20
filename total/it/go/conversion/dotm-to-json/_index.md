@@ -1,1 +1,1 @@
----title: Converti parola in JSON, DOTM a JSON Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a JSON utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JSON, DOTM a JSON Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a JSON utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

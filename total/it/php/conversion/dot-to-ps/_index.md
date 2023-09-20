@@ -1,1 +1,1 @@
----title: Converti parola in PS, DOT a PS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOT a PS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, DOT a PS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOT a PS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in CSV, PPT a CSV Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PPT a CSV utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in CSV, PPT a CSV Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PPT a CSV utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

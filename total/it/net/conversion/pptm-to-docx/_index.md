@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOCX, PPTM a DOCX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTM a DOCX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOCX, PPTM a DOCX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTM a DOCX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

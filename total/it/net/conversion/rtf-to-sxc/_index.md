@@ -1,1 +1,1 @@
----title: Converti parola in SXC, RTF a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di RTF a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, RTF a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di RTF a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PS, PPT a PS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPT a PS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PS, PPT a PS Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPT a PS utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

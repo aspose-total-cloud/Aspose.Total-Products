@@ -1,1 +1,1 @@
----title: Converti parola in PPSX, MOBI a PPSX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MOBI a PPSX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSX, MOBI a PPSX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MOBI a PPSX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

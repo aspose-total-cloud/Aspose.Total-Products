@@ -1,1 +1,1 @@
----title: Converti Excel in PPTX, XLSB a PPTX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLSB a PPTX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in PPTX, XLSB a PPTX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLSB a PPTX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

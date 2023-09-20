@@ -1,1 +1,1 @@
----title: Converti PowerPoint in POTM, PPTX a POTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTX a POTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in POTM, PPTX a POTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTX a POTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

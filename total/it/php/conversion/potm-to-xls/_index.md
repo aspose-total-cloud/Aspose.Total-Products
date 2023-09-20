@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLS, POTM a XLS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTM a XLS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLS, POTM a XLS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTM a XLS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

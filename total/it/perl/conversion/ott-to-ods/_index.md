@@ -1,1 +1,1 @@
----title: Converti parola in ODS, OTT a ODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di OTT a ODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODS, OTT a ODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di OTT a ODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

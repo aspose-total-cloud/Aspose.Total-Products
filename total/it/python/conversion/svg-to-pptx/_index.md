@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTX, SVG a PPTX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di SVG a PPTX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

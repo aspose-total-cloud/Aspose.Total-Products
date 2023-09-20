@@ -1,1 +1,1 @@
----title: Converti parola in GIF, MD a GIF Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di MD a GIF utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in GIF, MD a GIF Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di MD a GIF utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

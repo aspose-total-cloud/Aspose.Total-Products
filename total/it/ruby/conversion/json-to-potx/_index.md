@@ -1,1 +1,1 @@
----title: Converti Excel in POTX, JSON a POTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di JSON a POTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in POTX, JSON a POTX Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di JSON a POTX utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

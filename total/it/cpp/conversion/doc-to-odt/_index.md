@@ -1,1 +1,1 @@
----title: Converti parola in ODT, DOC a ODT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOC a ODT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODT, DOC a ODT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOC a ODT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

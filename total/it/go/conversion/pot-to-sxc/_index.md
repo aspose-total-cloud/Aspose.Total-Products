@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SXC, POT a SXC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POT a SXC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SXC, POT a SXC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di POT a SXC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

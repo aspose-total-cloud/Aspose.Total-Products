@@ -1,1 +1,1 @@
----title: Converti PowerPoint in NUMBERS, PPSX a NUMBERS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a NUMBERS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in NUMBERS, PPSX a NUMBERS Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PPSX a NUMBERS utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

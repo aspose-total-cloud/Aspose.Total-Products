@@ -1,1 +1,1 @@
----title: Converti parola in XLSX, PDF a XLSX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PDF a XLSX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLSX, PDF a XLSX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PDF a XLSX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

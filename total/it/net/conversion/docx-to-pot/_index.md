@@ -1,1 +1,1 @@
----title: Converti parola in POT, DOCX a POT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCX a POT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, DOCX a POT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCX a POT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

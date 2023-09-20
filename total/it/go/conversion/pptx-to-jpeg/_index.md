@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JPEG, PPTX a JPEG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTX a JPEG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JPEG, PPTX a JPEG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTX a JPEG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

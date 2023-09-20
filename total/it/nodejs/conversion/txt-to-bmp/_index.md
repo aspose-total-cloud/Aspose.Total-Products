@@ -1,1 +1,1 @@
----title: Converti parola in BMP, TXT a BMP Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di TXT a BMP utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in BMP, TXT a BMP Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di TXT a BMP utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

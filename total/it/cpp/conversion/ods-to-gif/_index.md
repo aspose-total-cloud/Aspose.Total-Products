@@ -1,1 +1,1 @@
----title: Converti Excel in GIF, ODS a GIF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di ODS a GIF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in GIF, ODS a GIF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di ODS a GIF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

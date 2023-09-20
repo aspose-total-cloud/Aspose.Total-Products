@@ -1,1 +1,1 @@
----title: Converti Excel in TXT, XLSB a TXT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di XLSB a TXT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in TXT, XLSB a TXT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di XLSB a TXT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in PPSM, RTF a PPSM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di RTF a PPSM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSM, RTF a PPSM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di RTF a PPSM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

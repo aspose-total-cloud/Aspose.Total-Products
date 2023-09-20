@@ -1,1 +1,1 @@
----title: Converti parola in SXC, MOBI a SXC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di MOBI a SXC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, MOBI a SXC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di MOBI a SXC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

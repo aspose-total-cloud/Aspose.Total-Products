@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SVG, ODP a SVG Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODP a SVG utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SVG, ODP a SVG Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODP a SVG utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

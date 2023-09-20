@@ -1,1 +1,1 @@
----title: Converti parola in RTF, MHTML a RTF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MHTML a RTF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in RTF, MHTML a RTF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MHTML a RTF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

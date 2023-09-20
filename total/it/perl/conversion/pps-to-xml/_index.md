@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XML, PPS a XML Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a XML utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XML, PPS a XML Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a XML utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

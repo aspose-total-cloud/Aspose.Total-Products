@@ -1,1 +1,1 @@
----title: Converti parola in XAML, TXT a XAML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a XAML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XAML, TXT a XAML Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di TXT a XAML utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

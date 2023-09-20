@@ -1,1 +1,1 @@
----title: Converti Excel in POTX, FODS a POTX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di FODS a POTX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in POTX, FODS a POTX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di FODS a POTX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

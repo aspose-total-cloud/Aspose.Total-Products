@@ -1,1 +1,1 @@
----title: Converti parola in DOC, DOTX a DOC Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOTX a DOC utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOC, DOTX a DOC Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOTX a DOC utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

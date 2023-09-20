@@ -1,1 +1,1 @@
----title: Converti Excel in DOCX, SXC a DOCX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di SXC a DOCX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in DOCX, SXC a DOCX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di SXC a DOCX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

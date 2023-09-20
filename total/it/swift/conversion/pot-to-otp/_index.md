@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTP, POT a OTP Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POT a OTP utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTP, POT a OTP Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di POT a OTP utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

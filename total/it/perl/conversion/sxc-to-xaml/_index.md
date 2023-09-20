@@ -1,1 +1,1 @@
----title: Converti Excel in XAML, SXC a XAML Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di SXC a XAML utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XAML, SXC a XAML Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di SXC a XAML utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

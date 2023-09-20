@@ -1,1 +1,1 @@
----title: Converti PowerPoint in GIF, PPT a GIF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPT a GIF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in GIF, PPT a GIF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPT a GIF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

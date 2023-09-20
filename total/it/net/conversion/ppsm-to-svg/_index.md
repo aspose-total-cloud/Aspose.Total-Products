@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SVG, PPSM a SVG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSM a SVG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SVG, PPSM a SVG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSM a SVG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

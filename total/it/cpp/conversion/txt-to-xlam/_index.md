@@ -1,1 +1,1 @@
----title: Converti parola in XLAM, TXT a XLAM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TXT a XLAM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLAM, TXT a XLAM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TXT a XLAM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

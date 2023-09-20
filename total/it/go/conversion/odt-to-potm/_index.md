@@ -1,1 +1,1 @@
----title: Converti parola in POTM, ODT a POTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di ODT a POTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTM, ODT a POTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di ODT a POTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in DOT, ODT a DOT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di ODT a DOT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOT, ODT a DOT Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di ODT a DOT utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

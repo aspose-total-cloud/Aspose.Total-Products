@@ -1,1 +1,1 @@
----title: Converti parola in BMP, ODT a BMP Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di ODT a BMP utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in BMP, ODT a BMP Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di ODT a BMP utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

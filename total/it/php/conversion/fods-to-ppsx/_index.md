@@ -1,1 +1,1 @@
----title: Converti Excel in PPSX, FODS a PPSX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di FODS a PPSX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in PPSX, FODS a PPSX Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di FODS a PPSX utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

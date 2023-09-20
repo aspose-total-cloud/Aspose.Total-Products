@@ -1,0 +1,1 @@
+---title: Converti PDF in XLS, PDFA a XLS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PDFA a XLS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLSX, POT a XLSX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POT a XLSX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLSX, POT a XLSX Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POT a XLSX utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

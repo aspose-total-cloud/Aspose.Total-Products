@@ -1,1 +1,1 @@
----title: Converti parola in TIFF, DOT a TIFF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOT a TIFF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TIFF, DOT a TIFF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOT a TIFF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

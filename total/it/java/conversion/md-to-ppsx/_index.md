@@ -1,1 +1,1 @@
----title: Converti parola in PPSX, MD a PPSX Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di MD a PPSX utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPSX, MD a PPSX Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di MD a PPSX utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

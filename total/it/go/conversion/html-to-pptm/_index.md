@@ -1,1 +1,1 @@
----title: Converti parola in PPTM, HTML a PPTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di HTML a PPTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPTM, HTML a PPTM Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di HTML a PPTM utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JPEG, OTP a JPEG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTP a JPEG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JPEG, OTP a JPEG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTP a JPEG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti Excel in PDF, XLS a PDF Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di XLS a PDF utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in PDF, XLS a PDF Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di XLS a PDF utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

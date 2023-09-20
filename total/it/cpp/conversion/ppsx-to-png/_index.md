@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PNG, PPSX a PNG Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a PNG utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PNG, PPSX a PNG Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a PNG utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

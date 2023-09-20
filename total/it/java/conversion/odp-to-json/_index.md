@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JSON, ODP a JSON Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di ODP a JSON utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JSON, ODP a JSON Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di ODP a JSON utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

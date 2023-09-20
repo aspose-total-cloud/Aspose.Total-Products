@@ -1,0 +1,1 @@
+---title: Converti PDF in PPT, TEX a PPT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di TEX a PPT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

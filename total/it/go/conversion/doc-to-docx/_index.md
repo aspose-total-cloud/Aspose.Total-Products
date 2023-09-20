@@ -1,1 +1,1 @@
----title: Converti parola in DOCX, DOC a DOCX Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOC a DOCX utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOCX, DOC a DOCX Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOC a DOCX utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

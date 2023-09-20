@@ -1,0 +1,1 @@
+---title: Converti PDF in XLTX, TEX a XLTX Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di TEX a XLTX utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

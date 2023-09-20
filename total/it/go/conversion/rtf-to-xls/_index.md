@@ -1,1 +1,1 @@
----title: Converti parola in XLS, RTF a XLS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di RTF a XLS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLS, RTF a XLS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di RTF a XLS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

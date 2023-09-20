@@ -1,1 +1,1 @@
----title: Converti parola in PS, OTT a PS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di OTT a PS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, OTT a PS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di OTT a PS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

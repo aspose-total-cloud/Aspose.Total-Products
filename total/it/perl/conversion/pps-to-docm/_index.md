@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOCM, PPS a DOCM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a DOCM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOCM, PPS a DOCM Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPS a DOCM utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

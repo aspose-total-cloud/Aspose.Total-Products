@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOC, POT a DOC Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POT a DOC utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOC, POT a DOC Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POT a DOC utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

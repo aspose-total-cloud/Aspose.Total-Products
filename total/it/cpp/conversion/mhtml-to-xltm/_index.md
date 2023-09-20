@@ -1,1 +1,1 @@
----title: Converti parola in XLTM, MHTML a XLTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MHTML a XLTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLTM, MHTML a XLTM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MHTML a XLTM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

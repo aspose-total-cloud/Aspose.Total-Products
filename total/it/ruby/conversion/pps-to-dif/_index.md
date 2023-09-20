@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DIF, PPS a DIF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPS a DIF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DIF, PPS a DIF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PPS a DIF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

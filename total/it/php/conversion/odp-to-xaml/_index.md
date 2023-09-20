@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XAML, ODP a XAML Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODP a XAML utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XAML, ODP a XAML Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di ODP a XAML utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

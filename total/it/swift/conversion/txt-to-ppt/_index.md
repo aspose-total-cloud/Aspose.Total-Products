@@ -1,1 +1,1 @@
----title: Converti parola in PPT, TXT a PPT Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di TXT a PPT utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPT, TXT a PPT Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di TXT a PPT utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

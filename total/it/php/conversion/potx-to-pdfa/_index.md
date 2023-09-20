@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in PDFA, POTX a PDFA Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTX a PDFA utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in PNG, CHM a PNG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di CHM a PNG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PNG, CHM a PNG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di CHM a PNG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, HTML a JPEG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di HTML a JPEG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, HTML a JPEG Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di HTML a JPEG utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PDF in XLSX, TEX a XLSX Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di TEX a XLSX utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

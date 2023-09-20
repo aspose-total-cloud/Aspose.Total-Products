@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTP, PPTX a OTP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTX a OTP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTP, PPTX a OTP Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di PPTX a OTP utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

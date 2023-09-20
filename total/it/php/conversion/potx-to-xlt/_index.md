@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLT, POTX a XLT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTX a XLT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLT, POTX a XLT Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di POTX a XLT utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in PS, DOC a PS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOC a PS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, DOC a PS Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOC a PS utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

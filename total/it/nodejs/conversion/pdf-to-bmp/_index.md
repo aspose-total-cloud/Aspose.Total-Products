@@ -1,1 +1,1 @@
----title: Converti parola in BMP, PDF a BMP Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PDF a BMP utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in BMP, PDF a BMP Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PDF a BMP utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

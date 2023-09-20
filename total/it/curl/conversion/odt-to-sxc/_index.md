@@ -1,1 +1,1 @@
----title: Converti parola in SXC, ODT a SXC Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODT a SXC utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, ODT a SXC Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODT a SXC utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

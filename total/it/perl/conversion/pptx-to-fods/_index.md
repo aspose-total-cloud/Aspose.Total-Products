@@ -1,1 +1,1 @@
----title: Converti PowerPoint in FODS, PPTX a FODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPTX a FODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in FODS, PPTX a FODS Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di PPTX a FODS utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

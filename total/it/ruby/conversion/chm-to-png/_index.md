@@ -1,1 +1,1 @@
----title: Converti parola in PNG, CHM a PNG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di CHM a PNG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PNG, CHM a PNG Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di CHM a PNG utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

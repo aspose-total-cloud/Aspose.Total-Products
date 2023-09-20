@@ -1,1 +1,1 @@
----title: Converti parola in ODT, DOCX a ODT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCX a ODT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODT, DOCX a ODT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCX a ODT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

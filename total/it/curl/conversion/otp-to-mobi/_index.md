@@ -1,1 +1,1 @@
----title: Converti PowerPoint in MOBI, OTP a MOBI Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di OTP a MOBI utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in MOBI, OTP a MOBI Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di OTP a MOBI utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in TXT, PPSX a TXT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a TXT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in TXT, PPSX a TXT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSX a TXT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

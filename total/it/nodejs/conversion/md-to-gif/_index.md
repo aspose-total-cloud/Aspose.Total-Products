@@ -1,1 +1,1 @@
----title: Converti parola in GIF, MD a GIF Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di MD a GIF utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in GIF, MD a GIF Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di MD a GIF utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

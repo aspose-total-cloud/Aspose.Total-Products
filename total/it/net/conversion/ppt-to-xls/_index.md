@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLS, PPT a XLS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPT a XLS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLS, PPT a XLS Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPT a XLS utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

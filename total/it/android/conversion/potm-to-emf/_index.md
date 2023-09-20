@@ -1,1 +1,1 @@
----title: Converti PowerPoint in EMF, POTM a EMF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTM a EMF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in EMF, POTM a EMF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POTM a EMF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

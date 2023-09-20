@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODT, OTP a ODT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTP a ODT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODT, OTP a ODT Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di OTP a ODT utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

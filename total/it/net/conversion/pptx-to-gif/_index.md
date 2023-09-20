@@ -1,1 +1,1 @@
----title: Converti PowerPoint in GIF, PPTX a GIF Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a GIF utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in GIF, PPTX a GIF Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a GIF utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

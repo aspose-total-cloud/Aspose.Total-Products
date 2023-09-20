@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODT, POTX a ODT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di POTX a ODT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODT, POTX a ODT Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di POTX a ODT utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

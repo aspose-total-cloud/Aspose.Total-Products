@@ -1,1 +1,1 @@
----title: Converti PowerPoint in SWF, PPS a SWF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPS a SWF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in SWF, PPS a SWF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di PPS a SWF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

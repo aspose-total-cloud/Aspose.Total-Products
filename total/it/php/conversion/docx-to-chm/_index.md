@@ -1,1 +1,1 @@
----title: Converti parola in CHM, DOCX a CHM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCX a CHM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in CHM, DOCX a CHM Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOCX a CHM utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

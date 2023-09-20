@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PPT, OTP a PPT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PPT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PPT, OTP a PPT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PPT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in POT, MOBI a POT Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di MOBI a POT utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POT, MOBI a POT Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di MOBI a POT utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

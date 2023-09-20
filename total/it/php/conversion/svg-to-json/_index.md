@@ -1,0 +1,1 @@
+---title: Converti PDF in JSON, SVG a JSON Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di SVG a JSON utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

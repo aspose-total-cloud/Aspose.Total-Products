@@ -1,1 +1,1 @@
----title: Converti Excel in SXC, JSON a SXC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di JSON a SXC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in SXC, JSON a SXC Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di JSON a SXC utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

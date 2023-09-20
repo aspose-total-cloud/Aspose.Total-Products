@@ -1,1 +1,1 @@
----title: Converti parola in XLTX, RTF a XLTX Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di RTF a XLTX utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLTX, RTF a XLTX Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di RTF a XLTX utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

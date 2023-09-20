@@ -1,1 +1,1 @@
----title: Converti parola in GIF, RTF a GIF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di RTF a GIF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in GIF, RTF a GIF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di RTF a GIF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

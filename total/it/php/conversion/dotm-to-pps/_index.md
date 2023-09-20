@@ -1,1 +1,1 @@
----title: Converti parola in PPS, DOTM a PPS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOTM a PPS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PPS, DOTM a PPS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOTM a PPS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

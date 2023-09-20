@@ -1,1 +1,1 @@
----title: Converti parola in JSON, MHTML a JSON Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MHTML a JSON utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JSON, MHTML a JSON Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MHTML a JSON utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

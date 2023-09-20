@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLSM, PPT a XLSM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPT a XLSM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLSM, PPT a XLSM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPT a XLSM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in POTX, PDF a POTX Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PDF a POTX utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTX, PDF a POTX Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di PDF a POTX utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

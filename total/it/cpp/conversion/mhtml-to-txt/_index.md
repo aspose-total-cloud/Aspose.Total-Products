@@ -1,1 +1,1 @@
----title: Converti parola in TXT, MHTML a TXT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MHTML a TXT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in TXT, MHTML a TXT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MHTML a TXT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

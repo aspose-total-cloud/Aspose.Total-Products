@@ -1,1 +1,1 @@
----title: Converti parola in MD, DOTM a MD Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTM a MD utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, DOTM a MD Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di DOTM a MD utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

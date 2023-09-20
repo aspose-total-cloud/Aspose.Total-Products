@@ -1,1 +1,1 @@
----title: Converti Excel in POTX, XML a POTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di XML a POTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in POTX, XML a POTX Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di XML a POTX utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

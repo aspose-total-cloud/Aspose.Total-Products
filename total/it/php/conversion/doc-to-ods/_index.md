@@ -1,1 +1,1 @@
----title: Converti parola in ODS, DOC a ODS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOC a ODS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in ODS, DOC a ODS Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di DOC a ODS utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

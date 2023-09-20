@@ -1,1 +1,1 @@
----title: Converti parola in SWF, MD a SWF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MD a SWF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SWF, MD a SWF Convertitore GRATUITO o Python SDKdescription: Conversione gratuita di MD a SWF utilizzando Python API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

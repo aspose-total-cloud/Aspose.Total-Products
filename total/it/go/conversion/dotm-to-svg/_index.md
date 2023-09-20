@@ -1,1 +1,1 @@
----title: Converti parola in SVG, DOTM a SVG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a SVG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SVG, DOTM a SVG Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di DOTM a SVG utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

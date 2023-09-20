@@ -1,1 +1,1 @@
----title: Converti PowerPoint in POTM, POTX a POTM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di POTX a POTM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in POTM, POTX a POTM Convertitore GRATUITO o Java SDKdescription: Conversione gratuita di POTX a POTM utilizzando Java API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

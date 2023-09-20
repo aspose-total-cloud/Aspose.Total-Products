@@ -1,1 +1,1 @@
----title: Converti PowerPoint in OTT, PPS a OTT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPS a OTT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in OTT, PPS a OTT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPS a OTT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

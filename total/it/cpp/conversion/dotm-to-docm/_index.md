@@ -1,1 +1,1 @@
----title: Converti parola in DOCM, DOTM a DOCM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTM a DOCM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOCM, DOTM a DOCM Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOTM a DOCM utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

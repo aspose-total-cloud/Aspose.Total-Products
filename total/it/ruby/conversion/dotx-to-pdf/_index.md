@@ -1,1 +1,1 @@
----title: Converti parola in PDF, DOTX a PDF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTX a PDF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PDF, DOTX a PDF Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTX a PDF utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

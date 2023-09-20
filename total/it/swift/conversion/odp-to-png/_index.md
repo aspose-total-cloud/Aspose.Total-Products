@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PNG, ODP a PNG Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di ODP a PNG utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PNG, ODP a PNG Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di ODP a PNG utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

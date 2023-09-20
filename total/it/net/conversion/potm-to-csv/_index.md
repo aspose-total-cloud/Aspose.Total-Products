@@ -1,1 +1,1 @@
----title: Converti PowerPoint in CSV, POTM a CSV Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTM a CSV utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in CSV, POTM a CSV Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di POTM a CSV utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

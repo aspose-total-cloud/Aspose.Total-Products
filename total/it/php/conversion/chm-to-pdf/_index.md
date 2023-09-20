@@ -1,1 +1,1 @@
----title: Converti parola in PDF, CHM a PDF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di CHM a PDF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PDF, CHM a PDF Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di CHM a PDF utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

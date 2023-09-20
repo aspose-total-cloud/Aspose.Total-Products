@@ -1,1 +1,1 @@
----title: Converti parola in PS, DOCX a PS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCX a PS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, DOCX a PS Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOCX a PS utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti Excel in XLSX, XLS a XLSX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLS a XLSX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XLSX, XLS a XLSX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLS a XLSX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

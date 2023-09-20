@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTX, SVG a PPTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di SVG a PPTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

@@ -1,0 +1,1 @@
+---title: Converti PDF in PPTM, SVG a PPTM Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di SVG a PPTM utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PCL, OTP a PCL Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PCL utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PCL, OTP a PCL Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di OTP a PCL utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

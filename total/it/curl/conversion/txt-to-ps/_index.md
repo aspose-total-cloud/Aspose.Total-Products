@@ -1,1 +1,1 @@
----title: Converti parola in PS, TXT a PS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di TXT a PS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in PS, TXT a PS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di TXT a PS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

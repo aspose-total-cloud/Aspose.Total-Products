@@ -1,1 +1,1 @@
----title: Converti parola in XLSB, DOTX a XLSB Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTX a XLSB utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLSB, DOTX a XLSB Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di DOTX a XLSB utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

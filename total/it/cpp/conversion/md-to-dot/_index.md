@@ -1,1 +1,1 @@
----title: Converti parola in DOT, MD a DOT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a DOT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in DOT, MD a DOT Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di MD a DOT utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

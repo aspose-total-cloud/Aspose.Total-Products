@@ -1,1 +1,1 @@
----title: Converti Excel in JSON, XLT a JSON Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLT a JSON utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in JSON, XLT a JSON Convertitore GRATUITO o PHP SDKdescription: Conversione gratuita di XLT a JSON utilizzando PHP API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

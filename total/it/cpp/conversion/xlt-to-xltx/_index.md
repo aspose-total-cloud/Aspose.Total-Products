@@ -1,1 +1,1 @@
----title: Converti Excel in XLTX, XLT a XLTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLT a XLTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in XLTX, XLT a XLTX Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLT a XLTX utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

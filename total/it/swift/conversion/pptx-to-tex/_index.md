@@ -1,0 +1,1 @@
+---title: Converti PowerPoint in TEX, PPTX a TEX Convertitore GRATUITO o Swift SDKdescription: Conversione gratuita di PPTX a TEX utilizzando Swift API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

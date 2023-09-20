@@ -1,1 +1,1 @@
----title: Converti Excel in MOBI, XLSB a MOBI Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLSB a MOBI utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in MOBI, XLSB a MOBI Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di XLSB a MOBI utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

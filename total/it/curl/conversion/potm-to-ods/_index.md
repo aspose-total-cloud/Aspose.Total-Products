@@ -1,1 +1,1 @@
----title: Converti PowerPoint in ODS, POTM a ODS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POTM a ODS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in ODS, POTM a ODS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di POTM a ODS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

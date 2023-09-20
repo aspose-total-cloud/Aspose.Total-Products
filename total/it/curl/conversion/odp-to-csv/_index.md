@@ -1,1 +1,1 @@
----title: Converti PowerPoint in CSV, ODP a CSV Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODP a CSV utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in CSV, ODP a CSV Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di ODP a CSV utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in XLAM, CHM a XLAM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di CHM a XLAM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLAM, CHM a XLAM Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di CHM a XLAM utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

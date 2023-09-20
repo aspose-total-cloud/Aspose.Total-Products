@@ -1,1 +1,1 @@
----title: Converti Excel in BMP, TSV a BMP Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TSV a BMP utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in BMP, TSV a BMP Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di TSV a BMP utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

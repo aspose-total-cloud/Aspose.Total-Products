@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XAML, PPSM a XAML Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a XAML utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XAML, PPSM a XAML Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di PPSM a XAML utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

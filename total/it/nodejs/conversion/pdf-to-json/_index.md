@@ -1,1 +1,1 @@
----title: Converti parola in JSON, PDF a JSON Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PDF a JSON utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JSON, PDF a JSON Convertitore GRATUITO o Nodejs SDKdescription: Conversione gratuita di PDF a JSON utilizzando Nodejs API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

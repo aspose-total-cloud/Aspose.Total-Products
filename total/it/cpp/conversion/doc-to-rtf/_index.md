@@ -1,1 +1,1 @@
----title: Converti parola in RTF, DOC a RTF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOC a RTF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in RTF, DOC a RTF Convertitore GRATUITO o C++ SDKdescription: Conversione gratuita di DOC a RTF utilizzando C++ API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PNG, PPTX a PNG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a PNG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PNG, PPTX a PNG Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPTX a PNG utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

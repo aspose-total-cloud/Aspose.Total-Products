@@ -1,1 +1,1 @@
----title: Converti PowerPoint in JPEG, PPS a JPEG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPS a JPEG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in JPEG, PPS a JPEG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di PPS a JPEG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

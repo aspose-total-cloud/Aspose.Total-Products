@@ -1,1 +1,1 @@
----title: Converti parola in POTX, DOCM a POTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCM a POTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in POTX, DOCM a POTX Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di DOCM a POTX utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

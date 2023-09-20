@@ -1,1 +1,1 @@
----title: Converti PowerPoint in CSV, POTX a CSV Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POTX a CSV utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in CSV, POTX a CSV Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di POTX a CSV utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

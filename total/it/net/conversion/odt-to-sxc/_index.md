@@ -1,1 +1,1 @@
----title: Converti parola in SXC, ODT a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di ODT a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SXC, ODT a SXC Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di ODT a SXC utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

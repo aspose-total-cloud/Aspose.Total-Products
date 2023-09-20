@@ -1,1 +1,1 @@
----title: Converti PowerPoint in PDF, POT a PDF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a PDF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in PDF, POT a PDF Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a PDF utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

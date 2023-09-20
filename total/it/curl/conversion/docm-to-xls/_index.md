@@ -1,1 +1,1 @@
----title: Converti parola in XLS, DOCM a XLS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOCM a XLS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLS, DOCM a XLS Convertitore GRATUITO o Curl SDKdescription: Conversione gratuita di DOCM a XLS utilizzando Curl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

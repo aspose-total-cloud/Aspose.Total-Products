@@ -1,1 +1,1 @@
----title: Converti parola in SVG, DOTM a SVG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOTM a SVG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in SVG, DOTM a SVG Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di DOTM a SVG utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in MD, CHM a MD Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di CHM a MD utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in MD, CHM a MD Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di CHM a MD utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

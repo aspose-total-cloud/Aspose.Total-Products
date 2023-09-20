@@ -1,1 +1,1 @@
----title: Converti parola in JPEG, MD a JPEG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MD a JPEG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in JPEG, MD a JPEG Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di MD a JPEG utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

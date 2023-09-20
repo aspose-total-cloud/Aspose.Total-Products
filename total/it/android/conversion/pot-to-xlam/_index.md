@@ -1,1 +1,1 @@
----title: Converti PowerPoint in XLAM, POT a XLAM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a XLAM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in XLAM, POT a XLAM Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a XLAM utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

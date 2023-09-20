@@ -1,0 +1,1 @@
+---title: Converti PDF in PPT, PS a PPT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di PS a PPT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

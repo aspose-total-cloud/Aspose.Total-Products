@@ -1,1 +1,1 @@
----title: Converti PowerPoint in TIFF, PPTM a TIFF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTM a TIFF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in TIFF, PPTM a TIFF Convertitore GRATUITO o GO SDKdescription: Conversione gratuita di PPTM a TIFF utilizzando GO API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

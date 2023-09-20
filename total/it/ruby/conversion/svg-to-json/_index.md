@@ -1,0 +1,1 @@
+---title: Converti PDF in JSON, SVG a JSON Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di SVG a JSON utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti PDF nel cloud.---

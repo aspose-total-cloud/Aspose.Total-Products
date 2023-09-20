@@ -1,1 +1,1 @@
----title: Converti Excel in RTF, XLT a RTF Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di XLT a RTF utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---
+---title: Converti Excel in RTF, XLT a RTF Convertitore GRATUITO o Perl SDKdescription: Conversione gratuita di XLT a RTF utilizzando Perl API cloud e SDK. Crea, modifica e visualizza anche fogli di lavoro Microsoft Excel, CSV e SpreadsheetML o fogli di calcolo nel cloud.---

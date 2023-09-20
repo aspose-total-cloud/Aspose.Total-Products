@@ -1,1 +1,1 @@
----title: Converti PowerPoint in DOT, POT a DOT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a DOT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in DOT, POT a DOT Convertitore GRATUITO o Android SDKdescription: Conversione gratuita di POT a DOT utilizzando Android API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---

@@ -1,1 +1,1 @@
----title: Converti parola in XLT, MD a XLT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MD a XLT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---
+---title: Converti parola in XLT, MD a XLT Convertitore GRATUITO o Ruby SDKdescription: Conversione gratuita di MD a XLT utilizzando Ruby API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft Word e OpenOffice nel cloud.---

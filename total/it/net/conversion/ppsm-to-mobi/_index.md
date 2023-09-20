@@ -1,1 +1,1 @@
----title: Converti PowerPoint in MOBI, PPSM a MOBI Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSM a MOBI utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
+---title: Converti PowerPoint in MOBI, PPSM a MOBI Convertitore GRATUITO o Net SDKdescription: Conversione gratuita di PPSM a MOBI utilizzando Net API cloud e SDK. Crea, modifica e visualizza anche documenti Microsoft PowerPoint nel cloud.---
