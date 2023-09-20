@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPSM, POTM ke PPSM Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTM ke PPSM dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPSM, POTM ke PPSM Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTM ke PPSM dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi MHTML, PPSM ke MHTML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke MHTML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi MHTML, PPSM ke MHTML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSM ke MHTML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

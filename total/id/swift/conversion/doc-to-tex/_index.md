@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TEX, DOC ke TEX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOC ke TEX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi TEX, SXC ke TEX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari SXC ke TEX dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

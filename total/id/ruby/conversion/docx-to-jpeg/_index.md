@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi JPEG, DOCX ke JPEG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOCX ke JPEG dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi JPEG, DOCX ke JPEG Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOCX ke JPEG dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

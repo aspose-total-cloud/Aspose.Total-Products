@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi ODT, PDF ke ODT Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PDF ke ODT dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi ODT, PDF ke ODT Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PDF ke ODT dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

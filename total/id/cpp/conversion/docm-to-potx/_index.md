@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTX, DOCM ke POTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOCM ke POTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTX, DOCM ke POTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOCM ke POTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

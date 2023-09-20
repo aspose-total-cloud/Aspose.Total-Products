@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi GIF, PPSM ke GIF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPSM ke GIF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi GIF, PPSM ke GIF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPSM ke GIF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

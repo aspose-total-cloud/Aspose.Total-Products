@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi JPEG, DOT ke JPEG Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOT ke JPEG dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi JPEG, DOT ke JPEG Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOT ke JPEG dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

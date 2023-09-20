@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TXT, POTM ke TXT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POTM ke TXT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TXT, POTM ke TXT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POTM ke TXT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

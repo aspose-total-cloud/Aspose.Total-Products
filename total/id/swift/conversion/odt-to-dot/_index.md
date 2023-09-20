@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOT, ODT ke DOT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODT ke DOT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOT, ODT ke DOT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODT ke DOT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

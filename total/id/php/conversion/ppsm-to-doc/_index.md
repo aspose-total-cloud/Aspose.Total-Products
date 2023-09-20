@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOC, PPSM ke DOC Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPSM ke DOC dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOC, PPSM ke DOC Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPSM ke DOC dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPS, PPTX ke PPS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTX ke PPS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPS, PPTX ke PPS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTX ke PPS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

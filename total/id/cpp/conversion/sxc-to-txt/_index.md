@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi TXT, SXC ke TXT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari SXC ke TXT dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi TXT, SXC ke TXT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari SXC ke TXT dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

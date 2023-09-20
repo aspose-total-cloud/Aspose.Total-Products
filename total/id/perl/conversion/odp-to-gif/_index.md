@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi GIF, ODP ke GIF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari ODP ke GIF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi GIF, ODP ke GIF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari ODP ke GIF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

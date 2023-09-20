@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TXT, ODP ke TXT Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODP ke TXT dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TXT, ODP ke TXT Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODP ke TXT dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

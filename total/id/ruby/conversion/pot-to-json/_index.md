@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi JSON, POT ke JSON Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke JSON dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi JSON, POT ke JSON Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke JSON dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

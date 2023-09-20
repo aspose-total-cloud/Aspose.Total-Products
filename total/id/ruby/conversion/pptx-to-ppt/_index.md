@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPT, PPTX ke PPT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTX ke PPT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPT, PPTX ke PPT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTX ke PPT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

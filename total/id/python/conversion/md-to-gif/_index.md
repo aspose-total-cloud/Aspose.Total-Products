@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi GIF, MD ke GIF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari MD ke GIF dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi GIF, MD ke GIF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari MD ke GIF dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

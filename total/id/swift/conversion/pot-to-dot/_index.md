@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOT, POT ke DOT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POT ke DOT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOT, POT ke DOT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POT ke DOT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

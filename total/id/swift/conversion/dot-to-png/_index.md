@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PNG, DOT ke PNG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke PNG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PNG, DOT ke PNG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke PNG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

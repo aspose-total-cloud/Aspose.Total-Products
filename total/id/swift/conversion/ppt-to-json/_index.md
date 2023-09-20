@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi JSON, PPT ke JSON Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPT ke JSON dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi JSON, PPT ke JSON Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPT ke JSON dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

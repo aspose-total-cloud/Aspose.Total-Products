@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTX, DOTX ke PPTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari DOTX ke PPTX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTX, DOTX ke PPTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari DOTX ke PPTX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

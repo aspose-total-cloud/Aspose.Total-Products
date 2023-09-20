@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOC, PPS ke DOC Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPS ke DOC dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOC, PPS ke DOC Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPS ke DOC dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

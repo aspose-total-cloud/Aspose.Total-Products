@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOCX, PPTX ke DOCX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPTX ke DOCX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOCX, PPTX ke DOCX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPTX ke DOCX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

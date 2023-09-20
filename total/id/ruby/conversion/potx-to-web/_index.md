@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi WEB, POTX ke WEB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POTX ke WEB dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

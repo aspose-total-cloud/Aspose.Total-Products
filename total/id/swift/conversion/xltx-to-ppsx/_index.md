@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi PPSX, XLTX ke PPSX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari XLTX ke PPSX dengan menggunakan Swift API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi PPSX, XLTX ke PPSX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari XLTX ke PPSX dengan menggunakan Swift API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

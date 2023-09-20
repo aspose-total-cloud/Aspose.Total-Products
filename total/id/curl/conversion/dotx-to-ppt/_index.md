@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPT, DOTX ke PPT Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTX ke PPT dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPT, DOTX ke PPT Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTX ke PPT dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

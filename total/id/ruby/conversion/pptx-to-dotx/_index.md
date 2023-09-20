@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOTX, PPTX ke DOTX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTX ke DOTX dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOTX, PPTX ke DOTX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTX ke DOTX dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

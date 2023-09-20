@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi EMF, ODP ke EMF Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari ODP ke EMF dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi EMF, ODP ke EMF Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari ODP ke EMF dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

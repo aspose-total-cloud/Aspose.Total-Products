@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPTX, PPSX ke PPTX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPSX ke PPTX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPTX, PPSX ke PPTX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPSX ke PPTX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi XLS, XLSX ke XLS Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari XLSX ke XLS dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi XLS, XLSX ke XLS Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari XLSX ke XLS dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

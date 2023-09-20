@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOT, CHM ke DOT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CHM ke DOT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOT, CHM ke DOT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CHM ke DOT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

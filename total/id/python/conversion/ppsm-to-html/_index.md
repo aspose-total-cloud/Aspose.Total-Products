@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi HTML, PPSM ke HTML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSM ke HTML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi HTML, PPSM ke HTML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSM ke HTML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

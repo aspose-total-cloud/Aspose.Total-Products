@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi EPUB, DOTX ke EPUB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOTX ke EPUB dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi EPUB, DOTX ke EPUB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOTX ke EPUB dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

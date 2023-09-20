@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi SWF, XLS ke SWF Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari XLS ke SWF dengan menggunakan GO API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi SWF, XLS ke SWF Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari XLS ke SWF dengan menggunakan GO API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

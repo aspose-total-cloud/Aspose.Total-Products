@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi SVG, PPT ke SVG Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPT ke SVG dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi SVG, PPT ke SVG Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPT ke SVG dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

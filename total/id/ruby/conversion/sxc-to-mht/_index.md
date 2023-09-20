@@ -1,0 +1,1 @@
+---title: Ubah Excel menjadi MHT, SXC ke MHT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari SXC ke MHT dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTM, DOTM ke PPTM Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTM ke PPTM dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTM, DOTM ke PPTM Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTM ke PPTM dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

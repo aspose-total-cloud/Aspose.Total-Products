@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi SVG, TXT ke SVG Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari TXT ke SVG dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi SVG, TXT ke SVG Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari TXT ke SVG dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

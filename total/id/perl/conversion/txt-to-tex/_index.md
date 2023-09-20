@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TEX, TXT ke TEX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari TXT ke TEX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

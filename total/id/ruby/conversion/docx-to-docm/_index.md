@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOCM, DOCX ke DOCM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOCX ke DOCM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOCM, DOCX ke DOCM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOCX ke DOCM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

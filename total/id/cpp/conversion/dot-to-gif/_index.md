@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi GIF, DOT ke GIF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOT ke GIF dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi GIF, DOT ke GIF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari DOT ke GIF dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

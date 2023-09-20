@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTX, TXT ke POTX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari TXT ke POTX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTX, TXT ke POTX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari TXT ke POTX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

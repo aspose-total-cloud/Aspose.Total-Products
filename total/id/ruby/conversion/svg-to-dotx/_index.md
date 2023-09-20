@@ -1,0 +1,1 @@
+---title: Ubah PDF menjadi DOTX, SVG ke DOTX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari SVG ke DOTX dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen PDF di Cloud.---

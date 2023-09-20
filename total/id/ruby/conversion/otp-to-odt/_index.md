@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi ODT, OTP ke ODT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari OTP ke ODT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi ODT, OTP ke ODT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari OTP ke ODT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

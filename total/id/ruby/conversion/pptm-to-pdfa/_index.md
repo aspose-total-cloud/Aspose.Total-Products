@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PDFA, PPTM ke PDFA Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke PDFA dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

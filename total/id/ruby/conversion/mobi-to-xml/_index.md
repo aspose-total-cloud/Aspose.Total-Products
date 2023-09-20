@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XML, MOBI ke XML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari MOBI ke XML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XML, MOBI ke XML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari MOBI ke XML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

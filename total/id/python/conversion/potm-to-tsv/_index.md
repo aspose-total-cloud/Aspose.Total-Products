@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TSV, POTM ke TSV Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTM ke TSV dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TSV, POTM ke TSV Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTM ke TSV dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

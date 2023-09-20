@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi EMF, POT ke EMF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POT ke EMF dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi EMF, POT ke EMF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POT ke EMF dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

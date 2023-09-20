@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPS, ODT ke PPS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari ODT ke PPS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPS, ODT ke PPS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari ODT ke PPS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

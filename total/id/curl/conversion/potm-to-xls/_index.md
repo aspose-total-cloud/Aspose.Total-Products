@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XLS, POTM ke XLS Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTM ke XLS dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XLS, POTM ke XLS Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTM ke XLS dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

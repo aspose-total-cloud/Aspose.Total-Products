@@ -1,0 +1,1 @@
+---title: Ubah Kata menjadi TEX, DOTX ke TEX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOTX ke TEX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

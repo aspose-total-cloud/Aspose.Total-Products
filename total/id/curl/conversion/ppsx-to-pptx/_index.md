@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPTX, PPSX ke PPTX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPSX ke PPTX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPTX, PPSX ke PPTX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPSX ke PPTX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi POTM, PPSX ke POTM Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPSX ke POTM dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi POTM, PPSX ke POTM Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPSX ke POTM dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

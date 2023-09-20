@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOCM, PPSX ke DOCM Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPSX ke DOCM dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOCM, PPSX ke DOCM Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPSX ke DOCM dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

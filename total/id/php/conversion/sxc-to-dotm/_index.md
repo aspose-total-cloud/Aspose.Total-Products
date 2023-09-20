@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi DOTM, SXC ke DOTM Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari SXC ke DOTM dengan menggunakan PHP API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi DOTM, SXC ke DOTM Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari SXC ke DOTM dengan menggunakan PHP API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

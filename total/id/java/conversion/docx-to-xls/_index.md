@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLS, DOCX ke XLS Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari DOCX ke XLS dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLS, DOCX ke XLS Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari DOCX ke XLS dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MHT, OTP ke MHT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari OTP ke MHT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

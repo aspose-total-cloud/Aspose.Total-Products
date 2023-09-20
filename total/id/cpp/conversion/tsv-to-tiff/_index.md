@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi TIFF, TSV ke TIFF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari TSV ke TIFF dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi TIFF, TSV ke TIFF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari TSV ke TIFF dengan menggunakan C++ API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

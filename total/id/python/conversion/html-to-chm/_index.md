@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi CHM, HTML ke CHM Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari HTML ke CHM dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi CHM, HTML ke CHM Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari HTML ke CHM dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

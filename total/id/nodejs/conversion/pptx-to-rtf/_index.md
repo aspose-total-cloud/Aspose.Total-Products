@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi RTF, PPTX ke RTF Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari PPTX ke RTF dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi RTF, PPTX ke RTF Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari PPTX ke RTF dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi XPS, XLT ke XPS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLT ke XPS dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi XPS, XLT ke XPS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLT ke XPS dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

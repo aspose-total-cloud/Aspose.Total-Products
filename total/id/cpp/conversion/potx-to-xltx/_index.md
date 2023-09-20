@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XLTX, POTX ke XLTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTX ke XLTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XLTX, POTX ke XLTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTX ke XLTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

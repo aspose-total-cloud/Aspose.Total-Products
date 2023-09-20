@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PS, MD ke PS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari MD ke PS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PS, MD ke PS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari MD ke PS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

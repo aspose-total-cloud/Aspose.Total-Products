@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOC, DOTM ke DOC Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOTM ke DOC dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOC, DOTM ke DOC Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOTM ke DOC dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

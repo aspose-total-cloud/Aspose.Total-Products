@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOC, PPTX ke DOC Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPTX ke DOC dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOC, PPTX ke DOC Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPTX ke DOC dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

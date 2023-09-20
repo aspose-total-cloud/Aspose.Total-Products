@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi NUMBERS, POT ke NUMBERS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POT ke NUMBERS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi NUMBERS, POT ke NUMBERS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POT ke NUMBERS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

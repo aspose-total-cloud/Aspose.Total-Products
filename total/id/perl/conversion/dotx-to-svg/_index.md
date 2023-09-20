@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi SVG, DOTX ke SVG Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOTX ke SVG dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi SVG, DOTX ke SVG Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOTX ke SVG dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

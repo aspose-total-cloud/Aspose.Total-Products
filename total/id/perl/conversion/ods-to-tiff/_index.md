@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi TIFF, ODS ke TIFF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari ODS ke TIFF dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi TIFF, ODS ke TIFF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari ODS ke TIFF dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

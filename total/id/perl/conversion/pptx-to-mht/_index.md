@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MHT, PPTX ke MHT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTX ke MHT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

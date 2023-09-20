@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTX, DOT ke PPTX Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari DOT ke PPTX dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTX, DOT ke PPTX Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari DOT ke PPTX dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

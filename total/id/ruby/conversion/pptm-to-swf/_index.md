@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi SWF, PPTM ke SWF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke SWF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi SWF, PPTM ke SWF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke SWF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi OTP, ODS ke OTP Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODS ke OTP dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi OTP, ODS ke OTP Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODS ke OTP dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

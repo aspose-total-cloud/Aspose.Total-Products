@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi SXC, DOT ke SXC Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOT ke SXC dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi SXC, DOT ke SXC Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOT ke SXC dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

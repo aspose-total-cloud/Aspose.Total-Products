@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi MOBIXML, PPTX ke MOBIXML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTX ke MOBIXML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

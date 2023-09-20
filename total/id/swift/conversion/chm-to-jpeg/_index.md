@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi JPEG, CHM ke JPEG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari CHM ke JPEG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi JPEG, CHM ke JPEG Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari CHM ke JPEG dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

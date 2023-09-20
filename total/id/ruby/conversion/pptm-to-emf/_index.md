@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi EMF, PPTM ke EMF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke EMF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi EMF, PPTM ke EMF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke EMF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

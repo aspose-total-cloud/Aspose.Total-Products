@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi PPTX, CSV ke PPTX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CSV ke PPTX dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi PPTX, CSV ke PPTX Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CSV ke PPTX dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

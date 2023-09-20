@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi SVG, POTM ke SVG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTM ke SVG dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi SVG, POTM ke SVG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTM ke SVG dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

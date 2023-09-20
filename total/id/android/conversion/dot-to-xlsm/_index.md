@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLSM, DOT ke XLSM Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOT ke XLSM dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLSM, DOT ke XLSM Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOT ke XLSM dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

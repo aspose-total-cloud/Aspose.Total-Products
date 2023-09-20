@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi SXC, ODT ke SXC Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari ODT ke SXC dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi SXC, ODT ke SXC Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari ODT ke SXC dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPT, MD ke PPT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari MD ke PPT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPT, MD ke PPT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari MD ke PPT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

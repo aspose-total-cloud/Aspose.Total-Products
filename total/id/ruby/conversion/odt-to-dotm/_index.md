@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOTM, ODT ke DOTM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODT ke DOTM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOTM, ODT ke DOTM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODT ke DOTM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

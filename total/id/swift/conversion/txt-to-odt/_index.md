@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi ODT, TXT ke ODT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari TXT ke ODT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi ODT, TXT ke ODT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari TXT ke ODT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

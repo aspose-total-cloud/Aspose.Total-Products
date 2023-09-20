@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TEX, ODP ke TEX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari ODP ke TEX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

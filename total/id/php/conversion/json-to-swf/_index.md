@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi SWF, JSON ke SWF Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari JSON ke SWF dengan menggunakan PHP API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi SWF, JSON ke SWF Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari JSON ke SWF dengan menggunakan PHP API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

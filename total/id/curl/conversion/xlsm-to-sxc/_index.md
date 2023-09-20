@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi SXC, XLSM ke SXC Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari XLSM ke SXC dengan menggunakan Curl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi SXC, XLSM ke SXC Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari XLSM ke SXC dengan menggunakan Curl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi MD, PPSX ke MD Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSX ke MD dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi MD, PPSX ke MD Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSX ke MD dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

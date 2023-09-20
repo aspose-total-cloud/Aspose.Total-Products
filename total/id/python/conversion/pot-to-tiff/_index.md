@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TIFF, POT ke TIFF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POT ke TIFF dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TIFF, POT ke TIFF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POT ke TIFF dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

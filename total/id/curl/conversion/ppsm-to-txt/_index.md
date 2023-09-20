@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TXT, PPSM ke TXT Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPSM ke TXT dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TXT, PPSM ke TXT Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari PPSM ke TXT dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi BMP, XLT ke BMP Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari XLT ke BMP dengan menggunakan Nodejs API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi BMP, XLT ke BMP Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari XLT ke BMP dengan menggunakan Nodejs API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

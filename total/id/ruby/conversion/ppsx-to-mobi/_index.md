@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi MOBI, PPSX ke MOBI Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSX ke MOBI dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi MOBI, PPSX ke MOBI Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPSX ke MOBI dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XPS, ODP ke XPS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODP ke XPS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XPS, ODP ke XPS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODP ke XPS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

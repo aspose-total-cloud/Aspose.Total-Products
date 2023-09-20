@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi EMF, ODS ke EMF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODS ke EMF dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi EMF, ODS ke EMF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODS ke EMF dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PDF menjadi PPTX, PDFA ke PPTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PDFA ke PPTX dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen PDF di Cloud.---

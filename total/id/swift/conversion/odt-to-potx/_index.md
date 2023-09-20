@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTX, ODT ke POTX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODT ke POTX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTX, ODT ke POTX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODT ke POTX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

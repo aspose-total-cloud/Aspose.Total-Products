@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi GIF, TXT ke GIF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari TXT ke GIF dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi GIF, TXT ke GIF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari TXT ke GIF dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

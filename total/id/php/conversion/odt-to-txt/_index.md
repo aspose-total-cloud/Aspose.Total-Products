@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi TXT, ODT ke TXT Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari ODT ke TXT dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi TXT, ODT ke TXT Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari ODT ke TXT dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

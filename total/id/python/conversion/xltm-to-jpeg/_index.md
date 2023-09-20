@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi JPEG, XLTM ke JPEG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari XLTM ke JPEG dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi JPEG, XLTM ke JPEG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari XLTM ke JPEG dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

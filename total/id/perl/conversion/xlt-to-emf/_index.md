@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi EMF, XLT ke EMF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari XLT ke EMF dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi EMF, XLT ke EMF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari XLT ke EMF dengan menggunakan Perl API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

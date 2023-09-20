@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi NUMBERS, CSV ke NUMBERS Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari CSV ke NUMBERS dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi NUMBERS, CSV ke NUMBERS Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari CSV ke NUMBERS dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

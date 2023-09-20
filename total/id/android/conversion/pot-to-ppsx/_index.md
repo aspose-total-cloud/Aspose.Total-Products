@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPSX, POT ke PPSX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POT ke PPSX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPSX, POT ke PPSX Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POT ke PPSX dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

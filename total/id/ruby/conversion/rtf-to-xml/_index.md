@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XML, RTF ke XML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari RTF ke XML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XML, RTF ke XML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari RTF ke XML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

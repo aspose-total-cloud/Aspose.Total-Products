@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TIFF, PPTM ke TIFF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTM ke TIFF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TIFF, PPTM ke TIFF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTM ke TIFF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

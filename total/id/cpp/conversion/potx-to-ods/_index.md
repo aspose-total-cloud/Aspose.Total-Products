@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi ODS, POTX ke ODS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTX ke ODS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi ODS, POTX ke ODS Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari POTX ke ODS dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

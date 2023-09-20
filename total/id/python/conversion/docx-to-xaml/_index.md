@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XAML, DOCX ke XAML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari DOCX ke XAML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XAML, DOCX ke XAML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari DOCX ke XAML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

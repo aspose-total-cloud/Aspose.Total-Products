@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLSM, CHM ke XLSM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CHM ke XLSM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLSM, CHM ke XLSM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari CHM ke XLSM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

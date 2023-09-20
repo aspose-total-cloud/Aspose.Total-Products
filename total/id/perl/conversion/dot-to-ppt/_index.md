@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPT, DOT ke PPT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOT ke PPT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPT, DOT ke PPT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOT ke PPT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

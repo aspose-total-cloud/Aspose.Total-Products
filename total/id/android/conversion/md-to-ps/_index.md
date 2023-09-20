@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PS, MD ke PS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari MD ke PS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PS, MD ke PS Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari MD ke PS dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

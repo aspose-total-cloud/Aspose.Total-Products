@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi BMP, TXT ke BMP Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari TXT ke BMP dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi BMP, TXT ke BMP Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari TXT ke BMP dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

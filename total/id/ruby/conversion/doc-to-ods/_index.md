@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi ODS, DOC ke ODS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOC ke ODS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi ODS, DOC ke ODS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari DOC ke ODS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

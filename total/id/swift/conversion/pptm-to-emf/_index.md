@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi EMF, PPTM ke EMF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPTM ke EMF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi EMF, PPTM ke EMF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPTM ke EMF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

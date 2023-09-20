@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOCX, POTM ke DOCX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POTM ke DOCX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOCX, POTM ke DOCX Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POTM ke DOCX dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

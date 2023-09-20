@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DIF, POT ke DIF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke DIF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DIF, POT ke DIF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke DIF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

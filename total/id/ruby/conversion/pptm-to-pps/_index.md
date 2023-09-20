@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPS, PPTM ke PPS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke PPS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPS, PPTM ke PPS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPTM ke PPS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

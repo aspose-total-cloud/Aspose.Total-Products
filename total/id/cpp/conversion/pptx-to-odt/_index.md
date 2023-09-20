@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi ODT, PPTX ke ODT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTX ke ODT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi ODT, PPTX ke ODT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTX ke ODT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTM, DOC ke POTM Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOC ke POTM dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTM, DOC ke POTM Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOC ke POTM dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

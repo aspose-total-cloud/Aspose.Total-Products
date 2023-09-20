@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi GIF, FODS ke GIF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari FODS ke GIF dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi GIF, FODS ke GIF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari FODS ke GIF dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

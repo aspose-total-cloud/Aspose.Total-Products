@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTX, CHM ke POTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari CHM ke POTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTX, CHM ke POTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari CHM ke POTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

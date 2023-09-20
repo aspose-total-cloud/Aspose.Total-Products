@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTM, DOC ke PPTM Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari DOC ke PPTM dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTM, DOC ke PPTM Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari DOC ke PPTM dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

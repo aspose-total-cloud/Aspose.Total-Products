@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi TXT, MD ke TXT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari MD ke TXT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi TXT, MD ke TXT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari MD ke TXT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

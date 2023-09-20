@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi GIF, PPTM ke GIF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke GIF dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi GIF, PPTM ke GIF Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke GIF dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

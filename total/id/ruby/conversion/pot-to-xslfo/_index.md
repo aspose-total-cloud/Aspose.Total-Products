@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi XSLFO, POT ke XSLFO Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari POT ke XSLFO dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

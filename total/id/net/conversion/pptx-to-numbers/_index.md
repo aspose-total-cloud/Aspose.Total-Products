@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi NUMBERS, PPTX ke NUMBERS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTX ke NUMBERS dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi NUMBERS, PPTX ke NUMBERS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPTX ke NUMBERS dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

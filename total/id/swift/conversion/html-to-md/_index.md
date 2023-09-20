@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi MD, HTML ke MD Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari HTML ke MD dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi MD, HTML ke MD Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari HTML ke MD dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

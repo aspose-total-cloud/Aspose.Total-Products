@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTX, DOCX ke POTX Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari DOCX ke POTX dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTX, DOCX ke POTX Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari DOCX ke POTX dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

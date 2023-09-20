@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi BMP, POT ke BMP Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POT ke BMP dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi BMP, POT ke BMP Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POT ke BMP dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

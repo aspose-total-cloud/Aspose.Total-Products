@@ -1,0 +1,1 @@
+---title: Ubah PDF menjadi TXT, SVG ke TXT Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari SVG ke TXT dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen PDF di Cloud.---

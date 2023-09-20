@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLTX, TXT ke XLTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari TXT ke XLTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLTX, TXT ke XLTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari TXT ke XLTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi TIFF, HTML ke TIFF Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari HTML ke TIFF dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi TIFF, HTML ke TIFF Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari HTML ke TIFF dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

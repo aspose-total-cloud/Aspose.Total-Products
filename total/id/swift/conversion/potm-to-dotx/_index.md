@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOTX, POTM ke DOTX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTM ke DOTX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOTX, POTM ke DOTX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari POTM ke DOTX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

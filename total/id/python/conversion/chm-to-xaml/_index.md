@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XAML, CHM ke XAML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari CHM ke XAML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XAML, CHM ke XAML Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari CHM ke XAML dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

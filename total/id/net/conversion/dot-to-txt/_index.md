@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi TXT, DOT ke TXT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOT ke TXT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi TXT, DOT ke TXT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOT ke TXT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

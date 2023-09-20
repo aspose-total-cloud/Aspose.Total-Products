@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi TIFF, DOCM ke TIFF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOCM ke TIFF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi TIFF, DOCM ke TIFF Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOCM ke TIFF dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

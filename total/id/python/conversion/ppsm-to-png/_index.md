@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PNG, PPSM ke PNG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSM ke PNG dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PNG, PPSM ke PNG Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSM ke PNG dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

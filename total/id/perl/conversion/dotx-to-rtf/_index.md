@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi RTF, DOTX ke RTF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOTX ke RTF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi RTF, DOTX ke RTF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOTX ke RTF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

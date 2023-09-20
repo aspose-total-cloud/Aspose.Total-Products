@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi CHM, FODS ke CHM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari FODS ke CHM dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi CHM, FODS ke CHM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari FODS ke CHM dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

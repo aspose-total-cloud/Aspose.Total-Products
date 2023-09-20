@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PS, ODP ke PS Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODP ke PS dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PS, ODP ke PS Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODP ke PS dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

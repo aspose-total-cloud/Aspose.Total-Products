@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POT, DOT ke POT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke POT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POT, DOT ke POT Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke POT dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

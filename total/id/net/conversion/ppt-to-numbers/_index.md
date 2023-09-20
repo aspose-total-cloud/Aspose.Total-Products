@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi NUMBERS, PPT ke NUMBERS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPT ke NUMBERS dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi NUMBERS, PPT ke NUMBERS Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari PPT ke NUMBERS dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

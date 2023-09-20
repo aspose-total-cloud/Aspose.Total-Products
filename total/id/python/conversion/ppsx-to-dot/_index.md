@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOT, PPSX ke DOT Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSX ke DOT dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOT, PPSX ke DOT Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPSX ke DOT dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

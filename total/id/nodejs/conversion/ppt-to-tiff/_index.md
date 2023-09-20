@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TIFF, PPT ke TIFF Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari PPT ke TIFF dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TIFF, PPT ke TIFF Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari PPT ke TIFF dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

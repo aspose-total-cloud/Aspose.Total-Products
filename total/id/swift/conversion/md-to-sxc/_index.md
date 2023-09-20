@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi SXC, MD ke SXC Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari MD ke SXC dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi SXC, MD ke SXC Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari MD ke SXC dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOC, MD ke DOC Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari MD ke DOC dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOC, MD ke DOC Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari MD ke DOC dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi SXC, PPSM ke SXC Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPSM ke SXC dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi SXC, PPSM ke SXC Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari PPSM ke SXC dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

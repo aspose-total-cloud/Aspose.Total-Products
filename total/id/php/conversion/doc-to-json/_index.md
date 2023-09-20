@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi JSON, DOC ke JSON Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari DOC ke JSON dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi JSON, DOC ke JSON Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari DOC ke JSON dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi JPEG, POTM ke JPEG Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTM ke JPEG dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi JPEG, POTM ke JPEG Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari POTM ke JPEG dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XLS, ODP ke XLS Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODP ke XLS dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XLS, ODP ke XLS Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari ODP ke XLS dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

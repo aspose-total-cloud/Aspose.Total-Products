@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOT, MD ke DOT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari MD ke DOT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOT, MD ke DOT Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari MD ke DOT dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

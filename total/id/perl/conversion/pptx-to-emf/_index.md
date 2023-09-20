@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi EMF, PPTX ke EMF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTX ke EMF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi EMF, PPTX ke EMF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PPTX ke EMF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

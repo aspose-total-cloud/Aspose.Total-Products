@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPS, POTX ke PPS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari POTX ke PPS dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPS, POTX ke PPS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari POTX ke PPS dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

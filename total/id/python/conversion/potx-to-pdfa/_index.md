@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi PDFA, POTX ke PDFA Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari POTX ke PDFA dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

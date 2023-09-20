@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi CSV, PPSX ke CSV Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari PPSX ke CSV dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi CSV, PPSX ke CSV Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari PPSX ke CSV dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

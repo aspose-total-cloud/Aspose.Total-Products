@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XAML, PPS ke XAML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPS ke XAML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XAML, PPS ke XAML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PPS ke XAML dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

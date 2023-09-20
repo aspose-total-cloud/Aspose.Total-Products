@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XAML, MD ke XAML Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari MD ke XAML dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XAML, MD ke XAML Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari MD ke XAML dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

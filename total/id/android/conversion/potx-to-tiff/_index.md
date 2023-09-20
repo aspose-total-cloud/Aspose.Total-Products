@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TIFF, POTX ke TIFF Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POTX ke TIFF dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TIFF, POTX ke TIFF Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari POTX ke TIFF dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi XAML, XLTM ke XAML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLTM ke XAML dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi XAML, XLTM ke XAML Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLTM ke XAML dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

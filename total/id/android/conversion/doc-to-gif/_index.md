@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi GIF, DOC ke GIF Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOC ke GIF dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi GIF, DOC ke GIF Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari DOC ke GIF dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

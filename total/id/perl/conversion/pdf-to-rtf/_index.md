@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi RTF, PDF ke RTF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PDF ke RTF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi RTF, PDF ke RTF Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari PDF ke RTF dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,0 +1,1 @@
+---title: Ubah PowerPoint menjadi TEX, PPT ke TEX Konverter GRATIS atau Nodejs SDKdescription: Konversi Gratis dari PPT ke TEX dengan menggunakan Nodejs Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

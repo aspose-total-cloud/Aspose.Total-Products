@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XLSB, OTP ke XLSB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari OTP ke XLSB dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XLSB, OTP ke XLSB Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari OTP ke XLSB dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POT, DOCX ke POT Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari DOCX ke POT dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POT, DOCX ke POT Konverter GRATIS atau GO SDKdescription: Konversi Gratis dari DOCX ke POT dengan menggunakan GO Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

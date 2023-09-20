@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPSX, PDF ke PPSX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PDF ke PPSX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPSX, PDF ke PPSX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PDF ke PPSX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

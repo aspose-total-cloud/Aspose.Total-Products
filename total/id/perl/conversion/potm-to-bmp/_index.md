@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi BMP, POTM ke BMP Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari POTM ke BMP dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi BMP, POTM ke BMP Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari POTM ke BMP dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

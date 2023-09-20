@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi BMP, PPT ke BMP Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPT ke BMP dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi BMP, PPT ke BMP Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari PPT ke BMP dengan menggunakan Android Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

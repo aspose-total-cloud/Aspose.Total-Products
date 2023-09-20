@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLTM, HTML ke XLTM Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari HTML ke XLTM dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLTM, HTML ke XLTM Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari HTML ke XLTM dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

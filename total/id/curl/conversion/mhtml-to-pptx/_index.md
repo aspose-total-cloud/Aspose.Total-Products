@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTX, MHTML ke PPTX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari MHTML ke PPTX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTX, MHTML ke PPTX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari MHTML ke PPTX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

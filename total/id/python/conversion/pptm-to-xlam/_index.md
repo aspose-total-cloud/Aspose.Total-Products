@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XLAM, PPTM ke XLAM Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPTM ke XLAM dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XLAM, PPTM ke XLAM Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari PPTM ke XLAM dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

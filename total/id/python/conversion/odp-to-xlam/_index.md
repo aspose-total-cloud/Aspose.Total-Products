@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XLAM, ODP ke XLAM Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODP ke XLAM dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XLAM, ODP ke XLAM Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODP ke XLAM dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

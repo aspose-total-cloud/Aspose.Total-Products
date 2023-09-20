@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi MD, DOCX ke MD Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOCX ke MD dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi MD, DOCX ke MD Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOCX ke MD dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi PPT, XLS ke PPT Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari XLS ke PPT dengan menggunakan Android API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi PPT, XLS ke PPT Konverter GRATIS atau Android SDKdescription: Konversi Gratis dari XLS ke PPT dengan menggunakan Android API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

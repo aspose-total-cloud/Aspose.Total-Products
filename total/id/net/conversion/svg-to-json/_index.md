@@ -1,0 +1,1 @@
+---title: Ubah PDF menjadi JSON, SVG ke JSON Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari SVG ke JSON dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen PDF di Cloud.---

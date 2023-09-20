@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi PPTX, ODS ke PPTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODS ke PPTX dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi PPTX, ODS ke PPTX Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari ODS ke PPTX dengan menggunakan Python API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

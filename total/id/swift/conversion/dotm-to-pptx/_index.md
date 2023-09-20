@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTX, DOTM ke PPTX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOTM ke PPTX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTX, DOTM ke PPTX Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOTM ke PPTX dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

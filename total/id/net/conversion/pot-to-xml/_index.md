@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi XML, POT ke XML Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POT ke XML dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi XML, POT ke XML Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari POT ke XML dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

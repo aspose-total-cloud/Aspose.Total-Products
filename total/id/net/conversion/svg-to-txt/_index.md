@@ -1,0 +1,1 @@
+---title: Ubah PDF menjadi TXT, SVG ke TXT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari SVG ke TXT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen PDF di Cloud.---

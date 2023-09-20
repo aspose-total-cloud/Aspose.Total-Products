@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPTM, RTF ke PPTM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari RTF ke PPTM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPTM, RTF ke PPTM Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari RTF ke PPTM dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

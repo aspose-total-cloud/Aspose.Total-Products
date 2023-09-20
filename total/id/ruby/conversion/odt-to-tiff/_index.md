@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi TIFF, ODT ke TIFF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODT ke TIFF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi TIFF, ODT ke TIFF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari ODT ke TIFF dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

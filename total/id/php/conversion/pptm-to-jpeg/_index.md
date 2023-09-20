@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi JPEG, PPTM ke JPEG Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPTM ke JPEG dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi JPEG, PPTM ke JPEG Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPTM ke JPEG dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

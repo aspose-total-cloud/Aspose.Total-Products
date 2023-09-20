@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi GIF, XML ke GIF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari XML ke GIF dengan menggunakan Net API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi GIF, XML ke GIF Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari XML ke GIF dengan menggunakan Net API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

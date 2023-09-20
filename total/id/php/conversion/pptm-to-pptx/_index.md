@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi PPTX, PPTM ke PPTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPTM ke PPTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi PPTX, PPTM ke PPTX Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari PPTM ke PPTX dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

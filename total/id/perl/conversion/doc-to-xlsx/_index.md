@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLSX, DOC ke XLSX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOC ke XLSX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLSX, DOC ke XLSX Konverter GRATIS atau Perl SDKdescription: Konversi Gratis dari DOC ke XLSX dengan menggunakan Perl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

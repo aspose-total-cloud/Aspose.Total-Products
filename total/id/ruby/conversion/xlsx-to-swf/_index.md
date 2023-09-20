@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi SWF, XLSX ke SWF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLSX ke SWF dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi SWF, XLSX ke SWF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari XLSX ke SWF dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

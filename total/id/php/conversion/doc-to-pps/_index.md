@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPS, DOC ke PPS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari DOC ke PPS dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPS, DOC ke PPS Konverter GRATIS atau PHP SDKdescription: Konversi Gratis dari DOC ke PPS dengan menggunakan PHP Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

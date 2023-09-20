@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi XLT, DOC ke XLT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOC ke XLT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi XLT, DOC ke XLT Konverter GRATIS atau Net SDKdescription: Konversi Gratis dari DOC ke XLT dengan menggunakan Net Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

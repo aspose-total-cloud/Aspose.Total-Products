@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOC, TXT ke DOC Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari TXT ke DOC dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOC, TXT ke DOC Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari TXT ke DOC dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi POTX, DOTX ke POTX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTX ke POTX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi POTX, DOTX ke POTX Konverter GRATIS atau Curl SDKdescription: Konversi Gratis dari DOTX ke POTX dengan menggunakan Curl Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

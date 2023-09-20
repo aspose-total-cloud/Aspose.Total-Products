@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi TIFF, OTP ke TIFF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari OTP ke TIFF dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi TIFF, OTP ke TIFF Konverter GRATIS atau Python SDKdescription: Konversi Gratis dari OTP ke TIFF dengan menggunakan Python Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

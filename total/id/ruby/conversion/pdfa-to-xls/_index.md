@@ -1,0 +1,1 @@
+---title: Ubah PDF menjadi XLS, PDFA ke XLS Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari PDFA ke XLS dengan menggunakan Ruby Cloud API & SDK. Juga Buat, Edit & Render dokumen PDF di Cloud.---

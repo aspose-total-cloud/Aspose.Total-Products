@@ -1,1 +1,1 @@
----title: Ubah Excel menjadi TIFF, SXC ke TIFF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari SXC ke TIFF dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---
+---title: Ubah Excel menjadi TIFF, SXC ke TIFF Konverter GRATIS atau Ruby SDKdescription: Konversi Gratis dari SXC ke TIFF dengan menggunakan Ruby API Cloud & SDK. Juga Buat, Edit & Render lembar kerja atau spreadsheet Microsoft Excel, CSV, dan SpreadsheetML di Cloud.---

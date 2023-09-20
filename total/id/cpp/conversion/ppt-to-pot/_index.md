@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi POT, PPT ke POT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPT ke POT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi POT, PPT ke POT Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPT ke POT dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi PPSX, PDF ke PPSX Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari PDF ke PPSX dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi PPSX, PDF ke PPSX Konverter GRATIS atau Java SDKdescription: Konversi Gratis dari PDF ke PPSX dengan menggunakan Java Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---

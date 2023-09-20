@@ -1,1 +1,1 @@
----title: Ubah PowerPoint menjadi DOTX, PPTM ke DOTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke DOTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---
+---title: Ubah PowerPoint menjadi DOTX, PPTM ke DOTX Konverter GRATIS atau C++ SDKdescription: Konversi Gratis dari PPTM ke DOTX dengan menggunakan C++ Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft PowerPoint di Cloud.---

@@ -1,1 +1,1 @@
----title: Ubah Kata menjadi DOC, DOT ke DOC Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke DOC dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
+---title: Ubah Kata menjadi DOC, DOT ke DOC Konverter GRATIS atau Swift SDKdescription: Konversi Gratis dari DOT ke DOC dengan menggunakan Swift Cloud API & SDK. Juga Buat, Edit & Render dokumen Microsoft Word & OpenOffice di Cloud.---
