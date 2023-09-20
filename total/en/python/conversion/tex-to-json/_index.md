@@ -1,0 +1,1 @@
+---title: Convert PDF to JSON, TEX to JSON FREE Converter or Python SDKdescription: Free Conversion of TEX to JSON by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

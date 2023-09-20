@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLTX, PPSX to XLTX FREE Converter or Android SDKdescription: Free Conversion of PPSX to XLTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLTX, PPSX to XLTX FREE Converter or Android SDKdescription: Free Conversion of PPSX to XLTX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

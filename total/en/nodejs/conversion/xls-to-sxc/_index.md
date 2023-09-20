@@ -1,1 +1,1 @@
----title: Convert Excel to SXC, XLS to SXC FREE Converter or Nodejs SDKdescription: Free Conversion of XLS to SXC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to SXC, XLS to SXC FREE Converter or Nodejs SDKdescription: Free Conversion of XLS to SXC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

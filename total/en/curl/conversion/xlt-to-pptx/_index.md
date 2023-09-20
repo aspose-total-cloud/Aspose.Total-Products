@@ -1,1 +1,1 @@
----title: Convert Excel to PPTX, XLT to PPTX FREE Converter or Curl SDKdescription: Free Conversion of XLT to PPTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to PPTX, XLT to PPTX FREE Converter or Curl SDKdescription: Free Conversion of XLT to PPTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

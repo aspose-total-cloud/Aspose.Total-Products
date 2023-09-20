@@ -1,0 +1,1 @@
+---title: Convert PDF to POTX, PDFA to POTX FREE Converter or PHP SDKdescription: Free Conversion of PDFA to POTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

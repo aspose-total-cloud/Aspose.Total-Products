@@ -1,1 +1,1 @@
----title: Convert Word to SVG, DOC to SVG FREE Converter or PHP SDKdescription: Free Conversion of DOC to SVG by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, DOC to SVG FREE Converter or PHP SDKdescription: Free Conversion of DOC to SVG by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

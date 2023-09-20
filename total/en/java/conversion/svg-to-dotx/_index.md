@@ -1,0 +1,1 @@
+---title: Convert PDF to DOTX, SVG to DOTX FREE Converter or Java SDKdescription: Free Conversion of SVG to DOTX by using Java Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

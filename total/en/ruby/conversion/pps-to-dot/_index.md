@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DOT, PPS to DOT FREE Converter or Ruby SDKdescription: Free Conversion of PPS to DOT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DOT, PPS to DOT FREE Converter or Ruby SDKdescription: Free Conversion of PPS to DOT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

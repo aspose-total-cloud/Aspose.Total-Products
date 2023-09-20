@@ -1,0 +1,1 @@
+---title: Convert PDF to POTX, SVG to POTX FREE Converter or Python SDKdescription: Free Conversion of SVG to POTX by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

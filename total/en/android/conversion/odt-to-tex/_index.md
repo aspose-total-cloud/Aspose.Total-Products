@@ -1,0 +1,1 @@
+---title: Convert Word to TEX, ODT to TEX FREE Converter or Android SDKdescription: Free Conversion of ODT to TEX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert PowerPoint to MOBI, PPS to MOBI FREE Converter or Swift SDKdescription: Free Conversion of PPS to MOBI by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to MOBI, PPS to MOBI FREE Converter or Swift SDKdescription: Free Conversion of PPS to MOBI by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

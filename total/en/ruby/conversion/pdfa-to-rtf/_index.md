@@ -1,0 +1,1 @@
+---title: Convert PDF to RTF, PDFA to RTF FREE Converter or Ruby SDKdescription: Free Conversion of PDFA to RTF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

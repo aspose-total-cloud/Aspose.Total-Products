@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLAM, POTX to XLAM FREE Converter or PHP SDKdescription: Free Conversion of POTX to XLAM by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLAM, POTX to XLAM FREE Converter or PHP SDKdescription: Free Conversion of POTX to XLAM by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

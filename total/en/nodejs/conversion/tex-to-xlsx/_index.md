@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSX, TEX to XLSX FREE Converter or Nodejs SDKdescription: Free Conversion of TEX to XLSX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

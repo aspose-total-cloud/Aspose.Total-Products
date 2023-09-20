@@ -1,0 +1,1 @@
+---title: Convert PDF to DOC, SVG to DOC FREE Converter or Android SDKdescription: Free Conversion of SVG to DOC by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

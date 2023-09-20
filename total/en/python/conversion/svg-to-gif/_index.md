@@ -1,0 +1,1 @@
+---title: Convert PDF to GIF, SVG to GIF FREE Converter or Python SDKdescription: Free Conversion of SVG to GIF by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

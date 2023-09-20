@@ -1,1 +1,1 @@
----title: Convert Word to SXC, DOC to SXC FREE Converter or Ruby SDKdescription: Free Conversion of DOC to SXC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, DOC to SXC FREE Converter or Ruby SDKdescription: Free Conversion of DOC to SXC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

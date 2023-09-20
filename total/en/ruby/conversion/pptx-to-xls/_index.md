@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLS, PPTX to XLS FREE Converter or Ruby SDKdescription: Free Conversion of PPTX to XLS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLS, PPTX to XLS FREE Converter or Ruby SDKdescription: Free Conversion of PPTX to XLS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

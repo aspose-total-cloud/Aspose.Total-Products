@@ -1,1 +1,1 @@
----title: Convert Word to DOT, TXT to DOT FREE Converter or Net SDKdescription: Free Conversion of TXT to DOT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOT, TXT to DOT FREE Converter or Net SDKdescription: Free Conversion of TXT to DOT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

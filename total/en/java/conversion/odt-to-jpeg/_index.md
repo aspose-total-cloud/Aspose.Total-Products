@@ -1,1 +1,1 @@
----title: Convert Word to JPEG, ODT to JPEG FREE Converter or Java SDKdescription: Free Conversion of ODT to JPEG by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to JPEG, ODT to JPEG FREE Converter or Java SDKdescription: Free Conversion of ODT to JPEG by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

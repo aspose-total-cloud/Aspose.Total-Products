@@ -1,1 +1,1 @@
----title: Convert Excel to PDF, SXC to PDF FREE Converter or Curl SDKdescription: Free Conversion of SXC to PDF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to PDF, SXC to PDF FREE Converter or Curl SDKdescription: Free Conversion of SXC to PDF by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

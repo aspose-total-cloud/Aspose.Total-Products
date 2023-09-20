@@ -1,1 +1,1 @@
----title: Convert Word to MOBI, DOT to MOBI FREE Converter or PHP SDKdescription: Free Conversion of DOT to MOBI by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MOBI, DOT to MOBI FREE Converter or PHP SDKdescription: Free Conversion of DOT to MOBI by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to SXC, PDFA to SXC FREE Converter or Java SDKdescription: Free Conversion of PDFA to SXC by using Java Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

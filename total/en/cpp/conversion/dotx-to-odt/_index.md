@@ -1,1 +1,1 @@
----title: Convert Word to ODT, DOTX to ODT FREE Converter or CPP SDKdescription: Free Conversion of DOTX to ODT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODT, DOTX to ODT FREE Converter or C++ SDKdescription: Free Conversion of DOTX to ODT by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

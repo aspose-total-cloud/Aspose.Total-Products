@@ -1,1 +1,1 @@
----title: Convert Word to XPS, PDF to XPS FREE Converter or PHP SDKdescription: Free Conversion of PDF to XPS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, PDF to XPS FREE Converter or PHP SDKdescription: Free Conversion of PDF to XPS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

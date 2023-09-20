@@ -1,0 +1,1 @@
+---title: Convert Word to TEX, TXT to TEX FREE Converter or Java SDKdescription: Free Conversion of TXT to TEX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

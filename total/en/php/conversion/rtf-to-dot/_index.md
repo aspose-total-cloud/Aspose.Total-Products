@@ -1,1 +1,1 @@
----title: Convert Word to DOT, RTF to DOT FREE Converter or PHP SDKdescription: Free Conversion of RTF to DOT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOT, RTF to DOT FREE Converter or PHP SDKdescription: Free Conversion of RTF to DOT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to EMF, DOT to EMF FREE Converter or Ruby SDKdescription: Free Conversion of DOT to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to EMF, DOT to EMF FREE Converter or Ruby SDKdescription: Free Conversion of DOT to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to JPEG, RTF to JPEG FREE Converter or CPP SDKdescription: Free Conversion of RTF to JPEG by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to JPEG, RTF to JPEG FREE Converter or C++ SDKdescription: Free Conversion of RTF to JPEG by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

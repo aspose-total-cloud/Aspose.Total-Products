@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, POTM to TEX FREE Converter or PHP SDKdescription: Free Conversion of POTM to TEX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

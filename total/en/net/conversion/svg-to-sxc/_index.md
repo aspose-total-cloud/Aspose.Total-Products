@@ -1,0 +1,1 @@
+---title: Convert PDF to SXC, SVG to SXC FREE Converter or Net SDKdescription: Free Conversion of SVG to SXC by using Net Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

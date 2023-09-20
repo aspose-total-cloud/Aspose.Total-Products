@@ -1,0 +1,1 @@
+---title: Convert PDF to XLTX, PDFA to XLTX FREE Converter or C++ SDKdescription: Free Conversion of PDFA to XLTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

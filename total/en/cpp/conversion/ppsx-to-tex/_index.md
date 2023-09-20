@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, PPSX to TEX FREE Converter or C++ SDKdescription: Free Conversion of PPSX to TEX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, PPS to TEX FREE Converter or GO SDKdescription: Free Conversion of PPS to TEX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

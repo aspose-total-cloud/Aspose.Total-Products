@@ -1,1 +1,1 @@
----title: Convert Word to MHTML, DOC to MHTML FREE Converter or Ruby SDKdescription: Free Conversion of DOC to MHTML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOC to MHTML FREE Converter or Ruby SDKdescription: Free Conversion of DOC to MHTML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

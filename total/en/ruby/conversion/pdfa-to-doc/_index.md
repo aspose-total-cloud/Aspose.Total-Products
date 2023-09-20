@@ -1,0 +1,1 @@
+---title: Convert PDF to DOC, PDFA to DOC FREE Converter or Ruby SDKdescription: Free Conversion of PDFA to DOC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

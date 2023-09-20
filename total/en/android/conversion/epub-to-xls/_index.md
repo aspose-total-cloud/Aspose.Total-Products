@@ -1,0 +1,1 @@
+---title: Convert PDF to XLS, EPUB to XLS FREE Converter or Android SDKdescription: Free Conversion of EPUB to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

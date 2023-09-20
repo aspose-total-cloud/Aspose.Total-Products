@@ -1,1 +1,1 @@
----title: Convert Word to HTML, DOTX to HTML FREE Converter or CPP SDKdescription: Free Conversion of DOTX to HTML by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to HTML, DOTX to HTML FREE Converter or C++ SDKdescription: Free Conversion of DOTX to HTML by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to POT, SVG to POT FREE Converter or Swift SDKdescription: Free Conversion of SVG to POT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

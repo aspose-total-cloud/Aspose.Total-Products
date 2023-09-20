@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLSX, POTM to XLSX FREE Converter or GO SDKdescription: Free Conversion of POTM to XLSX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLSX, POTM to XLSX FREE Converter or GO SDKdescription: Free Conversion of POTM to XLSX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

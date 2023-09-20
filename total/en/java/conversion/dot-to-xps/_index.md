@@ -1,1 +1,1 @@
----title: Convert Word to XPS, DOT to XPS FREE Converter or Java SDKdescription: Free Conversion of DOT to XPS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XPS, DOT to XPS FREE Converter or Java SDKdescription: Free Conversion of DOT to XPS by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

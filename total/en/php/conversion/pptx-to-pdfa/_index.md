@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PDFA, PPTX to PDFA FREE Converter or PHP SDKdescription: Free Conversion of PPTX to PDFA by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

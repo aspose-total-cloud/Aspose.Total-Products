@@ -1,1 +1,1 @@
----title: Convert Word to POT, HTML to POT FREE Converter or Ruby SDKdescription: Free Conversion of HTML to POT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to POT, HTML to POT FREE Converter or Ruby SDKdescription: Free Conversion of HTML to POT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

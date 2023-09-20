@@ -1,0 +1,1 @@
+---title: Convert PDF to XLTX, PDFA to XLTX FREE Converter or Net SDKdescription: Free Conversion of PDFA to XLTX by using Net Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to TEX, DOTX to TEX FREE Converter or PHP SDKdescription: Free Conversion of DOTX to TEX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

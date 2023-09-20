@@ -1,1 +1,1 @@
----title: Convert PowerPoint to TIFF, ODP to TIFF FREE Converter or Ruby SDKdescription: Free Conversion of ODP to TIFF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to TIFF, ODP to TIFF FREE Converter or Ruby SDKdescription: Free Conversion of ODP to TIFF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to DOTX, XPS to DOTX FREE Converter or C++ SDKdescription: Free Conversion of XPS to DOTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

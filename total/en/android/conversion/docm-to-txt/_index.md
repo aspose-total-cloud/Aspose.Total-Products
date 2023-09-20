@@ -1,1 +1,1 @@
----title: Convert Word to TXT, DOCM to TXT FREE Converter or Android SDKdescription: Free Conversion of DOCM to TXT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOCM to TXT FREE Converter or Android SDKdescription: Free Conversion of DOCM to TXT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

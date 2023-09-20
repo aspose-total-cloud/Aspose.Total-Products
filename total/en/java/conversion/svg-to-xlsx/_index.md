@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSX, SVG to XLSX FREE Converter or Java SDKdescription: Free Conversion of SVG to XLSX by using Java Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

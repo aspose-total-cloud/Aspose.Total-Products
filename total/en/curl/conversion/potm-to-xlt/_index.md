@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLT, POTM to XLT FREE Converter or Curl SDKdescription: Free Conversion of POTM to XLT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLT, POTM to XLT FREE Converter or Curl SDKdescription: Free Conversion of POTM to XLT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

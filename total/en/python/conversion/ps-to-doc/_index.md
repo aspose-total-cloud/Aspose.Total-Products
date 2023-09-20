@@ -1,0 +1,1 @@
+---title: Convert PDF to DOC, PS to DOC FREE Converter or Python SDKdescription: Free Conversion of PS to DOC by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

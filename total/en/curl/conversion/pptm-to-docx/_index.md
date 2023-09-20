@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DOCX, PPTM to DOCX FREE Converter or Curl SDKdescription: Free Conversion of PPTM to DOCX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DOCX, PPTM to DOCX FREE Converter or Curl SDKdescription: Free Conversion of PPTM to DOCX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

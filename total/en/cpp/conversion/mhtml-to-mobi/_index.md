@@ -1,1 +1,1 @@
----title: Convert Word to MOBI, MHTML to MOBI FREE Converter or CPP SDKdescription: Free Conversion of MHTML to MOBI by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MOBI, MHTML to MOBI FREE Converter or C++ SDKdescription: Free Conversion of MHTML to MOBI by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

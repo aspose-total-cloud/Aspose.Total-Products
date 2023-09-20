@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, POTM to TEX FREE Converter or Ruby SDKdescription: Free Conversion of POTM to TEX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

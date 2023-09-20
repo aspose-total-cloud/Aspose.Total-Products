@@ -1,1 +1,1 @@
----title: Convert Word to JPEG, DOCX to JPEG FREE Converter or Python SDKdescription: Free Conversion of DOCX to JPEG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to JPEG, DOCX to JPEG FREE Converter or Python SDKdescription: Free Conversion of DOCX to JPEG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

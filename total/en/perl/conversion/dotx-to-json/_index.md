@@ -1,1 +1,1 @@
----title: Convert Word to JSON, DOTX to JSON FREE Converter or Perl SDKdescription: Free Conversion of DOTX to JSON by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to JSON, DOTX to JSON FREE Converter or Perl SDKdescription: Free Conversion of DOTX to JSON by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

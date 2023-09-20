@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSB, SVG to XLSB FREE Converter or C++ SDKdescription: Free Conversion of SVG to XLSB by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

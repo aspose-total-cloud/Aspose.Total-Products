@@ -1,1 +1,1 @@
----title: Convert PowerPoint to POTX, POTM to POTX FREE Converter or PHP SDKdescription: Free Conversion of POTM to POTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to POTX, POTM to POTX FREE Converter or PHP SDKdescription: Free Conversion of POTM to POTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

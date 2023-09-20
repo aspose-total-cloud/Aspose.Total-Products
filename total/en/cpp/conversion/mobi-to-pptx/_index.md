@@ -1,1 +1,1 @@
----title: Convert Word to PPTX, MOBI to PPTX FREE Converter or CPP SDKdescription: Free Conversion of MOBI to PPTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PPTX, MOBI to PPTX FREE Converter or C++ SDKdescription: Free Conversion of MOBI to PPTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

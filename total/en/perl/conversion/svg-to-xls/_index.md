@@ -1,0 +1,1 @@
+---title: Convert PDF to XLS, SVG to XLS FREE Converter or Perl SDKdescription: Free Conversion of SVG to XLS by using Perl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

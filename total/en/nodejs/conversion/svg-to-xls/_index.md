@@ -1,0 +1,1 @@
+---title: Convert PDF to XLS, SVG to XLS FREE Converter or Nodejs SDKdescription: Free Conversion of SVG to XLS by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

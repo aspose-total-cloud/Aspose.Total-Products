@@ -1,0 +1,1 @@
+---title: Convert PDF to XLAM, SVG to XLAM FREE Converter or Net SDKdescription: Free Conversion of SVG to XLAM by using Net Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

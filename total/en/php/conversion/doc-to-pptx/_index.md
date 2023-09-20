@@ -1,1 +1,1 @@
----title: Convert Word to PPTX, DOC to PPTX FREE Converter or PHP SDKdescription: Free Conversion of DOC to PPTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PPTX, DOC to PPTX FREE Converter or PHP SDKdescription: Free Conversion of DOC to PPTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

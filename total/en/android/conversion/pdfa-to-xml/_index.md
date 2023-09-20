@@ -1,0 +1,1 @@
+---title: Convert PDF to XML, PDFA to XML FREE Converter or Android SDKdescription: Free Conversion of PDFA to XML by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

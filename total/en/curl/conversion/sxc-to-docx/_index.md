@@ -1,1 +1,1 @@
----title: Convert Excel to DOCX, SXC to DOCX FREE Converter or Curl SDKdescription: Free Conversion of SXC to DOCX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to DOCX, SXC to DOCX FREE Converter or Curl SDKdescription: Free Conversion of SXC to DOCX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

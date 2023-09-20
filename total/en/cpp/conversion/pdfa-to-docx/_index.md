@@ -1,0 +1,1 @@
+---title: Convert PDF to DOCX, PDFA to DOCX FREE Converter or C++ SDKdescription: Free Conversion of PDFA to DOCX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to SXC, HTML to SXC FREE Converter or Swift SDKdescription: Free Conversion of HTML to SXC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, HTML to SXC FREE Converter or Swift SDKdescription: Free Conversion of HTML to SXC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

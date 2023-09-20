@@ -1,1 +1,1 @@
----title: Convert Word to XLT, DOT to XLT FREE Converter or PHP SDKdescription: Free Conversion of DOT to XLT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, DOT to XLT FREE Converter or PHP SDKdescription: Free Conversion of DOT to XLT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

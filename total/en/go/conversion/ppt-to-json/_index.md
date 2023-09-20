@@ -1,1 +1,1 @@
----title: Convert PowerPoint to JSON, PPT to JSON FREE Converter or GO SDKdescription: Free Conversion of PPT to JSON by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to JSON, PPT to JSON FREE Converter or GO SDKdescription: Free Conversion of PPT to JSON by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

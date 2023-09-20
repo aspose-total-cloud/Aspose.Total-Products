@@ -1,0 +1,1 @@
+---title: Convert PDF to XLTX, SVG to XLTX FREE Converter or PHP SDKdescription: Free Conversion of SVG to XLTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

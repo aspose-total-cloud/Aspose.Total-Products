@@ -1,0 +1,1 @@
+---title: Convert PDF to POTX, XPS to POTX FREE Converter or Nodejs SDKdescription: Free Conversion of XPS to POTX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

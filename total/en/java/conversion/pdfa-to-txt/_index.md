@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT, PDFA to TXT FREE Converter or Java SDKdescription: Free Conversion of PDFA to TXT by using Java Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

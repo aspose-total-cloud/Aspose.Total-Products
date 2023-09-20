@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DOCM, POTX to DOCM FREE Converter or CPP SDKdescription: Free Conversion of POTX to DOCM by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DOCM, POTX to DOCM FREE Converter or C++ SDKdescription: Free Conversion of POTX to DOCM by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

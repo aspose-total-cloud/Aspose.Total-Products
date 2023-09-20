@@ -1,0 +1,1 @@
+---title: Convert Excel to PDFA, XLSX to PDFA FREE Converter or PHP SDKdescription: Free Conversion of XLSX to PDFA by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

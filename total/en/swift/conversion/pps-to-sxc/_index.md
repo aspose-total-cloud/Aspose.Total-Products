@@ -1,1 +1,1 @@
----title: Convert PowerPoint to SXC, PPS to SXC FREE Converter or Swift SDKdescription: Free Conversion of PPS to SXC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to SXC, PPS to SXC FREE Converter or Swift SDKdescription: Free Conversion of PPS to SXC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

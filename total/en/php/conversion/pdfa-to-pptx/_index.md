@@ -1,0 +1,1 @@
+---title: Convert PDF to PPTX, PDFA to PPTX FREE Converter or PHP SDKdescription: Free Conversion of PDFA to PPTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

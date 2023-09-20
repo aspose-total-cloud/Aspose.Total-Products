@@ -1,1 +1,1 @@
----title: Convert Word to XLS, PDF to XLS FREE Converter or GO SDKdescription: Free Conversion of PDF to XLS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, PDF to XLS FREE Converter or GO SDKdescription: Free Conversion of PDF to XLS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

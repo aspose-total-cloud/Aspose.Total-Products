@@ -1,0 +1,1 @@
+---title: Convert PDF to XML, SVG to XML FREE Converter or Net SDKdescription: Free Conversion of SVG to XML by using Net Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

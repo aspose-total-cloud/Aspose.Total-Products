@@ -1,1 +1,1 @@
----title: Convert Excel to GIF, XLT to GIF FREE Converter or Swift SDKdescription: Free Conversion of XLT to GIF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to GIF, XLT to GIF FREE Converter or Swift SDKdescription: Free Conversion of XLT to GIF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

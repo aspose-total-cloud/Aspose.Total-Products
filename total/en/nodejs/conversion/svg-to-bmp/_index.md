@@ -1,0 +1,1 @@
+---title: Convert PDF to BMP, SVG to BMP FREE Converter or Nodejs SDKdescription: Free Conversion of SVG to BMP by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

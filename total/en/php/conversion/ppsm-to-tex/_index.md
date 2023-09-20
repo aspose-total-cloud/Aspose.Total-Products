@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, PPSM to TEX FREE Converter or PHP SDKdescription: Free Conversion of PPSM to TEX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

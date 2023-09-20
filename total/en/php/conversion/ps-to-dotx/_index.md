@@ -1,0 +1,1 @@
+---title: Convert PDF to DOTX, PS to DOTX FREE Converter or PHP SDKdescription: Free Conversion of PS to DOTX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

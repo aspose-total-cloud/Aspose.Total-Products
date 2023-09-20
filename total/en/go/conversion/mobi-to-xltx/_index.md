@@ -1,1 +1,1 @@
----title: Convert Word to XLTX, MOBI to XLTX FREE Converter or GO SDKdescription: Free Conversion of MOBI to XLTX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, MOBI to XLTX FREE Converter or GO SDKdescription: Free Conversion of MOBI to XLTX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

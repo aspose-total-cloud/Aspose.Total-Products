@@ -1,1 +1,1 @@
----title: Convert Excel to TXT, FODS to TXT FREE Converter or Ruby SDKdescription: Free Conversion of FODS to TXT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to TXT, FODS to TXT FREE Converter or Ruby SDKdescription: Free Conversion of FODS to TXT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

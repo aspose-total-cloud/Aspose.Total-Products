@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT, TEX to TXT FREE Converter or Perl SDKdescription: Free Conversion of TEX to TXT by using Perl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

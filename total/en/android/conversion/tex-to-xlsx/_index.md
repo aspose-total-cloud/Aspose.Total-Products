@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSX, TEX to XLSX FREE Converter or Android SDKdescription: Free Conversion of TEX to XLSX by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

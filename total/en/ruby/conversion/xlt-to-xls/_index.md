@@ -1,1 +1,1 @@
----title: Convert Excel to XLS, XLT to XLS FREE Converter or Ruby SDKdescription: Free Conversion of XLT to XLS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to XLS, XLT to XLS FREE Converter or Ruby SDKdescription: Free Conversion of XLT to XLS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

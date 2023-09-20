@@ -1,1 +1,1 @@
----title: Convert Word to SVG, MD to SVG FREE Converter or Python SDKdescription: Free Conversion of MD to SVG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, MD to SVG FREE Converter or Python SDKdescription: Free Conversion of MD to SVG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

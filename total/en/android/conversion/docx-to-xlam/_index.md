@@ -1,1 +1,1 @@
----title: Convert Word to XLAM, DOCX to XLAM FREE Converter or Android SDKdescription: Free Conversion of DOCX to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLAM, DOCX to XLAM FREE Converter or Android SDKdescription: Free Conversion of DOCX to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

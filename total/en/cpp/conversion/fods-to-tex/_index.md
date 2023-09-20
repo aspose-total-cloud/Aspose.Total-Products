@@ -1,0 +1,1 @@
+---title: Convert Excel to TEX, FODS to TEX FREE Converter or C++ SDKdescription: Free Conversion of FODS to TEX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

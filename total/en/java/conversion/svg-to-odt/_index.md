@@ -1,0 +1,1 @@
+---title: Convert PDF to ODT, SVG to ODT FREE Converter or Java SDKdescription: Free Conversion of SVG to ODT by using Java Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

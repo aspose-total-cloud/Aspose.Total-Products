@@ -1,0 +1,1 @@
+---title: Convert Word to TEX, DOTX to TEX FREE Converter or Nodejs SDKdescription: Free Conversion of DOTX to TEX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

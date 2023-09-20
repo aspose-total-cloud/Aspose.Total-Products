@@ -1,1 +1,1 @@
----title: Convert PowerPoint to EPUB, POTX to EPUB FREE Converter or CPP SDKdescription: Free Conversion of POTX to EPUB by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to EPUB, POTX to EPUB FREE Converter or C++ SDKdescription: Free Conversion of POTX to EPUB by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

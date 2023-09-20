@@ -1,1 +1,1 @@
----title: Convert PowerPoint to PNG, PPT to PNG FREE Converter or GO SDKdescription: Free Conversion of PPT to PNG by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to PNG, PPT to PNG FREE Converter or GO SDKdescription: Free Conversion of PPT to PNG by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

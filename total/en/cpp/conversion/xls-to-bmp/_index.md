@@ -1,1 +1,1 @@
----title: Convert Excel to BMP, XLS to BMP FREE Converter or CPP SDKdescription: Free Conversion of XLS to BMP by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to BMP, XLS to BMP FREE Converter or C++ SDKdescription: Free Conversion of XLS to BMP by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

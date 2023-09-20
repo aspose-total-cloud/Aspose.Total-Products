@@ -1,0 +1,1 @@
+---title: Convert Word to XSLFO, DOTM to XSLFO FREE Converter or C++ SDKdescription: Free Conversion of DOTM to XSLFO by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

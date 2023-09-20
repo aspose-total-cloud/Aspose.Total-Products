@@ -1,1 +1,1 @@
----title: Convert PowerPoint to EMF, POTX to EMF FREE Converter or Ruby SDKdescription: Free Conversion of POTX to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to EMF, POTX to EMF FREE Converter or Ruby SDKdescription: Free Conversion of POTX to EMF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to FODS, RTF to FODS FREE Converter or Ruby SDKdescription: Free Conversion of RTF to FODS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, RTF to FODS FREE Converter or Ruby SDKdescription: Free Conversion of RTF to FODS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

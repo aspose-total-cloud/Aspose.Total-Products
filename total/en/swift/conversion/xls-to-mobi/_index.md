@@ -1,1 +1,1 @@
----title: Convert Excel to MOBI, XLS to MOBI FREE Converter or Swift SDKdescription: Free Conversion of XLS to MOBI by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to MOBI, XLS to MOBI FREE Converter or Swift SDKdescription: Free Conversion of XLS to MOBI by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

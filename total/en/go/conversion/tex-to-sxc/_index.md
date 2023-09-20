@@ -1,0 +1,1 @@
+---title: Convert PDF to SXC, TEX to SXC FREE Converter or GO SDKdescription: Free Conversion of TEX to SXC by using GO Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

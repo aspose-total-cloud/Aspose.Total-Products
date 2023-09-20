@@ -1,1 +1,1 @@
----title: Convert Word to PPTX, DOCX to PPTX FREE Converter or Curl SDKdescription: Free Conversion of DOCX to PPTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PPTX, DOCX to PPTX FREE Converter or Curl SDKdescription: Free Conversion of DOCX to PPTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

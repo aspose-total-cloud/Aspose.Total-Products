@@ -1,0 +1,1 @@
+---title: Convert PDF to PPSX, TEX to PPSX FREE Converter or Android SDKdescription: Free Conversion of TEX to PPSX by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

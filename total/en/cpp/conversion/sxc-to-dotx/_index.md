@@ -1,1 +1,1 @@
----title: Convert Excel to DOTX, SXC to DOTX FREE Converter or CPP SDKdescription: Free Conversion of SXC to DOTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to DOTX, SXC to DOTX FREE Converter or C++ SDKdescription: Free Conversion of SXC to DOTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

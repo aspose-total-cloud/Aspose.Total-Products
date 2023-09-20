@@ -1,0 +1,1 @@
+---title: Convert PDF to DOC, PS to DOC FREE Converter or Nodejs SDKdescription: Free Conversion of PS to DOC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

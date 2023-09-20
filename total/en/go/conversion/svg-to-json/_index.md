@@ -1,0 +1,1 @@
+---title: Convert PDF to JSON, SVG to JSON FREE Converter or GO SDKdescription: Free Conversion of SVG to JSON by using GO Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

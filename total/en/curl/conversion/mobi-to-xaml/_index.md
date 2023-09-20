@@ -1,1 +1,1 @@
----title: Convert Word to XAML, MOBI to XAML FREE Converter or Curl SDKdescription: Free Conversion of MOBI to XAML by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XAML, MOBI to XAML FREE Converter or Curl SDKdescription: Free Conversion of MOBI to XAML by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

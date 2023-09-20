@@ -1,1 +1,1 @@
----title: Convert Word to PPT, DOC to PPT FREE Converter or Ruby SDKdescription: Free Conversion of DOC to PPT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PPT, DOC to PPT FREE Converter or Ruby SDKdescription: Free Conversion of DOC to PPT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

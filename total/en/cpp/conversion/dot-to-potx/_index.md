@@ -1,1 +1,1 @@
----title: Convert Word to POTX, DOT to POTX FREE Converter or CPP SDKdescription: Free Conversion of DOT to POTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to POTX, DOT to POTX FREE Converter or C++ SDKdescription: Free Conversion of DOT to POTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

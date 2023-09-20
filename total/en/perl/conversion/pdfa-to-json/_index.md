@@ -1,0 +1,1 @@
+---title: Convert PDF to JSON, PDFA to JSON FREE Converter or Perl SDKdescription: Free Conversion of PDFA to JSON by using Perl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

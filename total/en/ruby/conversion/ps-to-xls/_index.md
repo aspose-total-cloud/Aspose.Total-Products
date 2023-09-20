@@ -1,0 +1,1 @@
+---title: Convert PDF to XLS, PS to XLS FREE Converter or Ruby SDKdescription: Free Conversion of PS to XLS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

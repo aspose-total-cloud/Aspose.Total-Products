@@ -1,1 +1,1 @@
----title: Convert Word to DOCX, DOC to DOCX FREE Converter or Java SDKdescription: Free Conversion of DOC to DOCX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOCX, DOC to DOCX FREE Converter or Java SDKdescription: Free Conversion of DOC to DOCX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

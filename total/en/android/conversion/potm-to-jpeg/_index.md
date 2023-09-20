@@ -1,1 +1,1 @@
----title: Convert PowerPoint to JPEG, POTM to JPEG FREE Converter or Android SDKdescription: Free Conversion of POTM to JPEG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to JPEG, POTM to JPEG FREE Converter or Android SDKdescription: Free Conversion of POTM to JPEG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

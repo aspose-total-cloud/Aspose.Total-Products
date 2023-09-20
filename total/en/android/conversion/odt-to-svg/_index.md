@@ -1,1 +1,1 @@
----title: Convert Word to SVG, ODT to SVG FREE Converter or Android SDKdescription: Free Conversion of ODT to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, ODT to SVG FREE Converter or Android SDKdescription: Free Conversion of ODT to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

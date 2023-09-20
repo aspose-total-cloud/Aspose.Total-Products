@@ -1,1 +1,1 @@
----title: Convert Word to SXC, RTF to SXC FREE Converter or PHP SDKdescription: Free Conversion of RTF to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, RTF to SXC FREE Converter or PHP SDKdescription: Free Conversion of RTF to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

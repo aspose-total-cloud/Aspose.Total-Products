@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLSX, PPTX to XLSX FREE Converter or PHP SDKdescription: Free Conversion of PPTX to XLSX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLSX, PPTX to XLSX FREE Converter or PHP SDKdescription: Free Conversion of PPTX to XLSX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

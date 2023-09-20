@@ -1,0 +1,1 @@
+---title: Convert PDF to SXC, SVG to SXC FREE Converter or Ruby SDKdescription: Free Conversion of SVG to SXC by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

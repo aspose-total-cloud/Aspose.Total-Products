@@ -1,1 +1,1 @@
----title: Convert Word to NUMBERS, DOT to NUMBERS FREE Converter or Python SDKdescription: Free Conversion of DOT to NUMBERS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to NUMBERS, DOT to NUMBERS FREE Converter or Python SDKdescription: Free Conversion of DOT to NUMBERS by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

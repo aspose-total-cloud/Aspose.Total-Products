@@ -1,1 +1,1 @@
----title: Convert Word to XLT, DOCM to XLT FREE Converter or GO SDKdescription: Free Conversion of DOCM to XLT by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, DOCM to XLT FREE Converter or GO SDKdescription: Free Conversion of DOCM to XLT by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

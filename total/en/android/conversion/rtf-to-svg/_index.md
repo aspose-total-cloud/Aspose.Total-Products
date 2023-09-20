@@ -1,1 +1,1 @@
----title: Convert Word to SVG, RTF to SVG FREE Converter or Android SDKdescription: Free Conversion of RTF to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, RTF to SVG FREE Converter or Android SDKdescription: Free Conversion of RTF to SVG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

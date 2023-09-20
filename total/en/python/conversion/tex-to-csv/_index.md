@@ -1,0 +1,1 @@
+---title: Convert PDF to CSV, TEX to CSV FREE Converter or Python SDKdescription: Free Conversion of TEX to CSV by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

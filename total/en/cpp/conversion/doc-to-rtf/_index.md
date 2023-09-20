@@ -1,1 +1,1 @@
----title: Convert Word to RTF, DOC to RTF FREE Converter or CPP SDKdescription: Free Conversion of DOC to RTF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to RTF, DOC to RTF FREE Converter or C++ SDKdescription: Free Conversion of DOC to RTF by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

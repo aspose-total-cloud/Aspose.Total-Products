@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT, MHT to TXT FREE Converter or Swift SDKdescription: Free Conversion of MHT to TXT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

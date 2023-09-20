@@ -1,1 +1,1 @@
----title: Convert Word to XLS, TXT to XLS FREE Converter or Android SDKdescription: Free Conversion of TXT to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, TXT to XLS FREE Converter or Android SDKdescription: Free Conversion of TXT to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert PowerPoint to ODT, OTP to ODT FREE Converter or Curl SDKdescription: Free Conversion of OTP to ODT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to ODT, OTP to ODT FREE Converter or Curl SDKdescription: Free Conversion of OTP to ODT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

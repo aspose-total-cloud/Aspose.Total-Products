@@ -1,1 +1,1 @@
----title: Convert Word to TIFF, MHTML to TIFF FREE Converter or CPP SDKdescription: Free Conversion of MHTML to TIFF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, MHTML to TIFF FREE Converter or C++ SDKdescription: Free Conversion of MHTML to TIFF by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

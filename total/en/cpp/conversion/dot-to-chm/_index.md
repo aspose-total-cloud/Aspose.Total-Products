@@ -1,1 +1,1 @@
----title: Convert Word to CHM, DOT to CHM FREE Converter or CPP SDKdescription: Free Conversion of DOT to CHM by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CHM, DOT to CHM FREE Converter or C++ SDKdescription: Free Conversion of DOT to CHM by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

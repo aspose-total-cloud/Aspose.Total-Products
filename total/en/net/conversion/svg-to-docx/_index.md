@@ -1,0 +1,1 @@
+---title: Convert PDF to DOCX, SVG to DOCX FREE Converter or Net SDKdescription: Free Conversion of SVG to DOCX by using Net Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

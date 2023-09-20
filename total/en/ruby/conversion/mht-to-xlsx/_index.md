@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSX, MHT to XLSX FREE Converter or Ruby SDKdescription: Free Conversion of MHT to XLSX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

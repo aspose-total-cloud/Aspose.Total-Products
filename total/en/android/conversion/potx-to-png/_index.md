@@ -1,1 +1,1 @@
----title: Convert PowerPoint to PNG, POTX to PNG FREE Converter or Android SDKdescription: Free Conversion of POTX to PNG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to PNG, POTX to PNG FREE Converter or Android SDKdescription: Free Conversion of POTX to PNG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

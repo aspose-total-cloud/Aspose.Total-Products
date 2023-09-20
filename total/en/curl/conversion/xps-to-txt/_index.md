@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT, XPS to TXT FREE Converter or Curl SDKdescription: Free Conversion of XPS to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

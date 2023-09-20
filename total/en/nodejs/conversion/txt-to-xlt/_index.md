@@ -1,1 +1,1 @@
----title: Convert Word to XLT, TXT to XLT FREE Converter or Nodejs SDKdescription: Free Conversion of TXT to XLT by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, TXT to XLT FREE Converter or Nodejs SDKdescription: Free Conversion of TXT to XLT by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

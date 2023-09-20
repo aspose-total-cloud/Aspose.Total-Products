@@ -1,1 +1,1 @@
----title: Convert Excel to TXT, ODS to TXT FREE Converter or Curl SDKdescription: Free Conversion of ODS to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to TXT, ODS to TXT FREE Converter or Curl SDKdescription: Free Conversion of ODS to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

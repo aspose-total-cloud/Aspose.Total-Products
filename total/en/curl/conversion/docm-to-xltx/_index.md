@@ -1,1 +1,1 @@
----title: Convert Word to XLTX, DOCM to XLTX FREE Converter or Curl SDKdescription: Free Conversion of DOCM to XLTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, DOCM to XLTX FREE Converter or Curl SDKdescription: Free Conversion of DOCM to XLTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

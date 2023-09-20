@@ -1,1 +1,1 @@
----title: Convert Word to MHTML, DOT to MHTML FREE Converter or CPP SDKdescription: Free Conversion of DOT to MHTML by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to MHTML, DOT to MHTML FREE Converter or C++ SDKdescription: Free Conversion of DOT to MHTML by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

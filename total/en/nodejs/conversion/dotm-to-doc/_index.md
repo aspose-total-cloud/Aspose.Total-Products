@@ -1,1 +1,1 @@
----title: Convert Word to DOC, DOTM to DOC FREE Converter or Nodejs SDKdescription: Free Conversion of DOTM to DOC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOC, DOTM to DOC FREE Converter or Nodejs SDKdescription: Free Conversion of DOTM to DOC by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

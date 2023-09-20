@@ -1,0 +1,1 @@
+---title: Convert PDF to XLAM, PDFA to XLAM FREE Converter or Android SDKdescription: Free Conversion of PDFA to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

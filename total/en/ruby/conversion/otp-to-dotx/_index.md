@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DOTX, OTP to DOTX FREE Converter or Ruby SDKdescription: Free Conversion of OTP to DOTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DOTX, OTP to DOTX FREE Converter or Ruby SDKdescription: Free Conversion of OTP to DOTX by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

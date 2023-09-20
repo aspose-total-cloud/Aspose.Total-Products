@@ -1,1 +1,1 @@
----title: Convert PowerPoint to CSV, PPSX to CSV FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to CSV by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to CSV, PPSX to CSV FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to CSV by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

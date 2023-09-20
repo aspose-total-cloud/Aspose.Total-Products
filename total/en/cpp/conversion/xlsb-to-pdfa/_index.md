@@ -1,0 +1,1 @@
+---title: Convert Excel to PDFA, XLSB to PDFA FREE Converter or C++ SDKdescription: Free Conversion of XLSB to PDFA by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

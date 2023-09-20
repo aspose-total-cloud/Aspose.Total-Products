@@ -1,1 +1,1 @@
----title: Convert Excel to SXC, XLTX to SXC FREE Converter or GO SDKdescription: Free Conversion of XLTX to SXC by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to SXC, XLTX to SXC FREE Converter or GO SDKdescription: Free Conversion of XLTX to SXC by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

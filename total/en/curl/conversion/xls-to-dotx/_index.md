@@ -1,1 +1,1 @@
----title: Convert Excel to DOTX, XLS to DOTX FREE Converter or Curl SDKdescription: Free Conversion of XLS to DOTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to DOTX, XLS to DOTX FREE Converter or Curl SDKdescription: Free Conversion of XLS to DOTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

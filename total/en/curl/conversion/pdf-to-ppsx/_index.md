@@ -1,1 +1,1 @@
----title: Convert Word to PPSX, PDF to PPSX FREE Converter or Curl SDKdescription: Free Conversion of PDF to PPSX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PPSX, PDF to PPSX FREE Converter or Curl SDKdescription: Free Conversion of PDF to PPSX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

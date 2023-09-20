@@ -1,1 +1,1 @@
----title: Convert Word to DIF, DOTX to DIF FREE Converter or CPP SDKdescription: Free Conversion of DOTX to DIF by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DIF, DOTX to DIF FREE Converter or C++ SDKdescription: Free Conversion of DOTX to DIF by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to CSV, SVG to CSV FREE Converter or C++ SDKdescription: Free Conversion of SVG to CSV by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

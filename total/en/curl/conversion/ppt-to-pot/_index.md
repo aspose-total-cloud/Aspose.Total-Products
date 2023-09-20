@@ -1,1 +1,1 @@
----title: Convert PowerPoint to POT, PPT to POT FREE Converter or Curl SDKdescription: Free Conversion of PPT to POT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to POT, PPT to POT FREE Converter or Curl SDKdescription: Free Conversion of PPT to POT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

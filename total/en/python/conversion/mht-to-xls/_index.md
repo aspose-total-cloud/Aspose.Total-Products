@@ -1,0 +1,1 @@
+---title: Convert PDF to XLS, MHT to XLS FREE Converter or Python SDKdescription: Free Conversion of MHT to XLS by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

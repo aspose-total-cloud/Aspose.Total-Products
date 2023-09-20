@@ -1,0 +1,1 @@
+---title: Convert Word to TEX, ODT to TEX FREE Converter or Net SDKdescription: Free Conversion of ODT to TEX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

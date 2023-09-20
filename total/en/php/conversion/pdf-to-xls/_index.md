@@ -1,1 +1,1 @@
----title: Convert Word to XLS, PDF to XLS FREE Converter or PHP SDKdescription: Free Conversion of PDF to XLS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLS, PDF to XLS FREE Converter or PHP SDKdescription: Free Conversion of PDF to XLS by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

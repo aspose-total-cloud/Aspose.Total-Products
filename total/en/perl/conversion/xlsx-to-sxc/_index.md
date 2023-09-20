@@ -1,1 +1,1 @@
----title: Convert Excel to SXC, XLSX to SXC FREE Converter or Perl SDKdescription: Free Conversion of XLSX to SXC by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to SXC, XLSX to SXC FREE Converter or Perl SDKdescription: Free Conversion of XLSX to SXC by using Perl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

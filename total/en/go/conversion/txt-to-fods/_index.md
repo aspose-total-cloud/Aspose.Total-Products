@@ -1,1 +1,1 @@
----title: Convert Word to FODS, TXT to FODS FREE Converter or GO SDKdescription: Free Conversion of TXT to FODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to FODS, TXT to FODS FREE Converter or GO SDKdescription: Free Conversion of TXT to FODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

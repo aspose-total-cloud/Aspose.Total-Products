@@ -1,1 +1,1 @@
----title: Convert Excel to GIF, XLSM to GIF FREE Converter or Net SDKdescription: Free Conversion of XLSM to GIF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to GIF, XLSM to GIF FREE Converter or Net SDKdescription: Free Conversion of XLSM to GIF by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

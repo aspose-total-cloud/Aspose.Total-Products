@@ -1,0 +1,1 @@
+---title: Convert PDF to XLAM, EPUB to XLAM FREE Converter or Android SDKdescription: Free Conversion of EPUB to XLAM by using Android Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to POTX, DOTX to POTX FREE Converter or Net SDKdescription: Free Conversion of DOTX to POTX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to POTX, DOTX to POTX FREE Converter or Net SDKdescription: Free Conversion of DOTX to POTX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

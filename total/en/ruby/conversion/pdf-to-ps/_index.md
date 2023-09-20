@@ -1,1 +1,1 @@
----title: Convert Word to PS, PDF to PS FREE Converter or Ruby SDKdescription: Free Conversion of PDF to PS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PS, PDF to PS FREE Converter or Ruby SDKdescription: Free Conversion of PDF to PS by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to ODS, RTF to ODS FREE Converter or GO SDKdescription: Free Conversion of RTF to ODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to ODS, RTF to ODS FREE Converter or GO SDKdescription: Free Conversion of RTF to ODS by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

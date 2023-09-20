@@ -1,0 +1,1 @@
+---title: Convert PDF to CSV, SVG to CSV FREE Converter or Nodejs SDKdescription: Free Conversion of SVG to CSV by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

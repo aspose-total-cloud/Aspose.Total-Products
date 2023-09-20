@@ -1,0 +1,1 @@
+---title: Convert PDF to OTT, SVG to OTT FREE Converter or C++ SDKdescription: Free Conversion of SVG to OTT by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

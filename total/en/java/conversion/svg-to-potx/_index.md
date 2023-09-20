@@ -1,0 +1,1 @@
+---title: Convert PDF to POTX, SVG to POTX FREE Converter or Java SDKdescription: Free Conversion of SVG to POTX by using Java Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

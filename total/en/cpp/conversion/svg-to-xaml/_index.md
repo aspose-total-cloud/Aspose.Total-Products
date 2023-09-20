@@ -1,0 +1,1 @@
+---title: Convert PDF to XAML, SVG to XAML FREE Converter or C++ SDKdescription: Free Conversion of SVG to XAML by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to HTML, SVG to HTML FREE Converter or Ruby SDKdescription: Free Conversion of SVG to HTML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

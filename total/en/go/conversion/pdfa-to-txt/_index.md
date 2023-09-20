@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT, PDFA to TXT FREE Converter or GO SDKdescription: Free Conversion of PDFA to TXT by using GO Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

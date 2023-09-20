@@ -1,0 +1,1 @@
+---title: Convert PDF to TEX, SVG to TEX FREE Converter or PHP SDKdescription: Free Conversion of SVG to TEX by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

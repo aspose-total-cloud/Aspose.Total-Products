@@ -1,0 +1,1 @@
+---title: Convert PDF to DOTX, PDFA to DOTX FREE Converter or GO SDKdescription: Free Conversion of PDFA to DOTX by using GO Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

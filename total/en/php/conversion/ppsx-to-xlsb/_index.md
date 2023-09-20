@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLSB, PPSX to XLSB FREE Converter or PHP SDKdescription: Free Conversion of PPSX to XLSB by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLSB, PPSX to XLSB FREE Converter or PHP SDKdescription: Free Conversion of PPSX to XLSB by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

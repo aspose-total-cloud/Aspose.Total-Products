@@ -1,0 +1,1 @@
+---title: Convert PDF to DOC, SVG to DOC FREE Converter or Swift SDKdescription: Free Conversion of SVG to DOC by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

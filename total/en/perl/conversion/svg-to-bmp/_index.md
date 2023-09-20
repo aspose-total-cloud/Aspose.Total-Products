@@ -1,0 +1,1 @@
+---title: Convert PDF to BMP, SVG to BMP FREE Converter or Perl SDKdescription: Free Conversion of SVG to BMP by using Perl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

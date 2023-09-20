@@ -1,0 +1,1 @@
+---title: Convert PDF to POTX, TEX to POTX FREE Converter or Net SDKdescription: Free Conversion of TEX to POTX by using Net Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

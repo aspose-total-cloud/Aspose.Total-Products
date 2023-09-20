@@ -1,1 +1,1 @@
----title: Convert Excel to GIF, XLSX to GIF FREE Converter or Python SDKdescription: Free Conversion of XLSX to GIF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to GIF, XLSX to GIF FREE Converter or Python SDKdescription: Free Conversion of XLSX to GIF by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

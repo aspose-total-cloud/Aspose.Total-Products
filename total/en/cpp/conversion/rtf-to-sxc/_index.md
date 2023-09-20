@@ -1,1 +1,1 @@
----title: Convert Word to SXC, RTF to SXC FREE Converter or CPP SDKdescription: Free Conversion of RTF to SXC by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, RTF to SXC FREE Converter or C++ SDKdescription: Free Conversion of RTF to SXC by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

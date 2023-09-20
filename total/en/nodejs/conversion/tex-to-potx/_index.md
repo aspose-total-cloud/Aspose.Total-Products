@@ -1,0 +1,1 @@
+---title: Convert PDF to POTX, TEX to POTX FREE Converter or Nodejs SDKdescription: Free Conversion of TEX to POTX by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

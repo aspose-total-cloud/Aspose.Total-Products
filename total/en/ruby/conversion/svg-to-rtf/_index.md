@@ -1,0 +1,1 @@
+---title: Convert PDF to RTF, SVG to RTF FREE Converter or Ruby SDKdescription: Free Conversion of SVG to RTF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

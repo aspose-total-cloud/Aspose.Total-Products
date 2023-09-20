@@ -1,1 +1,1 @@
----title: Convert Excel to SVG, SXC to SVG FREE Converter or Python SDKdescription: Free Conversion of SXC to SVG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to SVG, SXC to SVG FREE Converter or Python SDKdescription: Free Conversion of SXC to SVG by using Python Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

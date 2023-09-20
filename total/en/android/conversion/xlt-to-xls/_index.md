@@ -1,1 +1,1 @@
----title: Convert Excel to XLS, XLT to XLS FREE Converter or Android SDKdescription: Free Conversion of XLT to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to XLS, XLT to XLS FREE Converter or Android SDKdescription: Free Conversion of XLT to XLS by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

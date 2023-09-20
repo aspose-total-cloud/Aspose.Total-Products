@@ -1,1 +1,1 @@
----title: Convert Word to DOTX, TXT to DOTX FREE Converter or CPP SDKdescription: Free Conversion of TXT to DOTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOTX, TXT to DOTX FREE Converter or C++ SDKdescription: Free Conversion of TXT to DOTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

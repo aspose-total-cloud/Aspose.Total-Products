@@ -1,0 +1,1 @@
+---title: Convert PDF to DOC, TEX to DOC FREE Converter or Curl SDKdescription: Free Conversion of TEX to DOC by using Curl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

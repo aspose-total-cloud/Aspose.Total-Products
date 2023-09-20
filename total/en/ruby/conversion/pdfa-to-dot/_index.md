@@ -1,0 +1,1 @@
+---title: Convert PDF to DOT, PDFA to DOT FREE Converter or Ruby SDKdescription: Free Conversion of PDFA to DOT by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

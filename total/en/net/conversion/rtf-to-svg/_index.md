@@ -1,1 +1,1 @@
----title: Convert Word to SVG, RTF to SVG FREE Converter or Net SDKdescription: Free Conversion of RTF to SVG by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SVG, RTF to SVG FREE Converter or Net SDKdescription: Free Conversion of RTF to SVG by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

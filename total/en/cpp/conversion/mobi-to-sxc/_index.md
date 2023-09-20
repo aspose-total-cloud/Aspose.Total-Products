@@ -1,1 +1,1 @@
----title: Convert Word to SXC, MOBI to SXC FREE Converter or CPP SDKdescription: Free Conversion of MOBI to SXC by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to SXC, MOBI to SXC FREE Converter or C++ SDKdescription: Free Conversion of MOBI to SXC by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert PowerPoint to PNG, PPSX to PNG FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to PNG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to PNG, PPSX to PNG FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to PNG by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

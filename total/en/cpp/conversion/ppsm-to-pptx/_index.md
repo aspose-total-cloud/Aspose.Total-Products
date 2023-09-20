@@ -1,1 +1,1 @@
----title: Convert PowerPoint to PPTX, PPSM to PPTX FREE Converter or CPP SDKdescription: Free Conversion of PPSM to PPTX by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to PPTX, PPSM to PPTX FREE Converter or C++ SDKdescription: Free Conversion of PPSM to PPTX by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

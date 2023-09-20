@@ -1,1 +1,1 @@
----title: Convert Word to CSV, PDF to CSV FREE Converter or Curl SDKdescription: Free Conversion of PDF to CSV by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to CSV, PDF to CSV FREE Converter or Curl SDKdescription: Free Conversion of PDF to CSV by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

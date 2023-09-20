@@ -1,1 +1,1 @@
----title: Convert Word to JPEG, PDF to JPEG FREE Converter or Android SDKdescription: Free Conversion of PDF to JPEG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to JPEG, PDF to JPEG FREE Converter or Android SDKdescription: Free Conversion of PDF to JPEG by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

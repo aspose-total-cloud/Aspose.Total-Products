@@ -1,1 +1,1 @@
----title: Convert Word to XLSX, PDF to XLSX FREE Converter or Curl SDKdescription: Free Conversion of PDF to XLSX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLSX, PDF to XLSX FREE Converter or Curl SDKdescription: Free Conversion of PDF to XLSX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

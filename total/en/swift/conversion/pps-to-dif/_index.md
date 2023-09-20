@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DIF, PPS to DIF FREE Converter or Swift SDKdescription: Free Conversion of PPS to DIF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DIF, PPS to DIF FREE Converter or Swift SDKdescription: Free Conversion of PPS to DIF by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

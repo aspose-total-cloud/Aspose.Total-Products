@@ -1,0 +1,1 @@
+---title: Convert Word to TEX, DOC to TEX FREE Converter or Android SDKdescription: Free Conversion of DOC to TEX by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

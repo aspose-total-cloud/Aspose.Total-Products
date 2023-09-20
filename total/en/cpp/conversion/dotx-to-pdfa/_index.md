@@ -1,0 +1,1 @@
+---title: Convert Word to PDFA, DOTX to PDFA FREE Converter or C++ SDKdescription: Free Conversion of DOTX to PDFA by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

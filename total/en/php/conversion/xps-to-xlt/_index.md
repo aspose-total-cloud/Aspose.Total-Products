@@ -1,0 +1,1 @@
+---title: Convert PDF to XLT, XPS to XLT FREE Converter or PHP SDKdescription: Free Conversion of XPS to XLT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

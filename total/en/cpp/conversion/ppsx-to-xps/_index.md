@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XPS, PPSX to XPS FREE Converter or CPP SDKdescription: Free Conversion of PPSX to XPS by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XPS, PPSX to XPS FREE Converter or C++ SDKdescription: Free Conversion of PPSX to XPS by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

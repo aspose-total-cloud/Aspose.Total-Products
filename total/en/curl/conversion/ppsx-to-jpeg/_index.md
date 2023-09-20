@@ -1,1 +1,1 @@
----title: Convert PowerPoint to JPEG, PPSX to JPEG FREE Converter or Curl SDKdescription: Free Conversion of PPSX to JPEG by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to JPEG, PPSX to JPEG FREE Converter or Curl SDKdescription: Free Conversion of PPSX to JPEG by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert Word to PDFA, TXT to PDFA FREE Converter or Net SDKdescription: Free Conversion of TXT to PDFA by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

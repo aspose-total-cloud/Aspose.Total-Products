@@ -1,0 +1,1 @@
+---title: Convert PDF to FODS, SVG to FODS FREE Converter or C++ SDKdescription: Free Conversion of SVG to FODS by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

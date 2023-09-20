@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DOC, PPT to DOC FREE Converter or CPP SDKdescription: Free Conversion of PPT to DOC by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DOC, PPT to DOC FREE Converter or C++ SDKdescription: Free Conversion of PPT to DOC by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

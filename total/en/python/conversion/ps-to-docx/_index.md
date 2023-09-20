@@ -1,0 +1,1 @@
+---title: Convert PDF to DOCX, PS to DOCX FREE Converter or Python SDKdescription: Free Conversion of PS to DOCX by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

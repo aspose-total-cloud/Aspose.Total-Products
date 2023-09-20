@@ -1,1 +1,1 @@
----title: Convert PowerPoint to EPUB, POTX to EPUB FREE Converter or Ruby SDKdescription: Free Conversion of POTX to EPUB by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to EPUB, POTX to EPUB FREE Converter or Ruby SDKdescription: Free Conversion of POTX to EPUB by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

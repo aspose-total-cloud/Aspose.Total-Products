@@ -1,0 +1,1 @@
+---title: Convert PDF to SVG, XPS to SVG FREE Converter or Swift SDKdescription: Free Conversion of XPS to SVG by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

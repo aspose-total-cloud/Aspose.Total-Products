@@ -1,1 +1,1 @@
----title: Convert PowerPoint to TXT, POTX to TXT FREE Converter or Net SDKdescription: Free Conversion of POTX to TXT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to TXT, POTX to TXT FREE Converter or Net SDKdescription: Free Conversion of POTX to TXT by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

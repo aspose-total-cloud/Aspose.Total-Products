@@ -1,1 +1,1 @@
----title: Convert Word to TXT, DOTM to TXT FREE Converter or Curl SDKdescription: Free Conversion of DOTM to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOTM to TXT FREE Converter or Curl SDKdescription: Free Conversion of DOTM to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

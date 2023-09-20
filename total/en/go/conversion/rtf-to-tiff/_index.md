@@ -1,1 +1,1 @@
----title: Convert Word to TIFF, RTF to TIFF FREE Converter or GO SDKdescription: Free Conversion of RTF to TIFF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TIFF, RTF to TIFF FREE Converter or GO SDKdescription: Free Conversion of RTF to TIFF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to DOC, ODT to DOC FREE Converter or CPP SDKdescription: Free Conversion of ODT to DOC by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOC, ODT to DOC FREE Converter or C++ SDKdescription: Free Conversion of ODT to DOC by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

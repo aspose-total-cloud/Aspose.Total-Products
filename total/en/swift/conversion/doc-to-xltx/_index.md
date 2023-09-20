@@ -1,1 +1,1 @@
----title: Convert Word to XLTX, DOC to XLTX FREE Converter or Swift SDKdescription: Free Conversion of DOC to XLTX by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLTX, DOC to XLTX FREE Converter or Swift SDKdescription: Free Conversion of DOC to XLTX by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSM, PDFA to XLSM FREE Converter or Ruby SDKdescription: Free Conversion of PDFA to XLSM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

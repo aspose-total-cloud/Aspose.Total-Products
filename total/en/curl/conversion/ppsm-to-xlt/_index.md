@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLT, PPSM to XLT FREE Converter or Curl SDKdescription: Free Conversion of PPSM to XLT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLT, PPSM to XLT FREE Converter or Curl SDKdescription: Free Conversion of PPSM to XLT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

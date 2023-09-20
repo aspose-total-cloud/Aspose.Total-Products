@@ -1,0 +1,1 @@
+---title: Convert PDF to TIFF, XPS to TIFF FREE Converter or C++ SDKdescription: Free Conversion of XPS to TIFF by using C++ Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, PPSX to TEX FREE Converter or Java SDKdescription: Free Conversion of PPSX to TEX by using Java Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to DOTX, TXT to DOTX FREE Converter or Curl SDKdescription: Free Conversion of TXT to DOTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to DOTX, TXT to DOTX FREE Converter or Curl SDKdescription: Free Conversion of TXT to DOTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

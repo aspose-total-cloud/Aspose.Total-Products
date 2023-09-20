@@ -1,0 +1,1 @@
+---title: Convert PDF to TXT, PS to TXT FREE Converter or Nodejs SDKdescription: Free Conversion of PS to TXT by using Nodejs Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

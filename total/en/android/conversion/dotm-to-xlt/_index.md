@@ -1,1 +1,1 @@
----title: Convert Word to XLT, DOTM to XLT FREE Converter or Android SDKdescription: Free Conversion of DOTM to XLT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to XLT, DOTM to XLT FREE Converter or Android SDKdescription: Free Conversion of DOTM to XLT by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to TEX, PPSM to TEX FREE Converter or GO SDKdescription: Free Conversion of PPSM to TEX by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

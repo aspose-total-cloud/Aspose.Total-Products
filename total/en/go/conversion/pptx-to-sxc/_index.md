@@ -1,1 +1,1 @@
----title: Convert PowerPoint to SXC, PPTX to SXC FREE Converter or GO SDKdescription: Free Conversion of PPTX to SXC by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to SXC, PPTX to SXC FREE Converter or GO SDKdescription: Free Conversion of PPTX to SXC by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

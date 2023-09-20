@@ -1,0 +1,1 @@
+---title: Convert PDF to SXC, MHT to SXC FREE Converter or GO SDKdescription: Free Conversion of MHT to SXC by using GO Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

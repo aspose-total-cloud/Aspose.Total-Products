@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to PDFA, PPSX to PDFA FREE Converter or Android SDKdescription: Free Conversion of PPSX to PDFA by using Android Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

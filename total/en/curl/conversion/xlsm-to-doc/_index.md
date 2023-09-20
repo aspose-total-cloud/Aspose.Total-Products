@@ -1,1 +1,1 @@
----title: Convert Excel to DOC, XLSM to DOC FREE Converter or Curl SDKdescription: Free Conversion of XLSM to DOC by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to DOC, XLSM to DOC FREE Converter or Curl SDKdescription: Free Conversion of XLSM to DOC by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

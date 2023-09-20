@@ -1,0 +1,1 @@
+---title: Convert PDF to XLSM, SVG to XLSM FREE Converter or Swift SDKdescription: Free Conversion of SVG to XLSM by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

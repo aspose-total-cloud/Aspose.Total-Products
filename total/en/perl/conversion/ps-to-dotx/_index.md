@@ -1,0 +1,1 @@
+---title: Convert PDF to DOTX, PS to DOTX FREE Converter or Perl SDKdescription: Free Conversion of PS to DOTX by using Perl Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

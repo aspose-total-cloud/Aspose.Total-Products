@@ -1,0 +1,1 @@
+---title: Convert Word to MHT, DOTX to MHT FREE Converter or Swift SDKdescription: Free Conversion of DOTX to MHT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

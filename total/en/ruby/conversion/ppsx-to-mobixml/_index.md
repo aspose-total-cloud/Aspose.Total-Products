@@ -1,0 +1,1 @@
+---title: Convert PowerPoint to MOBIXML, PPSX to MOBIXML FREE Converter or Ruby SDKdescription: Free Conversion of PPSX to MOBIXML by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

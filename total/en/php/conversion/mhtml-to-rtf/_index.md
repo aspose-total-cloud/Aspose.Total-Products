@@ -1,1 +1,1 @@
----title: Convert Word to RTF, MHTML to RTF FREE Converter or PHP SDKdescription: Free Conversion of MHTML to RTF by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to RTF, MHTML to RTF FREE Converter or PHP SDKdescription: Free Conversion of MHTML to RTF by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

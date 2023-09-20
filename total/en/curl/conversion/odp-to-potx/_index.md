@@ -1,1 +1,1 @@
----title: Convert PowerPoint to POTX, ODP to POTX FREE Converter or Curl SDKdescription: Free Conversion of ODP to POTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to POTX, ODP to POTX FREE Converter or Curl SDKdescription: Free Conversion of ODP to POTX by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

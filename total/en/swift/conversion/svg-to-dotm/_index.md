@@ -1,0 +1,1 @@
+---title: Convert PDF to DOTM, SVG to DOTM FREE Converter or Swift SDKdescription: Free Conversion of SVG to DOTM by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

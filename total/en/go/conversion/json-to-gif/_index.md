@@ -1,1 +1,1 @@
----title: Convert Excel to GIF, JSON to GIF FREE Converter or GO SDKdescription: Free Conversion of JSON to GIF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---
+---title: Convert Excel to GIF, JSON to GIF FREE Converter or GO SDKdescription: Free Conversion of JSON to GIF by using GO Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

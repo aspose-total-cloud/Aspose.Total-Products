@@ -1,1 +1,1 @@
----title: Convert PowerPoint to XLTX, PPSX to XLTX FREE Converter or Net SDKdescription: Free Conversion of PPSX to XLTX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to XLTX, PPSX to XLTX FREE Converter or Net SDKdescription: Free Conversion of PPSX to XLTX by using Net Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

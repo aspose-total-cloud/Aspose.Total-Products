@@ -1,1 +1,1 @@
----title: Convert Word to TXT, DOTM to TXT FREE Converter or PHP SDKdescription: Free Conversion of DOTM to TXT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, DOTM to TXT FREE Converter or PHP SDKdescription: Free Conversion of DOTM to TXT by using PHP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

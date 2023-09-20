@@ -1,1 +1,1 @@
----title: Convert Word to PS, DOTX to PS FREE Converter or Curl SDKdescription: Free Conversion of DOTX to PS by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to PS, DOTX to PS FREE Converter or Curl SDKdescription: Free Conversion of DOTX to PS by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

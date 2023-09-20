@@ -1,0 +1,1 @@
+---title: Convert PDF to SXC, MHT to SXC FREE Converter or PHP SDKdescription: Free Conversion of MHT to SXC by using PHP Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

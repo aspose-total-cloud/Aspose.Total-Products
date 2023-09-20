@@ -1,1 +1,1 @@
----title: Convert Word to RTF, HTML to RTF FREE Converter or Ruby SDKdescription: Free Conversion of HTML to RTF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to RTF, HTML to RTF FREE Converter or Ruby SDKdescription: Free Conversion of HTML to RTF by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

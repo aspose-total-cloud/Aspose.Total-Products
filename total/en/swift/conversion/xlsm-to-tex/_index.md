@@ -1,0 +1,1 @@
+---title: Convert Excel to TEX, XLSM to TEX FREE Converter or Swift SDKdescription: Free Conversion of XLSM to TEX by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Excel, CSV and SpreadsheetML worksheets or spreadsheet in the Cloud.---

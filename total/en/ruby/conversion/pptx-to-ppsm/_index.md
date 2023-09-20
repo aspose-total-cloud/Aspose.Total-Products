@@ -1,1 +1,1 @@
----title: Convert PowerPoint to PPSM, PPTX to PPSM FREE Converter or Ruby SDKdescription: Free Conversion of PPTX to PPSM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to PPSM, PPTX to PPSM FREE Converter or Ruby SDKdescription: Free Conversion of PPTX to PPSM by using Ruby Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert Word to TXT, OTT to TXT FREE Converter or Curl SDKdescription: Free Conversion of OTT to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert Word to TXT, OTT to TXT FREE Converter or Curl SDKdescription: Free Conversion of OTT to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

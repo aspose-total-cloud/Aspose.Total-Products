@@ -1,1 +1,1 @@
----title: Convert PowerPoint to DOT, PPSM to DOT FREE Converter or CPP SDKdescription: Free Conversion of PPSM to DOT by using CPP Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to DOT, PPSM to DOT FREE Converter or C++ SDKdescription: Free Conversion of PPSM to DOT by using C++ Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

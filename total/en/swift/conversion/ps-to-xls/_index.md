@@ -1,0 +1,1 @@
+---title: Convert PDF to XLS, PS to XLS FREE Converter or Swift SDKdescription: Free Conversion of PS to XLS by using Swift Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---

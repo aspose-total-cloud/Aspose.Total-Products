@@ -1,1 +1,1 @@
----title: Convert PowerPoint to TXT, PPT to TXT FREE Converter or Curl SDKdescription: Free Conversion of PPT to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to TXT, PPT to TXT FREE Converter or Curl SDKdescription: Free Conversion of PPT to TXT by using Curl Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

@@ -1,1 +1,1 @@
----title: Convert PowerPoint to POT, PPSX to POT FREE Converter or Swift SDKdescription: Free Conversion of PPSX to POT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
+---title: Convert PowerPoint to POT, PPSX to POT FREE Converter or Swift SDKdescription: Free Conversion of PPSX to POT by using Swift Cloud APIs & SDKs. Also Create, Edit & Render Microsoft PowerPoint documents in the Cloud.---

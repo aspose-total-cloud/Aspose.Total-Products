@@ -1,0 +1,1 @@
+---title: Convert PDF to PPT, SVG to PPT FREE Converter or Python SDKdescription: Free Conversion of SVG to PPT by using Python Cloud APIs & SDKs. Also Create, Edit & Render PDF documents in the Cloud.---
