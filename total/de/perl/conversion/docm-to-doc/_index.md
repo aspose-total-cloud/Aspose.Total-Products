@@ -1,1 +1,1 @@
----title: Word umwandeln in DOC, DOCM bis DOC KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von DOCM bis DOC durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in DOC, DOCM bis DOC KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von DOCM bis DOC durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

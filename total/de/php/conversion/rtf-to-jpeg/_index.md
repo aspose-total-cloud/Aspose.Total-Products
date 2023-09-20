@@ -1,1 +1,1 @@
----title: Word umwandeln in JPEG, RTF bis JPEG KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von RTF bis JPEG durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in JPEG, RTF bis JPEG KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von RTF bis JPEG durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in DOT, POTX bis DOT KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von POTX bis DOT durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in DOT, POTX bis DOT KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von POTX bis DOT durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

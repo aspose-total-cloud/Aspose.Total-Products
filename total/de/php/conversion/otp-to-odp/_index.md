@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in ODP, OTP bis ODP KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von OTP bis ODP durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in ODP, OTP bis ODP KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von OTP bis ODP durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

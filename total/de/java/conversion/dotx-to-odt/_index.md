@@ -1,1 +1,1 @@
----title: Word umwandeln in ODT, DOTX bis ODT KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von DOTX bis ODT durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in ODT, DOTX bis ODT KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von DOTX bis ODT durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

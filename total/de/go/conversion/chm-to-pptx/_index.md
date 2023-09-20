@@ -1,1 +1,1 @@
----title: Word umwandeln in PPTX, CHM bis PPTX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von CHM bis PPTX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in PPTX, CHM bis PPTX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von CHM bis PPTX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

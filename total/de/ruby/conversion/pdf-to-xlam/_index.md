@@ -1,1 +1,1 @@
----title: Word umwandeln in XLAM, PDF bis XLAM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von PDF bis XLAM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in XLAM, PDF bis XLAM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von PDF bis XLAM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

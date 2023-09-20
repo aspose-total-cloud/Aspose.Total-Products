@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in ODP, PPS bis ODP KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von PPS bis ODP durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in ODP, PPS bis ODP KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von PPS bis ODP durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

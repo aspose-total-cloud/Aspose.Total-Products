@@ -1,1 +1,1 @@
----title: Word umwandeln in DOCX, DOTM bis DOCX KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von DOTM bis DOCX durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in DOCX, DOTM bis DOCX KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von DOTM bis DOCX durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

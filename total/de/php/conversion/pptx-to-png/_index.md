@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in PNG, PPTX bis PNG KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von PPTX bis PNG durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in PNG, PPTX bis PNG KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von PPTX bis PNG durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

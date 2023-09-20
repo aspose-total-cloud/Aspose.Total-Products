@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in PNG, POTM bis PNG KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von POTM bis PNG durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in PNG, POTM bis PNG KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von POTM bis PNG durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in XLSB, PPSX bis XLSB KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPSX bis XLSB durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in XLSB, PPSX bis XLSB KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPSX bis XLSB durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

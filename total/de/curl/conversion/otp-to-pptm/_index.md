@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in PPTM, OTP bis PPTM KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von OTP bis PPTM durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in PPTM, OTP bis PPTM KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von OTP bis PPTM durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

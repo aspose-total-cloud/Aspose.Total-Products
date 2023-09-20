@@ -1,1 +1,1 @@
----title: Word umwandeln in TXT, HTML bis TXT KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von HTML bis TXT durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in TXT, HTML bis TXT KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von HTML bis TXT durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

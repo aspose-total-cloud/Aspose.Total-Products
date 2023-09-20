@@ -1,1 +1,1 @@
----title: Word umwandeln in TIFF, MOBI bis TIFF KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von MOBI bis TIFF durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in TIFF, MOBI bis TIFF KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von MOBI bis TIFF durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

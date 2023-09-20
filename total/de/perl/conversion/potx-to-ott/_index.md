@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in OTT, POTX bis OTT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von POTX bis OTT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in OTT, POTX bis OTT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von POTX bis OTT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

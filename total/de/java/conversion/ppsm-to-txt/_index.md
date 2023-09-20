@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in TXT, PPSM bis TXT KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PPSM bis TXT durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in TXT, PPSM bis TXT KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PPSM bis TXT durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

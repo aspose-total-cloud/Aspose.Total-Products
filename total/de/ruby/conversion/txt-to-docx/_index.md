@@ -1,1 +1,1 @@
----title: Word umwandeln in DOCX, TXT bis DOCX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von TXT bis DOCX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in DOCX, TXT bis DOCX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von TXT bis DOCX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

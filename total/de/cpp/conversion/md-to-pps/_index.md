@@ -1,1 +1,1 @@
----title: Word umwandeln in PPS, MD bis PPS KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von MD bis PPS durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in PPS, MD bis PPS KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von MD bis PPS durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

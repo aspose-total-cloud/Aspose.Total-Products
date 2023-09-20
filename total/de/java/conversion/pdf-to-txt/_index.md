@@ -1,1 +1,1 @@
----title: Word umwandeln in TXT, PDF bis TXT KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PDF bis TXT durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in TXT, PDF bis TXT KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von PDF bis TXT durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

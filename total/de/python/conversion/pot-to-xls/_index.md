@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in XLS, POT bis XLS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von POT bis XLS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in XLS, POT bis XLS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von POT bis XLS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

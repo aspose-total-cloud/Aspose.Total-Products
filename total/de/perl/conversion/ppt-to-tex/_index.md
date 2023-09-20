@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in TEX, PPT bis TEX KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPT bis TEX durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

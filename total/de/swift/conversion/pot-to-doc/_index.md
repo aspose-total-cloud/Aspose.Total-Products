@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in DOC, POT bis DOC KOSTENLOSER Konverter oder Swift SDKdescription: Kostenlose Konvertierung von POT bis DOC durch Verwendung von Swift Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in DOC, POT bis DOC KOSTENLOSER Konverter oder Swift SDKdescription: Kostenlose Konvertierung von POT bis DOC durch Verwendung von Swift Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

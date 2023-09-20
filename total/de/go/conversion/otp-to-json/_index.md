@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in JSON, OTP bis JSON KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von OTP bis JSON durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in JSON, OTP bis JSON KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von OTP bis JSON durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

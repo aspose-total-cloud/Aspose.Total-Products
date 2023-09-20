@@ -1,1 +1,1 @@
----title: Word umwandeln in ODS, MD bis ODS KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von MD bis ODS durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in ODS, MD bis ODS KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von MD bis ODS durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in POT, POTX bis POT KOSTENLOSER Konverter oder Net SDKdescription: Kostenlose Konvertierung von POTX bis POT durch Verwendung von Net Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in POT, POTX bis POT KOSTENLOSER Konverter oder Net SDKdescription: Kostenlose Konvertierung von POTX bis POT durch Verwendung von Net Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

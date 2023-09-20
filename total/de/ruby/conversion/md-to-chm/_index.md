@@ -1,1 +1,1 @@
----title: Word umwandeln in CHM, MD bis CHM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von MD bis CHM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in CHM, MD bis CHM KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von MD bis CHM durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

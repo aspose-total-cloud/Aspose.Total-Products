@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in RTF, PPSX bis RTF KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPSX bis RTF durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in RTF, PPSX bis RTF KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPSX bis RTF durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

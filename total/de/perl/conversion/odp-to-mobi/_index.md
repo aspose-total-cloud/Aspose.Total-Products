@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in MOBI, ODP bis MOBI KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von ODP bis MOBI durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in MOBI, ODP bis MOBI KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von ODP bis MOBI durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

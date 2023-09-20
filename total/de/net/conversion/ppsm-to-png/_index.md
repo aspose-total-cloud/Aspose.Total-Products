@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in PNG, PPSM bis PNG KOSTENLOSER Konverter oder Net SDKdescription: Kostenlose Konvertierung von PPSM bis PNG durch Verwendung von Net Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in PNG, PPSM bis PNG KOSTENLOSER Konverter oder Net SDKdescription: Kostenlose Konvertierung von PPSM bis PNG durch Verwendung von Net Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

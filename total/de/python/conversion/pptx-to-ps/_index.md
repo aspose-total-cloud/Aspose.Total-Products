@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in PS, PPTX bis PS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPTX bis PS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in PS, PPTX bis PS KOSTENLOSER Konverter oder Python SDKdescription: Kostenlose Konvertierung von PPTX bis PS durch Verwendung von Python Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

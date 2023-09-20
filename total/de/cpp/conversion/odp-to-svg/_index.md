@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in SVG, ODP bis SVG KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von ODP bis SVG durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in SVG, ODP bis SVG KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von ODP bis SVG durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

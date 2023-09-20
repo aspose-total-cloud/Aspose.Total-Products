@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in DOT, POTM bis DOT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von POTM bis DOT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in DOT, POTM bis DOT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von POTM bis DOT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

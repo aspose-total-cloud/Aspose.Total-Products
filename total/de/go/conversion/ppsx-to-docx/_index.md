@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in DOCX, PPSX bis DOCX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPSX bis DOCX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in DOCX, PPSX bis DOCX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPSX bis DOCX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: Word umwandeln in DOT, DOCM bis DOT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von DOCM bis DOT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in DOT, DOCM bis DOT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von DOCM bis DOT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in TXT, ODP bis TXT KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von ODP bis TXT durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in TXT, ODP bis TXT KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von ODP bis TXT durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

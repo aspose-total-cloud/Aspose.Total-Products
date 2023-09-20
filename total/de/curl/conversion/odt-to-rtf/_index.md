@@ -1,1 +1,1 @@
----title: Word umwandeln in RTF, ODT bis RTF KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von ODT bis RTF durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in RTF, ODT bis RTF KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von ODT bis RTF durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

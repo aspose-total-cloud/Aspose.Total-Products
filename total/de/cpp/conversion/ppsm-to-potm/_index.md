@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in POTM, PPSM bis POTM KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von PPSM bis POTM durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in POTM, PPSM bis POTM KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von PPSM bis POTM durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

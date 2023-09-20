@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in PPSX, PPTM bis PPSX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPTM bis PPSX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in PPSX, PPTM bis PPSX KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von PPTM bis PPSX durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

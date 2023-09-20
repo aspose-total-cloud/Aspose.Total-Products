@@ -1,1 +1,1 @@
----title: Word umwandeln in ODP, DOCX bis ODP KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von DOCX bis ODP durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in ODP, DOCX bis ODP KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von DOCX bis ODP durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: Word umwandeln in PDF, TXT bis PDF KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von TXT bis PDF durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in PDF, TXT bis PDF KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von TXT bis PDF durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

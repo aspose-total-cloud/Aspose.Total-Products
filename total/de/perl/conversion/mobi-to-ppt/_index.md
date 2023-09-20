@@ -1,1 +1,1 @@
----title: Word umwandeln in PPT, MOBI bis PPT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von MOBI bis PPT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in PPT, MOBI bis PPT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von MOBI bis PPT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

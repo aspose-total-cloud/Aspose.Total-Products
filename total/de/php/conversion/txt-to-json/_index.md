@@ -1,1 +1,1 @@
----title: Word umwandeln in JSON, TXT bis JSON KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von TXT bis JSON durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in JSON, TXT bis JSON KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von TXT bis JSON durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

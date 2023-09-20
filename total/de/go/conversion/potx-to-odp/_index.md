@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in ODP, POTX bis ODP KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von POTX bis ODP durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in ODP, POTX bis ODP KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von POTX bis ODP durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

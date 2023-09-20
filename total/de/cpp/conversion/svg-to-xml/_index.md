@@ -1,0 +1,1 @@
+---title: PDF  konvertieren in XML, SVG bis XML KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von SVG bis XML durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch PDF-Dokumente in der Cloud.---

@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in OTT, OTP bis OTT KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von OTP bis OTT durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in OTT, OTP bis OTT KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von OTP bis OTT durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

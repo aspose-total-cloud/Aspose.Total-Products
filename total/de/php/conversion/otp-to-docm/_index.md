@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in DOCM, OTP bis DOCM KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von OTP bis DOCM durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in DOCM, OTP bis DOCM KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von OTP bis DOCM durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

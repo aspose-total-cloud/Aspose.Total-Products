@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in BMP, POT bis BMP KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von POT bis BMP durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in BMP, POT bis BMP KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von POT bis BMP durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

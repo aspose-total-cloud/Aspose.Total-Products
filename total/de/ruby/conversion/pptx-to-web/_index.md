@@ -1,0 +1,1 @@
+---title: PowerPoint konvertieren in WEB, PPTX bis WEB KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von PPTX bis WEB durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

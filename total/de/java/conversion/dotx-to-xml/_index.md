@@ -1,1 +1,1 @@
----title: Word umwandeln in XML, DOTX bis XML KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von DOTX bis XML durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in XML, DOTX bis XML KOSTENLOSER Konverter oder Java SDKdescription: Kostenlose Konvertierung von DOTX bis XML durch Verwendung von Java Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

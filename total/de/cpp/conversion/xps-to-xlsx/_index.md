@@ -1,0 +1,1 @@
+---title: PDF  konvertieren in XLSX, XPS bis XLSX KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von XPS bis XLSX durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch PDF-Dokumente in der Cloud.---

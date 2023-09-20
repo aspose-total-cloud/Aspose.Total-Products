@@ -1,1 +1,1 @@
----title: Word umwandeln in PPTM, RTF bis PPTM KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von RTF bis PPTM durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in PPTM, RTF bis PPTM KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von RTF bis PPTM durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

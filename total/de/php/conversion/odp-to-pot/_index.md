@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in POT, ODP bis POT KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von ODP bis POT durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in POT, ODP bis POT KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von ODP bis POT durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

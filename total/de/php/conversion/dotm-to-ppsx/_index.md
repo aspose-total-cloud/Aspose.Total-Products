@@ -1,1 +1,1 @@
----title: Word umwandeln in PPSX, DOTM bis PPSX KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von DOTM bis PPSX durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in PPSX, DOTM bis PPSX KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von DOTM bis PPSX durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

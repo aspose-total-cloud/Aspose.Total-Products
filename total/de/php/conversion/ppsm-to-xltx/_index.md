@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in XLTX, PPSM bis XLTX KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von PPSM bis XLTX durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in XLTX, PPSM bis XLTX KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von PPSM bis XLTX durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

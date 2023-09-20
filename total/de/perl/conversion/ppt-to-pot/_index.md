@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in POT, PPT bis POT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPT bis POT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in POT, PPT bis POT KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPT bis POT durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

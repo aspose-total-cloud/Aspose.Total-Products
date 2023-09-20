@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in DOCM, ODP bis DOCM KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von ODP bis DOCM durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in DOCM, ODP bis DOCM KOSTENLOSER Konverter oder Curl SDKdescription: Kostenlose Konvertierung von ODP bis DOCM durch Verwendung von Curl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

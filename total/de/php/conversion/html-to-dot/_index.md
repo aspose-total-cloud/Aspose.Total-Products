@@ -1,1 +1,1 @@
----title: Word umwandeln in DOT, HTML bis DOT KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von HTML bis DOT durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in DOT, HTML bis DOT KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von HTML bis DOT durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

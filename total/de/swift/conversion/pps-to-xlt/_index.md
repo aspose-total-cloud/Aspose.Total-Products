@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in XLT, PPS bis XLT KOSTENLOSER Konverter oder Swift SDKdescription: Kostenlose Konvertierung von PPS bis XLT durch Verwendung von Swift Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in XLT, PPS bis XLT KOSTENLOSER Konverter oder Swift SDKdescription: Kostenlose Konvertierung von PPS bis XLT durch Verwendung von Swift Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

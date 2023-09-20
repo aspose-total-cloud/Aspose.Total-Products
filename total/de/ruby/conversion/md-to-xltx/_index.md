@@ -1,1 +1,1 @@
----title: Word umwandeln in XLTX, MD bis XLTX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von MD bis XLTX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in XLTX, MD bis XLTX KOSTENLOSER Konverter oder Ruby SDKdescription: Kostenlose Konvertierung von MD bis XLTX durch Verwendung von Ruby Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

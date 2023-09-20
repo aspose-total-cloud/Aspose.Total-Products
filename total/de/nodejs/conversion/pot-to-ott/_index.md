@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in OTT, POT bis OTT KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von POT bis OTT durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in OTT, POT bis OTT KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von POT bis OTT durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

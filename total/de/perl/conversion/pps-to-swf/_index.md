@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in SWF, PPS bis SWF KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPS bis SWF durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in SWF, PPS bis SWF KOSTENLOSER Konverter oder Perl SDKdescription: Kostenlose Konvertierung von PPS bis SWF durch Verwendung von Perl Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

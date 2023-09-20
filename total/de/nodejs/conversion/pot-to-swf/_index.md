@@ -1,1 +1,1 @@
----title: PowerPoint konvertieren in SWF, POT bis SWF KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von POT bis SWF durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---
+---title: PowerPoint konvertieren in SWF, POT bis SWF KOSTENLOSER Konverter oder Nodejs SDKdescription: Kostenlose Konvertierung von POT bis SWF durch Verwendung von Nodejs Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft PowerPoint-Dokumente in der Cloud.---

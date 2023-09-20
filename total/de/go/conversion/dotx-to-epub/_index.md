@@ -1,1 +1,1 @@
----title: Word umwandeln in EPUB, DOTX bis EPUB KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von DOTX bis EPUB durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in EPUB, DOTX bis EPUB KOSTENLOSER Konverter oder GO SDKdescription: Kostenlose Konvertierung von DOTX bis EPUB durch Verwendung von GO Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---

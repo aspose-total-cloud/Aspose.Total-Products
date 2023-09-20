@@ -1,0 +1,1 @@
+---title: Excel konvertieren in TEX, SXC bis TEX KOSTENLOSER Konverter oder PHP SDKdescription: Kostenlose Konvertierung von SXC bis TEX durch Verwendung von PHP Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Excel-, CSV- und SpreadsheetML-Arbeitsblätter oder -Tabellen in der Cloud.---

@@ -1,1 +1,1 @@
----title: Word umwandeln in ODP, RTF bis ODP KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von RTF bis ODP durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
+---title: Word umwandeln in ODP, RTF bis ODP KOSTENLOSER Konverter oder C++ SDKdescription: Kostenlose Konvertierung von RTF bis ODP durch Verwendung von C++ Cloud-APIs und -SDKs. Erstellen, bearbeiten und rendern Sie auch Microsoft Word- und OpenOffice-Dokumente in der Cloud.---
