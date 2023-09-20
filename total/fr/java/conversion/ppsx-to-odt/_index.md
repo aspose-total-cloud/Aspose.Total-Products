@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en ODT, PPSX à ODT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPSX à ODT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en ODT, PPSX à ODT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPSX à ODT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

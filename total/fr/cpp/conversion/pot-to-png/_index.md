@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PNG, POT à PNG Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de POT à PNG en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PNG, POT à PNG Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de POT à PNG en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

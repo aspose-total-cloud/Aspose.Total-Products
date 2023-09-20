@@ -1,1 +1,1 @@
----title: Convertir Word en MD, DOT à MD Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de DOT à MD en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en MD, DOT à MD Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de DOT à MD en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, PPSX à DOC Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPSX à DOC en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, PPSX à DOC Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPSX à DOC en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

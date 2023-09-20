@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLS, POTX à XLS Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de POTX à XLS en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLS, POTX à XLS Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de POTX à XLS en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

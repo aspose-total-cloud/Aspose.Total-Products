@@ -1,1 +1,1 @@
----title: Convertir Word en TSV, HTML à TSV Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de HTML à TSV en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en TSV, HTML à TSV Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de HTML à TSV en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

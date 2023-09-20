@@ -1,1 +1,1 @@
----title: Convertir Word en RTF, DOTM à RTF Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de DOTM à RTF en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en RTF, DOTM à RTF Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de DOTM à RTF en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

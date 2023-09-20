@@ -1,1 +1,1 @@
----title: Convertir Word en SWF, TXT à SWF Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de TXT à SWF en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en SWF, TXT à SWF Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de TXT à SWF en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

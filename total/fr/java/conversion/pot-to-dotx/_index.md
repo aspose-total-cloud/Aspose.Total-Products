@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOTX, POT à DOTX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de POT à DOTX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOTX, POT à DOTX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de POT à DOTX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

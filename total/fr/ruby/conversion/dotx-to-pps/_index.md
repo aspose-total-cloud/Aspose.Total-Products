@@ -1,1 +1,1 @@
----title: Convertir Word en PPS, DOTX à PPS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOTX à PPS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPS, DOTX à PPS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOTX à PPS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

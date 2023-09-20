@@ -1,1 +1,1 @@
----title: Convertir Word en PPT, DOTX à PPT Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de DOTX à PPT en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPT, DOTX à PPT Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de DOTX à PPT en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

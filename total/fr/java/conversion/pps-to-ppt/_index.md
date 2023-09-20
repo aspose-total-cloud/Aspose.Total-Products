@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PPT, PPS à PPT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPS à PPT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PPT, PPS à PPT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPS à PPT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

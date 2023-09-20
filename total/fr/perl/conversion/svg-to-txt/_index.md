@@ -1,0 +1,1 @@
+---title: Convertir PDF en TXT, SVG à TXT Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de SVG à TXT en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

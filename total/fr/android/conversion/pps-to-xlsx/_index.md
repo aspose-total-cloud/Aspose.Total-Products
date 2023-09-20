@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLSX, PPS à XLSX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPS à XLSX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLSX, PPS à XLSX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPS à XLSX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

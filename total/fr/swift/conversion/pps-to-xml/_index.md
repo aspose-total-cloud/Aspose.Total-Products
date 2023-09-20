@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XML, PPS à XML Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPS à XML en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XML, PPS à XML Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPS à XML en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

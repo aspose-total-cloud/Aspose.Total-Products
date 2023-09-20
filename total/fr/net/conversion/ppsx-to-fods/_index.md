@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en FODS, PPSX à FODS Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de PPSX à FODS en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en FODS, PPSX à FODS Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de PPSX à FODS en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

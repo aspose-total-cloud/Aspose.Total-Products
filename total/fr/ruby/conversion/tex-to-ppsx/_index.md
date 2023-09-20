@@ -1,0 +1,1 @@
+---title: Convertir PDF en PPSX, TEX à PPSX Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de TEX à PPSX en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

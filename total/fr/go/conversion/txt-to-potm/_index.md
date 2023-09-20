@@ -1,1 +1,1 @@
----title: Convertir Word en POTM, TXT à POTM Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de TXT à POTM en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTM, TXT à POTM Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de TXT à POTM en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

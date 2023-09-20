@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en SVG, PPS à SVG Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPS à SVG en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en SVG, PPS à SVG Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPS à SVG en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

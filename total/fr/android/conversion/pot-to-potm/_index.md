@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en POTM, POT à POTM Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de POT à POTM en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en POTM, POT à POTM Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de POT à POTM en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

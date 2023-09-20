@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en SVG, OTP à SVG Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de OTP à SVG en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en SVG, OTP à SVG Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de OTP à SVG en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir Word en POTX, PDF à POTX Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de PDF à POTX en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTX, PDF à POTX Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de PDF à POTX en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PDF en FODS, SVG à FODS Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de SVG à FODS en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

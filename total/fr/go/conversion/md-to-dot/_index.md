@@ -1,1 +1,1 @@
----title: Convertir Word en DOT, MD à DOT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de MD à DOT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DOT, MD à DOT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de MD à DOT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

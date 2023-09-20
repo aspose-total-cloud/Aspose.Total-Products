@@ -1,1 +1,1 @@
----title: Convertir Word en BMP, MHTML à BMP Convertisseur GRATUIT ou Nodejs SDKdescription: Conversion gratuite de MHTML à BMP en utilisant Nodejs API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en BMP, MHTML à BMP Convertisseur GRATUIT ou Nodejs SDKdescription: Conversion gratuite de MHTML à BMP en utilisant Nodejs API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

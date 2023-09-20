@@ -1,0 +1,1 @@
+---title: Convertir PowerPoint en PDFA, PPSX à PDFA Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de PPSX à PDFA en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

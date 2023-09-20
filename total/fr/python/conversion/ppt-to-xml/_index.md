@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XML, PPT à XML Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPT à XML en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XML, PPT à XML Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPT à XML en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

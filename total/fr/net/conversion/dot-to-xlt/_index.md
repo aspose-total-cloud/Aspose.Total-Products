@@ -1,1 +1,1 @@
----title: Convertir Word en XLT, DOT à XLT Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOT à XLT en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XLT, DOT à XLT Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOT à XLT en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

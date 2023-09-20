@@ -1,1 +1,1 @@
----title: Convertir Word en PPSX, PDF à PPSX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PDF à PPSX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPSX, PDF à PPSX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PDF à PPSX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

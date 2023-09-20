@@ -1,1 +1,1 @@
----title: Convertir Word en POTX, DOCX à POTX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de DOCX à POTX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTX, DOCX à POTX Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de DOCX à POTX en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

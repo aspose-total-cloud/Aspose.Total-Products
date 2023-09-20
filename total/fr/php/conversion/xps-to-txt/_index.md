@@ -1,0 +1,1 @@
+---title: Convertir PDF en TXT, XPS à TXT Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de XPS à TXT en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

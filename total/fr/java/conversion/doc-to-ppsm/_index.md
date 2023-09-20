@@ -1,1 +1,1 @@
----title: Convertir Word en PPSM, DOC à PPSM Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de DOC à PPSM en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPSM, DOC à PPSM Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de DOC à PPSM en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

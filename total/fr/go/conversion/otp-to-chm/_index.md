@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en CHM, OTP à CHM Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de OTP à CHM en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en CHM, OTP à CHM Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de OTP à CHM en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

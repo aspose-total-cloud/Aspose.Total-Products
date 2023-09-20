@@ -1,1 +1,1 @@
----title: Convertir Word en DOT, DOTM à DOT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOTM à DOT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DOT, DOTM à DOT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOTM à DOT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

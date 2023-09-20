@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XAML, POT à XAML Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POT à XAML en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XAML, POT à XAML Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POT à XAML en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

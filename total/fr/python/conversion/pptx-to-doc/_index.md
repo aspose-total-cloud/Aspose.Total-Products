@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, PPTX à DOC Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPTX à DOC en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, PPTX à DOC Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPTX à DOC en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir Word en HTML, DOCM à HTML Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOCM à HTML en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en HTML, DOCM à HTML Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOCM à HTML en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

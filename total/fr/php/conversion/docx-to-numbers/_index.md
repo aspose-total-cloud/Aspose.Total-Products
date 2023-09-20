@@ -1,1 +1,1 @@
----title: Convertir Word en NUMBERS, DOCX à NUMBERS Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOCX à NUMBERS en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en NUMBERS, DOCX à NUMBERS Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOCX à NUMBERS en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir Word en PPTX, OTT à PPTX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de OTT à PPTX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPTX, OTT à PPTX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de OTT à PPTX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

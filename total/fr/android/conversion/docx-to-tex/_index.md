@@ -1,0 +1,1 @@
+---title: Convertir Word en TEX, DOCX à TEX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de DOCX à TEX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

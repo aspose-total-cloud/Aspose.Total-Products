@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en SWF, POTM à SWF Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de POTM à SWF en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en SWF, POTM à SWF Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de POTM à SWF en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

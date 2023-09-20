@@ -1,1 +1,1 @@
----title: Convertir Word en OTT, DOCX à OTT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOCX à OTT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en OTT, DOCX à OTT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de DOCX à OTT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

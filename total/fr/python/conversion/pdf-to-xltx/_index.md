@@ -1,1 +1,1 @@
----title: Convertir Word en XLTX, PDF à XLTX Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PDF à XLTX en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XLTX, PDF à XLTX Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PDF à XLTX en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

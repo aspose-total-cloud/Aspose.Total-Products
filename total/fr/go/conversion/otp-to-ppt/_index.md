@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PPT, OTP à PPT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de OTP à PPT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PPT, OTP à PPT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de OTP à PPT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en CSV, PPTM à CSV Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPTM à CSV en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en CSV, PPTM à CSV Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPTM à CSV en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir Word en POTM, DOCM à POTM Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de DOCM à POTM en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTM, DOCM à POTM Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de DOCM à POTM en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

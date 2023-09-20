@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, PPSM à DOC Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de PPSM à DOC en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, PPSM à DOC Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de PPSM à DOC en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

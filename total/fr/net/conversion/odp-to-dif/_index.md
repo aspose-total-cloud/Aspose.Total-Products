@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DIF, ODP à DIF Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de ODP à DIF en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DIF, ODP à DIF Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de ODP à DIF en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

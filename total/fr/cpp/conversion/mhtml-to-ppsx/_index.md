@@ -1,1 +1,1 @@
----title: Convertir Word en PPSX, MHTML à PPSX Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de MHTML à PPSX en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPSX, MHTML à PPSX Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de MHTML à PPSX en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

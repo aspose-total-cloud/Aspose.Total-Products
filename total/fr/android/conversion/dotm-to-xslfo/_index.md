@@ -1,0 +1,1 @@
+---title: Convertir Word en XSLFO, DOTM à XSLFO Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de DOTM à XSLFO en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

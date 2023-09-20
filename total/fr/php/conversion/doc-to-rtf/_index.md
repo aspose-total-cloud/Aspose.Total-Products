@@ -1,1 +1,1 @@
----title: Convertir Word en RTF, DOC à RTF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOC à RTF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en RTF, DOC à RTF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOC à RTF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

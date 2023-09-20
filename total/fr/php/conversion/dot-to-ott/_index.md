@@ -1,1 +1,1 @@
----title: Convertir Word en OTT, DOT à OTT Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOT à OTT en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en OTT, DOT à OTT Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOT à OTT en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir Word en PNG, MHTML à PNG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de MHTML à PNG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PNG, MHTML à PNG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de MHTML à PNG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

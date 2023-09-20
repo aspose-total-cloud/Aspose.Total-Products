@@ -1,1 +1,1 @@
----title: Convertir Word en BMP, DOCM à BMP Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de DOCM à BMP en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en BMP, DOCM à BMP Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de DOCM à BMP en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

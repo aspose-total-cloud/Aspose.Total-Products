@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en TIFF, PPTX à TIFF Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de PPTX à TIFF en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en TIFF, PPTX à TIFF Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de PPTX à TIFF en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

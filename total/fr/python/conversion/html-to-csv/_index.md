@@ -1,1 +1,1 @@
----title: Convertir Word en CSV, HTML à CSV Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de HTML à CSV en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en CSV, HTML à CSV Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de HTML à CSV en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

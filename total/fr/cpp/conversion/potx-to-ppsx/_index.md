@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PPSX, POTX à PPSX Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de POTX à PPSX en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PPSX, POTX à PPSX Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de POTX à PPSX en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

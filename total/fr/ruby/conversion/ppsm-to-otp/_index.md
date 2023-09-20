@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en OTP, PPSM à OTP Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPSM à OTP en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en OTP, PPSM à OTP Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPSM à OTP en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

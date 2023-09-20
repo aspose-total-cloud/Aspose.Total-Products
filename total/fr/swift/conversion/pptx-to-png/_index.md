@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PNG, PPTX à PNG Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPTX à PNG en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PNG, PPTX à PNG Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPTX à PNG en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

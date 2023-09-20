@@ -1,1 +1,1 @@
----title: Convertir Word en POTM, DOTX à POTM Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOTX à POTM en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTM, DOTX à POTM Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOTX à POTM en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

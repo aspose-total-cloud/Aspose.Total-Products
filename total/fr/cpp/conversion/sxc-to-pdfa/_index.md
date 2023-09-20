@@ -1,0 +1,1 @@
+---title: Convertir Excel en PDFA, SXC à PDFA Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de SXC à PDFA en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

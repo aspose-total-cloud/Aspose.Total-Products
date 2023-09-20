@@ -1,1 +1,1 @@
----title: Convertir Word en DOC, TXT à DOC Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de TXT à DOC en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DOC, TXT à DOC Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de TXT à DOC en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

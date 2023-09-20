@@ -1,1 +1,1 @@
----title: Convertir Word en TXT, CHM à TXT Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de CHM à TXT en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en TXT, CHM à TXT Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de CHM à TXT en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

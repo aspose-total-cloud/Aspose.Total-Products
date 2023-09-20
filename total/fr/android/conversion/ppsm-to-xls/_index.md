@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLS, PPSM à XLS Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPSM à XLS en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLS, PPSM à XLS Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPSM à XLS en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

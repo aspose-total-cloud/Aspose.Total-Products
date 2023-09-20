@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PNG, POT à PNG Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de POT à PNG en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PNG, POT à PNG Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de POT à PNG en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

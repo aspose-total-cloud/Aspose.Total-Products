@@ -1,1 +1,1 @@
----title: Convertir Word en DIF, DOTX à DIF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOTX à DIF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DIF, DOTX à DIF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOTX à DIF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

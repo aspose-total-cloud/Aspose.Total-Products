@@ -1,1 +1,1 @@
----title: Convertir Word en TXT, RTF à TXT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de RTF à TXT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en TXT, RTF à TXT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de RTF à TXT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

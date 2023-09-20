@@ -1,1 +1,1 @@
----title: Convertir Word en POTX, HTML à POTX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de HTML à POTX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTX, HTML à POTX Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de HTML à POTX en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

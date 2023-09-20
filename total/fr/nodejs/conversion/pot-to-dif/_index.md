@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DIF, POT à DIF Convertisseur GRATUIT ou Nodejs SDKdescription: Conversion gratuite de POT à DIF en utilisant Nodejs API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DIF, POT à DIF Convertisseur GRATUIT ou Nodejs SDKdescription: Conversion gratuite de POT à DIF en utilisant Nodejs API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

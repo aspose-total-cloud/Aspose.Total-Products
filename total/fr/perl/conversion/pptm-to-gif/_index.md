@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en GIF, PPTM à GIF Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de PPTM à GIF en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en GIF, PPTM à GIF Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de PPTM à GIF en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

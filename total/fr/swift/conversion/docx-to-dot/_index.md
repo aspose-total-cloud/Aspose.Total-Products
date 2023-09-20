@@ -1,1 +1,1 @@
----title: Convertir Word en DOT, DOCX à DOT Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de DOCX à DOT en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DOT, DOCX à DOT Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de DOCX à DOT en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

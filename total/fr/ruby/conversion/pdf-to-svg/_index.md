@@ -1,1 +1,1 @@
----title: Convertir Word en SVG, PDF à SVG Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PDF à SVG en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en SVG, PDF à SVG Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PDF à SVG en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

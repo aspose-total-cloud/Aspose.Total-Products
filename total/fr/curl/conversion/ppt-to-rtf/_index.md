@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en RTF, PPT à RTF Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de PPT à RTF en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en RTF, PPT à RTF Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de PPT à RTF en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

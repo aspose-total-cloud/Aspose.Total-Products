@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PPS, PPTM à PPS Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPTM à PPS en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PPS, PPTM à PPS Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de PPTM à PPS en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

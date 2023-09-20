@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en OTT, POT à OTT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POT à OTT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en OTT, POT à OTT Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POT à OTT en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

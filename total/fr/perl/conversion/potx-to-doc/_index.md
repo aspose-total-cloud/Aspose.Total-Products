@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, POTX à DOC Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de POTX à DOC en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, POTX à DOC Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de POTX à DOC en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

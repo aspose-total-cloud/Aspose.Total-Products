@@ -1,1 +1,1 @@
----title: Convertir Word en ODP, OTT à ODP Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTT à ODP en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en ODP, OTT à ODP Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTT à ODP en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

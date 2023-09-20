@@ -1,1 +1,1 @@
----title: Convertir Word en TIFF, DOC à TIFF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOC à TIFF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en TIFF, DOC à TIFF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de DOC à TIFF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

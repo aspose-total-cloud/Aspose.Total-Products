@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en ODS, PPTM à ODS Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPTM à ODS en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en ODS, PPTM à ODS Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPTM à ODS en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

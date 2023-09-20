@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en HTML, POT à HTML Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POT à HTML en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en HTML, POT à HTML Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POT à HTML en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

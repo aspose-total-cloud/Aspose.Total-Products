@@ -1,1 +1,1 @@
----title: Convertir Word en XML, DOTM à XML Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de DOTM à XML en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XML, DOTM à XML Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de DOTM à XML en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

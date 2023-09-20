@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en POTM, POTX à POTM Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de POTX à POTM en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en POTM, POTX à POTM Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de POTX à POTM en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, PPS à DOC Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de PPS à DOC en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, PPS à DOC Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de PPS à DOC en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

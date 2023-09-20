@@ -1,1 +1,1 @@
----title: Convertir Word en GIF, PDF à GIF Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PDF à GIF en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en GIF, PDF à GIF Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PDF à GIF en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

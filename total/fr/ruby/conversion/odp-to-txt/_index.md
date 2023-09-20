@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en TXT, ODP à TXT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de ODP à TXT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en TXT, ODP à TXT Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de ODP à TXT en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

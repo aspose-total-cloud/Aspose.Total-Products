@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PS, POTM à PS Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POTM à PS en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PS, POTM à PS Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de POTM à PS en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

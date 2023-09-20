@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, PPTM à DOC Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de PPTM à DOC en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, PPTM à DOC Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de PPTM à DOC en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

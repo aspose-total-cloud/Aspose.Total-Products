@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLSB, PPT à XLSB Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPT à XLSB en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLSB, PPT à XLSB Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPT à XLSB en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

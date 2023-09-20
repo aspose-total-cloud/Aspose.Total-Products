@@ -1,1 +1,1 @@
----title: Convertir Word en PNG, RTF à PNG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de RTF à PNG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PNG, RTF à PNG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de RTF à PNG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

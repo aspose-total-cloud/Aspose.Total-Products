@@ -1,1 +1,1 @@
----title: Convertir Word en SVG, DOCX à SVG Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOCX à SVG en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en SVG, DOCX à SVG Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOCX à SVG en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

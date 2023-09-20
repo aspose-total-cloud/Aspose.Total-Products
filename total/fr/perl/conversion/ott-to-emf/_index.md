@@ -1,1 +1,1 @@
----title: Convertir Word en EMF, OTT à EMF Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de OTT à EMF en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en EMF, OTT à EMF Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de OTT à EMF en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

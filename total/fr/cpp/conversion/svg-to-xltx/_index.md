@@ -1,0 +1,1 @@
+---title: Convertir PDF en XLTX, SVG à XLTX Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de SVG à XLTX en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

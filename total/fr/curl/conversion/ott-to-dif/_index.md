@@ -1,1 +1,1 @@
----title: Convertir Word en DIF, OTT à DIF Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de OTT à DIF en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DIF, OTT à DIF Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de OTT à DIF en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

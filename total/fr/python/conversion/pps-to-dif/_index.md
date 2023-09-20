@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DIF, PPS à DIF Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPS à DIF en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DIF, PPS à DIF Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPS à DIF en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

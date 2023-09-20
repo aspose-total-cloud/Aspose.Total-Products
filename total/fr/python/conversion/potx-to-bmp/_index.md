@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en BMP, POTX à BMP Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POTX à BMP en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en BMP, POTX à BMP Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POTX à BMP en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

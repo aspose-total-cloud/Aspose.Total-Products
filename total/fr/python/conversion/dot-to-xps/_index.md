@@ -1,1 +1,1 @@
----title: Convertir Word en XPS, DOT à XPS Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOT à XPS en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XPS, DOT à XPS Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de DOT à XPS en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLSB, POTX à XLSB Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de POTX à XLSB en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLSB, POTX à XLSB Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de POTX à XLSB en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

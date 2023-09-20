@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PPT, PPSM à PPT Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPSM à PPT en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PPT, PPSM à PPT Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPSM à PPT en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

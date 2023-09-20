@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en TXT, OTP à TXT Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de OTP à TXT en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en TXT, OTP à TXT Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de OTP à TXT en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

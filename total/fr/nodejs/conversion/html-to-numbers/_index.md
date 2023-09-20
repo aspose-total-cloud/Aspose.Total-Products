@@ -1,1 +1,1 @@
----title: Convertir Word en NUMBERS, HTML à NUMBERS Convertisseur GRATUIT ou Nodejs SDKdescription: Conversion gratuite de HTML à NUMBERS en utilisant Nodejs API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en NUMBERS, HTML à NUMBERS Convertisseur GRATUIT ou Nodejs SDKdescription: Conversion gratuite de HTML à NUMBERS en utilisant Nodejs API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

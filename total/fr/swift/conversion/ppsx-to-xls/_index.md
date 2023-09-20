@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLS, PPSX à XLS Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPSX à XLS en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLS, PPSX à XLS Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPSX à XLS en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

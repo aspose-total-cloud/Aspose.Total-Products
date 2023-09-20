@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PPTX, PPSX à PPTX Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPSX à PPTX en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PPTX, PPSX à PPTX Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de PPSX à PPTX en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

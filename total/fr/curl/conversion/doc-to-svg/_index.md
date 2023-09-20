@@ -1,1 +1,1 @@
----title: Convertir Word en SVG, DOC à SVG Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de DOC à SVG en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en SVG, DOC à SVG Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de DOC à SVG en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

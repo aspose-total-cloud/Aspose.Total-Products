@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en TXT, POTM à TXT Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de POTM à TXT en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en TXT, POTM à TXT Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de POTM à TXT en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

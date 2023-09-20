@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en GIF, ODP à GIF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de ODP à GIF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en GIF, ODP à GIF Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de ODP à GIF en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

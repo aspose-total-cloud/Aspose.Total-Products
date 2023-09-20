@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XML, POT à XML Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de POT à XML en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XML, POT à XML Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de POT à XML en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

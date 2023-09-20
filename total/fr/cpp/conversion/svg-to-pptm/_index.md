@@ -1,0 +1,1 @@
+---title: Convertir PDF en PPTM, SVG à PPTM Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de SVG à PPTM en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

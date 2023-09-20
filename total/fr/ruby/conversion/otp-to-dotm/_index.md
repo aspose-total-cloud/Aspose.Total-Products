@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOTM, OTP à DOTM Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTP à DOTM en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOTM, OTP à DOTM Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTP à DOTM en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

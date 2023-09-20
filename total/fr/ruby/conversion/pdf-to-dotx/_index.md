@@ -1,1 +1,1 @@
----title: Convertir Word en DOTX, PDF à DOTX Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PDF à DOTX en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en DOTX, PDF à DOTX Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PDF à DOTX en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

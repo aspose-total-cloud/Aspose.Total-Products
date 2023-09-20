@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en FODS, PPS à FODS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPS à FODS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en FODS, PPS à FODS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de PPS à FODS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

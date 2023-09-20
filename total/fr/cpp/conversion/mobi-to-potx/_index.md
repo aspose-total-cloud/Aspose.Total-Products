@@ -1,1 +1,1 @@
----title: Convertir Word en POTX, MOBI à POTX Convertisseur GRATUIT ou CPP SDKdescription: Conversion gratuite de MOBI à POTX en utilisant CPP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en POTX, MOBI à POTX Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de MOBI à POTX en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

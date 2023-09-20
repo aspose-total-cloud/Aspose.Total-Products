@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOCM, POTM à DOCM Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POTM à DOCM en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOCM, POTM à DOCM Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de POTM à DOCM en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

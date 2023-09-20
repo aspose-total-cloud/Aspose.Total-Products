@@ -1,0 +1,1 @@
+---title: Convertir Excel en XSLFO, XLS à XSLFO Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de XLS à XSLFO en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des feuilles de calcul ou des feuilles de calcul Microsoft Excel, CSV et SpreadsheetML dans le Cloud.---

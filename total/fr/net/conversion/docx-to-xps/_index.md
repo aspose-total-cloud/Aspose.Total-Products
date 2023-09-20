@@ -1,1 +1,1 @@
----title: Convertir Word en XPS, DOCX à XPS Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOCX à XPS en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XPS, DOCX à XPS Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de DOCX à XPS en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

@@ -1,0 +1,1 @@
+---title: Convertir PDF en DOTX, SVG à DOTX Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de SVG à DOTX en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

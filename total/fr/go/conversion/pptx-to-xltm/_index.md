@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en XLTM, PPTX à XLTM Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPTX à XLTM en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en XLTM, PPTX à XLTM Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPTX à XLTM en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

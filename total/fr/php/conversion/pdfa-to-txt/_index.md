@@ -1,0 +1,1 @@
+---title: Convertir PDF en TXT, PDFA à TXT Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de PDFA à TXT en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

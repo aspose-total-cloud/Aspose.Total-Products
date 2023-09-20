@@ -1,0 +1,1 @@
+---title: Convertir PDF en XLSX, SVG à XLSX Convertisseur GRATUIT ou Swift SDKdescription: Conversion gratuite de SVG à XLSX en utilisant Swift API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir Word en TIFF, OTT à TIFF Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de OTT à TIFF en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en TIFF, OTT à TIFF Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de OTT à TIFF en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

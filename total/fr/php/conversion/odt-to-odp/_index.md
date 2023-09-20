@@ -1,1 +1,1 @@
----title: Convertir Word en ODP, ODT à ODP Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de ODT à ODP en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en ODP, ODT à ODP Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de ODT à ODP en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

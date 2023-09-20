@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en JSON, PPTX à JSON Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPTX à JSON en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en JSON, PPTX à JSON Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de PPTX à JSON en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

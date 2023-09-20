@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en DOC, PPSM à DOC Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPSM à DOC en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en DOC, PPSM à DOC Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPSM à DOC en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

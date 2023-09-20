@@ -1,1 +1,1 @@
----title: Convertir Word en XLT, MHTML à XLT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de MHTML à XLT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XLT, MHTML à XLT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de MHTML à XLT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

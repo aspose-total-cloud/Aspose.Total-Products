@@ -1,1 +1,1 @@
----title: Convertir Word en PPTX, DOTX à PPTX Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de DOTX à PPTX en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPTX, DOTX à PPTX Convertisseur GRATUIT ou GO SDKdescription: Conversion gratuite de DOTX à PPTX en utilisant GO API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

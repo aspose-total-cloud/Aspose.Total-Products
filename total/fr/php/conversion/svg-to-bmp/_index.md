@@ -1,0 +1,1 @@
+---title: Convertir PDF en BMP, SVG à BMP Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de SVG à BMP en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

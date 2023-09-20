@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en BMP, PPTX à BMP Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de PPTX à BMP en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en BMP, PPTX à BMP Convertisseur GRATUIT ou Perl SDKdescription: Conversion gratuite de PPTX à BMP en utilisant Perl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

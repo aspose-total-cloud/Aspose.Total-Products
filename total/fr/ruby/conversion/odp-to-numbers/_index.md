@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en NUMBERS, ODP à NUMBERS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de ODP à NUMBERS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en NUMBERS, ODP à NUMBERS Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de ODP à NUMBERS en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

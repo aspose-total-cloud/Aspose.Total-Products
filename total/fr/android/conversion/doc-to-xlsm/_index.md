@@ -1,1 +1,1 @@
----title: Convertir Word en XLSM, DOC à XLSM Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de DOC à XLSM en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en XLSM, DOC à XLSM Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de DOC à XLSM en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

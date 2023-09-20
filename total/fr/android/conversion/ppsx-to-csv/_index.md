@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en CSV, PPSX à CSV Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPSX à CSV en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en CSV, PPSX à CSV Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPSX à CSV en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

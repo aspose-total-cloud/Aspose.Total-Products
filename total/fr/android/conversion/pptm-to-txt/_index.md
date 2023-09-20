@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en TXT, PPTM à TXT Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPTM à TXT en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en TXT, PPTM à TXT Convertisseur GRATUIT ou Android SDKdescription: Conversion gratuite de PPTM à TXT en utilisant Android API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

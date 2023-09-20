@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en SVG, PPS à SVG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPS à SVG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en SVG, PPS à SVG Convertisseur GRATUIT ou Python SDKdescription: Conversion gratuite de PPS à SVG en utilisant Python API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

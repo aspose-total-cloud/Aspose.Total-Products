@@ -1,1 +1,1 @@
----title: Convertir Word en JSON, RTF à JSON Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de RTF à JSON en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en JSON, RTF à JSON Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de RTF à JSON en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---

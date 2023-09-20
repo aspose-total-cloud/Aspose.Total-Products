@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en ODT, POT à ODT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de POT à ODT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en ODT, POT à ODT Convertisseur GRATUIT ou Java SDKdescription: Conversion gratuite de POT à ODT en utilisant Java API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

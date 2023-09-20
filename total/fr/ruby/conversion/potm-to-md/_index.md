@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en MD, POTM à MD Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de POTM à MD en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en MD, POTM à MD Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de POTM à MD en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

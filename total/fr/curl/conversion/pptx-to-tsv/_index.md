@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en TSV, PPTX à TSV Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de PPTX à TSV en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en TSV, PPTX à TSV Convertisseur GRATUIT ou Curl SDKdescription: Conversion gratuite de PPTX à TSV en utilisant Curl API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

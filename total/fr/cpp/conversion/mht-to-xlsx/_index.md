@@ -1,0 +1,1 @@
+---title: Convertir PDF en XLSX, MHT à XLSX Convertisseur GRATUIT ou C++ SDKdescription: Conversion gratuite de MHT à XLSX en utilisant C++ API Cloud et SDK. Créez, modifiez et affichez également des documents PDF dans le Cloud.---

@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en GIF, OTP à GIF Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTP à GIF en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en GIF, OTP à GIF Convertisseur GRATUIT ou Ruby SDKdescription: Conversion gratuite de OTP à GIF en utilisant Ruby API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

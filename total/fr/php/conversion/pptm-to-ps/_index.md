@@ -1,1 +1,1 @@
----title: Convertir PowerPoint en PS, PPTM à PS Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de PPTM à PS en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---
+---title: Convertir PowerPoint en PS, PPTM à PS Convertisseur GRATUIT ou PHP SDKdescription: Conversion gratuite de PPTM à PS en utilisant PHP API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft PowerPoint dans le Cloud.---

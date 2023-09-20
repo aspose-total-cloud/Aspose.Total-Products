@@ -1,1 +1,1 @@
----title: Convertir Word en PPT, OTT à PPT Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de OTT à PPT en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
+---title: Convertir Word en PPT, OTT à PPT Convertisseur GRATUIT ou Net SDKdescription: Conversion gratuite de OTT à PPT en utilisant Net API Cloud et SDK. Créez, modifiez et affichez également des documents Microsoft Word et OpenOffice dans le Cloud.---
