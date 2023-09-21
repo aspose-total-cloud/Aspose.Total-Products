@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TIFF, POTX para TIFF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para TIFF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TIFF, POTX para TIFF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para TIFF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

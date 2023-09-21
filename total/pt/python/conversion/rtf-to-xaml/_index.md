@@ -1,1 +1,1 @@
----title: Converter Word para XAML, RTF para XAML Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de RTF para XAML usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XAML, RTF para XAML Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de RTF para XAML usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

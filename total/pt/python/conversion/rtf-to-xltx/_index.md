@@ -1,1 +1,1 @@
----title: Converter Word para XLTX, RTF para XLTX Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de RTF para XLTX usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLTX, RTF para XLTX Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de RTF para XLTX usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

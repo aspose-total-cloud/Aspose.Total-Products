@@ -1,1 +1,1 @@
----title: Converter PowerPoint para GIF, PPSX para GIF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSX para GIF usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para GIF, PPSX para GIF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSX para GIF usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

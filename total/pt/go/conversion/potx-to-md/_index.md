@@ -1,1 +1,1 @@
----title: Converter PowerPoint para MD, POTX para MD Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de POTX para MD usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para MD, POTX para MD Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de POTX para MD usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

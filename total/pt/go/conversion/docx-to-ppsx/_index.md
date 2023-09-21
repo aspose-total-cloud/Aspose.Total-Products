@@ -1,1 +1,1 @@
----title: Converter Word para PPSX, DOCX para PPSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de DOCX para PPSX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSX, DOCX para PPSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de DOCX para PPSX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

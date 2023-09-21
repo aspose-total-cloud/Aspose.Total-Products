@@ -1,1 +1,1 @@
----title: Converter PowerPoint para EMF, PPSM para EMF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPSM para EMF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para EMF, PPSM para EMF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPSM para EMF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLSB, PPT para XLSB Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPT para XLSB usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLSB, PPT para XLSB Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPT para XLSB usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

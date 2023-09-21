@@ -1,0 +1,1 @@
+---title: Converter PDF para PPSX, TEX para PPSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de TEX para PPSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

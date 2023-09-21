@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PPTX, PPT para PPTX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPT para PPTX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PPTX, PPT para PPTX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPT para PPTX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TXT, POTX para TXT Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POTX para TXT usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TXT, POTX para TXT Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POTX para TXT usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: Converter PDF para PPTX, SVG para PPTX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de SVG para PPTX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

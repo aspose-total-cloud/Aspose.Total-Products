@@ -1,1 +1,1 @@
----title: Converter Word para BMP, CHM para BMP Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de CHM para BMP usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para BMP, CHM para BMP Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de CHM para BMP usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODT, PPSX para ODT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPSX para ODT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODT, PPSX para ODT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPSX para ODT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

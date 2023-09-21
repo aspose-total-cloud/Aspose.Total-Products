@@ -1,1 +1,1 @@
----title: Converter Word para XLT, CHM para XLT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de CHM para XLT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLT, CHM para XLT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de CHM para XLT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

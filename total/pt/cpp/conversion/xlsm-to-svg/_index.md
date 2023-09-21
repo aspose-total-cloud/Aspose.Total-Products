@@ -1,1 +1,1 @@
----title: Converter Excel para SVG, XLSM para SVG Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de XLSM para SVG usando C++ APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para SVG, XLSM para SVG Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de XLSM para SVG usando C++ APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para NUMBERS, DOCM para NUMBERS Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOCM para NUMBERS usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para NUMBERS, DOCM para NUMBERS Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOCM para NUMBERS usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

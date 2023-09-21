@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODT, ODP para ODT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de ODP para ODT usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODT, ODP para ODT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de ODP para ODT usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

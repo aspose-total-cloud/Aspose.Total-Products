@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOT, PPTX para DOT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPTX para DOT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOT, PPTX para DOT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPTX para DOT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

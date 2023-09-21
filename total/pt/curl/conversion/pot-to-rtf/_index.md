@@ -1,1 +1,1 @@
----title: Converter PowerPoint para RTF, POT para RTF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POT para RTF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para RTF, POT para RTF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POT para RTF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

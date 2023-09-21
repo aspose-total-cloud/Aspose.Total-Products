@@ -1,1 +1,1 @@
----title: Converter PowerPoint para POT, PPTX para POT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTX para POT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para POT, PPTX para POT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTX para POT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

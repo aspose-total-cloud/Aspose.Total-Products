@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODP, PPSX para ODP Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSX para ODP usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODP, PPSX para ODP Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSX para ODP usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

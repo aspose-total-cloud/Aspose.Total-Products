@@ -1,1 +1,1 @@
----title: Converter Excel para SXC, XLS para SXC Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLS para SXC usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para SXC, XLS para SXC Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLS para SXC usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

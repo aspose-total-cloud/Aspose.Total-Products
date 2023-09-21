@@ -1,1 +1,1 @@
----title: Converter PowerPoint para EMF, POTM para EMF Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de POTM para EMF usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para EMF, POTM para EMF Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de POTM para EMF usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

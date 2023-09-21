@@ -1,0 +1,1 @@
+---title: Converter PDF para SXC, SVG para SXC Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de SVG para SXC usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

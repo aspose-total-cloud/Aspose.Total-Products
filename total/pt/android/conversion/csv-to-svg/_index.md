@@ -1,1 +1,1 @@
----title: Converter Excel para SVG, CSV para SVG Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de CSV para SVG usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para SVG, CSV para SVG Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de CSV para SVG usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

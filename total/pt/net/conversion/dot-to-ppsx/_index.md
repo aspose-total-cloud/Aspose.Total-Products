@@ -1,1 +1,1 @@
----title: Converter Word para PPSX, DOT para PPSX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOT para PPSX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSX, DOT para PPSX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOT para PPSX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

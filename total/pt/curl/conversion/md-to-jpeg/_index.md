@@ -1,1 +1,1 @@
----title: Converter Word para JPEG, MD para JPEG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de MD para JPEG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para JPEG, MD para JPEG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de MD para JPEG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

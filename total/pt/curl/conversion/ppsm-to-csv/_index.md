@@ -1,1 +1,1 @@
----title: Converter PowerPoint para CSV, PPSM para CSV Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSM para CSV usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para CSV, PPSM para CSV Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSM para CSV usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para TXT, DOTX para TXT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para TXT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TXT, DOTX para TXT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para TXT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

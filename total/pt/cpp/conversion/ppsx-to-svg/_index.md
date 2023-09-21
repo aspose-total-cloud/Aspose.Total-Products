@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SVG, PPSX para SVG Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPSX para SVG usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SVG, PPSX para SVG Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPSX para SVG usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TEX, POTM para TEX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POTM para TEX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

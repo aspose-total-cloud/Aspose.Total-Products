@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODS, PPSX para ODS Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPSX para ODS usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODS, PPSX para ODS Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPSX para ODS usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

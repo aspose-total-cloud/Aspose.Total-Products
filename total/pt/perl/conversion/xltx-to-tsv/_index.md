@@ -1,1 +1,1 @@
----title: Converter Excel para TSV, XLTX para TSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de XLTX para TSV usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para TSV, XLTX para TSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de XLTX para TSV usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

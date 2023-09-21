@@ -1,0 +1,1 @@
+---title: Converter PDF para POTX, PS para POTX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PS para POTX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

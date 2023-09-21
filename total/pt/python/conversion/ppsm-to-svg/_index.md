@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SVG, PPSM para SVG Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSM para SVG usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SVG, PPSM para SVG Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSM para SVG usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

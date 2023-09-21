@@ -1,1 +1,1 @@
----title: Converter Word para DOC, TXT para DOC Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de TXT para DOC usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para DOC, TXT para DOC Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de TXT para DOC usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

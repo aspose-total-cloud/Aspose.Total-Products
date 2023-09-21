@@ -1,1 +1,1 @@
----title: Converter Word para PPSX, MHTML para PPSX Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de MHTML para PPSX usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSX, MHTML para PPSX Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de MHTML para PPSX usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

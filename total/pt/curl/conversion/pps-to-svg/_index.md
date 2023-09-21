@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SVG, PPS para SVG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPS para SVG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SVG, PPS para SVG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPS para SVG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

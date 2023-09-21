@@ -1,0 +1,1 @@
+---title: Converter PDF para PPTX, PS para PPTX Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PS para PPTX usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

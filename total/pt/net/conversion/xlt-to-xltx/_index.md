@@ -1,1 +1,1 @@
----title: Converter Excel para XLTX, XLT para XLTX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLT para XLTX usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para XLTX, XLT para XLTX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLT para XLTX usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Excel para GIF, FODS para GIF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de FODS para GIF usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para GIF, FODS para GIF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de FODS para GIF usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

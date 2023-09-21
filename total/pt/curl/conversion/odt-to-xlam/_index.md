@@ -1,1 +1,1 @@
----title: Converter Word para XLAM, ODT para XLAM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de ODT para XLAM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLAM, ODT para XLAM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de ODT para XLAM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

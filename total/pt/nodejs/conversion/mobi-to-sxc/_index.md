@@ -1,1 +1,1 @@
----title: Converter Word para SXC, MOBI para SXC Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de MOBI para SXC usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SXC, MOBI para SXC Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de MOBI para SXC usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

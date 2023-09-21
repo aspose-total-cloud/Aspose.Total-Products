@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XML, PPTX para XML Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPTX para XML usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XML, PPTX para XML Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPTX para XML usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

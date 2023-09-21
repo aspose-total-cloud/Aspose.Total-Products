@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, PPTX para BMP Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de PPTX para BMP usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, PPTX para BMP Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de PPTX para BMP usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

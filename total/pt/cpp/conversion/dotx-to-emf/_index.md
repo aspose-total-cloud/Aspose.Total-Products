@@ -1,1 +1,1 @@
----title: Converter Word para EMF, DOTX para EMF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de DOTX para EMF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para EMF, DOTX para EMF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de DOTX para EMF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

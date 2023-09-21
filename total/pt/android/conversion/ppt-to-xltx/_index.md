@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLTX, PPT para XLTX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPT para XLTX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLTX, PPT para XLTX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPT para XLTX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

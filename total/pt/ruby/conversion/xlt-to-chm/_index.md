@@ -1,1 +1,1 @@
----title: Converter Excel para CHM, XLT para CHM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLT para CHM usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para CHM, XLT para CHM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLT para CHM usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

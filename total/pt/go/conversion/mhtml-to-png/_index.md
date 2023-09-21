@@ -1,1 +1,1 @@
----title: Converter Word para PNG, MHTML para PNG Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de MHTML para PNG usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PNG, MHTML para PNG Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de MHTML para PNG usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

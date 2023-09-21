@@ -1,1 +1,1 @@
----title: Converter Word para POTX, DOC para POTX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOC para POTX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para POTX, DOC para POTX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOC para POTX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

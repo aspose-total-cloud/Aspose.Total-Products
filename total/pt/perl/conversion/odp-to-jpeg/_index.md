@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JPEG, ODP para JPEG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de ODP para JPEG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JPEG, ODP para JPEG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de ODP para JPEG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

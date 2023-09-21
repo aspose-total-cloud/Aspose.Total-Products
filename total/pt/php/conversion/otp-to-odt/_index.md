@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODT, OTP para ODT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de OTP para ODT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODT, OTP para ODT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de OTP para ODT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

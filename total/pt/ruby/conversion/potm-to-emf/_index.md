@@ -1,1 +1,1 @@
----title: Converter PowerPoint para EMF, POTM para EMF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTM para EMF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para EMF, POTM para EMF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de POTM para EMF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

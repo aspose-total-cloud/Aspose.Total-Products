@@ -1,1 +1,1 @@
----title: Converter Word para XLTX, PDF para XLTX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PDF para XLTX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLTX, PDF para XLTX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PDF para XLTX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para EMF, TXT para EMF Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de TXT para EMF usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para EMF, TXT para EMF Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de TXT para EMF usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

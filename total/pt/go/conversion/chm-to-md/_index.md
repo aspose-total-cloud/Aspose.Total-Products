@@ -1,1 +1,1 @@
----title: Converter Word para MD, CHM para MD Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de CHM para MD usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para MD, CHM para MD Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de CHM para MD usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para POT, MD para POT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de MD para POT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para POT, MD para POT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de MD para POT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

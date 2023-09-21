@@ -1,1 +1,1 @@
----title: Converter Word para PPSM, MD para PPSM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MD para PPSM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSM, MD para PPSM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MD para PPSM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

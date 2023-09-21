@@ -1,0 +1,1 @@
+---title: Converter PDF para SXC, TEX para SXC Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de TEX para SXC usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

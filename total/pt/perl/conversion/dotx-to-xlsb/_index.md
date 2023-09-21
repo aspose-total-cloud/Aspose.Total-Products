@@ -1,1 +1,1 @@
----title: Converter Word para XLSB, DOTX para XLSB Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para XLSB usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLSB, DOTX para XLSB Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para XLSB usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

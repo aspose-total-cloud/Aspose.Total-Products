@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JSON, POTM para JSON Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTM para JSON usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JSON, POTM para JSON Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTM para JSON usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

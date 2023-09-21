@@ -1,1 +1,1 @@
----title: Converter Word para ODT, DOTX para ODT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para ODT usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para ODT, DOTX para ODT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para ODT usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

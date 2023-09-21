@@ -1,1 +1,1 @@
----title: Converter Excel para PS, XLSM para PS Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de XLSM para PS usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para PS, XLSM para PS Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de XLSM para PS usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

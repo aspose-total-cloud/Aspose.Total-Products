@@ -1,1 +1,1 @@
----title: Converter Word para JPEG, DOCM para JPEG Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOCM para JPEG usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para JPEG, DOCM para JPEG Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOCM para JPEG usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para XLT, RTF para XLT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de RTF para XLT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLT, RTF para XLT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de RTF para XLT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

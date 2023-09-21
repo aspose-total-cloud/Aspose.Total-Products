@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, OTP para BMP Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de OTP para BMP usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, OTP para BMP Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de OTP para BMP usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

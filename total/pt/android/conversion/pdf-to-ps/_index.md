@@ -1,1 +1,1 @@
----title: Converter Word para PS, PDF para PS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PDF para PS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PS, PDF para PS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PDF para PS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

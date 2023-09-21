@@ -1,1 +1,1 @@
----title: Converter Word para RTF, PDF para RTF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PDF para RTF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para RTF, PDF para RTF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PDF para RTF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

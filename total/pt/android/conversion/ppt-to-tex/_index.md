@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TEX, PPT para TEX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPT para TEX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

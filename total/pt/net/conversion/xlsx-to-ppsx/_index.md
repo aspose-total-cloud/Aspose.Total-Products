@@ -1,1 +1,1 @@
----title: Converter Excel para PPSX, XLSX para PPSX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLSX para PPSX usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para PPSX, XLSX para PPSX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de XLSX para PPSX usando Net APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

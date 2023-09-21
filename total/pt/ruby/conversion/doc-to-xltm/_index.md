@@ -1,1 +1,1 @@
----title: Converter Word para XLTM, DOC para XLTM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOC para XLTM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLTM, DOC para XLTM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOC para XLTM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

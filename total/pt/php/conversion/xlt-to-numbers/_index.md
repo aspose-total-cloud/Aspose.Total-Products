@@ -1,1 +1,1 @@
----title: Converter Excel para NUMBERS, XLT para NUMBERS Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de XLT para NUMBERS usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para NUMBERS, XLT para NUMBERS Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de XLT para NUMBERS usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

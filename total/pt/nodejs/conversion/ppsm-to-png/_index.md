@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PNG, PPSM para PNG Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPSM para PNG usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PNG, PPSM para PNG Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPSM para PNG usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

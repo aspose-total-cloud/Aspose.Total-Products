@@ -1,1 +1,1 @@
----title: Converter Word para NUMBERS, DOTX para NUMBERS Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para NUMBERS usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para NUMBERS, DOTX para NUMBERS Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para NUMBERS usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para DIF, DOTM para DIF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTM para DIF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para DIF, DOTM para DIF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTM para DIF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

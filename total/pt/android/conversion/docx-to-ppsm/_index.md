@@ -1,1 +1,1 @@
----title: Converter Word para PPSM, DOCX para PPSM Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOCX para PPSM usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSM, DOCX para PPSM Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOCX para PPSM usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

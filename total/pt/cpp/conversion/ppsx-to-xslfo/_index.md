@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para XSLFO, PPSX para XSLFO Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPSX para XSLFO usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

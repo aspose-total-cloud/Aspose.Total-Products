@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, ODP para BMP Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de ODP para BMP usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, ODP para BMP Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de ODP para BMP usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

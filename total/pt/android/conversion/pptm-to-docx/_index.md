@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOCX, PPTM para DOCX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPTM para DOCX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOCX, PPTM para DOCX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPTM para DOCX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

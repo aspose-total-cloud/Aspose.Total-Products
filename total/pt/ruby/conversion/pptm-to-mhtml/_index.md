@@ -1,1 +1,1 @@
----title: Converter PowerPoint para MHTML, PPTM para MHTML Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTM para MHTML usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para MHTML, PPTM para MHTML Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPTM para MHTML usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

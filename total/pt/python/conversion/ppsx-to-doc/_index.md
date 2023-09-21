@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOC, PPSX para DOC Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSX para DOC usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOC, PPSX para DOC Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSX para DOC usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

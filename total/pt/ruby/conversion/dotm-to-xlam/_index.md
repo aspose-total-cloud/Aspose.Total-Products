@@ -1,1 +1,1 @@
----title: Converter Word para XLAM, DOTM para XLAM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTM para XLAM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLAM, DOTM para XLAM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTM para XLAM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

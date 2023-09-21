@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, POT para BMP Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para BMP usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, POT para BMP Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para BMP usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

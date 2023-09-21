@@ -1,1 +1,1 @@
----title: Converter Word para PS, ODT para PS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODT para PS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PS, ODT para PS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODT para PS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

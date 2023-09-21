@@ -1,1 +1,1 @@
----title: Converter PowerPoint para EMF, PPTX para EMF Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTX para EMF usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para EMF, PPTX para EMF Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTX para EMF usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para PPTM, MHTML para PPTM Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de MHTML para PPTM usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPTM, MHTML para PPTM Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de MHTML para PPTM usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

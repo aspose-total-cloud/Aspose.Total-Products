@@ -1,0 +1,1 @@
+---title: Converter Excel para TEX, XLS para TEX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de XLS para TEX usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

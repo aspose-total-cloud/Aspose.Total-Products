@@ -1,1 +1,1 @@
----title: Converter Word para PPSX, TXT para PPSX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de TXT para PPSX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSX, TXT para PPSX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de TXT para PPSX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

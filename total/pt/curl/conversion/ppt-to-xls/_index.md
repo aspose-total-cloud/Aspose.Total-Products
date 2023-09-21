@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLS, PPT para XLS Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPT para XLS usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLS, PPT para XLS Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPT para XLS usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

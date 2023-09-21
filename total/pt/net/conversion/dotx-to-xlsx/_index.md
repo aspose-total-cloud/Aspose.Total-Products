@@ -1,1 +1,1 @@
----title: Converter Word para XLSX, DOTX para XLSX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOTX para XLSX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLSX, DOTX para XLSX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOTX para XLSX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

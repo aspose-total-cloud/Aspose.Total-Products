@@ -1,1 +1,1 @@
----title: Converter Word para PPSM, DOT para PPSM Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de DOT para PPSM usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPSM, DOT para PPSM Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de DOT para PPSM usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

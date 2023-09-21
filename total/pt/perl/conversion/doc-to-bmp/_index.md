@@ -1,1 +1,1 @@
----title: Converter Word para BMP, DOC para BMP Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOC para BMP usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para BMP, DOC para BMP Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOC para BMP usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

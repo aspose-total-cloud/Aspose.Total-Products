@@ -1,1 +1,1 @@
----title: Converter Word para TIFF, PDF para TIFF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PDF para TIFF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TIFF, PDF para TIFF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PDF para TIFF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

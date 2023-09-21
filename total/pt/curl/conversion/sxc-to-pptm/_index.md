@@ -1,1 +1,1 @@
----title: Converter Excel para PPTM, SXC para PPTM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de SXC para PPTM usando Curl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para PPTM, SXC para PPTM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de SXC para PPTM usando Curl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

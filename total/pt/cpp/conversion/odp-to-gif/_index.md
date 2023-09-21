@@ -1,1 +1,1 @@
----title: Converter PowerPoint para GIF, ODP para GIF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de ODP para GIF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para GIF, ODP para GIF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de ODP para GIF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

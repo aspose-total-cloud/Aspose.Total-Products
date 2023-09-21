@@ -1,1 +1,1 @@
----title: Converter Word para POT, PDF para POT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PDF para POT usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para POT, PDF para POT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PDF para POT usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

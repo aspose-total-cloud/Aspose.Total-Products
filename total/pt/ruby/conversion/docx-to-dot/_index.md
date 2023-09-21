@@ -1,1 +1,1 @@
----title: Converter Word para DOT, DOCX para DOT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOCX para DOT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para DOT, DOCX para DOT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOCX para DOT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

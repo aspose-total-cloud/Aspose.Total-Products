@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TXT, POT para TXT Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POT para TXT usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TXT, POT para TXT Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de POT para TXT usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

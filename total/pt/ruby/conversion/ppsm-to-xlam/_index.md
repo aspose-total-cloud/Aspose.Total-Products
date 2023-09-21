@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLAM, PPSM para XLAM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para XLAM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLAM, PPSM para XLAM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para XLAM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

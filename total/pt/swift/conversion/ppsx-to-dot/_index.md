@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOT, PPSX para DOT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSX para DOT usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOT, PPSX para DOT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSX para DOT usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

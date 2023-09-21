@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TIFF, PPT para TIFF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPT para TIFF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TIFF, PPT para TIFF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPT para TIFF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PNG, POTX para PNG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POTX para PNG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PNG, POTX para PNG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de POTX para PNG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

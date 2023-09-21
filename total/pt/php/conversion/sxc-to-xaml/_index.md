@@ -1,1 +1,1 @@
----title: Converter Excel para XAML, SXC para XAML Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de SXC para XAML usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para XAML, SXC para XAML Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de SXC para XAML usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para XLT, TXT para XLT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de TXT para XLT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLT, TXT para XLT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de TXT para XLT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

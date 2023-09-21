@@ -1,1 +1,1 @@
----title: Converter Word para PCL, DOC para PCL Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOC para PCL usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PCL, DOC para PCL Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOC para PCL usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

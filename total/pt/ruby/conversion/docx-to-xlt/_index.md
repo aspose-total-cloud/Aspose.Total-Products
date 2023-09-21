@@ -1,1 +1,1 @@
----title: Converter Word para XLT, DOCX para XLT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOCX para XLT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLT, DOCX para XLT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOCX para XLT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

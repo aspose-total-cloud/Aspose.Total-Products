@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOCX, PPTX para DOCX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPTX para DOCX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOCX, PPTX para DOCX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPTX para DOCX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

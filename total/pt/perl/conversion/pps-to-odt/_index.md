@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODT, PPS para ODT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPS para ODT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODT, PPS para ODT Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPS para ODT usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

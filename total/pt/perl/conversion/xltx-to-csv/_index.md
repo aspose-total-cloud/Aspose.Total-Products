@@ -1,1 +1,1 @@
----title: Converter Excel para CSV, XLTX para CSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de XLTX para CSV usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para CSV, XLTX para CSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de XLTX para CSV usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

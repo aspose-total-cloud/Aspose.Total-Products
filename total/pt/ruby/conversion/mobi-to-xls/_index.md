@@ -1,1 +1,1 @@
----title: Converter Word para XLS, MOBI para XLS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para XLS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLS, MOBI para XLS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para XLS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

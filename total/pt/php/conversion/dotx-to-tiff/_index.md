@@ -1,1 +1,1 @@
----title: Converter Word para TIFF, DOTX para TIFF Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de DOTX para TIFF usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TIFF, DOTX para TIFF Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de DOTX para TIFF usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

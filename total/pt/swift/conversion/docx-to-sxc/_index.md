@@ -1,1 +1,1 @@
----title: Converter Word para SXC, DOCX para SXC Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOCX para SXC usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SXC, DOCX para SXC Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOCX para SXC usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

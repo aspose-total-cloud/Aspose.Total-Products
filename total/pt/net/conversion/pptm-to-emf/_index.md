@@ -1,1 +1,1 @@
----title: Converter PowerPoint para EMF, PPTM para EMF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPTM para EMF usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para EMF, PPTM para EMF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPTM para EMF usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TEX, PPSX para TEX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPSX para TEX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para XAML, DOC para XAML Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOC para XAML usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XAML, DOC para XAML Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de DOC para XAML usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

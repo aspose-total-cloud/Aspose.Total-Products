@@ -1,1 +1,1 @@
----title: Converter Word para PPT, CHM para PPT Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de CHM para PPT usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PPT, CHM para PPT Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de CHM para PPT usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para SWF, MOBI para SWF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para SWF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SWF, MOBI para SWF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para SWF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLTX, PPT para XLTX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPT para XLTX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLTX, PPT para XLTX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPT para XLTX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para POTX, DOCM para POTX Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de DOCM para POTX usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para POTX, DOCM para POTX Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de DOCM para POTX usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

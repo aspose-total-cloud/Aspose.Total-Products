@@ -1,1 +1,1 @@
----title: Converter PowerPoint para ODT, PPT para ODT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPT para ODT usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para ODT, PPT para ODT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPT para ODT usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

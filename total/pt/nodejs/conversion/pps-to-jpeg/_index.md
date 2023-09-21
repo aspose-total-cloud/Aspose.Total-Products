@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JPEG, PPS para JPEG Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPS para JPEG usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JPEG, PPS para JPEG Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPS para JPEG usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

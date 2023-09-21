@@ -1,1 +1,1 @@
----title: Converter Word para XLAM, TXT para XLAM Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de TXT para XLAM usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLAM, TXT para XLAM Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de TXT para XLAM usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

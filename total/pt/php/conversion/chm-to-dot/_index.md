@@ -1,1 +1,1 @@
----title: Converter Word para DOT, CHM para DOT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de CHM para DOT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para DOT, CHM para DOT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de CHM para DOT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

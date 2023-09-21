@@ -1,0 +1,1 @@
+---title: Converter Webpage para GIF, WEB para GIF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de WEB para GIF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

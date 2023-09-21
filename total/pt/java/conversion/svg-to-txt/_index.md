@@ -1,0 +1,1 @@
+---title: Converter PDF para TXT, SVG para TXT Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de SVG para TXT usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

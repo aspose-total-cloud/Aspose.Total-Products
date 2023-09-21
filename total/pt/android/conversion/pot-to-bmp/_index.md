@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, POT para BMP Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POT para BMP usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, POT para BMP Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POT para BMP usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

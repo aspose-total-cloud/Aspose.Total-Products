@@ -1,1 +1,1 @@
----title: Converter Word para XLSM, DOTX para XLSM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTX para XLSM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLSM, DOTX para XLSM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOTX para XLSM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

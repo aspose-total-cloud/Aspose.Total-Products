@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SVG, OTP para SVG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de OTP para SVG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SVG, OTP para SVG Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de OTP para SVG usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

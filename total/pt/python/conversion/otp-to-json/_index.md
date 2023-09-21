@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JSON, OTP para JSON Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de OTP para JSON usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JSON, OTP para JSON Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de OTP para JSON usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

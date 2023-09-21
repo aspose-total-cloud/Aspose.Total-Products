@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLTM, PPSX para XLTM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para XLTM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLTM, PPSX para XLTM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para XLTM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

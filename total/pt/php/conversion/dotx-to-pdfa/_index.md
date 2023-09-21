@@ -1,0 +1,1 @@
+---title: Converter Word para PDFA, DOTX para PDFA Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de DOTX para PDFA usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

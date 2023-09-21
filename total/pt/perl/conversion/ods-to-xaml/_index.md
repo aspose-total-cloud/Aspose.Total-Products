@@ -1,1 +1,1 @@
----title: Converter Excel para XAML, ODS para XAML Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de ODS para XAML usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para XAML, ODS para XAML Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de ODS para XAML usando Perl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

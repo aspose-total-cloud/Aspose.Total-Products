@@ -1,1 +1,1 @@
----title: Converter Word para JSON, DOC para JSON Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOC para JSON usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para JSON, DOC para JSON Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOC para JSON usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

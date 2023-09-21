@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOCM, PPSX para DOCM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para DOCM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOCM, PPSX para DOCM Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para DOCM usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

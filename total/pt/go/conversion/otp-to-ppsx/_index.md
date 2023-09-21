@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PPSX, OTP para PPSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de OTP para PPSX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PPSX, OTP para PPSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de OTP para PPSX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

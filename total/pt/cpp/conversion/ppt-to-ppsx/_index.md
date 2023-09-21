@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PPSX, PPT para PPSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPT para PPSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PPSX, PPT para PPSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPT para PPSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para XLS, DOTM para XLS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOTM para XLS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLS, DOTM para XLS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOTM para XLS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

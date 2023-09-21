@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JPEG, PPTX para JPEG Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPTX para JPEG usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JPEG, PPTX para JPEG Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PPTX para JPEG usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

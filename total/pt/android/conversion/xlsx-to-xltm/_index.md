@@ -1,1 +1,1 @@
----title: Converter Excel para XLTM, XLSX para XLTM Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de XLSX para XLTM usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para XLTM, XLSX para XLTM Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de XLSX para XLTM usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

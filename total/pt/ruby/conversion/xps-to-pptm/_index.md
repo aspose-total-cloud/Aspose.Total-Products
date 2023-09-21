@@ -1,0 +1,1 @@
+---title: Converter PDF para PPTM, XPS para PPTM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XPS para PPTM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

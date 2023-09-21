@@ -1,1 +1,1 @@
----title: Converter Word para PS, TXT para PS Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de TXT para PS usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PS, TXT para PS Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de TXT para PS usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

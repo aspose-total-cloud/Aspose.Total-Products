@@ -1,1 +1,1 @@
----title: Converter Excel para JPEG, FODS para JPEG Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de FODS para JPEG usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para JPEG, FODS para JPEG Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de FODS para JPEG usando Android APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

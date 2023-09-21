@@ -1,1 +1,1 @@
----title: Converter Word para XLTX, CHM para XLTX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de CHM para XLTX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLTX, CHM para XLTX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de CHM para XLTX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

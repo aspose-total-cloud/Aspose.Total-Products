@@ -1,1 +1,1 @@
----title: Converter Word para JPEG, DOT para JPEG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOT para JPEG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para JPEG, DOT para JPEG Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOT para JPEG usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PPSX, PPSM para PPSX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPSM para PPSX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PPSX, PPSM para PPSX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PPSM para PPSX usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

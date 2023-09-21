@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLSX, PPSM para XLSX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSM para XLSX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLSX, PPSM para XLSX Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSM para XLSX usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

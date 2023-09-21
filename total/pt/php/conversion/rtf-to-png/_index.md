@@ -1,1 +1,1 @@
----title: Converter Word para PNG, RTF para PNG Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de RTF para PNG usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PNG, RTF para PNG Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de RTF para PNG usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

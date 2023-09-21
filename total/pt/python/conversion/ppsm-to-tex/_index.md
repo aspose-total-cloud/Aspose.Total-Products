@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TEX, PPSM para TEX Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PPSM para TEX usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para ODP, PDF para ODP Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PDF para ODP usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para ODP, PDF para ODP Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de PDF para ODP usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

@@ -1,0 +1,1 @@
+---title: Converter PDF para TXT, PCL para TXT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PCL para TXT usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

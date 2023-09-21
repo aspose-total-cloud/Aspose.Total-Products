@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLSX, PPSX para XLSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPSX para XLSX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLSX, PPSX para XLSX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPSX para XLSX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

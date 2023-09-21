@@ -1,0 +1,1 @@
+---title: Converter Word para TEX, PDF para TEX Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PDF para TEX usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

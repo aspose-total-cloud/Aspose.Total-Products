@@ -1,1 +1,1 @@
----title: Converter Word para POTM, CHM para POTM Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de CHM para POTM usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para POTM, CHM para POTM Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de CHM para POTM usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

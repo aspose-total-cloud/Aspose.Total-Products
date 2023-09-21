@@ -1,1 +1,1 @@
----title: Converter Excel para SXC, XLSX para SXC Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de XLSX para SXC usando Swift APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para SXC, XLSX para SXC Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de XLSX para SXC usando Swift APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

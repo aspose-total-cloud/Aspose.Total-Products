@@ -1,1 +1,1 @@
----title: Converter Word para ODS, DOTX para ODS Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de DOTX para ODS usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para ODS, DOTX para ODS Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de DOTX para ODS usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

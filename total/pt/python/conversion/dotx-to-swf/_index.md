@@ -1,1 +1,1 @@
----title: Converter Word para SWF, DOTX para SWF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para SWF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SWF, DOTX para SWF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para SWF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

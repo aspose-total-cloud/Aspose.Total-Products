@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TSV, POTX para TSV Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTX para TSV usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TSV, POTX para TSV Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de POTX para TSV usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

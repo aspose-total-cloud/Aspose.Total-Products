@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JPEG, ODP para JPEG Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de ODP para JPEG usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JPEG, ODP para JPEG Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de ODP para JPEG usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

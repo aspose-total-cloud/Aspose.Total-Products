@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOTX, PPTM para DOTX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTM para DOTX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOTX, PPTM para DOTX Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTM para DOTX usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

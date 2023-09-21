@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TIFF, PPT para TIFF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPT para TIFF usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TIFF, PPT para TIFF Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPT para TIFF usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

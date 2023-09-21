@@ -1,1 +1,1 @@
----title: Converter Word para XAML, MOBI para XAML Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para XAML usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XAML, MOBI para XAML Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MOBI para XAML usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

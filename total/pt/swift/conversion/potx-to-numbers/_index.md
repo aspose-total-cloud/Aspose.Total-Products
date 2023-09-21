@@ -1,1 +1,1 @@
----title: Converter PowerPoint para NUMBERS, POTX para NUMBERS Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de POTX para NUMBERS usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para NUMBERS, POTX para NUMBERS Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de POTX para NUMBERS usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JPEG, PPSM para JPEG Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPSM para JPEG usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JPEG, PPSM para JPEG Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPSM para JPEG usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

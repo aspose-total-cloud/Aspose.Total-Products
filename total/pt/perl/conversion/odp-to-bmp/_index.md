@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, ODP para BMP Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de ODP para BMP usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, ODP para BMP Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de ODP para BMP usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para XLT, DOCX para XLT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de DOCX para XLT usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLT, DOCX para XLT Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de DOCX para XLT usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

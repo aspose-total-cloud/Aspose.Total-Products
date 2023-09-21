@@ -1,1 +1,1 @@
----title: Converter Word para XLS, DOTX para XLS Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para XLS usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLS, DOTX para XLS Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de DOTX para XLS usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

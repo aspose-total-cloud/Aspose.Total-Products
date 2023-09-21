@@ -1,1 +1,1 @@
----title: Converter Word para SXC, OTT para SXC Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de OTT para SXC usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SXC, OTT para SXC Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de OTT para SXC usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

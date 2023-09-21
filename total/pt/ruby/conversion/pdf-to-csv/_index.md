@@ -1,1 +1,1 @@
----title: Converter Word para CSV, PDF para CSV Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PDF para CSV usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para CSV, PDF para CSV Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PDF para CSV usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

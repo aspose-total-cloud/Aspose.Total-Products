@@ -1,1 +1,1 @@
----title: Converter PowerPoint para CSV, PPSM para CSV Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSM para CSV usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para CSV, PPSM para CSV Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de PPSM para CSV usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

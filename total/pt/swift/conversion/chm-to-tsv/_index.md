@@ -1,1 +1,1 @@
----title: Converter Word para TSV, CHM para TSV Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de CHM para TSV usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TSV, CHM para TSV Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de CHM para TSV usando Swift Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

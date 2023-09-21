@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOC, PPS para DOC Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPS para DOC usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOC, PPS para DOC Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de PPS para DOC usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

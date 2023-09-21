@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TEX, ODP para TEX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODP para TEX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

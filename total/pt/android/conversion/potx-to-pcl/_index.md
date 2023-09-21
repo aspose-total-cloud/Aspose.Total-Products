@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PCL, POTX para PCL Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para PCL usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PCL, POTX para PCL Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTX para PCL usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

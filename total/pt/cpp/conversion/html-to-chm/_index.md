@@ -1,1 +1,1 @@
----title: Converter Word para CHM, HTML para CHM Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de HTML para CHM usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para CHM, HTML para CHM Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de HTML para CHM usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

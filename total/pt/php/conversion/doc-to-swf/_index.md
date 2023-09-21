@@ -1,1 +1,1 @@
----title: Converter Word para SWF, DOC para SWF Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de DOC para SWF usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SWF, DOC para SWF Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de DOC para SWF usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

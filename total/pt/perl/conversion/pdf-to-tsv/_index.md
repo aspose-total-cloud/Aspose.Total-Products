@@ -1,1 +1,1 @@
----title: Converter Word para TSV, PDF para TSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PDF para TSV usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TSV, PDF para TSV Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PDF para TSV usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

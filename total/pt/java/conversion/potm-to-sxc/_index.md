@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de POTM para SXC usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de POTM para SXC usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

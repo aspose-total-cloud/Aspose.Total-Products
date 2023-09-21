@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SWF, PPSM para SWF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para SWF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SWF, PPSM para SWF Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para SWF usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

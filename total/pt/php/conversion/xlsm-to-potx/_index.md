@@ -1,1 +1,1 @@
----title: Converter Excel para POTX, XLSM para POTX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de XLSM para POTX usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para POTX, XLSM para POTX Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de XLSM para POTX usando PHP APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

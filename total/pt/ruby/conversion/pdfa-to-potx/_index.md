@@ -1,0 +1,1 @@
+---title: Converter PDF para POTX, PDFA para POTX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PDFA para POTX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

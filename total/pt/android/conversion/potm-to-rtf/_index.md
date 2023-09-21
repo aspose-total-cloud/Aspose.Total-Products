@@ -1,1 +1,1 @@
----title: Converter PowerPoint para RTF, POTM para RTF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTM para RTF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para RTF, POTM para RTF Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POTM para RTF usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SWF, POT para SWF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para SWF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SWF, POT para SWF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para SWF usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

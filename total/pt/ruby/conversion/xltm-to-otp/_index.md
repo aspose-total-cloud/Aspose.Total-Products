@@ -1,1 +1,1 @@
----title: Converter Excel para OTP, XLTM para OTP Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLTM para OTP usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para OTP, XLTM para OTP Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de XLTM para OTP usando Ruby APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

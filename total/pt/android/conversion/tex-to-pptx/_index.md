@@ -1,0 +1,1 @@
+---title: Converter PDF para PPTX, TEX para PPTX Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de TEX para PPTX usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

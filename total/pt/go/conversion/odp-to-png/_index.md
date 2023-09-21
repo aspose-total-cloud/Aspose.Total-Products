@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PNG, ODP para PNG Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de ODP para PNG usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PNG, ODP para PNG Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de ODP para PNG usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

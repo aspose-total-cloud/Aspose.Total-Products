@@ -1,1 +1,1 @@
----title: Converter Word para XLS, HTML para XLS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de HTML para XLS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLS, HTML para XLS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de HTML para XLS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

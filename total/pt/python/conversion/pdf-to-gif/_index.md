@@ -1,1 +1,1 @@
----title: Converter Word para GIF, PDF para GIF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PDF para GIF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para GIF, PDF para GIF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PDF para GIF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

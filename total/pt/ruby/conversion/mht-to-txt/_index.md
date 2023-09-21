@@ -1,0 +1,1 @@
+---title: Converter PDF para TXT, MHT para TXT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de MHT para TXT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

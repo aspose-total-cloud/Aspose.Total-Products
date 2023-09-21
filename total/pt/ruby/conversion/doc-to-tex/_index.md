@@ -1,0 +1,1 @@
+---title: Converter Word para TEX, DOC para TEX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de DOC para TEX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

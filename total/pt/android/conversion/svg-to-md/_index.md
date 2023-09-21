@@ -1,0 +1,1 @@
+---title: Converter PDF para MD, SVG para MD Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de SVG para MD usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

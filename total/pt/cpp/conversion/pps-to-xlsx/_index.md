@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLSX, PPS para XLSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPS para XLSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLSX, PPS para XLSX Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de PPS para XLSX usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

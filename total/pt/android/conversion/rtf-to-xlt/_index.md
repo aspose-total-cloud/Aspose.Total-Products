@@ -1,1 +1,1 @@
----title: Converter Word para XLT, RTF para XLT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de RTF para XLT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para XLT, RTF para XLT Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de RTF para XLT usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

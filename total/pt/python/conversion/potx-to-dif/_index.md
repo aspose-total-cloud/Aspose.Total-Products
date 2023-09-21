@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DIF, POTX para DIF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de POTX para DIF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DIF, POTX para DIF Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de POTX para DIF usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

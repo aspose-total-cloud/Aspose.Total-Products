@@ -1,1 +1,1 @@
----title: Converter Excel para NUMBERS, XLTX para NUMBERS Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de XLTX para NUMBERS usando Curl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para NUMBERS, XLTX para NUMBERS Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de XLTX para NUMBERS usando Curl APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

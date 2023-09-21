@@ -1,1 +1,1 @@
----title: Converter Word para RTF, DOTX para RTF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para RTF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para RTF, DOTX para RTF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de DOTX para RTF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

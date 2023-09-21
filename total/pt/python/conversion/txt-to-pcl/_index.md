@@ -1,1 +1,1 @@
----title: Converter Word para PCL, TXT para PCL Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de TXT para PCL usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para PCL, TXT para PCL Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de TXT para PCL usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

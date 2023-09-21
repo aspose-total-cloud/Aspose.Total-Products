@@ -1,1 +1,1 @@
----title: Converter Word para TXT, PDF para TXT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PDF para TXT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TXT, PDF para TXT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de PDF para TXT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

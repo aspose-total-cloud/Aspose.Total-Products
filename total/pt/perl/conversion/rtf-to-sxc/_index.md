@@ -1,1 +1,1 @@
----title: Converter Word para SXC, RTF para SXC Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de RTF para SXC usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para SXC, RTF para SXC Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de RTF para SXC usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

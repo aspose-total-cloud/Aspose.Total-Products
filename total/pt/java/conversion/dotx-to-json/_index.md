@@ -1,1 +1,1 @@
----title: Converter Word para JSON, DOTX para JSON Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de DOTX para JSON usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para JSON, DOTX para JSON Conversor GRATUITO ou Java SDKdescription: Conversão Gratuita de DOTX para JSON usando Java Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

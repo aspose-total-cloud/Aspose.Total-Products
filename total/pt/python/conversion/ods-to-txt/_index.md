@@ -1,1 +1,1 @@
----title: Converter Excel para TXT, ODS para TXT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de ODS para TXT usando Python APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para TXT, ODS para TXT Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de ODS para TXT usando Python APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

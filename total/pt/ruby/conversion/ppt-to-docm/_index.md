@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOCM, PPT para DOCM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPT para DOCM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOCM, PPT para DOCM Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPT para DOCM usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

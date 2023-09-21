@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XLS, PPTM para XLS Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTM para XLS usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XLS, PPTM para XLS Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPTM para XLS usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

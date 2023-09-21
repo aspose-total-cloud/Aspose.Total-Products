@@ -1,1 +1,1 @@
----title: Converter PowerPoint para TXT, OTP para TXT Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de OTP para TXT usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para TXT, OTP para TXT Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de OTP para TXT usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

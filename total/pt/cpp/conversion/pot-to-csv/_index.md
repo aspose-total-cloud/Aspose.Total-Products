@@ -1,1 +1,1 @@
----title: Converter PowerPoint para CSV, POT para CSV Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para CSV usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para CSV, POT para CSV Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de POT para CSV usando C++ Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

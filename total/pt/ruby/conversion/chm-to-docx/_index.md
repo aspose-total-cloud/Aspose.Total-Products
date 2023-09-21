@@ -1,1 +1,1 @@
----title: Converter Word para DOCX, CHM para DOCX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de CHM para DOCX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para DOCX, CHM para DOCX Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de CHM para DOCX usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

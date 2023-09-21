@@ -1,0 +1,1 @@
+---title: Converter PDF para PPT, TEX para PPT Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de TEX para PPT usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

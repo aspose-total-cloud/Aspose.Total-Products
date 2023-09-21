@@ -1,1 +1,1 @@
----title: Converter PowerPoint para XPS, POT para XPS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POT para XPS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para XPS, POT para XPS Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POT para XPS usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

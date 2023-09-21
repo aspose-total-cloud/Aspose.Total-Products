@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DOC, ODP para DOC Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de ODP para DOC usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DOC, ODP para DOC Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de ODP para DOC usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

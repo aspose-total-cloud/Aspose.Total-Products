@@ -1,1 +1,1 @@
----title: Converter PowerPoint para RTF, PPTX para RTF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPTX para RTF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para RTF, PPTX para RTF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de PPTX para RTF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

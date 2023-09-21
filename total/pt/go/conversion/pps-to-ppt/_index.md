@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PPT, PPS para PPT Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPS para PPT usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PPT, PPS para PPT Conversor GRATUITO ou GO SDKdescription: Conversão Gratuita de PPS para PPT usando GO Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

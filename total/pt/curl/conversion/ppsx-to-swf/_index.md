@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SWF, PPSX para SWF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para SWF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SWF, PPSX para SWF Conversor GRATUITO ou Curl SDKdescription: Conversão Gratuita de PPSX para SWF usando Curl Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,0 +1,1 @@
+---title: Converter PDF para XLTX, PS para XLTX Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de PS para XLTX usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

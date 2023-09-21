@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PNG, POTM para PNG Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de POTM para PNG usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PNG, POTM para PNG Conversor GRATUITO ou Python SDKdescription: Conversão Gratuita de POTM para PNG usando Python Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Excel para SWF, XLSB para SWF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de XLSB para SWF usando C++ APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para SWF, XLSB para SWF Conversor GRATUITO ou C++ SDKdescription: Conversão Gratuita de XLSB para SWF usando C++ APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

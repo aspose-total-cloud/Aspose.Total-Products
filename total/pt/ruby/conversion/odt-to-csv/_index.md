@@ -1,1 +1,1 @@
----title: Converter Word para CSV, ODT para CSV Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODT para CSV usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para CSV, ODT para CSV Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de ODT para CSV usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

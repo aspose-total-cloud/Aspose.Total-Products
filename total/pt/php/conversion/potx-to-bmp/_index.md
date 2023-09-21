@@ -1,1 +1,1 @@
----title: Converter PowerPoint para BMP, POTX para BMP Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de POTX para BMP usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para BMP, POTX para BMP Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de POTX para BMP usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

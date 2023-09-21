@@ -1,1 +1,1 @@
----title: Converter Word para TIFF, HTML para TIFF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de HTML para TIFF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para TIFF, HTML para TIFF Conversor GRATUITO ou Perl SDKdescription: Conversão Gratuita de HTML para TIFF usando Perl Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

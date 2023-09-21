@@ -1,1 +1,1 @@
----title: Converter Word para POT, DOT para POT Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOT para POT usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para POT, DOT para POT Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de DOT para POT usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

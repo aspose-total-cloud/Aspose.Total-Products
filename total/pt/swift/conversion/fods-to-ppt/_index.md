@@ -1,1 +1,1 @@
----title: Converter Excel para PPT, FODS para PPT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de FODS para PPT usando Swift APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---
+---title: Converter Excel para PPT, FODS para PPT Conversor GRATUITO ou Swift SDKdescription: Conversão Gratuita de FODS para PPT usando Swift APIs e SDKs da nuvem. Também crie, edite e renderize planilhas ou planilhas do Microsoft Excel, CSV e SpreadsheetML na nuvem.---

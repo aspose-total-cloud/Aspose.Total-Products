@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PNG, ODP para PNG Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de ODP para PNG usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PNG, ODP para PNG Conversor GRATUITO ou Nodejs SDKdescription: Conversão Gratuita de ODP para PNG usando Nodejs Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

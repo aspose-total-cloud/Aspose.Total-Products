@@ -1,1 +1,1 @@
----title: Converter PowerPoint para DIF, PPSX para DIF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPSX para DIF usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para DIF, PPSX para DIF Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de PPSX para DIF usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

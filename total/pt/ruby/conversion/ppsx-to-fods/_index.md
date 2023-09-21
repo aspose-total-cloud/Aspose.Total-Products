@@ -1,1 +1,1 @@
----title: Converter PowerPoint para FODS, PPSX para FODS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSX para FODS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para FODS, PPSX para FODS Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSX para FODS usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

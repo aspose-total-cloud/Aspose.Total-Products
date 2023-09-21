@@ -1,1 +1,1 @@
----title: Converter PowerPoint para PPT, PPSM para PPT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para PPT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para PPT, PPSM para PPT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PPSM para PPT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

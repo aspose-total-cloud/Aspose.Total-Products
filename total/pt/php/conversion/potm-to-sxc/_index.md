@@ -1,1 +1,1 @@
----title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de POTM para SXC usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para SXC, POTM para SXC Conversor GRATUITO ou PHP SDKdescription: Conversão Gratuita de POTM para SXC usando PHP Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

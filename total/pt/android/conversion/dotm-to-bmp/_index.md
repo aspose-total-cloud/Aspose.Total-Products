@@ -1,1 +1,1 @@
----title: Converter Word para BMP, DOTM para BMP Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOTM para BMP usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para BMP, DOTM para BMP Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOTM para BMP usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---

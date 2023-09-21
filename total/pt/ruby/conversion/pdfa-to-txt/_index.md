@@ -1,0 +1,1 @@
+---title: Converter PDF para TXT, PDFA para TXT Conversor GRATUITO ou Ruby SDKdescription: Conversão Gratuita de PDFA para TXT usando Ruby Cloud APIs & SDKs. Também crie, edite e renderize documentos do PDF na nuvem.---

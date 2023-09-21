@@ -1,0 +1,1 @@
+---title: Converter PowerPoint para TEX, POTX para TEX Conversor GRATUITO ou Net SDKdescription: Conversão Gratuita de POTX para TEX usando Net Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

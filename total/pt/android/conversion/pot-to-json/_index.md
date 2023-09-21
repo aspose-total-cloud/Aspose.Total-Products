@@ -1,1 +1,1 @@
----title: Converter PowerPoint para JSON, POT para JSON Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POT para JSON usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---
+---title: Converter PowerPoint para JSON, POT para JSON Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de POT para JSON usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos do Microsoft PowerPoint na nuvem.---

@@ -1,1 +1,1 @@
----title: Converter Word para JSON, DOCX para JSON Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOCX para JSON usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
+---title: Converter Word para JSON, DOCX para JSON Conversor GRATUITO ou Android SDKdescription: Conversão Gratuita de DOCX para JSON usando Android Cloud APIs & SDKs. Também crie, edite e renderize documentos Microsoft Word e OpenOffice na nuvem.---
