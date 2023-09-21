@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOTX, OTP ila DOTX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümOTP ila DOTX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOTX, OTP ila DOTX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümOTP ila DOTX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

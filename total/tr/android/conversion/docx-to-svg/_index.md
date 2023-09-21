@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSVG, DOCX ila SVG FREE Converter veya Android SDKdescription: Ücretsiz DönüşümDOCX ila SVG kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSVG, DOCX ila SVG FREE Converter veya Android SDKdescription: Ücretsiz DönüşümDOCX ila SVG kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

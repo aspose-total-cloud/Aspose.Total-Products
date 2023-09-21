@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, POTX ila JPEG FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila JPEG kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, POTX ila JPEG FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila JPEG kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

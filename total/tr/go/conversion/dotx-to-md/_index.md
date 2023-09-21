@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürMD, DOTX ila MD FREE Converter veya GO SDKdescription: Ücretsiz DönüşümDOTX ila MD kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürMD, DOTX ila MD FREE Converter veya GO SDKdescription: Ücretsiz DönüşümDOTX ila MD kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

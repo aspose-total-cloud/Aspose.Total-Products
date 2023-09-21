@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLT, DOCM ila XLT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümDOCM ila XLT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLT, DOCM ila XLT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümDOCM ila XLT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

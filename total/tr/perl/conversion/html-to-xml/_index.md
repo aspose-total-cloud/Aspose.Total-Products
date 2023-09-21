@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXML, HTML ila XML FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümHTML ila XML kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXML, HTML ila XML FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümHTML ila XML kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

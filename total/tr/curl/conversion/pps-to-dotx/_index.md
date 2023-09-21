@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOTX, PPS ila DOTX FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPS ila DOTX kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOTX, PPS ila DOTX FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPS ila DOTX kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

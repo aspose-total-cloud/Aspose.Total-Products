@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürBMP, PPT ila BMP FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPT ila BMP kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürBMP, PPT ila BMP FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPT ila BMP kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

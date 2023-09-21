@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLAM, DOTM ila XLAM FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOTM ila XLAM kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLAM, DOTM ila XLAM FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOTM ila XLAM kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

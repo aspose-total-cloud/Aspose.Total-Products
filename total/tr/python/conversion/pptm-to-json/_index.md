@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJSON, PPTM ila JSON FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPTM ila JSON kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJSON, PPTM ila JSON FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPTM ila JSON kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

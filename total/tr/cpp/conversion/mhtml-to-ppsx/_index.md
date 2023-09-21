@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPSX, MHTML ila PPSX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümMHTML ila PPSX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPSX, MHTML ila PPSX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümMHTML ila PPSX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

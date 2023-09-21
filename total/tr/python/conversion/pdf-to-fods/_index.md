@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürFODS, PDF ila FODS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPDF ila FODS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürFODS, PDF ila FODS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPDF ila FODS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

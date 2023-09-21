@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEPUB, POT ila EPUB FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila EPUB kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEPUB, POT ila EPUB FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila EPUB kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

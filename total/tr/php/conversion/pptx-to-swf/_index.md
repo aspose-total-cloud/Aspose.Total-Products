@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSWF, PPTX ila SWF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPTX ila SWF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSWF, PPTX ila SWF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPTX ila SWF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

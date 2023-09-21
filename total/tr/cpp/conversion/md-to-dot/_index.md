@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürDOT, MD ila DOT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümMD ila DOT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürDOT, MD ila DOT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümMD ila DOT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

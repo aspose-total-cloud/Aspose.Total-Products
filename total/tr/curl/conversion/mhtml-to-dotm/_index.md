@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürDOTM, MHTML ila DOTM FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümMHTML ila DOTM kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürDOTM, MHTML ila DOTM FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümMHTML ila DOTM kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

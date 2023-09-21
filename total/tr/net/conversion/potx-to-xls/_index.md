@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLS, POTX ila XLS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTX ila XLS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLS, POTX ila XLS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTX ila XLS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

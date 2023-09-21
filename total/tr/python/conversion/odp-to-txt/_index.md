@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTXT, ODP ila TXT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümODP ila TXT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTXT, ODP ila TXT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümODP ila TXT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

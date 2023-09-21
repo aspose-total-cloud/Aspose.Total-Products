@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürODS, PDF ila ODS FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPDF ila ODS kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürODS, PDF ila ODS FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPDF ila ODS kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

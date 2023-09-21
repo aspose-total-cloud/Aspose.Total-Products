@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXPS, DOTM ila XPS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOTM ila XPS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXPS, DOTM ila XPS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOTM ila XPS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

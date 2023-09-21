@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürGIF, OTP ila GIF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümOTP ila GIF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürGIF, OTP ila GIF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümOTP ila GIF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

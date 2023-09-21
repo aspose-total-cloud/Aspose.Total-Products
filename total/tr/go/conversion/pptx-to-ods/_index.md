@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODS, PPTX ila ODS FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPTX ila ODS kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODS, PPTX ila ODS FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPTX ila ODS kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

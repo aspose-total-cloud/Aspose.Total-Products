@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTSV, PPSX ila TSV FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPSX ila TSV kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTSV, PPSX ila TSV FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPSX ila TSV kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

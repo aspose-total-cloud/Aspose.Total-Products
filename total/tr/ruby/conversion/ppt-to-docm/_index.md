@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOCM, PPT ila DOCM FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPT ila DOCM kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOCM, PPT ila DOCM FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPT ila DOCM kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

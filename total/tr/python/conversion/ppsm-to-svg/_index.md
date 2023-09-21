@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSVG, PPSM ila SVG FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSM ila SVG kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSVG, PPSM ila SVG FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSM ila SVG kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

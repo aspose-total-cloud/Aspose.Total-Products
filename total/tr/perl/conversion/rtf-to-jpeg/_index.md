@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürJPEG, RTF ila JPEG FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümRTF ila JPEG kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürJPEG, RTF ila JPEG FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümRTF ila JPEG kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürFODS, POTX ila FODS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOTX ila FODS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürFODS, POTX ila FODS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOTX ila FODS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPOTX, DOCM ila POTX FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOCM ila POTX kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPOTX, DOCM ila POTX FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOCM ila POTX kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

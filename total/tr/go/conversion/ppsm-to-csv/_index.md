@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCSV, PPSM ila CSV FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSM ila CSV kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCSV, PPSM ila CSV FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSM ila CSV kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

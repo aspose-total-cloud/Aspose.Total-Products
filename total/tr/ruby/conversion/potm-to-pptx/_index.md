@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPTX, POTM ila PPTX FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOTM ila PPTX kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPTX, POTM ila PPTX FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOTM ila PPTX kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

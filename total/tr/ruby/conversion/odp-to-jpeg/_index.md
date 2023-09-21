@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, ODP ila JPEG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümODP ila JPEG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, ODP ila JPEG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümODP ila JPEG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

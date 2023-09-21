@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCSV, POTX ila CSV FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTX ila CSV kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCSV, POTX ila CSV FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTX ila CSV kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürNUMBERS, PPSM ila NUMBERS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSM ila NUMBERS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürNUMBERS, PPSM ila NUMBERS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSM ila NUMBERS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, PPSM ila JPEG FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPSM ila JPEG kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, PPSM ila JPEG FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPSM ila JPEG kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

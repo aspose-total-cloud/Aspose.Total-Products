@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürPDFA, XLT ila PDFA FREE Converter veya Net SDKdescription: Ücretsiz DönüşümXLT ila PDFA kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

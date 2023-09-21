@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSVG, CHM ila SVG FREE Converter veya GO SDKdescription: Ücretsiz DönüşümCHM ila SVG kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSVG, CHM ila SVG FREE Converter veya GO SDKdescription: Ücretsiz DönüşümCHM ila SVG kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

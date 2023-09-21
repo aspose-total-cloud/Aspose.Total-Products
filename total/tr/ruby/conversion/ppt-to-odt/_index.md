@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODT, PPT ila ODT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPT ila ODT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODT, PPT ila ODT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPT ila ODT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

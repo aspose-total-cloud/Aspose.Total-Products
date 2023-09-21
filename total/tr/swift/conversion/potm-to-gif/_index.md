@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürGIF, POTM ila GIF FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPOTM ila GIF kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürGIF, POTM ila GIF FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPOTM ila GIF kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

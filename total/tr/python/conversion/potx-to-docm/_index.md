@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOCM, POTX ila DOCM FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila DOCM kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOCM, POTX ila DOCM FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila DOCM kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

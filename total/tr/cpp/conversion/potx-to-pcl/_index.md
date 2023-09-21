@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPCL, POTX ila PCL FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila PCL kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPCL, POTX ila PCL FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila PCL kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

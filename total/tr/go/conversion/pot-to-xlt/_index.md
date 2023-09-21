@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLT, POT ila XLT FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPOT ila XLT kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLT, POT ila XLT FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPOT ila XLT kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

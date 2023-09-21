@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTSV, POTX ila TSV FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila TSV kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTSV, POTX ila TSV FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila TSV kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

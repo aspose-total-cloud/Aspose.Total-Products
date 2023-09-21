@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürGIF, PPTM ila GIF FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPTM ila GIF kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürGIF, PPTM ila GIF FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPTM ila GIF kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

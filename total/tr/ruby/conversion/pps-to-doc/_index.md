@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOC, PPS ila DOC FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPS ila DOC kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOC, PPS ila DOC FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPS ila DOC kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDIF, PPS ila DIF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPS ila DIF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDIF, PPS ila DIF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPS ila DIF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

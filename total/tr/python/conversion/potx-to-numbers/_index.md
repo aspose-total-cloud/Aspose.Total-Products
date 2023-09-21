@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürNUMBERS, POTX ila NUMBERS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila NUMBERS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürNUMBERS, POTX ila NUMBERS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila NUMBERS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

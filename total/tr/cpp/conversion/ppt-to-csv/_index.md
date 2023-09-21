@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCSV, PPT ila CSV FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPT ila CSV kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCSV, PPT ila CSV FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPT ila CSV kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürTSV, MHTML ila TSV FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümMHTML ila TSV kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürTSV, MHTML ila TSV FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümMHTML ila TSV kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

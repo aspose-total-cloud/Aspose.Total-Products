@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürNUMBERS, DOC ila NUMBERS FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümDOC ila NUMBERS kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürNUMBERS, DOC ila NUMBERS FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümDOC ila NUMBERS kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

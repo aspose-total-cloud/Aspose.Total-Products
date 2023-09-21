@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPS, PPSM ila PPS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPSM ila PPS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPS, PPSM ila PPS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPSM ila PPS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

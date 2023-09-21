@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOTM, PPTM ila DOTM FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPTM ila DOTM kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOTM, PPTM ila DOTM FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPTM ila DOTM kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

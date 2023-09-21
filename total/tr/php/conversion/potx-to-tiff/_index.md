@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTIFF, POTX ila TIFF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTX ila TIFF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTIFF, POTX ila TIFF FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTX ila TIFF kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

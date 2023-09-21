@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLSX, POT ila XLSX FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPOT ila XLSX kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLSX, POT ila XLSX FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPOT ila XLSX kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

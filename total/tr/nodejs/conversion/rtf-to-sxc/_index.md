@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSXC, RTF ila SXC FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümRTF ila SXC kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSXC, RTF ila SXC FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümRTF ila SXC kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

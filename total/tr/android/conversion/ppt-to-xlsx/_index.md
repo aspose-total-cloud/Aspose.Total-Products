@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLSX, PPT ila XLSX FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPT ila XLSX kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLSX, PPT ila XLSX FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPT ila XLSX kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

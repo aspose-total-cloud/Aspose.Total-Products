@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSXC, MOBI ila SXC FREE Converter veya Net SDKdescription: Ücretsiz DönüşümMOBI ila SXC kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSXC, MOBI ila SXC FREE Converter veya Net SDKdescription: Ücretsiz DönüşümMOBI ila SXC kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

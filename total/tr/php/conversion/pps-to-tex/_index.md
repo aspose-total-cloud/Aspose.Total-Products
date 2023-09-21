@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürTEX, PPS ila TEX FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPS ila TEX kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

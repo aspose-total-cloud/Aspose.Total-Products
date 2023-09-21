@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPTX, OTP ila PPTX FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümOTP ila PPTX kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPTX, OTP ila PPTX FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümOTP ila PPTX kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

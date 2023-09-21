@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPTX, HTML ila PPTX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümHTML ila PPTX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPTX, HTML ila PPTX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümHTML ila PPTX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

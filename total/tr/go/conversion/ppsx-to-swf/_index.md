@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSWF, PPSX ila SWF FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila SWF kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSWF, PPSX ila SWF FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila SWF kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

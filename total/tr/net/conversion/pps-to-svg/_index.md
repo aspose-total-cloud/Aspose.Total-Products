@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSVG, PPS ila SVG FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila SVG kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSVG, PPS ila SVG FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila SVG kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

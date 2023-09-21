@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLSB, PPTM ila XLSB FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPTM ila XLSB kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLSB, PPTM ila XLSB FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPTM ila XLSB kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLS, PPSM ila XLS FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPSM ila XLS kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLS, PPSM ila XLS FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPSM ila XLS kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

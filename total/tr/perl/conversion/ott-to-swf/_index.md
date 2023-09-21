@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSWF, OTT ila SWF FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümOTT ila SWF kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSWF, OTT ila SWF FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümOTT ila SWF kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

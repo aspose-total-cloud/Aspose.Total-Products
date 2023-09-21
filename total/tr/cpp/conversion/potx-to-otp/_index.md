@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürOTP, POTX ila OTP FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila OTP kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürOTP, POTX ila OTP FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTX ila OTP kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

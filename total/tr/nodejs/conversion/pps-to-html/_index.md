@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürHTML, PPS ila HTML FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPS ila HTML kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürHTML, PPS ila HTML FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPS ila HTML kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

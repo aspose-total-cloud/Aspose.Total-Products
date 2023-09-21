@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJSON, PPS ila JSON FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPS ila JSON kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJSON, PPS ila JSON FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPS ila JSON kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

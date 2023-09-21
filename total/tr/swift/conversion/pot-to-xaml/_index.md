@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXAML, POT ila XAML FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPOT ila XAML kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXAML, POT ila XAML FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPOT ila XAML kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSVG, PPS ila SVG FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPS ila SVG kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSVG, PPS ila SVG FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPS ila SVG kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

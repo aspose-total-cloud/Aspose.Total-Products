@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODS, PPTM ila ODS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPTM ila ODS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODS, PPTM ila ODS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPTM ila ODS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

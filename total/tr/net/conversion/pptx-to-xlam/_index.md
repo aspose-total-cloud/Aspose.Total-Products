@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLAM, PPTX ila XLAM FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPTX ila XLAM kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLAM, PPTX ila XLAM FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPTX ila XLAM kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

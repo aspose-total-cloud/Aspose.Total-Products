@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXPS, PPS ila XPS FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPS ila XPS kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXPS, PPS ila XPS FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPS ila XPS kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

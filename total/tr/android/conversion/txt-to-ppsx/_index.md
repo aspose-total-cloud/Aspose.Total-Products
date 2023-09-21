@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPSX, TXT ila PPSX FREE Converter veya Android SDKdescription: Ücretsiz DönüşümTXT ila PPSX kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPSX, TXT ila PPSX FREE Converter veya Android SDKdescription: Ücretsiz DönüşümTXT ila PPSX kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

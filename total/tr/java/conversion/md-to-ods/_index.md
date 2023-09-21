@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürODS, MD ila ODS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümMD ila ODS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürODS, MD ila ODS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümMD ila ODS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

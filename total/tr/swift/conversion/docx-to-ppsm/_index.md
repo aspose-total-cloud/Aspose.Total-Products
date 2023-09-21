@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPSM, DOCX ila PPSM FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümDOCX ila PPSM kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPSM, DOCX ila PPSM FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümDOCX ila PPSM kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

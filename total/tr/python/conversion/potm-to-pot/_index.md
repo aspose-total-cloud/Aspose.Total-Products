@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPOT, POTM ila POT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTM ila POT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPOT, POTM ila POT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTM ila POT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

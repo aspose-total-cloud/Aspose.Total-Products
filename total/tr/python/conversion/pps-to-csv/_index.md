@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCSV, PPS ila CSV FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPS ila CSV kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCSV, PPS ila CSV FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPS ila CSV kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

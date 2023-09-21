@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSVG, PPTX ila SVG FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPTX ila SVG kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSVG, PPTX ila SVG FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPTX ila SVG kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

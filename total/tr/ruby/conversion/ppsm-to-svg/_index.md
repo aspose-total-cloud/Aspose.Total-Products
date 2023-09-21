@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSVG, PPSM ila SVG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPSM ila SVG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSVG, PPSM ila SVG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPSM ila SVG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

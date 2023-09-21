@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTIFF, PPSM ila TIFF FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSM ila TIFF kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTIFF, PPSM ila TIFF FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSM ila TIFF kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

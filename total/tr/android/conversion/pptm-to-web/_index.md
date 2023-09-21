@@ -1,0 +1,1 @@
+---title: PowerPoint'i Şuraya DönüştürWEB, PPTM ila WEB FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPTM ila WEB kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

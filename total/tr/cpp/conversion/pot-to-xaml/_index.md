@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXAML, POT ila XAML FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOT ila XAML kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXAML, POT ila XAML FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOT ila XAML kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

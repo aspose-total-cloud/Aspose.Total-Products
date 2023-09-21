@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCHM, PPTM ila CHM FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPTM ila CHM kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCHM, PPTM ila CHM FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPTM ila CHM kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

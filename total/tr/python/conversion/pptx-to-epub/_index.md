@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEPUB, PPTX ila EPUB FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPTX ila EPUB kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEPUB, PPTX ila EPUB FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPTX ila EPUB kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

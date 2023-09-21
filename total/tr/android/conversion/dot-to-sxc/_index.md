@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSXC, DOT ila SXC FREE Converter veya Android SDKdescription: Ücretsiz DönüşümDOT ila SXC kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSXC, DOT ila SXC FREE Converter veya Android SDKdescription: Ücretsiz DönüşümDOT ila SXC kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

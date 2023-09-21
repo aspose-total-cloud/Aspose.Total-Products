@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLAM, POTM ila XLAM FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTM ila XLAM kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLAM, POTM ila XLAM FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTM ila XLAM kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

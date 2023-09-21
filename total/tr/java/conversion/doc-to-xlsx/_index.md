@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLSX, DOC ila XLSX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümDOC ila XLSX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLSX, DOC ila XLSX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümDOC ila XLSX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

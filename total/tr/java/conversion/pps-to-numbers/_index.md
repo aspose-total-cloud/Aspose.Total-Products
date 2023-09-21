@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürNUMBERS, PPS ila NUMBERS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila NUMBERS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürNUMBERS, PPS ila NUMBERS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila NUMBERS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

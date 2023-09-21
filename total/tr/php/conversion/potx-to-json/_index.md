@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJSON, POTX ila JSON FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTX ila JSON kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJSON, POTX ila JSON FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTX ila JSON kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

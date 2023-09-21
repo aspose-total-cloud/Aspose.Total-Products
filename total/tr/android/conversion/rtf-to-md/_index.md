@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürMD, RTF ila MD FREE Converter veya Android SDKdescription: Ücretsiz DönüşümRTF ila MD kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürMD, RTF ila MD FREE Converter veya Android SDKdescription: Ücretsiz DönüşümRTF ila MD kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLSB, HTML ila XLSB FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümHTML ila XLSB kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLSB, HTML ila XLSB FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümHTML ila XLSB kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSWF, POT ila SWF FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila SWF kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSWF, POT ila SWF FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila SWF kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

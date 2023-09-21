@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürODP, DOC ila ODP FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOC ila ODP kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürODP, DOC ila ODP FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOC ila ODP kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

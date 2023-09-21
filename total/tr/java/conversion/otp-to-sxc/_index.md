@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSXC, OTP ila SXC FREE Converter veya Java SDKdescription: Ücretsiz DönüşümOTP ila SXC kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSXC, OTP ila SXC FREE Converter veya Java SDKdescription: Ücretsiz DönüşümOTP ila SXC kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

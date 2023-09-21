@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürNUMBERS, POT ila NUMBERS FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPOT ila NUMBERS kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürNUMBERS, POT ila NUMBERS FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPOT ila NUMBERS kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

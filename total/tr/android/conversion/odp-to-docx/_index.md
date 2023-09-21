@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOCX, ODP ila DOCX FREE Converter veya Android SDKdescription: Ücretsiz DönüşümODP ila DOCX kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOCX, ODP ila DOCX FREE Converter veya Android SDKdescription: Ücretsiz DönüşümODP ila DOCX kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

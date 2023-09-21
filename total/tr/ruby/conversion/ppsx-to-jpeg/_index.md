@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, PPSX ila JPEG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPSX ila JPEG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, PPSX ila JPEG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPSX ila JPEG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

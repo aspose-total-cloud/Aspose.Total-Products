@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürWEB, XLTX ila WEB FREE Converter veya Android SDKdescription: Ücretsiz DönüşümXLTX ila WEB kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

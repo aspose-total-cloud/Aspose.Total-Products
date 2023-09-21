@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürTXT, DOTX ila TXT FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümDOTX ila TXT kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürTXT, DOTX ila TXT FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümDOTX ila TXT kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

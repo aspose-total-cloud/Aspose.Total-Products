@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODS, PPSX ila ODS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSX ila ODS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODS, PPSX ila ODS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSX ila ODS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

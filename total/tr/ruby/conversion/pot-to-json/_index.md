@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJSON, POT ila JSON FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila JSON kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJSON, POT ila JSON FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila JSON kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

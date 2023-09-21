@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLS, PPTX ila XLS FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPTX ila XLS kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLS, PPTX ila XLS FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPTX ila XLS kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

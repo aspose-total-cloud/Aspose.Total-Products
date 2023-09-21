@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLT, POTX ila XLT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTX ila XLT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLT, POTX ila XLT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPOTX ila XLT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

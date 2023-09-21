@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürNUMBERS, PPTX ila NUMBERS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPTX ila NUMBERS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürNUMBERS, PPTX ila NUMBERS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPTX ila NUMBERS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

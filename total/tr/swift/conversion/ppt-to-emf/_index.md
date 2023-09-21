@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEMF, PPT ila EMF FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPT ila EMF kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEMF, PPT ila EMF FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPT ila EMF kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

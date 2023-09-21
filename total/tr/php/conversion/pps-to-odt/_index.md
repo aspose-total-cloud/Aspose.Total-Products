@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODT, PPS ila ODT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPS ila ODT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODT, PPS ila ODT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPS ila ODT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

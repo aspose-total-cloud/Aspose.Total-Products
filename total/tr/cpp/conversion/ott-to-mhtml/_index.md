@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürMHTML, OTT ila MHTML FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümOTT ila MHTML kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürMHTML, OTT ila MHTML FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümOTT ila MHTML kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

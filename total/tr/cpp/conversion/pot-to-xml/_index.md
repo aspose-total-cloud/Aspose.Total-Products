@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXML, POT ila XML FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOT ila XML kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXML, POT ila XML FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOT ila XML kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

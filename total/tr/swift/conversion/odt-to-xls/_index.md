@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLS, ODT ila XLS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümODT ila XLS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLS, ODT ila XLS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümODT ila XLS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

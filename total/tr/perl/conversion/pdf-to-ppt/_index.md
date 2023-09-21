@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPT, PDF ila PPT FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPDF ila PPT kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPT, PDF ila PPT FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPDF ila PPT kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

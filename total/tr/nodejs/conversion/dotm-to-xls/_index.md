@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLS, DOTM ila XLS FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümDOTM ila XLS kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLS, DOTM ila XLS FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümDOTM ila XLS kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

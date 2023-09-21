@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLSX, ODT ila XLSX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümODT ila XLSX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLSX, ODT ila XLSX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümODT ila XLSX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

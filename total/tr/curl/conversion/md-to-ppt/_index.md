@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPT, MD ila PPT FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümMD ila PPT kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPT, MD ila PPT FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümMD ila PPT kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

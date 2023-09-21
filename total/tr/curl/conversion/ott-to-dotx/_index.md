@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürDOTX, OTT ila DOTX FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümOTT ila DOTX kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürDOTX, OTT ila DOTX FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümOTT ila DOTX kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

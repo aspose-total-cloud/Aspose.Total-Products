@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOTX, PPTX ila DOTX FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPTX ila DOTX kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOTX, PPTX ila DOTX FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPTX ila DOTX kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSXC, PPS ila SXC FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPS ila SXC kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSXC, PPS ila SXC FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPS ila SXC kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

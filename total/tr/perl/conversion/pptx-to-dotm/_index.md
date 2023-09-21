@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOTM, PPTX ila DOTM FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPTX ila DOTM kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOTM, PPTX ila DOTM FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPTX ila DOTM kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

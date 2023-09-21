@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürMD, PPSX ila MD FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila MD kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürMD, PPSX ila MD FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila MD kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

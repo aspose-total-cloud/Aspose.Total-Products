@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPCL, ODP ila PCL FREE Converter veya Android SDKdescription: Ücretsiz DönüşümODP ila PCL kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPCL, ODP ila PCL FREE Converter veya Android SDKdescription: Ücretsiz DönüşümODP ila PCL kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

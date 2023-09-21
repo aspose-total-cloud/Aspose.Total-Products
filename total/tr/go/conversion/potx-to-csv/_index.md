@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCSV, POTX ila CSV FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPOTX ila CSV kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCSV, POTX ila CSV FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPOTX ila CSV kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

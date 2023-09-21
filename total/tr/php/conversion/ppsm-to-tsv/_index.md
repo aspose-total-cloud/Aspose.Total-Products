@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTSV, PPSM ila TSV FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPSM ila TSV kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTSV, PPSM ila TSV FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPSM ila TSV kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

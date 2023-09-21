@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOT, PPT ila DOT FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPT ila DOT kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOT, PPT ila DOT FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPT ila DOT kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, OTP ila JPEG FREE Converter veya Java SDKdescription: Ücretsiz DönüşümOTP ila JPEG kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, OTP ila JPEG FREE Converter veya Java SDKdescription: Ücretsiz DönüşümOTP ila JPEG kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

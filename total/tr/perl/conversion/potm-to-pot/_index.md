@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPOT, POTM ila POT FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPOTM ila POT kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPOT, POTM ila POT FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPOTM ila POT kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

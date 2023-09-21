@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürBMP, PPSM ila BMP FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPSM ila BMP kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürBMP, PPSM ila BMP FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPSM ila BMP kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

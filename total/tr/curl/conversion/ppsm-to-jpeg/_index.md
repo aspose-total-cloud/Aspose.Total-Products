@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, PPSM ila JPEG FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPSM ila JPEG kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, PPSM ila JPEG FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPSM ila JPEG kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJSON, PPT ila JSON FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPT ila JSON kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJSON, PPT ila JSON FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPT ila JSON kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

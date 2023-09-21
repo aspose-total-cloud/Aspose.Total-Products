@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPSX, ODT ila PPSX FREE Converter veya Net SDKdescription: Ücretsiz DönüşümODT ila PPSX kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPSX, ODT ila PPSX FREE Converter veya Net SDKdescription: Ücretsiz DönüşümODT ila PPSX kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

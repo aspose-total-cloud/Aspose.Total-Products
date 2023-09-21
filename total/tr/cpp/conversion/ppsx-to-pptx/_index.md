@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPTX, PPSX ila PPTX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPSX ila PPTX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPTX, PPSX ila PPTX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPSX ila PPTX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürOTT, PPTM ila OTT FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPTM ila OTT kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürOTT, PPTM ila OTT FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPTM ila OTT kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

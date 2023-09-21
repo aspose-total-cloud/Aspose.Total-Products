@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürFODS, PPSX ila FODS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPSX ila FODS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürFODS, PPSX ila FODS FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPPSX ila FODS kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

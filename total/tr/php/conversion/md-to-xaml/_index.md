@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXAML, MD ila XAML FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümMD ila XAML kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXAML, MD ila XAML FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümMD ila XAML kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

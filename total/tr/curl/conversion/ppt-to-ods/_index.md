@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODS, PPT ila ODS FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPT ila ODS kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODS, PPT ila ODS FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPT ila ODS kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

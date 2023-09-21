@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLS, OTP ila XLS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümOTP ila XLS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLS, OTP ila XLS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümOTP ila XLS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

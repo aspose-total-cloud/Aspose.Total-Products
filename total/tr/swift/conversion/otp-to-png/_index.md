@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPNG, OTP ila PNG FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümOTP ila PNG kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPNG, OTP ila PNG FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümOTP ila PNG kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

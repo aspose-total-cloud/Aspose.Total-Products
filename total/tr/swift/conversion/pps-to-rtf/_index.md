@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürRTF, PPS ila RTF FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPS ila RTF kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürRTF, PPS ila RTF FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPS ila RTF kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

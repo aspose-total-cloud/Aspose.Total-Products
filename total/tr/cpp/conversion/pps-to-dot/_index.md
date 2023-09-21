@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOT, PPS ila DOT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPS ila DOT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOT, PPS ila DOT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPS ila DOT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

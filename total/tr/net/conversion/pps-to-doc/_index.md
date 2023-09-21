@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOC, PPS ila DOC FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila DOC kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOC, PPS ila DOC FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila DOC kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

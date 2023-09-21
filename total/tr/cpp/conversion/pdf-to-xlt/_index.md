@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLT, PDF ila XLT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPDF ila XLT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLT, PDF ila XLT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPDF ila XLT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

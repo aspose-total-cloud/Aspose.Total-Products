@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPOT, DOTM ila POT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümDOTM ila POT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPOT, DOTM ila POT FREE Converter veya Python SDKdescription: Ücretsiz DönüşümDOTM ila POT kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

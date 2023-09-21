@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSVG, POT ila SVG FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPOT ila SVG kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSVG, POT ila SVG FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPOT ila SVG kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

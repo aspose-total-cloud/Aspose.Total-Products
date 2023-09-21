@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPCL, PPTM ila PCL FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPTM ila PCL kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPCL, PPTM ila PCL FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPTM ila PCL kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürDOT, DOCM ila DOT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOCM ila DOT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürDOT, DOCM ila DOT FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOCM ila DOT kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

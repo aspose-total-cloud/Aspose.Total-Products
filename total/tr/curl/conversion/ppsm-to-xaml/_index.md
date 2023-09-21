@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXAML, PPSM ila XAML FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPSM ila XAML kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXAML, PPSM ila XAML FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPSM ila XAML kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPS, MD ila PS FREE Converter veya Android SDKdescription: Ücretsiz DönüşümMD ila PS kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPS, MD ila PS FREE Converter veya Android SDKdescription: Ücretsiz DönüşümMD ila PS kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

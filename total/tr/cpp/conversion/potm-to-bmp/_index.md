@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürBMP, POTM ila BMP FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTM ila BMP kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürBMP, POTM ila BMP FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTM ila BMP kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

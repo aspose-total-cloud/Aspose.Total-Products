@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXML, PPTM ila XML FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPTM ila XML kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXML, PPTM ila XML FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPTM ila XML kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

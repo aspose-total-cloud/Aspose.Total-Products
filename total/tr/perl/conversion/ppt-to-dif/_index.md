@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDIF, PPT ila DIF FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPT ila DIF kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDIF, PPT ila DIF FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPT ila DIF kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

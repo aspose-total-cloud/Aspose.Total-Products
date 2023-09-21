@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLSX, POTM ila XLSX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTM ila XLSX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLSX, POTM ila XLSX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPOTM ila XLSX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

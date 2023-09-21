@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCHM, PPS ila CHM FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPS ila CHM kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCHM, PPS ila CHM FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPS ila CHM kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

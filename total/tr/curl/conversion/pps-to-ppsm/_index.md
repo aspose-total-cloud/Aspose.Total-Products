@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPSM, PPS ila PPSM FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPS ila PPSM kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPSM, PPS ila PPSM FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPS ila PPSM kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

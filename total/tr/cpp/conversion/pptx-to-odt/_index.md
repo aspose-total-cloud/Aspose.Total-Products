@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODT, PPTX ila ODT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPTX ila ODT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODT, PPTX ila ODT FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPTX ila ODT kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

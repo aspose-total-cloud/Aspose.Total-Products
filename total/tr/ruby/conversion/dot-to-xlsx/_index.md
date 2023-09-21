@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLSX, DOT ila XLSX FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOT ila XLSX kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLSX, DOT ila XLSX FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOT ila XLSX kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPPSX, PDF ila PPSX FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPDF ila PPSX kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPPSX, PDF ila PPSX FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPDF ila PPSX kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

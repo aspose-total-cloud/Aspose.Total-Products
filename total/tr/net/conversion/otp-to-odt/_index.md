@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODT, OTP ila ODT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümOTP ila ODT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODT, OTP ila ODT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümOTP ila ODT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

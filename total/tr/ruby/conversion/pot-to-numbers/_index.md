@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürNUMBERS, POT ila NUMBERS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila NUMBERS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürNUMBERS, POT ila NUMBERS FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPOT ila NUMBERS kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

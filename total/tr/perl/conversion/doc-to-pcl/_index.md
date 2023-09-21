@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPCL, DOC ila PCL FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümDOC ila PCL kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPCL, DOC ila PCL FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümDOC ila PCL kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

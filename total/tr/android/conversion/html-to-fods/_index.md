@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürFODS, HTML ila FODS FREE Converter veya Android SDKdescription: Ücretsiz DönüşümHTML ila FODS kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürFODS, HTML ila FODS FREE Converter veya Android SDKdescription: Ücretsiz DönüşümHTML ila FODS kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

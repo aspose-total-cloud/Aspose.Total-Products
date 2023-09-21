@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLS, ODP ila XLS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümODP ila XLS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLS, ODP ila XLS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümODP ila XLS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

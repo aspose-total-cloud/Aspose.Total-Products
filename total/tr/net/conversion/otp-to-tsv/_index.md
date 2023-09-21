@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTSV, OTP ila TSV FREE Converter veya Net SDKdescription: Ücretsiz DönüşümOTP ila TSV kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTSV, OTP ila TSV FREE Converter veya Net SDKdescription: Ücretsiz DönüşümOTP ila TSV kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

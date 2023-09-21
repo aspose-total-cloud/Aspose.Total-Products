@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLTX, PPSX ila XLTX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSX ila XLTX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLTX, PPSX ila XLTX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPSX ila XLTX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

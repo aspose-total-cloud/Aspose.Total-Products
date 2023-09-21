@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDIF, ODP ila DIF FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümODP ila DIF kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDIF, ODP ila DIF FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümODP ila DIF kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

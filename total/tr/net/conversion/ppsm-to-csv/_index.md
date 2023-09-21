@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCSV, PPSM ila CSV FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSM ila CSV kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCSV, PPSM ila CSV FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSM ila CSV kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

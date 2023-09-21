@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXML, DOCX ila XML FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOCX ila XML kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXML, DOCX ila XML FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOCX ila XML kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

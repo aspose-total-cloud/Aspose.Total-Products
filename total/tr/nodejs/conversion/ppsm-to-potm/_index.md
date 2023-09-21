@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPOTM, PPSM ila POTM FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPSM ila POTM kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPOTM, PPSM ila POTM FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPSM ila POTM kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

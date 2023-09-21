@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürNUMBERS, TXT ila NUMBERS FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümTXT ila NUMBERS kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürNUMBERS, TXT ila NUMBERS FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümTXT ila NUMBERS kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

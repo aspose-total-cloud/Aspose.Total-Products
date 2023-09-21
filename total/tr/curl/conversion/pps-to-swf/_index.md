@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürSWF, PPS ila SWF FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPS ila SWF kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürSWF, PPS ila SWF FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPPS ila SWF kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

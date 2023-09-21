@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürODP, TXT ila ODP FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümTXT ila ODP kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürODP, TXT ila ODP FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümTXT ila ODP kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

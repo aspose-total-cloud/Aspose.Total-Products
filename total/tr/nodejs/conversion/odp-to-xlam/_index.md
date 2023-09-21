@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLAM, ODP ila XLAM FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümODP ila XLAM kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLAM, ODP ila XLAM FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümODP ila XLAM kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

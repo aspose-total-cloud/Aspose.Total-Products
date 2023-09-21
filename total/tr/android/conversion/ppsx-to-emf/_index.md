@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEMF, PPSX ila EMF FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPSX ila EMF kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEMF, PPSX ila EMF FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPSX ila EMF kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

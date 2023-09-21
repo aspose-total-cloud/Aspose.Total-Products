@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürMD, PPSM ila MD FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPSM ila MD kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürMD, PPSM ila MD FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPSM ila MD kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

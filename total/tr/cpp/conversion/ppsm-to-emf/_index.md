@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEMF, PPSM ila EMF FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPSM ila EMF kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEMF, PPSM ila EMF FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümPPSM ila EMF kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

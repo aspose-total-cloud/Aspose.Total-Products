@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPNG, PPSX ila PNG FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila PNG kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPNG, PPSX ila PNG FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila PNG kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLTX, PPS ila XLTX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila XLTX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLTX, PPS ila XLTX FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila XLTX kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

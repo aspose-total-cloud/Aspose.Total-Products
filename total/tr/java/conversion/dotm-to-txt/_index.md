@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürTXT, DOTM ila TXT FREE Converter veya Java SDKdescription: Ücretsiz DönüşümDOTM ila TXT kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürTXT, DOTM ila TXT FREE Converter veya Java SDKdescription: Ücretsiz DönüşümDOTM ila TXT kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

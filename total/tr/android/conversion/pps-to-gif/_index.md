@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürGIF, PPS ila GIF FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPS ila GIF kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürGIF, PPS ila GIF FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPS ila GIF kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

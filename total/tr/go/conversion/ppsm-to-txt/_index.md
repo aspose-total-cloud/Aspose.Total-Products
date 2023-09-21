@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTXT, PPSM ila TXT FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSM ila TXT kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTXT, PPSM ila TXT FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSM ila TXT kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

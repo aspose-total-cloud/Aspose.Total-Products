@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürSVG, DOTX ila SVG FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOTX ila SVG kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürSVG, DOTX ila SVG FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümDOTX ila SVG kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

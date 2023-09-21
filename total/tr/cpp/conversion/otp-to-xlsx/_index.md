@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLSX, OTP ila XLSX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümOTP ila XLSX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLSX, OTP ila XLSX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümOTP ila XLSX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

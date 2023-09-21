@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXLTX, OTP ila XLTX FREE Converter veya GO SDKdescription: Ücretsiz DönüşümOTP ila XLTX kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXLTX, OTP ila XLTX FREE Converter veya GO SDKdescription: Ücretsiz DönüşümOTP ila XLTX kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürBMP, PPT ila BMP FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPT ila BMP kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürBMP, PPT ila BMP FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPT ila BMP kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

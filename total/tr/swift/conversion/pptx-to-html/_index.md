@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürHTML, PPTX ila HTML FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPTX ila HTML kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürHTML, PPTX ila HTML FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPTX ila HTML kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

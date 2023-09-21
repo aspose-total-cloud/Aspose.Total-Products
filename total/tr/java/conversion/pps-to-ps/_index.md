@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPS, PPS ila PS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila PS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPS, PPS ila PS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila PS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

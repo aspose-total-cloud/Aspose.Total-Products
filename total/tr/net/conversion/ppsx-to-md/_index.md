@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürMD, PPSX ila MD FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSX ila MD kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürMD, PPSX ila MD FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPSX ila MD kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

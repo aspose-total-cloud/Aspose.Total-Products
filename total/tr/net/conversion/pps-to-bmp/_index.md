@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürBMP, PPS ila BMP FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila BMP kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürBMP, PPS ila BMP FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPS ila BMP kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

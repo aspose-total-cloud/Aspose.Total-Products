@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCHM, PPTX ila CHM FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPTX ila CHM kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCHM, PPTX ila CHM FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPPTX ila CHM kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

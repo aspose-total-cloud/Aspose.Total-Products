@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTXT, OTP ila TXT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümOTP ila TXT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTXT, OTP ila TXT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümOTP ila TXT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

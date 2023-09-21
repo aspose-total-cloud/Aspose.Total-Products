@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLS, OTT ila XLS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümOTT ila XLS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLS, OTT ila XLS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümOTT ila XLS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

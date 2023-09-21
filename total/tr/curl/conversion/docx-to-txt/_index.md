@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürTXT, DOCX ila TXT FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümDOCX ila TXT kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürTXT, DOCX ila TXT FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümDOCX ila TXT kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürXPS, PPT ila XPS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPT ila XPS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürXPS, PPT ila XPS FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPPT ila XPS kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXAML, DOCM ila XAML FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOCM ila XAML kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXAML, DOCM ila XAML FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümDOCM ila XAML kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

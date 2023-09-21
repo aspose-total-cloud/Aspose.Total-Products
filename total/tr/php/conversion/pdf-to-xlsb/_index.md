@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLSB, PDF ila XLSB FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPDF ila XLSB kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLSB, PDF ila XLSB FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümPDF ila XLSB kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

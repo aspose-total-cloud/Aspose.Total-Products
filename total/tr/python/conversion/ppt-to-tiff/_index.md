@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTIFF, PPT ila TIFF FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPT ila TIFF kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTIFF, PPT ila TIFF FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPPT ila TIFF kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

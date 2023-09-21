@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürOTT, PPSX ila OTT FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPSX ila OTT kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürOTT, PPSX ila OTT FREE Converter veya Perl SDKdescription: Ücretsiz DönüşümPPSX ila OTT kullanarak Perl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

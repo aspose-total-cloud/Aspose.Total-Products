@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPDF, POTM ila PDF FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTM ila PDF kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPDF, POTM ila PDF FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTM ila PDF kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

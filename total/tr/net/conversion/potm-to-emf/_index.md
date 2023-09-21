@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEMF, POTM ila EMF FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTM ila EMF kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEMF, POTM ila EMF FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTM ila EMF kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

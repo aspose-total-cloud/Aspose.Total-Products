@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPOT, RTF ila POT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümRTF ila POT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPOT, RTF ila POT FREE Converter veya PHP SDKdescription: Ücretsiz DönüşümRTF ila POT kullanarak PHP Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

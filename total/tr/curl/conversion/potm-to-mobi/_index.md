@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürMOBI, POTM ila MOBI FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPOTM ila MOBI kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürMOBI, POTM ila MOBI FREE Converter veya Curl SDKdescription: Ücretsiz DönüşümPOTM ila MOBI kullanarak Curl Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

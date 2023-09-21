@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürODT, MHTML ila ODT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümMHTML ila ODT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürODT, MHTML ila ODT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümMHTML ila ODT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

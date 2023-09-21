@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPNG, PPTX ila PNG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPTX ila PNG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPNG, PPTX ila PNG FREE Converter veya Ruby SDKdescription: Ücretsiz DönüşümPPTX ila PNG kullanarak Ruby Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

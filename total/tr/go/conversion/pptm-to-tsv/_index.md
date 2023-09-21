@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTSV, PPTM ila TSV FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPTM ila TSV kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTSV, PPTM ila TSV FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPTM ila TSV kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

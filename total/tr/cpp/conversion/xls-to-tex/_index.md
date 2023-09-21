@@ -1,0 +1,1 @@
+---title: Word'ü şuraya dönüştürTEX, XLS ila TEX FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümXLS ila TEX kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Excel, CSV ve SpreadsheetML çalışma sayfalarını veya elektronik tablolarını Bulutta Oluşturun, Düzenleyin ve İşleyin.---

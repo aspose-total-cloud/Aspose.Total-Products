@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürPOTX, RTF ila POTX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümRTF ila POTX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürPOTX, RTF ila POTX FREE Converter veya Python SDKdescription: Ücretsiz DönüşümRTF ila POTX kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

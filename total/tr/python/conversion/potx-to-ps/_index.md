@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPS, POTX ila PS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila PS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPS, POTX ila PS FREE Converter veya Python SDKdescription: Ücretsiz DönüşümPOTX ila PS kullanarak Python Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

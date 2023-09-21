@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürXLAM, CHM ila XLAM FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümCHM ila XLAM kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürXLAM, CHM ila XLAM FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümCHM ila XLAM kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

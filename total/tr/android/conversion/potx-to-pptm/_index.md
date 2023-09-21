@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPTM, POTX ila PPTM FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPOTX ila PPTM kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPTM, POTX ila PPTM FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPOTX ila PPTM kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

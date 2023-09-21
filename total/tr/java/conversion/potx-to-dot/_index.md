@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDOT, POTX ila DOT FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPOTX ila DOT kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDOT, POTX ila DOT FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPOTX ila DOT kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

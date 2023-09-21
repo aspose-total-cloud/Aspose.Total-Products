@@ -1,1 +1,1 @@
----title: Word'ü şuraya dönüştürDOT, DOTM ila DOT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümDOTM ila DOT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: Word'ü şuraya dönüştürDOT, DOTM ila DOT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümDOTM ila DOT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft Word ve OpenOffice belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

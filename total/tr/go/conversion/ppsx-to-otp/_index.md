@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürOTP, PPSX ila OTP FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila OTP kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürOTP, PPSX ila OTP FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila OTP kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

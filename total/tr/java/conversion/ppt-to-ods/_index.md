@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürODS, PPT ila ODS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPT ila ODS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürODS, PPT ila ODS FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPT ila ODS kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

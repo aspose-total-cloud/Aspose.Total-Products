@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, POT ila JPEG FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPOT ila JPEG kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, POT ila JPEG FREE Converter veya Android SDKdescription: Ücretsiz DönüşümPOT ila JPEG kullanarak Android Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

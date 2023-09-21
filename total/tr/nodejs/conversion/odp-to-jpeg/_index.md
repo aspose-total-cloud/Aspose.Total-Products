@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürJPEG, ODP ila JPEG FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümODP ila JPEG kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürJPEG, ODP ila JPEG FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümODP ila JPEG kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

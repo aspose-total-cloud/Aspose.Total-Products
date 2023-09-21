@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürPPSM, ODP ila PPSM FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümODP ila PPSM kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürPPSM, ODP ila PPSM FREE Converter veya C++ SDKdescription: Ücretsiz DönüşümODP ila PPSM kullanarak C++ Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürDIF, PPSX ila DIF FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila DIF kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürDIF, PPSX ila DIF FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPSX ila DIF kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

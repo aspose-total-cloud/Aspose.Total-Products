@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürFODS, PPT ila FODS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPT ila FODS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürFODS, PPT ila FODS FREE Converter veya Swift SDKdescription: Ücretsiz DönüşümPPT ila FODS kullanarak Swift Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

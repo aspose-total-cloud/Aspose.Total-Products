@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürEMF, PPS ila EMF FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila EMF kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürEMF, PPS ila EMF FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPS ila EMF kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

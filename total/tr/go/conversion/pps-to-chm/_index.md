@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürCHM, PPS ila CHM FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPS ila CHM kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürCHM, PPS ila CHM FREE Converter veya GO SDKdescription: Ücretsiz DönüşümPPS ila CHM kullanarak GO Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

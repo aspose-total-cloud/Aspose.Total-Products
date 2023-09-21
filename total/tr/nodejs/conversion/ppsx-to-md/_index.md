@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürMD, PPSX ila MD FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPSX ila MD kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürMD, PPSX ila MD FREE Converter veya Nodejs SDKdescription: Ücretsiz DönüşümPPSX ila MD kullanarak Nodejs Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

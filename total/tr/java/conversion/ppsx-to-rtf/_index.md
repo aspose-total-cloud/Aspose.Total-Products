@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürRTF, PPSX ila RTF FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPSX ila RTF kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürRTF, PPSX ila RTF FREE Converter veya Java SDKdescription: Ücretsiz DönüşümPPSX ila RTF kullanarak Java Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---

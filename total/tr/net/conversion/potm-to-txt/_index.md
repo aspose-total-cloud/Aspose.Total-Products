@@ -1,1 +1,1 @@
----title: PowerPoint'i Şuraya DönüştürTXT, POTM ila TXT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTM ila TXT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
+---title: PowerPoint'i Şuraya DönüştürTXT, POTM ila TXT FREE Converter veya Net SDKdescription: Ücretsiz DönüşümPOTM ila TXT kullanarak Net Bulut API'leri ve SDK'lar. Ayrıca Microsoft PowerPoint belgelerini Bulutta Oluşturun, Düzenleyin ve İşleyin.---
