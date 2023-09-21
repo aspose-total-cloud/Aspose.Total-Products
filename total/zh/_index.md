@@ -1,6 +1,6 @@
 ﻿---
-title: Cloud based Document manipulation SDKs with JSON response 
-description: Platform independent Cloud SDKs offering File Format manipulation capabilities for Word Excel PDF PowerPoint Barcode MS-Project Email Image HTML Video files.
+title: 具有 JSON 响应的基于云的文档操作 SDK
+description: 独立于平台的云 SDK 为 Word Excel PDF PowerPoint 条形码 MS-Project 电子邮件图像 HTML 视频文件提供文件格式操作功能。
 weight: 10
 url: /
 ---

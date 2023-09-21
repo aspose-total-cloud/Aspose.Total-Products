@@ -1,1 +1,1 @@
----title: 将单词转换为XAML，DOC到XAML免费转换器或PHPSDKdescription: 自由转换DOC到XAML通过使用PHP 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---
+---title: 将单词转换为XAML，DOC到XAML免费转换器或PHPSDKdescription: 自由转换DOC到XAML通过使用PHP 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---

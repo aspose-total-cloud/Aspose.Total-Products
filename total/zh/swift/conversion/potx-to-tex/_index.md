@@ -1,0 +1,1 @@
+---title: 将 PowerPoint 转换为 TEX，POTX到TEX免费转换器或SwiftSDKdescription: 自由转换POTX到TEX通过使用Swift 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

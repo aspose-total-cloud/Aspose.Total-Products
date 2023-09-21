@@ -1,1 +1,1 @@
----title: 将 PowerPoint 转换为 POTM，POTX到POTM免费转换器或NetSDKdescription: 自由转换POTX到POTM通过使用Net 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---
+---title: 将 PowerPoint 转换为 POTM，POTX到POTM免费转换器或NetSDKdescription: 自由转换POTX到POTM通过使用Net 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

@@ -1,1 +1,1 @@
----title: 将 PowerPoint 转换为 BMP，PPS到BMP免费转换器或NodejsSDKdescription: 自由转换PPS到BMP通过使用Nodejs 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---
+---title: 将 PowerPoint 转换为 BMP，PPS到BMP免费转换器或NodejsSDKdescription: 自由转换PPS到BMP通过使用Nodejs 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

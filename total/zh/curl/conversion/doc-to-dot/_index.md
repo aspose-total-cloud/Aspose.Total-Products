@@ -1,1 +1,1 @@
----title: 将单词转换为DOT，DOC到DOT免费转换器或CurlSDKdescription: 自由转换DOC到DOT通过使用Curl 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---
+---title: 将单词转换为DOT，DOC到DOT免费转换器或CurlSDKdescription: 自由转换DOC到DOT通过使用Curl 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---

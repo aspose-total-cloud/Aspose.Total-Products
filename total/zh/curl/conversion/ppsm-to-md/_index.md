@@ -1,1 +1,1 @@
----title: 将 PowerPoint 转换为 MD，PPSM到MD免费转换器或CurlSDKdescription: 自由转换PPSM到MD通过使用Curl 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---
+---title: 将 PowerPoint 转换为 MD，PPSM到MD免费转换器或CurlSDKdescription: 自由转换PPSM到MD通过使用Curl 云 API 和 SDK。还在云中创建、编辑和呈现 Microsoft PowerPoint 文档.---

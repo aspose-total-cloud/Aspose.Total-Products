@@ -1,1 +1,1 @@
----title: 将单词转换为DOTX，DOC到DOTX免费转换器或AndroidSDKdescription: 自由转换DOC到DOTX通过使用Android 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---
+---title: 将单词转换为DOTX，DOC到DOTX免费转换器或AndroidSDKdescription: 自由转换DOC到DOTX通过使用Android 云 API 和 SDK。还可以在云中创建、编辑和呈现 Microsoft Word 和 OpenOffice 文档。---
