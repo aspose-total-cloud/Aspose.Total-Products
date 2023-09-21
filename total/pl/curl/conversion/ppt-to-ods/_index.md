@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODS, PPT na ODS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPT na ODS za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODS, PPT na ODS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPT na ODS za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

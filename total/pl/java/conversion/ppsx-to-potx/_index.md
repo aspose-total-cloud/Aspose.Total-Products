@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPOTX, PPSX na POTX BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPSX na POTX za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPOTX, PPSX na POTX BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPSX na POTX za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

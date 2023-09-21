@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOTX, PPSX na DOTX BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPSX na DOTX za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOTX, PPSX na DOTX BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPSX na DOTX za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

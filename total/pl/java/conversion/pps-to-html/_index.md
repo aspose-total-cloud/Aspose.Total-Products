@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naHTML, PPS na HTML BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPS na HTML za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naHTML, PPS na HTML BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPS na HTML za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOC, PPTX na DOC BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTX na DOC za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOC, PPTX na DOC BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTX na DOC za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

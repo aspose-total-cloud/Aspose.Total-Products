@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSB, POT na XLSB BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na XLSB za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSB, POT na XLSB BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na XLSB za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

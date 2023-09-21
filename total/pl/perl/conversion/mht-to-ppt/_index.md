@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naPPT, MHT na PPT BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMHT na PPT za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

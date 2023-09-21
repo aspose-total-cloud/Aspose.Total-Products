@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTX, PPTX na XLTX BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPTX na XLTX za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTX, PPTX na XLTX BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPTX na XLTX za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naODP, CHM na ODP BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaCHM na ODP za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naODP, CHM na ODP BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaCHM na ODP za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

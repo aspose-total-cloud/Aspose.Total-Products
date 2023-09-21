@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naJSON, ODP na JSON BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaODP na JSON za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naJSON, ODP na JSON BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaODP na JSON za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

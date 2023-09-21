@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOTM, POT na DOTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na DOTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOTM, POT na DOTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na DOTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

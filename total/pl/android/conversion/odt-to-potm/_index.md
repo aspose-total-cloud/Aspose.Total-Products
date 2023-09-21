@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPOTM, ODT na POTM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaODT na POTM za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPOTM, ODT na POTM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaODT na POTM za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

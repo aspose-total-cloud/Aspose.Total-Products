@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naJPEG, PPSM na JPEG BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPSM na JPEG za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naJPEG, PPSM na JPEG BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPSM na JPEG za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

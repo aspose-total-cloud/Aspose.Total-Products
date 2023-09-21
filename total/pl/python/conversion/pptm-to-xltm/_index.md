@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTM, PPTM na XLTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTM na XLTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTM, PPTM na XLTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTM na XLTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

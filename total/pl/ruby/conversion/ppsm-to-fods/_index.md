@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naFODS, PPSM na FODS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPSM na FODS za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naFODS, PPSM na FODS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPSM na FODS za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

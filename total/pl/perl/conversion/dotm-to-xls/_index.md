@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLS, DOTM na XLS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaDOTM na XLS za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLS, DOTM na XLS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaDOTM na XLS za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

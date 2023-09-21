@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXML, PPS na XML BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPS na XML za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXML, PPS na XML BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPS na XML za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

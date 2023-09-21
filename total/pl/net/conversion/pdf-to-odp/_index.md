@@ -1,1 +1,1 @@
----title: Konwertuj słowo naODP, PDF na ODP BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPDF na ODP za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naODP, PDF na ODP BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPDF na ODP za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPOTX, MD na POTX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMD na POTX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPOTX, MD na POTX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMD na POTX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

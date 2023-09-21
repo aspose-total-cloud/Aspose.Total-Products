@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPSX, POTM na PPSX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOTM na PPSX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPSX, POTM na PPSX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOTM na PPSX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

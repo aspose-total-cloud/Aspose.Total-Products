@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXAML, TXT na XAML BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaTXT na XAML za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXAML, TXT na XAML BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaTXT na XAML za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

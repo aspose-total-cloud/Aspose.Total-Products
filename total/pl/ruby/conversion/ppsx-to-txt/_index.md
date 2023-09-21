@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naTXT, PPSX na TXT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPSX na TXT za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naTXT, PPSX na TXT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPSX na TXT za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

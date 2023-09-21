@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSXC, PPS na SXC BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPS na SXC za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSXC, PPS na SXC BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPS na SXC za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

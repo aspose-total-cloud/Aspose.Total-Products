@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSM, ODP na XLSM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaODP na XLSM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSM, ODP na XLSM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaODP na XLSM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

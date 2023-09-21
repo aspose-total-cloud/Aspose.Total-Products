@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMOBI, PPTM na MOBI BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPTM na MOBI za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMOBI, PPTM na MOBI BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPTM na MOBI za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

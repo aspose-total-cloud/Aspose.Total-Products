@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPPSX, PDF na PPSX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPDF na PPSX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPPSX, PDF na PPSX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPDF na PPSX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

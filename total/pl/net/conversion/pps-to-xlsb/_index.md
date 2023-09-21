@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSB, PPS na XLSB BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPS na XLSB za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSB, PPS na XLSB BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPS na XLSB za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

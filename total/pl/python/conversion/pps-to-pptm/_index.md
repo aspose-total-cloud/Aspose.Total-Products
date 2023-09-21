@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPTM, PPS na PPTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPS na PPTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPTM, PPS na PPTM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPS na PPTM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

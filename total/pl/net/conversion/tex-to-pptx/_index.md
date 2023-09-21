@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naPPTX, TEX na PPTX BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaTEX na PPTX za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

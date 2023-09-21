@@ -1,1 +1,1 @@
----title: Konwertuj słowo naODS, HTML na ODS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaHTML na ODS za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naODS, HTML na ODS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaHTML na ODS za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

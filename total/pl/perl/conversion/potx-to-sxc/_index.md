@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSXC, POTX na SXC BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPOTX na SXC za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSXC, POTX na SXC BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPOTX na SXC za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

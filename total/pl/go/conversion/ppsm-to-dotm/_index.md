@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOTM, PPSM na DOTM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSM na DOTM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOTM, PPSM na DOTM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSM na DOTM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

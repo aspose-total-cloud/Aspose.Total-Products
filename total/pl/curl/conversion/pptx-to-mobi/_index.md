@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMOBI, PPTX na MOBI BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPTX na MOBI za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMOBI, PPTX na MOBI BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPTX na MOBI za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

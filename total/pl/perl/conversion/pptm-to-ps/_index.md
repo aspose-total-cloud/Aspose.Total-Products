@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPS, PPTM na PS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPTM na PS za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPS, PPTM na PS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPTM na PS za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

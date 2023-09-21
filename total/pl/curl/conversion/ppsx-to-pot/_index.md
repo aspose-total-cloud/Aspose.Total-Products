@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPOT, PPSX na POT BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPSX na POT za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPOT, PPSX na POT BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPSX na POT za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

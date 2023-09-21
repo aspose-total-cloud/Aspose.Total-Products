@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPNG, OTT na PNG BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaOTT na PNG za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPNG, OTT na PNG BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaOTT na PNG za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

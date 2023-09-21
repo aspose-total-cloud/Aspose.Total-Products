@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPCL, PPTM na PCL BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPTM na PCL za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPCL, PPTM na PCL BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPTM na PCL za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

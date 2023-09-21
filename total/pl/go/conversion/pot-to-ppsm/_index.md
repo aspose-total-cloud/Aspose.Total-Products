@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPSM, POT na PPSM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOT na PPSM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPSM, POT na PPSM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOT na PPSM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

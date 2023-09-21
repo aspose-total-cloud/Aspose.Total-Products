@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naTXT, OTP na TXT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaOTP na TXT za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naTXT, OTP na TXT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaOTP na TXT za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

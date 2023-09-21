@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOCX, POTM na DOCX BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPOTM na DOCX za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOCX, POTM na DOCX BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPOTM na DOCX za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

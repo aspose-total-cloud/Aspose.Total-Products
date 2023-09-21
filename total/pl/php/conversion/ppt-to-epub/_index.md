@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naEPUB, PPT na EPUB BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na EPUB za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naEPUB, PPT na EPUB BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na EPUB za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPOT, DOTM na POT BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaDOTM na POT za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPOT, DOTM na POT BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaDOTM na POT za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

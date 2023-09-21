@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODS, PPTX na ODS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPTX na ODS za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODS, PPTX na ODS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPTX na ODS za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

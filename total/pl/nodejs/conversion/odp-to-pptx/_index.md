@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPTX, ODP na PPTX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODP na PPTX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPTX, ODP na PPTX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODP na PPTX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

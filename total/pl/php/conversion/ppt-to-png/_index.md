@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPNG, PPT na PNG BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na PNG za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPNG, PPT na PNG BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na PNG za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODP, PPT na ODP BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na ODP za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODP, PPT na ODP BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na ODP za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

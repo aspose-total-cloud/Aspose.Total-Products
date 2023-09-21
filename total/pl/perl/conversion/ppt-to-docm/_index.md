@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOCM, PPT na DOCM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPT na DOCM za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOCM, PPT na DOCM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPT na DOCM za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

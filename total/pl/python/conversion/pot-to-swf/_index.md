@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSWF, POT na SWF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na SWF za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSWF, POT na SWF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPOT na SWF za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

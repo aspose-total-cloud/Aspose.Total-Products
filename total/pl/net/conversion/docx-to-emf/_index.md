@@ -1,1 +1,1 @@
----title: Konwertuj słowo naEMF, DOCX na EMF BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaDOCX na EMF za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naEMF, DOCX na EMF BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaDOCX na EMF za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSM, PPS na XLSM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPS na XLSM za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSM, PPS na XLSM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPS na XLSM za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

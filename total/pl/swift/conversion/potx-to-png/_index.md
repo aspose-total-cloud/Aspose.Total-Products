@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPNG, POTX na PNG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPOTX na PNG za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPNG, POTX na PNG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPOTX na PNG za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

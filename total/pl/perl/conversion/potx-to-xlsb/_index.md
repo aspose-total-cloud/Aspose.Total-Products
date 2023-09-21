@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSB, POTX na XLSB BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPOTX na XLSB za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSB, POTX na XLSB BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPOTX na XLSB za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSXC, ODP na SXC BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaODP na SXC za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSXC, ODP na SXC BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaODP na SXC za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

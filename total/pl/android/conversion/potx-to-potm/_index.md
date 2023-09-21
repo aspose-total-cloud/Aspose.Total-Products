@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPOTM, POTX na POTM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTX na POTM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPOTM, POTX na POTM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTX na POTM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

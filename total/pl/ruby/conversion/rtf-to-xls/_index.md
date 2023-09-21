@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLS, RTF na XLS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaRTF na XLS za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLS, RTF na XLS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaRTF na XLS za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

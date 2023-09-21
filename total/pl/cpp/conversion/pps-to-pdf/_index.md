@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPDF, PPS na PDF BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPS na PDF za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPDF, PPS na PDF BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPS na PDF za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

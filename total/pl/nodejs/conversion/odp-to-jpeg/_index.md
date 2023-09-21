@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naJPEG, ODP na JPEG BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODP na JPEG za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naJPEG, ODP na JPEG BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODP na JPEG za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

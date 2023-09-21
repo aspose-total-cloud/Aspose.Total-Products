@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naTEX, POTM na TEX BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOTM na TEX za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

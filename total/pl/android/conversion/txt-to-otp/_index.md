@@ -1,1 +1,1 @@
----title: Konwertuj słowo naOTP, TXT na OTP BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaTXT na OTP za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naOTP, TXT na OTP BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaTXT na OTP za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

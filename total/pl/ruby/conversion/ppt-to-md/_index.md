@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMD, PPT na MD BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPT na MD za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMD, PPT na MD BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPT na MD za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

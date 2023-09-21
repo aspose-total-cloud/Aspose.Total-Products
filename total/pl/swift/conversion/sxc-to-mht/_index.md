@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naMHT, SXC na MHT BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaSXC na MHT za pomocą Swift Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

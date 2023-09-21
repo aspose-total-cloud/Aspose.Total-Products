@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLS, DOTM na XLS BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaDOTM na XLS za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLS, DOTM na XLS BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaDOTM na XLS za pomocą Net Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

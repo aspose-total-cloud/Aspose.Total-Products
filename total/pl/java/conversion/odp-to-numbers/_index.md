@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naNUMBERS, ODP na NUMBERS BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaODP na NUMBERS za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naNUMBERS, ODP na NUMBERS BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaODP na NUMBERS za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

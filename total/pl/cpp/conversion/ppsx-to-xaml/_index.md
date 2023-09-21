@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXAML, PPSX na XAML BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPSX na XAML za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXAML, PPSX na XAML BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPSX na XAML za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

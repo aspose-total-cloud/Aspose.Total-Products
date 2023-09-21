@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSXC, POT na SXC BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPOT na SXC za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSXC, POT na SXC BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPOT na SXC za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

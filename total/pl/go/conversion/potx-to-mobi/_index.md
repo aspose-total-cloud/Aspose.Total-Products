@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMOBI, POTX na MOBI BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na MOBI za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMOBI, POTX na MOBI BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na MOBI za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

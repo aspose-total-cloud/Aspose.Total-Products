@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXML, ODP na XML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaODP na XML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXML, ODP na XML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaODP na XML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naRTF, PPSM na RTF BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPSM na RTF za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naRTF, PPSM na RTF BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPSM na RTF za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

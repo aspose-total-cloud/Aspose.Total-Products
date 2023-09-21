@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPT, POTM na PPT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPOTM na PPT za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPT, POTM na PPT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPOTM na PPT za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

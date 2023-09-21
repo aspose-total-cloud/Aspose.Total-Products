@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSWF, PPT na SWF BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPT na SWF za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSWF, PPT na SWF BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPT na SWF za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

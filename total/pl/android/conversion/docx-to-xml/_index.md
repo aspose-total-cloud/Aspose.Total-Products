@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXML, DOCX na XML BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaDOCX na XML za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXML, DOCX na XML BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaDOCX na XML za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

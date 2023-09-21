@@ -1,1 +1,1 @@
----title: Konwertuj słowo naMOBI, ODT na MOBI BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaODT na MOBI za pomocą PHP Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naMOBI, ODT na MOBI BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaODT na MOBI za pomocą PHP Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

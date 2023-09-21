@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPTM, OTP na PPTM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaOTP na PPTM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPTM, OTP na PPTM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaOTP na PPTM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naCSV, POTX na CSV BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOTX na CSV za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naCSV, POTX na CSV BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOTX na CSV za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

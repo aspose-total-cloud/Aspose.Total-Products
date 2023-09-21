@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPCL, PPSX na PCL BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPSX na PCL za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPCL, PPSX na PCL BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPSX na PCL za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

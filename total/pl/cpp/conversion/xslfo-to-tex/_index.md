@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naTEX, XSLFO na TEX BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaXSLFO na TEX za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

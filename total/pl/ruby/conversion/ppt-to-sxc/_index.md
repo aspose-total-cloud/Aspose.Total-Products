@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSXC, PPT na SXC BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPT na SXC za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSXC, PPT na SXC BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPT na SXC za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

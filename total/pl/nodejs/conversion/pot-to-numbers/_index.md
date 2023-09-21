@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naNUMBERS, POT na NUMBERS BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOT na NUMBERS za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naNUMBERS, POT na NUMBERS BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOT na NUMBERS za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

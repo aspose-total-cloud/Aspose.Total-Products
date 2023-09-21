@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naPPT, TEX na PPT BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaTEX na PPT za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

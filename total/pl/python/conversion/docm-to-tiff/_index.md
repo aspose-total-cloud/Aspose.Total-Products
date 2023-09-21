@@ -1,1 +1,1 @@
----title: Konwertuj słowo naTIFF, DOCM na TIFF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOCM na TIFF za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naTIFF, DOCM na TIFF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOCM na TIFF za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

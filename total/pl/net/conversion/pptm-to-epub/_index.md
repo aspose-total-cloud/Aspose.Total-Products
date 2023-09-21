@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naEPUB, PPTM na EPUB BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPTM na EPUB za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naEPUB, PPTM na EPUB BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPTM na EPUB za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

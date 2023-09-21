@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naCHM, PPTX na CHM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTX na CHM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naCHM, PPTX na CHM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTX na CHM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

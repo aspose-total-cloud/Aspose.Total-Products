@@ -1,1 +1,1 @@
----title: Konwertuj słowo naBMP, DOTX na BMP BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaDOTX na BMP za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naBMP, DOTX na BMP BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaDOTX na BMP za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

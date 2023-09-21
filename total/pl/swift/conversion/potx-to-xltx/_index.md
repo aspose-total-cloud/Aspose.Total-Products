@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTX, POTX na XLTX BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPOTX na XLTX za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTX, POTX na XLTX BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPOTX na XLTX za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

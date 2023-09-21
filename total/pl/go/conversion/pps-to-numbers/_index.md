@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naNUMBERS, PPS na NUMBERS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPS na NUMBERS za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naNUMBERS, PPS na NUMBERS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPS na NUMBERS za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

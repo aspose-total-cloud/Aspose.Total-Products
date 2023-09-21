@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXPS, ODP na XPS BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaODP na XPS za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXPS, ODP na XPS BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaODP na XPS za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

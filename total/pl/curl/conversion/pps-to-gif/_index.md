@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naGIF, PPS na GIF BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPS na GIF za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naGIF, PPS na GIF BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPS na GIF za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

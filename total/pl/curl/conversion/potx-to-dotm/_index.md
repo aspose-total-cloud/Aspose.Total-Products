@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOTM, POTX na DOTM BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOTX na DOTM za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOTM, POTX na DOTM BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOTX na DOTM za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

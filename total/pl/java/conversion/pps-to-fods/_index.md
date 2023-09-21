@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naFODS, PPS na FODS BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPS na FODS za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naFODS, PPS na FODS BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPS na FODS za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

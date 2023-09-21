@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODT, ODP na ODT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaODP na ODT za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODT, ODP na ODT BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaODP na ODT za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

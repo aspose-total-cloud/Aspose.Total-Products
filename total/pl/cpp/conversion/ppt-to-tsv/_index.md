@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naTSV, PPT na TSV BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPT na TSV za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naTSV, PPT na TSV BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaPPT na TSV za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

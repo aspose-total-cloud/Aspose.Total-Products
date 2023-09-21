@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXML, POT na XML BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOT na XML za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXML, POT na XML BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOT na XML za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

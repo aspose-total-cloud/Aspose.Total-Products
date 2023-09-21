@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naCSV, PPT na CSV BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPT na CSV za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naCSV, PPT na CSV BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPT na CSV za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

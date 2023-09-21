@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naTEX, PPSX na TEX BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPSX na TEX za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

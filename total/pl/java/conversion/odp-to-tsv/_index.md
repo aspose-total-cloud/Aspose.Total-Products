@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naTSV, ODP na TSV BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaODP na TSV za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naTSV, ODP na TSV BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaODP na TSV za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

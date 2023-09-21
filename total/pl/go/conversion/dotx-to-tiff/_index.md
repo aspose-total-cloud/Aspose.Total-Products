@@ -1,1 +1,1 @@
----title: Konwertuj słowo naTIFF, DOTX na TIFF BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOTX na TIFF za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naTIFF, DOTX na TIFF BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOTX na TIFF za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

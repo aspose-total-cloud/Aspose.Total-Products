@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naCHM, PPS na CHM BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPS na CHM za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naCHM, PPS na CHM BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPS na CHM za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

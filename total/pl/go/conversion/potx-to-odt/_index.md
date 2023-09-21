@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODT, POTX na ODT BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na ODT za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODT, POTX na ODT BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na ODT za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

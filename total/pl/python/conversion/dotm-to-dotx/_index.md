@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOTX, DOTM na DOTX BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOTM na DOTX za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOTX, DOTM na DOTX BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOTM na DOTX za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

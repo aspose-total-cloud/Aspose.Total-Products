@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTX, ODP na XLTX BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaODP na XLTX za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTX, ODP na XLTX BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaODP na XLTX za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

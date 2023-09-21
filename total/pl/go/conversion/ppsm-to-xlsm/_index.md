@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSM, PPSM na XLSM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSM na XLSM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSM, PPSM na XLSM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSM na XLSM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

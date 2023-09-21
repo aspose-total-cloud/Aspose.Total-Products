@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPCL, POTX na PCL BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na PCL za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPCL, POTX na PCL BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na PCL za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

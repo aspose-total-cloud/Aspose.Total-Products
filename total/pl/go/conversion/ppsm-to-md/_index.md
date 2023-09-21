@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMD, PPSM na MD BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSM na MD za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMD, PPSM na MD BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSM na MD za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXAML, POTM na XAML BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPOTM na XAML za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXAML, POTM na XAML BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPOTM na XAML za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

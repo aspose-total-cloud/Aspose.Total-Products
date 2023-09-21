@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naTEX, PPS na TEX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPS na TEX za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

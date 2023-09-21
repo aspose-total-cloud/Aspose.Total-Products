@@ -1,1 +1,1 @@
----title: Konwertuj słowo naFODS, PDF na FODS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPDF na FODS za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naFODS, PDF na FODS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPDF na FODS za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

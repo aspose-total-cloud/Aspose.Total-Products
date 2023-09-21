@@ -1,1 +1,1 @@
----title: Konwertuj słowo naODT, TXT na ODT BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaTXT na ODT za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naODT, TXT na ODT BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaTXT na ODT za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

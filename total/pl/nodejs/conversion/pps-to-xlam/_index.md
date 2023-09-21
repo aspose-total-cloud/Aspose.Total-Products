@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLAM, PPS na XLAM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPS na XLAM za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLAM, PPS na XLAM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPS na XLAM za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

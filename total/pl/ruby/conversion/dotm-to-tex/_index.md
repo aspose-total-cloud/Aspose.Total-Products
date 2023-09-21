@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naTEX, DOTM na TEX BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaDOTM na TEX za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLT, POT na XLT BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOT na XLT za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLT, POT na XLT BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOT na XLT za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

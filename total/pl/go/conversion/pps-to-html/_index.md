@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naHTML, PPS na HTML BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPS na HTML za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naHTML, PPS na HTML BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPS na HTML za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

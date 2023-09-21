@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPTM, POTX na PPTM BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOTX na PPTM za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPTM, POTX na PPTM BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOTX na PPTM za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

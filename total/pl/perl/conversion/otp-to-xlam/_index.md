@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLAM, OTP na XLAM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaOTP na XLAM za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLAM, OTP na XLAM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaOTP na XLAM za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

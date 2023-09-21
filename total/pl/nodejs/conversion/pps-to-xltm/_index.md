@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTM, PPS na XLTM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPS na XLTM za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTM, PPS na XLTM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPS na XLTM za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

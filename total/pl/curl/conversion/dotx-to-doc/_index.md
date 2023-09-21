@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOC, DOTX na DOC BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaDOTX na DOC za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOC, DOTX na DOC BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaDOTX na DOC za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

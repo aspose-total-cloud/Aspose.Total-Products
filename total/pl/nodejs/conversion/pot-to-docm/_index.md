@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOCM, POT na DOCM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOT na DOCM za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOCM, POT na DOCM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPOT na DOCM za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

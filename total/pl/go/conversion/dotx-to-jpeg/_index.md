@@ -1,1 +1,1 @@
----title: Konwertuj słowo naJPEG, DOTX na JPEG BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOTX na JPEG za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naJPEG, DOTX na JPEG BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOTX na JPEG za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

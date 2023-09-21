@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPOTX, PPT na POTX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na POTX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPOTX, PPT na POTX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na POTX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

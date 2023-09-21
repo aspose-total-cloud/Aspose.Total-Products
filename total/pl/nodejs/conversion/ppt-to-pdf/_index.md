@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPDF, PPT na PDF BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na PDF za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPDF, PPT na PDF BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na PDF za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

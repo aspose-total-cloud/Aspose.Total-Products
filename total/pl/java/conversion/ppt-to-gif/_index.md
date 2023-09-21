@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naGIF, PPT na GIF BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPT na GIF za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naGIF, PPT na GIF BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPT na GIF za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXAML, OTP na XAML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaOTP na XAML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXAML, OTP na XAML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaOTP na XAML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

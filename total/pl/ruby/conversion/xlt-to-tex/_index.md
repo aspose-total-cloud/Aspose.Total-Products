@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naTEX, XLT na TEX BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaXLT na TEX za pomocą Ruby Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

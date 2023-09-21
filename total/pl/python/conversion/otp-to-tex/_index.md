@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naTEX, OTP na TEX BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaOTP na TEX za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

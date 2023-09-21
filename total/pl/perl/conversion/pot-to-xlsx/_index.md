@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSX, POT na XLSX BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPOT na XLSX za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSX, POT na XLSX BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPOT na XLSX za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

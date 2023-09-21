@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXAML, MD na XAML BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMD na XAML za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXAML, MD na XAML BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMD na XAML za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

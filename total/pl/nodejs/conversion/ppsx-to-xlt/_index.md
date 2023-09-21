@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLT, PPSX na XLT BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPSX na XLT za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLT, PPSX na XLT BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPSX na XLT za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

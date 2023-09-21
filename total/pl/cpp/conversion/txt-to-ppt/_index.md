@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPPT, TXT na PPT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaTXT na PPT za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPPT, TXT na PPT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaTXT na PPT za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLT, TXT na XLT BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaTXT na XLT za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLT, TXT na XLT BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaTXT na XLT za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOT, PPTX na DOT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTX na DOT za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOT, PPTX na DOT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTX na DOT za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

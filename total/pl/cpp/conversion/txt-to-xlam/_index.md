@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLAM, TXT na XLAM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaTXT na XLAM za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLAM, TXT na XLAM BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaTXT na XLAM za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOTX, MHTML na DOTX BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMHTML na DOTX za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOTX, MHTML na DOTX BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMHTML na DOTX za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naJPEG, DOTM na JPEG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaDOTM na JPEG za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naJPEG, DOTM na JPEG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaDOTM na JPEG za pomocą Swift Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

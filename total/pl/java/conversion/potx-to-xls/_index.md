@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLS, POTX na XLS BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPOTX na XLS za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLS, POTX na XLS BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPOTX na XLS za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

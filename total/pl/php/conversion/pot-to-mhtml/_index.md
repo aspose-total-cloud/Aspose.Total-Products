@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMHTML, POT na MHTML BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOT na MHTML za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMHTML, POT na MHTML BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPOT na MHTML za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

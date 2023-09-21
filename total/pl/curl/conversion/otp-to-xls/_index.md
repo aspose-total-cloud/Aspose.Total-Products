@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLS, OTP na XLS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaOTP na XLS za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLS, OTP na XLS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaOTP na XLS za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

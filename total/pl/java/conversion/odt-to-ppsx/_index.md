@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPPSX, ODT na PPSX BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaODT na PPSX za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPPSX, ODT na PPSX BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaODT na PPSX za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

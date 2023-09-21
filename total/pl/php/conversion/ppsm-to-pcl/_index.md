@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPCL, PPSM na PCL BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPSM na PCL za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPCL, PPSM na PCL BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPSM na PCL za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

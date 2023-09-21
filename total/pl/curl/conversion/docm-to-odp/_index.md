@@ -1,1 +1,1 @@
----title: Konwertuj słowo naODP, DOCM na ODP BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaDOCM na ODP za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naODP, DOCM na ODP BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaDOCM na ODP za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

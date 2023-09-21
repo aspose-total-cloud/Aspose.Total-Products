@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLAM, MD na XLAM BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaMD na XLAM za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLAM, MD na XLAM BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaMD na XLAM za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

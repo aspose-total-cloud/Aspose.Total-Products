@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSX, POTX na XLSX BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPOTX na XLSX za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSX, POTX na XLSX BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPOTX na XLSX za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

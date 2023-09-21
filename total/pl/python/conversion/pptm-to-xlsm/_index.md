@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSM, PPTM na XLSM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTM na XLSM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSM, PPTM na XLSM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTM na XLSM za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

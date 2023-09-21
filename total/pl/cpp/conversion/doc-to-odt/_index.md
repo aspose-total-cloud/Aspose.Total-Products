@@ -1,1 +1,1 @@
----title: Konwertuj słowo naODT, DOC na ODT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaDOC na ODT za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naODT, DOC na ODT BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaDOC na ODT za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

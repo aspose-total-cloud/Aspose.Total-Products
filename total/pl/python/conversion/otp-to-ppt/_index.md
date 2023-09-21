@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPPT, OTP na PPT BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaOTP na PPT za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPPT, OTP na PPT BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaOTP na PPT za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

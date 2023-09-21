@@ -1,1 +1,1 @@
----title: Konwertuj słowo naCHM, DOTX na CHM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOTX na CHM za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naCHM, DOTX na CHM BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaDOTX na CHM za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

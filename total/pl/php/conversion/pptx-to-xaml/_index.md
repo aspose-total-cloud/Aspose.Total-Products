@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXAML, PPTX na XAML BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTX na XAML za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXAML, PPTX na XAML BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTX na XAML za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

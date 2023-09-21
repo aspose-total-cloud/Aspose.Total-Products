@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naPPTM, SVG na PPTM BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaSVG na PPTM za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

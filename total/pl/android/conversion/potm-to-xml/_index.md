@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXML, POTM na XML BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTM na XML za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXML, POTM na XML BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTM na XML za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

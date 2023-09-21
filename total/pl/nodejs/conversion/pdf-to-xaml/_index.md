@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXAML, PDF na XAML BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPDF na XAML za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXAML, PDF na XAML BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPDF na XAML za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

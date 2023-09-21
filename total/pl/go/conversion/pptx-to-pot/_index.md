@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPOT, PPTX na POT BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPTX na POT za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPOT, PPTX na POT BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPTX na POT za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

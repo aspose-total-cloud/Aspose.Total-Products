@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMHTML, PPT na MHTML BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPT na MHTML za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMHTML, PPT na MHTML BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPPT na MHTML za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

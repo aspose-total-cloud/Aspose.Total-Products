@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLSX, ODP na XLSX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODP na XLSX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLSX, ODP na XLSX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaODP na XLSX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

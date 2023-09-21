@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLS, MOBI na XLS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaMOBI na XLS za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLS, MOBI na XLS BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaMOBI na XLS za pomocą Curl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj słowo naJPEG, MHTML na JPEG BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaMHTML na JPEG za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naJPEG, MHTML na JPEG BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaMHTML na JPEG za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naFODS, OTP na FODS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaOTP na FODS za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naFODS, OTP na FODS BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaOTP na FODS za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

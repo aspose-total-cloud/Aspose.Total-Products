@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODP, PPS na ODP BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPS na ODP za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODP, PPS na ODP BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPPS na ODP za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

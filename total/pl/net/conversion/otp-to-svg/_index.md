@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSVG, OTP na SVG BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaOTP na SVG za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSVG, OTP na SVG BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaOTP na SVG za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

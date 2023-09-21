@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naEMF, POTX na EMF BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOTX na EMF za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naEMF, POTX na EMF BEZPŁATNY konwerter lub Curl SDKdescription: Darmowa konwersjaPOTX na EMF za pomocą Curl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTM, POT na XLTM BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPOT na XLTM za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTM, POT na XLTM BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPOT na XLTM za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

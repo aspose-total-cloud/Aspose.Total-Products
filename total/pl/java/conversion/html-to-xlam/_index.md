@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLAM, HTML na XLAM BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaHTML na XLAM za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLAM, HTML na XLAM BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaHTML na XLAM za pomocą Java Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

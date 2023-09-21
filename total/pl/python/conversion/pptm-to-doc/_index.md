@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOC, PPTM na DOC BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTM na DOC za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOC, PPTM na DOC BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPTM na DOC za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

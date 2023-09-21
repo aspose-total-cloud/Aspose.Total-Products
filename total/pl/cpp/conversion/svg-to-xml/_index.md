@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naXML, SVG na XML BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaSVG na XML za pomocą C++ Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

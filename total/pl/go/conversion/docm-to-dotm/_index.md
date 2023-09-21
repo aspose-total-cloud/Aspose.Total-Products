@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOTM, DOCM na DOTM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCM na DOTM za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOTM, DOCM na DOTM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCM na DOTM za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

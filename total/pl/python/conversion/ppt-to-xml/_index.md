@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXML, PPT na XML BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPT na XML za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXML, PPT na XML BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPT na XML za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

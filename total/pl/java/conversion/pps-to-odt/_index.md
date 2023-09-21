@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naODT, PPS na ODT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPS na ODT za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naODT, PPS na ODT BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPS na ODT za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PowerPointa naTEX, POT na TEX BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPOT na TEX za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj słowo naXSLFO, TXT na XSLFO BEZPŁATNY konwerter lub C++ SDKdescription: Darmowa konwersjaTXT na XSLFO za pomocą C++ Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

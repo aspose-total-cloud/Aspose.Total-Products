@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naHTML, PPT na HTML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPT na HTML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naHTML, PPT na HTML BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPT na HTML za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naTXT, XPS na TXT BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaXPS na TXT za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

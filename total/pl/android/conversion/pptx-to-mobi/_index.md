@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naMOBI, PPTX na MOBI BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTX na MOBI za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naMOBI, PPTX na MOBI BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTX na MOBI za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

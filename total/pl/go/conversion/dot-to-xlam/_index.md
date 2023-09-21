@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLAM, DOT na XLAM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOT na XLAM za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLAM, DOT na XLAM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOT na XLAM za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

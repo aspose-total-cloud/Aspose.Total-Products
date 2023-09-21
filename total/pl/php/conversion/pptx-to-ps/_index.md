@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPS, PPTX na PS BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTX na PS za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPS, PPTX na PS BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPTX na PS za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

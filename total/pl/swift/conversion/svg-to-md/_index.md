@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naMD, SVG na MD BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaSVG na MD za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

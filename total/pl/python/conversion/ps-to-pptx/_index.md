@@ -1,0 +1,1 @@
+---title: Konwertuj PDF naPPTX, PS na PPTX BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPS na PPTX za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu PDF w chmurze.---

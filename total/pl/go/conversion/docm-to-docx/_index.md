@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOCX, DOCM na DOCX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCM na DOCX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOCX, DOCM na DOCX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCM na DOCX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

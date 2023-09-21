@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naTIFF, PPSX na TIFF BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPSX na TIFF za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naTIFF, PPSX na TIFF BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPSX na TIFF za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

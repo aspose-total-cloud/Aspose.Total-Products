@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naWEB, FODS na WEB BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaFODS na WEB za pomocą Swift Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

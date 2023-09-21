@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLS, POT na XLS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPOT na XLS za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLS, POT na XLS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaPOT na XLS za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

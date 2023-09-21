@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSWF, PPTM na SWF BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTM na SWF za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSWF, PPTM na SWF BEZPŁATNY konwerter lub Java SDKdescription: Darmowa konwersjaPPTM na SWF za pomocą Java Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

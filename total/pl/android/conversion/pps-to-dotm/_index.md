@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOTM, PPS na DOTM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPS na DOTM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOTM, PPS na DOTM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPS na DOTM za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

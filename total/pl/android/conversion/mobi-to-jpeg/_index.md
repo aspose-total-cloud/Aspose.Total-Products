@@ -1,1 +1,1 @@
----title: Konwertuj słowo naJPEG, MOBI na JPEG BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaMOBI na JPEG za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naJPEG, MOBI na JPEG BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaMOBI na JPEG za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

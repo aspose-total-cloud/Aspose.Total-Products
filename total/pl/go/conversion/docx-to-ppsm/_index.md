@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPPSM, DOCX na PPSM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCX na PPSM za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPPSM, DOCX na PPSM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCX na PPSM za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

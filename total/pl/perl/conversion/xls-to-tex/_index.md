@@ -1,0 +1,1 @@
+---title: Konwertuj Excela naTEX, XLS na TEX BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaXLS na TEX za pomocą Perl Interfejsy API i SDK w chmurze. Twórz, edytuj i renderuj arkusze lub arkusze kalkulacyjne Microsoft Excel, CSV i SpreadsheetML lub arkusze kalkulacyjne w chmurze.---

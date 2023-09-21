@@ -1,1 +1,1 @@
----title: Konwertuj słowo naRTF, ODT na RTF BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaODT na RTF za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naRTF, ODT na RTF BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaODT na RTF za pomocą Ruby Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

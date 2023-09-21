@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOC, PPSX na DOC BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSX na DOC za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOC, PPSX na DOC BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPPSX na DOC za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

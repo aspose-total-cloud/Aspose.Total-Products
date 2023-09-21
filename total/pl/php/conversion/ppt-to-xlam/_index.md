@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLAM, PPT na XLAM BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na XLAM za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLAM, PPT na XLAM BEZPŁATNY konwerter lub PHP SDKdescription: Darmowa konwersjaPPT na XLAM za pomocą PHP Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

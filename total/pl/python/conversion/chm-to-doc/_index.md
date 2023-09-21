@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOC, CHM na DOC BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaCHM na DOC za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOC, CHM na DOC BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaCHM na DOC za pomocą Python Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naDOCX, PPT na DOCX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na DOCX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naDOCX, PPT na DOCX BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaPPT na DOCX za pomocą Nodejs Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

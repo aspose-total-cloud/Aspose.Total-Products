@@ -1,1 +1,1 @@
----title: Konwertuj słowo naDOTM, DOCX na DOTM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaDOCX na DOTM za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naDOTM, DOCX na DOTM BEZPŁATNY konwerter lub Nodejs SDKdescription: Darmowa konwersjaDOCX na DOTM za pomocą Nodejs Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

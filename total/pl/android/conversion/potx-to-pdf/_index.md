@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPDF, POTX na PDF BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTX na PDF za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPDF, POTX na PDF BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPOTX na PDF za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

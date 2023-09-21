@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naSVG, PPTM na SVG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTM na SVG za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naSVG, PPTM na SVG BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTM na SVG za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

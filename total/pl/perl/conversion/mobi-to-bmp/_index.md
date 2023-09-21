@@ -1,1 +1,1 @@
----title: Konwertuj słowo naBMP, MOBI na BMP BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMOBI na BMP za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naBMP, MOBI na BMP BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaMOBI na BMP za pomocą Perl Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

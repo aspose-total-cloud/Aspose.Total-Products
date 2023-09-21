@@ -1,1 +1,1 @@
----title: Konwertuj słowo naPPTX, DOCM na PPTX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCM na PPTX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naPPTX, DOCM na PPTX BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaDOCM na PPTX za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

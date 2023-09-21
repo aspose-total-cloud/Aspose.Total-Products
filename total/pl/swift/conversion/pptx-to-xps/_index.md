@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXPS, PPTX na XPS BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTX na XPS za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXPS, PPTX na XPS BEZPŁATNY konwerter lub Swift SDKdescription: Darmowa konwersjaPPTX na XPS za pomocą Swift Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLTM, ODP na XLTM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaODP na XLTM za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLTM, ODP na XLTM BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaODP na XLTM za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

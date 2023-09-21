@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naGIF, PPSM na GIF BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPSM na GIF za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naGIF, PPSM na GIF BEZPŁATNY konwerter lub Net SDKdescription: Darmowa konwersjaPPSM na GIF za pomocą Net Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

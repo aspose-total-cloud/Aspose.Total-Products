@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naRTF, PPT na RTF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPT na RTF za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naRTF, PPT na RTF BEZPŁATNY konwerter lub Python SDKdescription: Darmowa konwersjaPPT na RTF za pomocą Python Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

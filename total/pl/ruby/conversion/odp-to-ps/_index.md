@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naPS, ODP na PS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaODP na PS za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naPS, ODP na PS BEZPŁATNY konwerter lub Ruby SDKdescription: Darmowa konwersjaODP na PS za pomocą Ruby Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXLAM, POTX na XLAM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na XLAM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXLAM, POTX na XLAM BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaPOTX na XLAM za pomocą GO Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

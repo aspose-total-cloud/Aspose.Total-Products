@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naXPS, PPTX na XPS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPTX na XPS za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naXPS, PPTX na XPS BEZPŁATNY konwerter lub Perl SDKdescription: Darmowa konwersjaPPTX na XPS za pomocą Perl Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

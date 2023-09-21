@@ -1,1 +1,1 @@
----title: Konwertuj PowerPointa naNUMBERS, PPTX na NUMBERS BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTX na NUMBERS za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---
+---title: Konwertuj PowerPointa naNUMBERS, PPTX na NUMBERS BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaPPTX na NUMBERS za pomocą Android Interfejsy API i pakiety SDK w chmurze. Twórz, edytuj i renderuj także dokumenty programu Microsoft PowerPoint w chmurze.---

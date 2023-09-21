@@ -1,1 +1,1 @@
----title: Konwertuj słowo naSWF, MD na SWF BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMD na SWF za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naSWF, MD na SWF BEZPŁATNY konwerter lub GO SDKdescription: Darmowa konwersjaMD na SWF za pomocą GO Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---

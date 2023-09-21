@@ -1,1 +1,1 @@
----title: Konwertuj słowo naXLSM, TXT na XLSM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaTXT na XLSM za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
+---title: Konwertuj słowo naXLSM, TXT na XLSM BEZPŁATNY konwerter lub Android SDKdescription: Darmowa konwersjaTXT na XLSM za pomocą Android Interfejsy API i zestawy SDK w chmurze. Twórz, edytuj i renderuj także dokumenty Microsoft Word i OpenOffice w chmurze.---
