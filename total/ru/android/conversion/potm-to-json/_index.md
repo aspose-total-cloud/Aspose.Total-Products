@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JSON,POTM в JSON Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия JSON в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JSON,POTM в JSON Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия JSON в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

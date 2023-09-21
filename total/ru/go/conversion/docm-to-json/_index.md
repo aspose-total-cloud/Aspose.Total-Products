@@ -1,1 +1,1 @@
----title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер DOCM в JSON или GO SDKdescription: Бесплатное преобразование DOCM в JSON с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер DOCM в JSON или GO SDKdescription: Бесплатное преобразование DOCM в JSON с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,ODP в XLT Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XLT в ODP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,ODP в XLT Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XLT в ODP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

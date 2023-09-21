@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBIXML,PPSM в MOBIXML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MOBIXML в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

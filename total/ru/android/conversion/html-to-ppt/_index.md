@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер HTML в PPT или Android SDKdescription: Бесплатное преобразование HTML в PPT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер HTML в PPT или Android SDKdescription: Бесплатное преобразование HTML в PPT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

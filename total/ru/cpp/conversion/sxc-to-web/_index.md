@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в WEB,SXC в WEB без конвертера или C++ sdkdescription: Бесплатная конверсия WEB в SXC с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

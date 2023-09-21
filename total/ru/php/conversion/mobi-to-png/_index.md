@@ -1,1 +1,1 @@
----title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер MOBI в PNG или PHP SDKdescription: Бесплатное преобразование MOBI в PNG с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер MOBI в PNG или PHP SDKdescription: Бесплатное преобразование MOBI в PNG с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

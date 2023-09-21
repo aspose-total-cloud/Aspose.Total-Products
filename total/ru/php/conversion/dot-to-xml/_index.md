@@ -1,1 +1,1 @@
----title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер DOT в XML или PHP SDKdescription: Бесплатное преобразование DOT в XML с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер DOT в XML или PHP SDKdescription: Бесплатное преобразование DOT в XML с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

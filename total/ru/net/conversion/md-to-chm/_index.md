@@ -1,1 +1,1 @@
----title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер MD в CHM или Net SDKdescription: Бесплатное преобразование MD в CHM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер MD в CHM или Net SDKdescription: Бесплатное преобразование MD в CHM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

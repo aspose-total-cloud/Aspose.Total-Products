@@ -1,1 +1,1 @@
----title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер HTML в DIF или Python SDKdescription: Бесплатное преобразование HTML в DIF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер HTML в DIF или Python SDKdescription: Бесплатное преобразование HTML в DIF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

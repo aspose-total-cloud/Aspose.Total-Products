@@ -1,1 +1,1 @@
----title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер CHM в POTM или PHP SDKdescription: Бесплатное преобразование CHM в POTM с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер CHM в POTM или PHP SDKdescription: Бесплатное преобразование CHM в POTM с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

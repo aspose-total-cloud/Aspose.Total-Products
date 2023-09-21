@@ -1,1 +1,1 @@
----title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер CHM в HTML или Swift SDKdescription: Бесплатное преобразование CHM в HTML с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер CHM в HTML или Swift SDKdescription: Бесплатное преобразование CHM в HTML с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

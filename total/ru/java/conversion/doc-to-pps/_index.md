@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер DOC в PPS или Java SDKdescription: Бесплатное преобразование DOC в PPS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер DOC в PPS или Java SDKdescription: Бесплатное преобразование DOC в PPS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

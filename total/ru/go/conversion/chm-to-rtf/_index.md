@@ -1,1 +1,1 @@
----title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер CHM в RTF или GO SDKdescription: Бесплатное преобразование CHM в RTF с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер CHM в RTF или GO SDKdescription: Бесплатное преобразование CHM в RTF с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

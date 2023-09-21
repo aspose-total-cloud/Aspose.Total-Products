@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSM,POT в XLSM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSM в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSM,POT в XLSM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSM в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

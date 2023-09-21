@@ -1,1 +1,1 @@
----title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер OTT в TSV или GO SDKdescription: Бесплатное преобразование OTT в TSV с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер OTT в TSV или GO SDKdescription: Бесплатное преобразование OTT в TSV с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

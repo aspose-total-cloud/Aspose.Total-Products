@@ -1,1 +1,1 @@
----title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер TXT в BMP или CPP SDKdescription: Бесплатное преобразование TXT в BMP с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер TXT в BMP или C++ SDKdescription: Бесплатное преобразование TXT в BMP с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

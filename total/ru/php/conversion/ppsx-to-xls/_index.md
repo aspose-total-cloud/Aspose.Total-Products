@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLS,PPSX в XLS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLS в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLS,PPSX в XLS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLS в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

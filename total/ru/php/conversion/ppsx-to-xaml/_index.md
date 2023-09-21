@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XAML,PPSX в XAML Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XAML в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XAML,PPSX в XAML Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XAML в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

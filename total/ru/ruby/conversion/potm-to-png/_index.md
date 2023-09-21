@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PNG,POTM в PNG Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PNG в POTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PNG,POTM в PNG Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PNG в POTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

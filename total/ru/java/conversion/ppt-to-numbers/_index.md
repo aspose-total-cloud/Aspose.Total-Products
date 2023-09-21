@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в NUMBERS,PPT в NUMBERS Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия NUMBERS в PPT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в NUMBERS,PPT в NUMBERS Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия NUMBERS в PPT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

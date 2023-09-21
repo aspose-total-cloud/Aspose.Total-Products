@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер HTML в ODS или Python SDKdescription: Бесплатное преобразование HTML в ODS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер HTML в ODS или Python SDKdescription: Бесплатное преобразование HTML в ODS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

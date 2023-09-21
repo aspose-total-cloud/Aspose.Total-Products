@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTT, БЕСПЛАТНЫЙ конвертер CHM в OTT или Python SDKdescription: Бесплатное преобразование CHM в OTT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTT, БЕСПЛАТНЫЙ конвертер CHM в OTT или Python SDKdescription: Бесплатное преобразование CHM в OTT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

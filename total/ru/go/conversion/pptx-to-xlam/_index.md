@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLAM,PPTX в XLAM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLAM в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLAM,PPTX в XLAM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLAM в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

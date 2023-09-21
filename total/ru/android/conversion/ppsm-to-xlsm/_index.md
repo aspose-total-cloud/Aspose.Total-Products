@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSM,PPSM в XLSM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSM в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSM,PPSM в XLSM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSM в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

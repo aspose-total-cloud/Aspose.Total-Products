@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PS,PPTX в PS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PS в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PS,PPTX в PS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PS в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

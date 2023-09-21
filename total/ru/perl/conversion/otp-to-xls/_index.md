@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLS,OTP в XLS Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLS в OTP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLS,OTP в XLS Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLS в OTP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

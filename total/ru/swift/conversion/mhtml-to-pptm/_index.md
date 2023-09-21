@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер MHTML в PPTM или Swift SDKdescription: Бесплатное преобразование MHTML в PPTM с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер MHTML в PPTM или Swift SDKdescription: Бесплатное преобразование MHTML в PPTM с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

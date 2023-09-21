@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер PDF в PPTM или Net SDKdescription: Бесплатное преобразование PDF в PPTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер PDF в PPTM или Net SDKdescription: Бесплатное преобразование PDF в PPTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

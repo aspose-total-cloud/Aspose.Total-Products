@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в NUMBERS,PPTX в NUMBERS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия NUMBERS в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в NUMBERS,PPTX в NUMBERS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия NUMBERS в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

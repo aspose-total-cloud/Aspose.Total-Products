@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер HTML в PPTX или Swift SDKdescription: Бесплатное преобразование HTML в PPTX с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер HTML в PPTX или Swift SDKdescription: Бесплатное преобразование HTML в PPTX с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

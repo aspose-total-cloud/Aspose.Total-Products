@@ -1,1 +1,1 @@
----title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер MHTML в JPEG или Swift SDKdescription: Бесплатное преобразование MHTML в JPEG с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер MHTML в JPEG или Swift SDKdescription: Бесплатное преобразование MHTML в JPEG с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

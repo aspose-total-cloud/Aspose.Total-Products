@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CHM,OTP в CHM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия CHM в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CHM,OTP в CHM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия CHM в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

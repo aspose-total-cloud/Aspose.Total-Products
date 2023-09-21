@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JPEG,PPT в JPEG Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия JPEG в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JPEG,PPT в JPEG Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия JPEG в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

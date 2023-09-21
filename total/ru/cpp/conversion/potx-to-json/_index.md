@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JSON,POTX в JSON Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия JSON в POTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JSON,POTX в JSON Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия JSON в POTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

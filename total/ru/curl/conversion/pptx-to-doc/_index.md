@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,PPTX в DOC Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOC в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,PPTX в DOC Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOC в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

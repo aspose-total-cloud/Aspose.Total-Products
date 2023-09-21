@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в HTML,POTX в HTML Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия HTML в POTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в HTML,POTX в HTML Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия HTML в POTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

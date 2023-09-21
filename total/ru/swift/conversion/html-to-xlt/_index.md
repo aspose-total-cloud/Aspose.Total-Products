@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер HTML в XLT или Swift SDKdescription: Бесплатное преобразование HTML в XLT с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер HTML в XLT или Swift SDKdescription: Бесплатное преобразование HTML в XLT с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

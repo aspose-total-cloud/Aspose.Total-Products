@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в HTML,PPT в HTML Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия HTML в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в HTML,PPT в HTML Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия HTML в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

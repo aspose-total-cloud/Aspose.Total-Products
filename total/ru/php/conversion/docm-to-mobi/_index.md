@@ -1,1 +1,1 @@
----title: Конвертировать Word в MOBI, БЕСПЛАТНЫЙ конвертер DOCM в MOBI или PHP SDKdescription: Бесплатное преобразование DOCM в MOBI с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MOBI, БЕСПЛАТНЫЙ конвертер DOCM в MOBI или PHP SDKdescription: Бесплатное преобразование DOCM в MOBI с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

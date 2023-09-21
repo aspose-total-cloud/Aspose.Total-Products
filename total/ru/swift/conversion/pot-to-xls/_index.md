@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLS,POT в XLS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLS в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLS,POT в XLS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLS в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

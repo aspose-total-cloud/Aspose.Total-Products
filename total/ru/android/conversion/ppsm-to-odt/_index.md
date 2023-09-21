@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODT,PPSM в ODT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия ODT в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODT,PPSM в ODT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия ODT в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

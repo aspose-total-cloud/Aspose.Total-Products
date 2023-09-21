@@ -1,1 +1,1 @@
----title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер PDF в JSON или Swift SDKdescription: Бесплатное преобразование PDF в JSON с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер PDF в JSON или Swift SDKdescription: Бесплатное преобразование PDF в JSON с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

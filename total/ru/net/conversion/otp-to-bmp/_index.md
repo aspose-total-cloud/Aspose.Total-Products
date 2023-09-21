@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в BMP,OTP в BMP Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия BMP в OTP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в BMP,OTP в BMP Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия BMP в OTP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XSLFO,POTX в XSLFO Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия XSLFO в POTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

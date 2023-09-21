@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер PDF в DOT или Swift SDKdescription: Бесплатное преобразование PDF в DOT с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер PDF в DOT или Swift SDKdescription: Бесплатное преобразование PDF в DOT с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер TXT в EMF или GO SDKdescription: Бесплатное преобразование TXT в EMF с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер TXT в EMF или GO SDKdescription: Бесплатное преобразование TXT в EMF с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

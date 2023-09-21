@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSX,POT в XLSX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLSX в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSX,POT в XLSX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия XLSX в POT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

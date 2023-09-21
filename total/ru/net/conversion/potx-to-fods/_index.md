@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в FODS,POTX в FODS Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия FODS в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в FODS,POTX в FODS Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия FODS в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POTX,PPS в POTX Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия POTX в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POTX,PPS в POTX Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия POTX в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

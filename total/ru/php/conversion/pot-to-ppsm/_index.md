@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSM,POT в PPSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PPSM в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSM,POT в PPSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PPSM в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

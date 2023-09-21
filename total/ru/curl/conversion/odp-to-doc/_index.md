@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,ODP в DOC Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOC в ODP с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,ODP в DOC Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOC в ODP с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

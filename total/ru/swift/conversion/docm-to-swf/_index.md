@@ -1,1 +1,1 @@
----title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер DOCM в SWF или Swift SDKdescription: Бесплатное преобразование DOCM в SWF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер DOCM в SWF или Swift SDKdescription: Бесплатное преобразование DOCM в SWF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

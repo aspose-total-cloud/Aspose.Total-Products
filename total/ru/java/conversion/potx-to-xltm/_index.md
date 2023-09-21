@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTM,POTX в XLTM Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XLTM в POTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTM,POTX в XLTM Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XLTM в POTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

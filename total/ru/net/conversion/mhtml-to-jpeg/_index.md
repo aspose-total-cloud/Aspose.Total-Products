@@ -1,1 +1,1 @@
----title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер MHTML в JPEG или Net SDKdescription: Бесплатное преобразование MHTML в JPEG с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер MHTML в JPEG или Net SDKdescription: Бесплатное преобразование MHTML в JPEG с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

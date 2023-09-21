@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SVG,POTX в SVG Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SVG в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SVG,POTX в SVG Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SVG в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

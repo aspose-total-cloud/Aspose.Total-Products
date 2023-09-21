@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,ODP в DOTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия DOTX в ODP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,ODP в DOTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия DOTX в ODP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TSV,POT в TSV Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия TSV в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TSV,POT в TSV Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия TSV в POT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

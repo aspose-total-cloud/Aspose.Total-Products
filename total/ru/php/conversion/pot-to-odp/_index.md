@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODP,POT в ODP Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODP в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODP,POT в ODP Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODP в POT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

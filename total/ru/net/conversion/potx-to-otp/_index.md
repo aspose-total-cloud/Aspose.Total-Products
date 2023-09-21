@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTP,POTX в OTP Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия OTP в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTP,POTX в OTP Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия OTP в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

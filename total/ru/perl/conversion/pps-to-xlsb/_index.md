@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSB,PPS в XLSB Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLSB в PPS с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSB,PPS в XLSB Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLSB в PPS с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

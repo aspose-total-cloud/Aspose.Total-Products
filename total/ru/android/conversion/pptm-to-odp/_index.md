@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODP,PPTM в ODP Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия ODP в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODP,PPTM в ODP Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия ODP в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

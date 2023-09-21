@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в RTF,PPS в RTF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия RTF в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в RTF,PPS в RTF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия RTF в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

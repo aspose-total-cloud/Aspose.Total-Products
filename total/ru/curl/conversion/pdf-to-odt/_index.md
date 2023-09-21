@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер PDF в ODT или Curl SDKdescription: Бесплатное преобразование PDF в ODT с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер PDF в ODT или Curl SDKdescription: Бесплатное преобразование PDF в ODT с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

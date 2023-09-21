@@ -1,1 +1,1 @@
----title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер DOCM в GIF или Curl SDKdescription: Бесплатное преобразование DOCM в GIF с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер DOCM в GIF или Curl SDKdescription: Бесплатное преобразование DOCM в GIF с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер PDF в BMP или Android SDKdescription: Бесплатное преобразование PDF в BMP с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер PDF в BMP или Android SDKdescription: Бесплатное преобразование PDF в BMP с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

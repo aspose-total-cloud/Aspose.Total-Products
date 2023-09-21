@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POTM,OTP в POTM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия POTM в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POTM,OTP в POTM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия POTM в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

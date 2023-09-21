@@ -1,1 +1,1 @@
----title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер RTF в JSON или CPP SDKdescription: Бесплатное преобразование RTF в JSON с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер RTF в JSON или C++ SDKdescription: Бесплатное преобразование RTF в JSON с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

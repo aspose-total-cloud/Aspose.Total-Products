@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер DOCM в ODS или Android SDKdescription: Бесплатное преобразование DOCM в ODS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер DOCM в ODS или Android SDKdescription: Бесплатное преобразование DOCM в ODS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

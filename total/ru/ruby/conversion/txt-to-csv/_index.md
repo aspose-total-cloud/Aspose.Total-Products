@@ -1,1 +1,1 @@
----title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер TXT в CSV или Ruby SDKdescription: Бесплатное преобразование TXT в CSV с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер TXT в CSV или Ruby SDKdescription: Бесплатное преобразование TXT в CSV с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

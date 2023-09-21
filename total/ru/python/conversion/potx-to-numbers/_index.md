@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в NUMBERS,POTX в NUMBERS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия NUMBERS в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в NUMBERS,POTX в NUMBERS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия NUMBERS в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

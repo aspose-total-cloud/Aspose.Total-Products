@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MOBI,PPTM в MOBI Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MOBI в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MOBI,PPTM в MOBI Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MOBI в PPTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

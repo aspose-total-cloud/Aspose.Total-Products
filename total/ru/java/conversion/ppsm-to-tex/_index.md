@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,PPSM в TEX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия TEX в PPSM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

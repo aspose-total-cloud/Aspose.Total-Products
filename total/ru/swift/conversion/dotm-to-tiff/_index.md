@@ -1,1 +1,1 @@
----title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер DOTM в TIFF или Swift SDKdescription: Бесплатное преобразование DOTM в TIFF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер DOTM в TIFF или Swift SDKdescription: Бесплатное преобразование DOTM в TIFF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

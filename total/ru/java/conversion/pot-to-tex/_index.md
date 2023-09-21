@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,POT в TEX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия TEX в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

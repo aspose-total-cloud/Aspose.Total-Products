@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер DOCM в OTP или PHP SDKdescription: Бесплатное преобразование DOCM в OTP с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер DOCM в OTP или PHP SDKdescription: Бесплатное преобразование DOCM в OTP с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

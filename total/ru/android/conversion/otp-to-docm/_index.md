@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCM,OTP в DOCM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOCM в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCM,OTP в DOCM Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOCM в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер DOC в FODS или Java SDKdescription: Бесплатное преобразование DOC в FODS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер DOC в FODS или Java SDKdescription: Бесплатное преобразование DOC в FODS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

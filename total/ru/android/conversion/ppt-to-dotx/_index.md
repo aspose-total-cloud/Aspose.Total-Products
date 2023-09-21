@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,PPT в DOTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOTX в PPT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,PPT в DOTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOTX в PPT с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

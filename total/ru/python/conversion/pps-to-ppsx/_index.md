@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSX,PPS в PPSX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPSX в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSX,PPS в PPSX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPSX в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

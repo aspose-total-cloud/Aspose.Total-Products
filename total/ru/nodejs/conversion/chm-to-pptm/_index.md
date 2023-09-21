@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер CHM в PPTM или Nodejs SDKdescription: Бесплатное преобразование CHM в PPTM с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер CHM в PPTM или Nodejs SDKdescription: Бесплатное преобразование CHM в PPTM с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

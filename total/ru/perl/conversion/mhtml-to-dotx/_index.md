@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер MHTML в DOTX или Perl SDKdescription: Бесплатное преобразование MHTML в DOTX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер MHTML в DOTX или Perl SDKdescription: Бесплатное преобразование MHTML в DOTX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

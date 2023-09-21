@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PS,POT в PS Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PS в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PS,POT в PS Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PS в POT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

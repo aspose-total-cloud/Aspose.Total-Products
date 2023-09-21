@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в HTML,ODP в HTML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия HTML в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в HTML,ODP в HTML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия HTML в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

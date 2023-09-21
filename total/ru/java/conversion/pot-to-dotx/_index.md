@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,POT в DOTX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия DOTX в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,POT в DOTX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия DOTX в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

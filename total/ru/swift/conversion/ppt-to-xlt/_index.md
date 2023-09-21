@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,PPT в XLT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLT в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,PPT в XLT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLT в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

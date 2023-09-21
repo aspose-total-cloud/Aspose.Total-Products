@@ -1,1 +1,1 @@
----title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер CHM в FODS или Curl SDKdescription: Бесплатное преобразование CHM в FODS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер CHM в FODS или Curl SDKdescription: Бесплатное преобразование CHM в FODS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

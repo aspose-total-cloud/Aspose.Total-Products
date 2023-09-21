@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JSON,PPT в JSON Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия JSON в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JSON,PPT в JSON Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия JSON в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TXT,ODP в TXT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TXT в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TXT,ODP в TXT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TXT в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

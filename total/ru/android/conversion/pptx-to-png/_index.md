@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PNG,PPTX в PNG Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PNG в PPTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PNG,PPTX в PNG Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PNG в PPTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

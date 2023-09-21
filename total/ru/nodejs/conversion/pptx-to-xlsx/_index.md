@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSX,PPTX в XLSX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLSX в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSX,PPTX в XLSX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLSX в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

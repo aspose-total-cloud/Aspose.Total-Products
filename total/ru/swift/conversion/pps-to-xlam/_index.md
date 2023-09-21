@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLAM,PPS в XLAM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLAM в PPS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLAM,PPS в XLAM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLAM в PPS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

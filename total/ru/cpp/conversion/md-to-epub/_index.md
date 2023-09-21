@@ -1,1 +1,1 @@
----title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер MD в EPUB или CPP SDKdescription: Бесплатное преобразование MD в EPUB с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер MD в EPUB или C++ SDKdescription: Бесплатное преобразование MD в EPUB с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

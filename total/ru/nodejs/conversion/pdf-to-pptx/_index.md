@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер PDF в PPTX или Nodejs SDKdescription: Бесплатное преобразование PDF в PPTX с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер PDF в PPTX или Nodejs SDKdescription: Бесплатное преобразование PDF в PPTX с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

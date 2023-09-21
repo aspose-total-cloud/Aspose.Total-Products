@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер ODT в PPTX или Java SDKdescription: Бесплатное преобразование ODT в PPTX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер ODT в PPTX или Java SDKdescription: Бесплатное преобразование ODT в PPTX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

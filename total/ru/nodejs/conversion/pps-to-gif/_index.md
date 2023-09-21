@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в GIF,PPS в GIF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия GIF в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в GIF,PPS в GIF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия GIF в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

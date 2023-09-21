@@ -1,1 +1,1 @@
----title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер ODT в TXT или Python SDKdescription: Бесплатное преобразование ODT в TXT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер ODT в TXT или Python SDKdescription: Бесплатное преобразование ODT в TXT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

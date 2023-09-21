@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер DOC в PPS или Curl SDKdescription: Бесплатное преобразование DOC в PPS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер DOC в PPS или Curl SDKdescription: Бесплатное преобразование DOC в PPS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

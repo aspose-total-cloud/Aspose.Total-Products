@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTP,PPS в OTP Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия OTP в PPS с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTP,PPS в OTP Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия OTP в PPS с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

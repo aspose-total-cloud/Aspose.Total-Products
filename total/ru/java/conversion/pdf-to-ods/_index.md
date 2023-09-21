@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер PDF в ODS или Java SDKdescription: Бесплатное преобразование PDF в ODS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер PDF в ODS или Java SDKdescription: Бесплатное преобразование PDF в ODS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

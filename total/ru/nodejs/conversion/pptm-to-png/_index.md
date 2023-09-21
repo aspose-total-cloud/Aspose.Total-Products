@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PNG,PPTM в PNG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PNG в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PNG,PPTM в PNG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PNG в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

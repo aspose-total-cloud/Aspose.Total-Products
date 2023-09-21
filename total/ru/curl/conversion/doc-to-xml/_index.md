@@ -1,1 +1,1 @@
----title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер DOC в XML или Curl SDKdescription: Бесплатное преобразование DOC в XML с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер DOC в XML или Curl SDKdescription: Бесплатное преобразование DOC в XML с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOTX в CSV или Perl SDKdescription: Бесплатное преобразование DOTX в CSV с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOTX в CSV или Perl SDKdescription: Бесплатное преобразование DOTX в CSV с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

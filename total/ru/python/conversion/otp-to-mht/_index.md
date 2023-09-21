@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,OTP в MHT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MHT в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

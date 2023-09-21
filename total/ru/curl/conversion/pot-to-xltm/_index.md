@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTM,POT в XLTM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLTM в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTM,POT в XLTM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLTM в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

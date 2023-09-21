@@ -1,1 +1,1 @@
----title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер ODT в NUMBERS или Android SDKdescription: Бесплатное преобразование ODT в NUMBERS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер ODT в NUMBERS или Android SDKdescription: Бесплатное преобразование ODT в NUMBERS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

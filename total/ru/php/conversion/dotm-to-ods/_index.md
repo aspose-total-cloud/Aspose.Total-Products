@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер DOTM в ODS или PHP SDKdescription: Бесплатное преобразование DOTM в ODS с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер DOTM в ODS или PHP SDKdescription: Бесплатное преобразование DOTM в ODS с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер HTML в XPS или Curl SDKdescription: Бесплатное преобразование HTML в XPS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер HTML в XPS или Curl SDKdescription: Бесплатное преобразование HTML в XPS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер TXT в NUMBERS или Java SDKdescription: Бесплатное преобразование TXT в NUMBERS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер TXT в NUMBERS или Java SDKdescription: Бесплатное преобразование TXT в NUMBERS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

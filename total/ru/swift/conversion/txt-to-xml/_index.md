@@ -1,1 +1,1 @@
----title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер TXT в XML или Swift SDKdescription: Бесплатное преобразование TXT в XML с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер TXT в XML или Swift SDKdescription: Бесплатное преобразование TXT в XML с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

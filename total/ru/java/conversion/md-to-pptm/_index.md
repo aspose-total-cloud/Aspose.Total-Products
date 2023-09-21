@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер MD в PPTM или Java SDKdescription: Бесплатное преобразование MD в PPTM с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер MD в PPTM или Java SDKdescription: Бесплатное преобразование MD в PPTM с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

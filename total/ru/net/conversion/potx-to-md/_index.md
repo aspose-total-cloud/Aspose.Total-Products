@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MD,POTX в MD Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия MD в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MD,POTX в MD Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия MD в POTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

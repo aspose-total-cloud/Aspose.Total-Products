@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в FODS,POTM в FODS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия FODS в POTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в FODS,POTM в FODS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия FODS в POTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPT,OTP в PPT Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPT в OTP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPT,OTP в PPT Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPT в OTP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

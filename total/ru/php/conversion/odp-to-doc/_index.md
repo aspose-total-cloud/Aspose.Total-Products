@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,ODP в DOC Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOC в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,ODP в DOC Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOC в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер OTT в TXT или Perl SDKdescription: Бесплатное преобразование OTT в TXT с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер OTT в TXT или Perl SDKdescription: Бесплатное преобразование OTT в TXT с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

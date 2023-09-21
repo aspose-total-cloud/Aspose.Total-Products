@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер DOC в DOTX или GO SDKdescription: Бесплатное преобразование DOC в DOTX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер DOC в DOTX или GO SDKdescription: Бесплатное преобразование DOC в DOTX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

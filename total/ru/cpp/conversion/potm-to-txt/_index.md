@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TXT,POTM в TXT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия TXT в POTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TXT,POTM в TXT Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия TXT в POTM с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

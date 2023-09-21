@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TEX, БЕСПЛАТНЫЙ конвертер DOT в TEX или Perl SDKdescription: Бесплатное преобразование DOT в TEX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

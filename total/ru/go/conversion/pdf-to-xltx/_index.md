@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер PDF в XLTX или GO SDKdescription: Бесплатное преобразование PDF в XLTX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер PDF в XLTX или GO SDKdescription: Бесплатное преобразование PDF в XLTX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

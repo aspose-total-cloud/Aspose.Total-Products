@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SWF,PPSX в SWF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия SWF в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SWF,PPSX в SWF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия SWF в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

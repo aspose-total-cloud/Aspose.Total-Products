@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSB,PPSX в XLSB Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLSB в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSB,PPSX в XLSB Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLSB в PPSX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер DOCM в PPTX или Perl SDKdescription: Бесплатное преобразование DOCM в PPTX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер DOCM в PPTX или Perl SDKdescription: Бесплатное преобразование DOCM в PPTX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTM,PPS в PPTM Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия PPTM в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTM,PPS в PPTM Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия PPTM в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

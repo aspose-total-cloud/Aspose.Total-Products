@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EMF,PPTX в EMF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия EMF в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EMF,PPTX в EMF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия EMF в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOT,PPTM в DOT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOT в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOT,PPTM в DOT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOT в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

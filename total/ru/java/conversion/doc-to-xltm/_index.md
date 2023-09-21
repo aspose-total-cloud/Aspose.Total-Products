@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер DOC в XLTM или Java SDKdescription: Бесплатное преобразование DOC в XLTM с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер DOC в XLTM или Java SDKdescription: Бесплатное преобразование DOC в XLTM с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

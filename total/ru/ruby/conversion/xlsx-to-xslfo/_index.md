@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в XSLFO,XLSX в XSLFO без конвертера или Ruby sdkdescription: Бесплатная конверсия XSLFO в XLSX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

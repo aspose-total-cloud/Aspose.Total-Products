@@ -1,1 +1,1 @@
----title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер RTF в FODS или Nodejs SDKdescription: Бесплатное преобразование RTF в FODS с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер RTF в FODS или Nodejs SDKdescription: Бесплатное преобразование RTF в FODS с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

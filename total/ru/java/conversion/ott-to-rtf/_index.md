@@ -1,1 +1,1 @@
----title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер OTT в RTF или Java SDKdescription: Бесплатное преобразование OTT в RTF с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер OTT в RTF или Java SDKdescription: Бесплатное преобразование OTT в RTF с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

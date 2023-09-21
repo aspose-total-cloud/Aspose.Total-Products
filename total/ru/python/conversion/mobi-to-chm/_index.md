@@ -1,1 +1,1 @@
----title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер MOBI в CHM или Python SDKdescription: Бесплатное преобразование MOBI в CHM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер MOBI в CHM или Python SDKdescription: Бесплатное преобразование MOBI в CHM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,PPS в TEX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TEX в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

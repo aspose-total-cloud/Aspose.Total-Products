@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTX,OTP в PPTX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPTX в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTX,OTP в PPTX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPTX в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

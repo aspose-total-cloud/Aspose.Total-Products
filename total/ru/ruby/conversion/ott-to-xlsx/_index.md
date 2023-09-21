@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер OTT в XLSX или Ruby SDKdescription: Бесплатное преобразование OTT в XLSX с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер OTT в XLSX или Ruby SDKdescription: Бесплатное преобразование OTT в XLSX с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

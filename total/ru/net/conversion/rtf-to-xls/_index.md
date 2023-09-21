@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер RTF в XLS или Net SDKdescription: Бесплатное преобразование RTF в XLS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер RTF в XLS или Net SDKdescription: Бесплатное преобразование RTF в XLS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MHTML,POTM в MHTML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MHTML в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MHTML,POTM в MHTML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MHTML в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POTX,OTP в POTX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия POTX в OTP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POTX,OTP в POTX Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия POTX в OTP с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

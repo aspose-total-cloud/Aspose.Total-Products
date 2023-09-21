@@ -1,1 +1,1 @@
----title: Конвертировать Word в MHTML, БЕСПЛАТНЫЙ конвертер PDF в MHTML или Perl SDKdescription: Бесплатное преобразование PDF в MHTML с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MHTML, БЕСПЛАТНЫЙ конвертер PDF в MHTML или Perl SDKdescription: Бесплатное преобразование PDF в MHTML с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

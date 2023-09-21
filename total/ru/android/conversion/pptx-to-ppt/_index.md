@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPT,PPTX в PPT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PPT в PPTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPT,PPTX в PPT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PPT в PPTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

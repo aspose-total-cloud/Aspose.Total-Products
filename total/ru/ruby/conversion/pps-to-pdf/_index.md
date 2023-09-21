@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PDF,PPS в PDF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PDF в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PDF,PPS в PDF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PDF в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

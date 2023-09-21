@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в NUMBERS,PPSX в NUMBERS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия NUMBERS в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в NUMBERS,PPSX в NUMBERS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия NUMBERS в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOCM, БЕСПЛАТНЫЙ конвертер HTML в DOCM или GO SDKdescription: Бесплатное преобразование HTML в DOCM с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOCM, БЕСПЛАТНЫЙ конвертер HTML в DOCM или GO SDKdescription: Бесплатное преобразование HTML в DOCM с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

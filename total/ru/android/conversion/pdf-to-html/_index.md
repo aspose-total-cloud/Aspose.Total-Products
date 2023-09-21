@@ -1,1 +1,1 @@
----title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер PDF в HTML или Android SDKdescription: Бесплатное преобразование PDF в HTML с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер PDF в HTML или Android SDKdescription: Бесплатное преобразование PDF в HTML с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

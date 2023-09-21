@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер RTF в ODT или Ruby SDKdescription: Бесплатное преобразование RTF в ODT с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер RTF в ODT или Ruby SDKdescription: Бесплатное преобразование RTF в ODT с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

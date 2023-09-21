@@ -1,1 +1,1 @@
----title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер OTT в PS или Java SDKdescription: Бесплатное преобразование OTT в PS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер OTT в PS или Java SDKdescription: Бесплатное преобразование OTT в PS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

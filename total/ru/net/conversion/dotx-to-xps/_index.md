@@ -1,1 +1,1 @@
----title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер DOTX в XPS или Net SDKdescription: Бесплатное преобразование DOTX в XPS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер DOTX в XPS или Net SDKdescription: Бесплатное преобразование DOTX в XPS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

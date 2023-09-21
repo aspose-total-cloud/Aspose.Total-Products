@@ -1,1 +1,1 @@
----title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер MOBI в DIF или Android SDKdescription: Бесплатное преобразование MOBI в DIF с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер MOBI в DIF или Android SDKdescription: Бесплатное преобразование MOBI в DIF с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

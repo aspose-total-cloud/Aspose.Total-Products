@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODS,PPSX в ODS Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODS в PPSX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODS,PPSX в ODS Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODS в PPSX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

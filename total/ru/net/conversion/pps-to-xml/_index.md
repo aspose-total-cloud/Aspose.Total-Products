@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XML в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XML в PPS с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

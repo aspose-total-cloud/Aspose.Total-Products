@@ -1,1 +1,1 @@
----title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер MHTML в HTML или CPP SDKdescription: Бесплатное преобразование MHTML в HTML с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер MHTML в HTML или C++ SDKdescription: Бесплатное преобразование MHTML в HTML с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

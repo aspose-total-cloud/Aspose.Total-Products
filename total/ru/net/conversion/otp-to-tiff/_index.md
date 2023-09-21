@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TIFF,OTP в TIFF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия TIFF в OTP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TIFF,OTP в TIFF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия TIFF в OTP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

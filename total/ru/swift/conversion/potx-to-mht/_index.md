@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,POTX в MHT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия MHT в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

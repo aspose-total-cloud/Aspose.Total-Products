@@ -1,0 +1,1 @@
+---title: Конвертировать Word в MHT, БЕСПЛАТНЫЙ конвертер DOT в MHT или Perl SDKdescription: Бесплатное преобразование DOT в MHT с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

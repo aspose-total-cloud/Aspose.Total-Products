@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,PPTM в MHT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MHT в PPTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

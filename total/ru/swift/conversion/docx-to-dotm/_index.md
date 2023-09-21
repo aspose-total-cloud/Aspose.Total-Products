@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер DOCX в DOTM или Swift SDKdescription: Бесплатное преобразование DOCX в DOTM с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер DOCX в DOTM или Swift SDKdescription: Бесплатное преобразование DOCX в DOTM с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

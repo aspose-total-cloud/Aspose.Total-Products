@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCM,POTM в DOCM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOCM в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCM,POTM в DOCM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOCM в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

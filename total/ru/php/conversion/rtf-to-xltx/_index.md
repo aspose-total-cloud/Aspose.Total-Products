@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер RTF в XLTX или PHP SDKdescription: Бесплатное преобразование RTF в XLTX с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер RTF в XLTX или PHP SDKdescription: Бесплатное преобразование RTF в XLTX с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

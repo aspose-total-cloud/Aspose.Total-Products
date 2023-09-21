@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер MOBI в XLTM или Net SDKdescription: Бесплатное преобразование MOBI в XLTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер MOBI в XLTM или Net SDKdescription: Бесплатное преобразование MOBI в XLTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

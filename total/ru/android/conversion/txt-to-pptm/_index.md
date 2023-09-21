@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер TXT в PPTM или Android SDKdescription: Бесплатное преобразование TXT в PPTM с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер TXT в PPTM или Android SDKdescription: Бесплатное преобразование TXT в PPTM с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер OTT в XLT или Perl SDKdescription: Бесплатное преобразование OTT в XLT с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер OTT в XLT или Perl SDKdescription: Бесплатное преобразование OTT в XLT с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

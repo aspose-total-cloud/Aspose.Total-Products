@@ -1,1 +1,1 @@
----title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер HTML в TXT или Android SDKdescription: Бесплатное преобразование HTML в TXT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер HTML в TXT или Android SDKdescription: Бесплатное преобразование HTML в TXT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

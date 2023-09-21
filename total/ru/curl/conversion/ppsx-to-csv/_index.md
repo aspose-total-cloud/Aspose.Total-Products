@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CSV,PPSX в CSV Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия CSV в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CSV,PPSX в CSV Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия CSV в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

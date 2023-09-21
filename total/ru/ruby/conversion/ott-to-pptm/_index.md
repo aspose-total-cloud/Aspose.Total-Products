@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер OTT в PPTM или Ruby SDKdescription: Бесплатное преобразование OTT в PPTM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTM, БЕСПЛАТНЫЙ конвертер OTT в PPTM или Ruby SDKdescription: Бесплатное преобразование OTT в PPTM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

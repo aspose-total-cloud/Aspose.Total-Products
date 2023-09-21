@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDFA,PPTX в PDFA Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PDFA в PPTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

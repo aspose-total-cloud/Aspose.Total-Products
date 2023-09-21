@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер RTF в PPS или Android SDKdescription: Бесплатное преобразование RTF в PPS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер RTF в PPS или Android SDKdescription: Бесплатное преобразование RTF в PPS с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

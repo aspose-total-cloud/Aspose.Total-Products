@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер DOCM в XLSX или Python SDKdescription: Бесплатное преобразование DOCM в XLSX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер DOCM в XLSX или Python SDKdescription: Бесплатное преобразование DOCM в XLSX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

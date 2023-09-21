@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,POTM в DOC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOC в POTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,POTM в DOC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOC в POTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

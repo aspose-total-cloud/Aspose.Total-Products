@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PDFA,TSV в PDFA без конвертера или Ruby sdkdescription: Бесплатная конверсия PDFA в TSV с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

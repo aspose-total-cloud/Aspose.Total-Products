@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,OTP в DOTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOTX в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,OTP в DOTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOTX в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

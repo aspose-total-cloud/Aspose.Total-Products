@@ -1,1 +1,1 @@
----title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер MD в DIF или Swift SDKdescription: Бесплатное преобразование MD в DIF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер MD в DIF или Swift SDKdescription: Бесплатное преобразование MD в DIF с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

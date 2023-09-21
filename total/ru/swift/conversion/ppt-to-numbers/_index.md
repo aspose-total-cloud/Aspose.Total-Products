@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в NUMBERS,PPT в NUMBERS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия NUMBERS в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в NUMBERS,PPT в NUMBERS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия NUMBERS в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

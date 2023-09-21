@@ -1,1 +1,1 @@
----title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер TXT в RTF или Curl SDKdescription: Бесплатное преобразование TXT в RTF с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер TXT в RTF или Curl SDKdescription: Бесплатное преобразование TXT в RTF с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

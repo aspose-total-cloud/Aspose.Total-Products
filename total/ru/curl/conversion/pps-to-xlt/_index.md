@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,PPS в XLT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLT в PPS с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,PPS в XLT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLT в PPS с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

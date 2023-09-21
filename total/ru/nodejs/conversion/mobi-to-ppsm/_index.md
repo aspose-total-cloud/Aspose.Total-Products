@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер MOBI в PPSM или Nodejs SDKdescription: Бесплатное преобразование MOBI в PPSM с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер MOBI в PPSM или Nodejs SDKdescription: Бесплатное преобразование MOBI в PPSM с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

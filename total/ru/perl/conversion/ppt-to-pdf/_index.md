@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PDF,PPT в PDF Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия PDF в PPT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PDF,PPT в PDF Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия PDF в PPT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

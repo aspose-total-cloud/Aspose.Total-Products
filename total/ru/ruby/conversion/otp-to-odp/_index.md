@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODP,OTP в ODP Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODP в OTP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODP,OTP в ODP Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия ODP в OTP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

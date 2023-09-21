@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBIXML,PPS в MOBIXML Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия MOBIXML в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

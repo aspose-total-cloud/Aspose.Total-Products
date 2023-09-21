@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SXC,PPSM в SXC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия SXC в PPSM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SXC,PPSM в SXC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия SXC в PPSM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

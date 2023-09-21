@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTP,PPTX в OTP Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия OTP в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTP,PPTX в OTP Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия OTP в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

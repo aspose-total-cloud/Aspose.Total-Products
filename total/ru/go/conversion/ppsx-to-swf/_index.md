@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SWF,PPSX в SWF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия SWF в PPSX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SWF,PPSX в SWF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия SWF в PPSX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODS,POTM в ODS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODS в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODS,POTM в ODS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODS в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

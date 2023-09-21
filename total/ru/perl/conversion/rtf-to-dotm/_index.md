@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер RTF в DOTM или Perl SDKdescription: Бесплатное преобразование RTF в DOTM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер RTF в DOTM или Perl SDKdescription: Бесплатное преобразование RTF в DOTM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

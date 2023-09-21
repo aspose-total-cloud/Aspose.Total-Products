@@ -1,1 +1,1 @@
----title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер DOT в HTML или GO SDKdescription: Бесплатное преобразование DOT в HTML с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер DOT в HTML или GO SDKdescription: Бесплатное преобразование DOT в HTML с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

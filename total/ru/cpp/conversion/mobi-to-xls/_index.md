@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер MOBI в XLS или CPP SDKdescription: Бесплатное преобразование MOBI в XLS с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер MOBI в XLS или C++ SDKdescription: Бесплатное преобразование MOBI в XLS с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

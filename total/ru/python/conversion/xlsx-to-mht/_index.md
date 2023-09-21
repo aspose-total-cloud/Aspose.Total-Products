@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в MHT,XLSX в MHT без конвертера или Python sdkdescription: Бесплатная конверсия MHT в XLSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

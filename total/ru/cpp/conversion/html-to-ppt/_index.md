@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер HTML в PPT или CPP SDKdescription: Бесплатное преобразование HTML в PPT с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер HTML в PPT или C++ SDKdescription: Бесплатное преобразование HTML в PPT с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

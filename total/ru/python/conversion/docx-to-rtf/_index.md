@@ -1,1 +1,1 @@
----title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер DOCX в RTF или Python SDKdescription: Бесплатное преобразование DOCX в RTF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в RTF, БЕСПЛАТНЫЙ конвертер DOCX в RTF или Python SDKdescription: Бесплатное преобразование DOCX в RTF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

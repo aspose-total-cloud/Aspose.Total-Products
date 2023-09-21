@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия XML в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия XML в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

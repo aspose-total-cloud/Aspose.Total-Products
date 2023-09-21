@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер DOT в XLSB или Ruby SDKdescription: Бесплатное преобразование DOT в XLSB с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер DOT в XLSB или Ruby SDKdescription: Бесплатное преобразование DOT в XLSB с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

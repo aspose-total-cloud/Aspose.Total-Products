@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POT,OTP в POT Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия POT в OTP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POT,OTP в POT Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия POT в OTP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

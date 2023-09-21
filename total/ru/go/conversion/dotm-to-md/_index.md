@@ -1,1 +1,1 @@
----title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер DOTM в MD или GO SDKdescription: Бесплатное преобразование DOTM в MD с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер DOTM в MD или GO SDKdescription: Бесплатное преобразование DOTM в MD с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

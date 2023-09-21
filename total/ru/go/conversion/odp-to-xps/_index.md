@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XPS,ODP в XPS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XPS в ODP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XPS,ODP в XPS Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XPS в ODP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

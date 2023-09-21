@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODT,PPT в ODT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODT в PPT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODT,PPT в ODT Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия ODT в PPT с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

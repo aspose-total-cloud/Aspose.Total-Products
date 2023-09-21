@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TEX, БЕСПЛАТНЫЙ конвертер TXT в TEX или Perl SDKdescription: Бесплатное преобразование TXT в TEX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

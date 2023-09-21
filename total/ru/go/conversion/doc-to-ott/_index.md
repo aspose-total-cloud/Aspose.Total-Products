@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTT, БЕСПЛАТНЫЙ конвертер DOC в OTT или GO SDKdescription: Бесплатное преобразование DOC в OTT с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTT, БЕСПЛАТНЫЙ конвертер DOC в OTT или GO SDKdescription: Бесплатное преобразование DOC в OTT с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

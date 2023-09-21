@@ -1,1 +1,1 @@
----title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер MOBI в GIF или Ruby SDKdescription: Бесплатное преобразование MOBI в GIF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер MOBI в GIF или Ruby SDKdescription: Бесплатное преобразование MOBI в GIF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер ODT в XLS или Perl SDKdescription: Бесплатное преобразование ODT в XLS с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLS, БЕСПЛАТНЫЙ конвертер ODT в XLS или Perl SDKdescription: Бесплатное преобразование ODT в XLS с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

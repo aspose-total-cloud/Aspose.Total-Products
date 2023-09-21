@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер MHTML в XLSM или Perl SDKdescription: Бесплатное преобразование MHTML в XLSM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер MHTML в XLSM или Perl SDKdescription: Бесплатное преобразование MHTML в XLSM с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

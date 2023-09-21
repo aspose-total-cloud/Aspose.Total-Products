@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTM,PPS в PPTM Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPTM в PPS с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTM,PPS в PPTM Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия PPTM в PPS с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

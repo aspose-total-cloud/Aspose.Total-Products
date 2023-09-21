@@ -1,1 +1,1 @@
----title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер MOBI в XAML или Java SDKdescription: Бесплатное преобразование MOBI в XAML с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер MOBI в XAML или Java SDKdescription: Бесплатное преобразование MOBI в XAML с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

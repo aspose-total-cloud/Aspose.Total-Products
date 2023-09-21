@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLAM, БЕСПЛАТНЫЙ конвертер DOTM в XLAM или CPP SDKdescription: Бесплатное преобразование DOTM в XLAM с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLAM, БЕСПЛАТНЫЙ конвертер DOTM в XLAM или C++ SDKdescription: Бесплатное преобразование DOTM в XLAM с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

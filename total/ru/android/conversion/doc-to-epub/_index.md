@@ -1,1 +1,1 @@
----title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер DOC в EPUB или Android SDKdescription: Бесплатное преобразование DOC в EPUB с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер DOC в EPUB или Android SDKdescription: Бесплатное преобразование DOC в EPUB с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

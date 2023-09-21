@@ -1,1 +1,1 @@
----title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер TXT в TSV или Java SDKdescription: Бесплатное преобразование TXT в TSV с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер TXT в TSV или Java SDKdescription: Бесплатное преобразование TXT в TSV с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

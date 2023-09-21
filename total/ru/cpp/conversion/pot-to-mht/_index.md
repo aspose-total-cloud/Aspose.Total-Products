@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,POT в MHT Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия MHT в POT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

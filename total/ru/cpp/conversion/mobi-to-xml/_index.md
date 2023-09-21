@@ -1,1 +1,1 @@
----title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер MOBI в XML или CPP SDKdescription: Бесплатное преобразование MOBI в XML с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XML, БЕСПЛАТНЫЙ конвертер MOBI в XML или C++ SDKdescription: Бесплатное преобразование MOBI в XML с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

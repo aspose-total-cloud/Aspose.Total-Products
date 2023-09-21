@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,PPSX в DOTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOTX в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,PPSX в DOTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DOTX в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TIFF,PPSX в TIFF Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия TIFF в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TIFF,PPSX в TIFF Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия TIFF в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPT,POT в PPT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PPT в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPT,POT в PPT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PPT в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

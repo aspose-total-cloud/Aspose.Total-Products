@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер CHM в PPS или GO SDKdescription: Бесплатное преобразование CHM в PPS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер CHM в PPS или GO SDKdescription: Бесплатное преобразование CHM в PPS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

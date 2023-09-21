@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XML в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPS в XML Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XML в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

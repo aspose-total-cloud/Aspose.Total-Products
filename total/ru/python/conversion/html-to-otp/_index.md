@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер HTML в OTP или Python SDKdescription: Бесплатное преобразование HTML в OTP с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер HTML в OTP или Python SDKdescription: Бесплатное преобразование HTML в OTP с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

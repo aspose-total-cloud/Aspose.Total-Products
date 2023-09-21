@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер PDF в PPSX или Python SDKdescription: Бесплатное преобразование PDF в PPSX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер PDF в PPSX или Python SDKdescription: Бесплатное преобразование PDF в PPSX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

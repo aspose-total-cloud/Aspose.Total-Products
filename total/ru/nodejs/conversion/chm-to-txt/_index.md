@@ -1,1 +1,1 @@
----title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер CHM в TXT или Nodejs SDKdescription: Бесплатное преобразование CHM в TXT с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TXT, БЕСПЛАТНЫЙ конвертер CHM в TXT или Nodejs SDKdescription: Бесплатное преобразование CHM в TXT с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

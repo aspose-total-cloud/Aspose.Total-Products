@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в GIF,ODP в GIF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия GIF в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в GIF,ODP в GIF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия GIF в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

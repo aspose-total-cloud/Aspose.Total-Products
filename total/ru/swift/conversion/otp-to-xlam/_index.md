@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLAM,OTP в XLAM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLAM в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLAM,OTP в XLAM Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLAM в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

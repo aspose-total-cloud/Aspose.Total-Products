@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,PPTM в TEX Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия TEX в PPTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

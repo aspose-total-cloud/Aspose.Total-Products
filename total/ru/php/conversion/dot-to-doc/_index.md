@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер DOT в DOC или PHP SDKdescription: Бесплатное преобразование DOT в DOC с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер DOT в DOC или PHP SDKdescription: Бесплатное преобразование DOT в DOC с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

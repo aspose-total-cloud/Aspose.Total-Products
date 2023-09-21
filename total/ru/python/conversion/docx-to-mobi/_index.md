@@ -1,1 +1,1 @@
----title: Конвертировать Word в MOBI, БЕСПЛАТНЫЙ конвертер DOCX в MOBI или Python SDKdescription: Бесплатное преобразование DOCX в MOBI с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MOBI, БЕСПЛАТНЫЙ конвертер DOCX в MOBI или Python SDKdescription: Бесплатное преобразование DOCX в MOBI с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

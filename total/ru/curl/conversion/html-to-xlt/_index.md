@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер HTML в XLT или Curl SDKdescription: Бесплатное преобразование HTML в XLT с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер HTML в XLT или Curl SDKdescription: Бесплатное преобразование HTML в XLT с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

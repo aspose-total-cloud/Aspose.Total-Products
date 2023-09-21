@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPT,POT в PPT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия PPT в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPT,POT в PPT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия PPT в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

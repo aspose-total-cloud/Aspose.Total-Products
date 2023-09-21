@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPTX в XML Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XML в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPTX в XML Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XML в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

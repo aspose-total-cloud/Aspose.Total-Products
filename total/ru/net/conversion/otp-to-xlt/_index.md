@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,OTP в XLT Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLT в OTP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,OTP в XLT Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLT в OTP с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

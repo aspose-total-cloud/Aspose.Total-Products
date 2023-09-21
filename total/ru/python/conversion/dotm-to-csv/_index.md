@@ -1,1 +1,1 @@
----title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOTM в CSV или Python SDKdescription: Бесплатное преобразование DOTM в CSV с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOTM в CSV или Python SDKdescription: Бесплатное преобразование DOTM в CSV с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер CHM в MD или Android SDKdescription: Бесплатное преобразование CHM в MD с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер CHM в MD или Android SDKdescription: Бесплатное преобразование CHM в MD с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

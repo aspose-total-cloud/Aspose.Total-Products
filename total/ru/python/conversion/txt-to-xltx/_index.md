@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер TXT в XLTX или Python SDKdescription: Бесплатное преобразование TXT в XLTX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер TXT в XLTX или Python SDKdescription: Бесплатное преобразование TXT в XLTX с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

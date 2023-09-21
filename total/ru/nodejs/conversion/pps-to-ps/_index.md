@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PS,PPS в PS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PS в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PS,PPS в PS Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PS в PPS с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

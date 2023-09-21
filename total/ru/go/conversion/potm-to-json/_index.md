@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JSON,POTM в JSON Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия JSON в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JSON,POTM в JSON Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия JSON в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

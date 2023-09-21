@@ -1,1 +1,1 @@
----title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOC в CSV или GO SDKdescription: Бесплатное преобразование DOC в CSV с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CSV, БЕСПЛАТНЫЙ конвертер DOC в CSV или GO SDKdescription: Бесплатное преобразование DOC в CSV с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

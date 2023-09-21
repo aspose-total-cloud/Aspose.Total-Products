@@ -1,1 +1,1 @@
----title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер DOTM в XAML или GO SDKdescription: Бесплатное преобразование DOTM в XAML с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер DOTM в XAML или GO SDKdescription: Бесплатное преобразование DOTM в XAML с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

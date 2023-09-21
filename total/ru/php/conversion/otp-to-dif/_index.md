@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DIF,OTP в DIF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DIF в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DIF,OTP в DIF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия DIF в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

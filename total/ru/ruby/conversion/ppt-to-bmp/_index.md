@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в BMP,PPT в BMP Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия BMP в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в BMP,PPT в BMP Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия BMP в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,PPS в DOC Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOC в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,PPS в DOC Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOC в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

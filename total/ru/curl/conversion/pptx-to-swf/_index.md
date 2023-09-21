@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SWF,PPTX в SWF Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия SWF в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SWF,PPTX в SWF Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия SWF в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

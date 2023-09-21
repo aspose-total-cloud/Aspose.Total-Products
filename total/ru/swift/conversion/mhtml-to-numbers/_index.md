@@ -1,1 +1,1 @@
----title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер MHTML в NUMBERS или Swift SDKdescription: Бесплатное преобразование MHTML в NUMBERS с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер MHTML в NUMBERS или Swift SDKdescription: Бесплатное преобразование MHTML в NUMBERS с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

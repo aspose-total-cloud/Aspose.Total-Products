@@ -1,1 +1,1 @@
----title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер MOBI в MD или Python SDKdescription: Бесплатное преобразование MOBI в MD с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер MOBI в MD или Python SDKdescription: Бесплатное преобразование MOBI в MD с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

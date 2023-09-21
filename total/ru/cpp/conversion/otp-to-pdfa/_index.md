@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDFA,OTP в PDFA Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PDFA в OTP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

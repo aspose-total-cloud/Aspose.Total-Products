@@ -1,0 +1,1 @@
+---title: Преобразование PDF в POTX,PDFA в POTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия POTX в PDFA с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы PDF в облаке.---

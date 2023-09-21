@@ -1,1 +1,1 @@
----title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер MD в PCL или Curl SDKdescription: Бесплатное преобразование MD в PCL с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер MD в PCL или Curl SDKdescription: Бесплатное преобразование MD в PCL с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

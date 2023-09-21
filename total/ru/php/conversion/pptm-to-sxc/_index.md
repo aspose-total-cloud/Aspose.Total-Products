@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SXC,PPTM в SXC Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия SXC в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SXC,PPTM в SXC Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия SXC в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

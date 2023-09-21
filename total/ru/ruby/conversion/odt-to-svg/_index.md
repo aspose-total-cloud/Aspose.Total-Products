@@ -1,1 +1,1 @@
----title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер ODT в SVG или Ruby SDKdescription: Бесплатное преобразование ODT в SVG с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер ODT в SVG или Ruby SDKdescription: Бесплатное преобразование ODT в SVG с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

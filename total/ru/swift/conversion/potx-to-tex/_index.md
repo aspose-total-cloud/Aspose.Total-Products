@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,POTX в TEX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия TEX в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер DOCX в DOTX или PHP SDKdescription: Бесплатное преобразование DOCX в DOTX с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTX, БЕСПЛАТНЫЙ конвертер DOCX в DOTX или PHP SDKdescription: Бесплатное преобразование DOCX в DOTX с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

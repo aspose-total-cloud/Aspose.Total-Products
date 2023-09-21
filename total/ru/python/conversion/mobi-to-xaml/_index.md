@@ -1,1 +1,1 @@
----title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер MOBI в XAML или Python SDKdescription: Бесплатное преобразование MOBI в XAML с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер MOBI в XAML или Python SDKdescription: Бесплатное преобразование MOBI в XAML с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

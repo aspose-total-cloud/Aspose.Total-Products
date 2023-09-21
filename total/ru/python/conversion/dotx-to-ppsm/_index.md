@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер DOTX в PPSM или Python SDKdescription: Бесплатное преобразование DOTX в PPSM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPSM, БЕСПЛАТНЫЙ конвертер DOTX в PPSM или Python SDKdescription: Бесплатное преобразование DOTX в PPSM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

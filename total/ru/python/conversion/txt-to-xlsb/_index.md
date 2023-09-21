@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер TXT в XLSB или Python SDKdescription: Бесплатное преобразование TXT в XLSB с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер TXT в XLSB или Python SDKdescription: Бесплатное преобразование TXT в XLSB с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

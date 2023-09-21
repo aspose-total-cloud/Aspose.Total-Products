@@ -1,1 +1,1 @@
----title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер HTML в NUMBERS или Perl SDKdescription: Бесплатное преобразование HTML в NUMBERS с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер HTML в NUMBERS или Perl SDKdescription: Бесплатное преобразование HTML в NUMBERS с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

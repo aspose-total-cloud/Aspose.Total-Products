@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JSON,PPTM в JSON Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия JSON в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JSON,PPTM в JSON Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия JSON в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

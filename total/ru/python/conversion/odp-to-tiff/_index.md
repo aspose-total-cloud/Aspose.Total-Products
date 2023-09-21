@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TIFF,ODP в TIFF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия TIFF в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TIFF,ODP в TIFF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия TIFF в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

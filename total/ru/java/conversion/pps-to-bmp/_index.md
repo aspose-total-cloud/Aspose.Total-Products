@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в BMP,PPS в BMP Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия BMP в PPS с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в BMP,PPS в BMP Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия BMP в PPS с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

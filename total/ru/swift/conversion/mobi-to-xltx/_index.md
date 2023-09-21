@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер MOBI в XLTX или Swift SDKdescription: Бесплатное преобразование MOBI в XLTX с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTX, БЕСПЛАТНЫЙ конвертер MOBI в XLTX или Swift SDKdescription: Бесплатное преобразование MOBI в XLTX с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

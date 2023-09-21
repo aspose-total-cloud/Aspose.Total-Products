@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,POTX в TEX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия TEX в POTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

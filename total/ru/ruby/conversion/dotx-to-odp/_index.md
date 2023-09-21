@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODP, БЕСПЛАТНЫЙ конвертер DOTX в ODP или Ruby SDKdescription: Бесплатное преобразование DOTX в ODP с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODP, БЕСПЛАТНЫЙ конвертер DOTX в ODP или Ruby SDKdescription: Бесплатное преобразование DOTX в ODP с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

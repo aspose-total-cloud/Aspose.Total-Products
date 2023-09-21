@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SWF,PPS в SWF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия SWF в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SWF,PPS в SWF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия SWF в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

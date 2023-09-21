@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер TXT в PPS или Net SDKdescription: Бесплатное преобразование TXT в PPS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPS, БЕСПЛАТНЫЙ конвертер TXT в PPS или Net SDKdescription: Бесплатное преобразование TXT в PPS с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

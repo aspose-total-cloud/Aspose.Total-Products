@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DIF,PPTM в DIF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DIF в PPTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DIF,PPTM в DIF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DIF в PPTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

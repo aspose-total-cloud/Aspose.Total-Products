@@ -1,1 +1,1 @@
----title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер DOC в XPS или PHP SDKdescription: Бесплатное преобразование DOC в XPS с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер DOC в XPS или PHP SDKdescription: Бесплатное преобразование DOC в XPS с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

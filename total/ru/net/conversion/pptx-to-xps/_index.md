@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XPS,PPTX в XPS Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XPS в PPTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XPS,PPTX в XPS Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XPS в PPTX с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер MHTML в PS или GO SDKdescription: Бесплатное преобразование MHTML в PS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер MHTML в PS или GO SDKdescription: Бесплатное преобразование MHTML в PS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

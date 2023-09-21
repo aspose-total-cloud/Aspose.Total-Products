@@ -1,1 +1,1 @@
----title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер DOT в GIF или CPP SDKdescription: Бесплатное преобразование DOT в GIF с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер DOT в GIF или C++ SDKdescription: Бесплатное преобразование DOT в GIF с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

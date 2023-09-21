@@ -1,1 +1,1 @@
----title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер TXT в PNG или Android SDKdescription: Бесплатное преобразование TXT в PNG с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер TXT в PNG или Android SDKdescription: Бесплатное преобразование TXT в PNG с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

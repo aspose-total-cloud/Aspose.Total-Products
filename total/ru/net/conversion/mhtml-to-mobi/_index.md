@@ -1,1 +1,1 @@
----title: Конвертировать Word в MOBI, БЕСПЛАТНЫЙ конвертер MHTML в MOBI или Net SDKdescription: Бесплатное преобразование MHTML в MOBI с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MOBI, БЕСПЛАТНЫЙ конвертер MHTML в MOBI или Net SDKdescription: Бесплатное преобразование MHTML в MOBI с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

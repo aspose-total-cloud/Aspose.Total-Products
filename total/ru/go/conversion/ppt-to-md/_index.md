@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MD,PPT в MD Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия MD в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MD,PPT в MD Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия MD в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

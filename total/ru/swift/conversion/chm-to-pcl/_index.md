@@ -1,1 +1,1 @@
----title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер CHM в PCL или Swift SDKdescription: Бесплатное преобразование CHM в PCL с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер CHM в PCL или Swift SDKdescription: Бесплатное преобразование CHM в PCL с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

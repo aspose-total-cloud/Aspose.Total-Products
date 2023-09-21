@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер DOCX в PPSX или Perl SDKdescription: Бесплатное преобразование DOCX в PPSX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер DOCX в PPSX или Perl SDKdescription: Бесплатное преобразование DOCX в PPSX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

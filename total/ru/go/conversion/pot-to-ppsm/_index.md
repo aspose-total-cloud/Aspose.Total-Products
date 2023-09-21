@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSM,POT в PPSM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPSM в POT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSM,POT в PPSM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPSM в POT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

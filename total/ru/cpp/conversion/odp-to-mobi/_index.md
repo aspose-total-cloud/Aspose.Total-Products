@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MOBI,ODP в MOBI Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия MOBI в ODP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MOBI,ODP в MOBI Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия MOBI в ODP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

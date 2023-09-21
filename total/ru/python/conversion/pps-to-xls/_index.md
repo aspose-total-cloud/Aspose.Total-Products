@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLS,PPS в XLS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLS в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLS,PPS в XLS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLS в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

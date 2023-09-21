@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,PPSM в DOTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия DOTX в PPSM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,PPSM в DOTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия DOTX в PPSM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCM,PPT в DOCM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOCM в PPT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCM,PPT в DOCM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOCM в PPT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

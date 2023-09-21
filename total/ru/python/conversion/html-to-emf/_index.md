@@ -1,1 +1,1 @@
----title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер HTML в EMF или Python SDKdescription: Бесплатное преобразование HTML в EMF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер HTML в EMF или Python SDKdescription: Бесплатное преобразование HTML в EMF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

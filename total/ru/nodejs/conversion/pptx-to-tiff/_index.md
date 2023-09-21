@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TIFF,PPTX в TIFF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TIFF в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TIFF,PPTX в TIFF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TIFF в PPTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

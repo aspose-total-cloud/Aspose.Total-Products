@@ -1,1 +1,1 @@
----title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер DOCX в PS или Nodejs SDKdescription: Бесплатное преобразование DOCX в PS с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер DOCX в PS или Nodejs SDKdescription: Бесплатное преобразование DOCX в PS с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

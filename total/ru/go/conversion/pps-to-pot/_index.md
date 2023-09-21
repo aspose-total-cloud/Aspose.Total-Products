@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POT,PPS в POT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия POT в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POT,PPS в POT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия POT в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

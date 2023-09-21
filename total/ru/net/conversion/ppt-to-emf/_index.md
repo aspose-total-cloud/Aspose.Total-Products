@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EMF,PPT в EMF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия EMF в PPT с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EMF,PPT в EMF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия EMF в PPT с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

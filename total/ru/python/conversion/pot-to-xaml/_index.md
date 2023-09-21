@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XAML,POT в XAML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XAML в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XAML,POT в XAML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XAML в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

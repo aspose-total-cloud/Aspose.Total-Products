@@ -1,1 +1,1 @@
----title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер DOCX в DIF или Python SDKdescription: Бесплатное преобразование DOCX в DIF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер DOCX в DIF или Python SDKdescription: Бесплатное преобразование DOCX в DIF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

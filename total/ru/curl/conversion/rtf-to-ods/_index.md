@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер RTF в ODS или Curl SDKdescription: Бесплатное преобразование RTF в ODS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODS, БЕСПЛАТНЫЙ конвертер RTF в ODS или Curl SDKdescription: Бесплатное преобразование RTF в ODS с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

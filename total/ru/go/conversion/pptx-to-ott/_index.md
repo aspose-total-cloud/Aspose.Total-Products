@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTT,PPTX в OTT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия OTT в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTT,PPTX в OTT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия OTT в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

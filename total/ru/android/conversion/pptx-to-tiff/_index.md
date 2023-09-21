@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TIFF,PPTX в TIFF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TIFF в PPTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TIFF,PPTX в TIFF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TIFF в PPTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер ODT в TIFF или CPP SDKdescription: Бесплатное преобразование ODT в TIFF с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер ODT в TIFF или C++ SDKdescription: Бесплатное преобразование ODT в TIFF с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

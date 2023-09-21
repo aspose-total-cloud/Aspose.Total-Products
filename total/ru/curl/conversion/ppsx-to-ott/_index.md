@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTT,PPSX в OTT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия OTT в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTT,PPSX в OTT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия OTT в PPSX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

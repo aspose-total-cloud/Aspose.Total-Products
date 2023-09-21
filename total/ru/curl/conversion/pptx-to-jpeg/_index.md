@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JPEG,PPTX в JPEG Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия JPEG в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JPEG,PPTX в JPEG Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия JPEG в PPTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

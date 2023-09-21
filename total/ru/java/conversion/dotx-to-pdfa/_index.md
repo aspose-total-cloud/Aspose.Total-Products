@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PDFA, БЕСПЛАТНЫЙ конвертер DOTX в PDFA или Java SDKdescription: Бесплатное преобразование DOTX в PDFA с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

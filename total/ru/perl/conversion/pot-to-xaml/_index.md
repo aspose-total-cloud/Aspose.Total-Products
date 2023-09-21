@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XAML,POT в XAML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XAML в POT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XAML,POT в XAML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XAML в POT с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

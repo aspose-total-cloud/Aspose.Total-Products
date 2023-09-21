@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POTX,POTM в POTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия POTX в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POTX,POTM в POTX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия POTX в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

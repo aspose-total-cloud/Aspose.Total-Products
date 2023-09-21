@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PDFA,XLT в PDFA без конвертера или Curl sdkdescription: Бесплатная конверсия PDFA в XLT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

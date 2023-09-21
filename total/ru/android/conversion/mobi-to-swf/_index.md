@@ -1,1 +1,1 @@
----title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер MOBI в SWF или Android SDKdescription: Бесплатное преобразование MOBI в SWF с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер MOBI в SWF или Android SDKdescription: Бесплатное преобразование MOBI в SWF с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

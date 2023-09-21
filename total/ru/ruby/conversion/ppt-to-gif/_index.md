@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в GIF,PPT в GIF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия GIF в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в GIF,PPT в GIF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия GIF в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

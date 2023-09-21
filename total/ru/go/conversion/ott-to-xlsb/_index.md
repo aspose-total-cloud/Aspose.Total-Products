@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер OTT в XLSB или GO SDKdescription: Бесплатное преобразование OTT в XLSB с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер OTT в XLSB или GO SDKdescription: Бесплатное преобразование OTT в XLSB с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

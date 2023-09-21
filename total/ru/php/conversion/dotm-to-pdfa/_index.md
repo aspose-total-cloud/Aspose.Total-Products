@@ -1,0 +1,1 @@
+---title: Конвертировать Word в PDFA, БЕСПЛАТНЫЙ конвертер DOTM в PDFA или PHP SDKdescription: Бесплатное преобразование DOTM в PDFA с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

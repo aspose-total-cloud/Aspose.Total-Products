@@ -1,1 +1,1 @@
----title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер DOCM в POT или Nodejs SDKdescription: Бесплатное преобразование DOCM в POT с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер DOCM в POT или Nodejs SDKdescription: Бесплатное преобразование DOCM в POT с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

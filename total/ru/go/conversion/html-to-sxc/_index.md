@@ -1,1 +1,1 @@
----title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер HTML в SXC или GO SDKdescription: Бесплатное преобразование HTML в SXC с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер HTML в SXC или GO SDKdescription: Бесплатное преобразование HTML в SXC с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

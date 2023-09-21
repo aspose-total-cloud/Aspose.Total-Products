@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер TXT в DOT или Python SDKdescription: Бесплатное преобразование TXT в DOT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер TXT в DOT или Python SDKdescription: Бесплатное преобразование TXT в DOT с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

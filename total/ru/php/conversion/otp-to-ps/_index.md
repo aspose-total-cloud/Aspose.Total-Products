@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PS,OTP в PS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PS в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PS,OTP в PS Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PS в OTP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

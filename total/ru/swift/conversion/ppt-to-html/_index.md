@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в HTML,PPT в HTML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия HTML в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в HTML,PPT в HTML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия HTML в PPT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

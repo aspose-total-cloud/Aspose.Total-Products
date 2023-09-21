@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в BMP,POTM в BMP Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия BMP в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в BMP,POTM в BMP Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия BMP в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

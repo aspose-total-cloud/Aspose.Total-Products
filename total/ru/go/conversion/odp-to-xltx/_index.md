@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTX,ODP в XLTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLTX в ODP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTX,ODP в XLTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLTX в ODP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

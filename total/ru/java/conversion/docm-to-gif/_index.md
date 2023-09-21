@@ -1,1 +1,1 @@
----title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер DOCM в GIF или Java SDKdescription: Бесплатное преобразование DOCM в GIF с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер DOCM в GIF или Java SDKdescription: Бесплатное преобразование DOCM в GIF с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

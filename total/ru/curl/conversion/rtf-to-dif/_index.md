@@ -1,1 +1,1 @@
----title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер RTF в DIF или Curl SDKdescription: Бесплатное преобразование RTF в DIF с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DIF, БЕСПЛАТНЫЙ конвертер RTF в DIF или Curl SDKdescription: Бесплатное преобразование RTF в DIF с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

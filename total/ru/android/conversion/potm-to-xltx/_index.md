@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTX,POTM в XLTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLTX в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTX,POTM в XLTX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLTX в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

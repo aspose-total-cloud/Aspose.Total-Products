@@ -1,1 +1,1 @@
----title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер DOT в PCL или PHP SDKdescription: Бесплатное преобразование DOT в PCL с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер DOT в PCL или PHP SDKdescription: Бесплатное преобразование DOT в PCL с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

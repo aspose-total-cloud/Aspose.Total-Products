@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер RTF в XLTM или Python SDKdescription: Бесплатное преобразование RTF в XLTM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер RTF в XLTM или Python SDKdescription: Бесплатное преобразование RTF в XLTM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

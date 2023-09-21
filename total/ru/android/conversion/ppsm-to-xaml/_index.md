@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XAML,PPSM в XAML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XAML в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XAML,PPSM в XAML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XAML в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

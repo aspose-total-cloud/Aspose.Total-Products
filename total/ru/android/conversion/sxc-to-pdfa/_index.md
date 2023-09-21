@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PDFA,SXC в PDFA без конвертера или Android sdkdescription: Бесплатная конверсия PDFA в SXC с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер DOC в JPEG или Python SDKdescription: Бесплатное преобразование DOC в JPEG с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер DOC в JPEG или Python SDKdescription: Бесплатное преобразование DOC в JPEG с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в GIF,ODP в GIF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия GIF в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в GIF,ODP в GIF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия GIF в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

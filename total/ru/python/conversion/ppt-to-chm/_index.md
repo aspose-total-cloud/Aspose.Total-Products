@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CHM,PPT в CHM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия CHM в PPT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CHM,PPT в CHM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия CHM в PPT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

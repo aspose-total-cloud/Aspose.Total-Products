@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер TXT в XLT или PHP SDKdescription: Бесплатное преобразование TXT в XLT с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLT, БЕСПЛАТНЫЙ конвертер TXT в XLT или PHP SDKdescription: Бесплатное преобразование TXT в XLT с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

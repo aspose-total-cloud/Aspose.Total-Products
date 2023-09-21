@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EMF,POT в EMF Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия EMF в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EMF,POT в EMF Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия EMF в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

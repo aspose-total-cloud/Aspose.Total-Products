@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,OTP в TEX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия TEX в OTP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

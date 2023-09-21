@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в POT,PPSM в POT Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия POT в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в POT,PPSM в POT Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия POT в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

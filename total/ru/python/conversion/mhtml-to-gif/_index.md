@@ -1,1 +1,1 @@
----title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер MHTML в GIF или Python SDKdescription: Бесплатное преобразование MHTML в GIF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в GIF, БЕСПЛАТНЫЙ конвертер MHTML в GIF или Python SDKdescription: Бесплатное преобразование MHTML в GIF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

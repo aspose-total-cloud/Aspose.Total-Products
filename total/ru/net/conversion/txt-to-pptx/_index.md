@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер TXT в PPTX или Net SDKdescription: Бесплатное преобразование TXT в PPTX с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPTX, БЕСПЛАТНЫЙ конвертер TXT в PPTX или Net SDKdescription: Бесплатное преобразование TXT в PPTX с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

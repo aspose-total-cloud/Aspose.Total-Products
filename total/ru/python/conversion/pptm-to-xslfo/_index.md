@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в XSLFO,PPTM в XSLFO Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XSLFO в PPTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

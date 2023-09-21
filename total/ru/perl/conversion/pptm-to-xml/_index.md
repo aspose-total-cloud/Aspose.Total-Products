@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPTM в XML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XML в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPTM в XML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XML в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

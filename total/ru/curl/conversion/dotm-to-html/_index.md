@@ -1,1 +1,1 @@
----title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер DOTM в HTML или Curl SDKdescription: Бесплатное преобразование DOTM в HTML с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в HTML, БЕСПЛАТНЫЙ конвертер DOTM в HTML или Curl SDKdescription: Бесплатное преобразование DOTM в HTML с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

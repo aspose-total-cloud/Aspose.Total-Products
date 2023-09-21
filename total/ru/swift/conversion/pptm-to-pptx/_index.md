@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTX,PPTM в PPTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPTX в PPTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTX,PPTM в PPTX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPTX в PPTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

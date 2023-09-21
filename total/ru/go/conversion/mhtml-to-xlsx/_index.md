@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер MHTML в XLSX или GO SDKdescription: Бесплатное преобразование MHTML в XLSX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер MHTML в XLSX или GO SDKdescription: Бесплатное преобразование MHTML в XLSX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

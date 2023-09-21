@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CSV,PPTX в CSV Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия CSV в PPTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CSV,PPTX в CSV Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия CSV в PPTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

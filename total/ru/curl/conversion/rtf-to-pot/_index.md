@@ -1,1 +1,1 @@
----title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер RTF в POT или Curl SDKdescription: Бесплатное преобразование RTF в POT с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер RTF в POT или Curl SDKdescription: Бесплатное преобразование RTF в POT с помощью облачных API и SDK Curl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

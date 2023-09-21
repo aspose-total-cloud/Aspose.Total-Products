@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MHTML,PPS в MHTML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MHTML в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MHTML,PPS в MHTML Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MHTML в PPS с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTM,PPSM в PPTM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PPTM в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTM,PPSM в PPTM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PPTM в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

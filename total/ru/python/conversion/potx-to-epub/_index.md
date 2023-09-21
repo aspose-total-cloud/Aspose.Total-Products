@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EPUB,POTX в EPUB Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия EPUB в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EPUB,POTX в EPUB Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия EPUB в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

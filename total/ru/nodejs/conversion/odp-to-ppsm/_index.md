@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSM,ODP в PPSM Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PPSM в ODP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSM,ODP в PPSM Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия PPSM в ODP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

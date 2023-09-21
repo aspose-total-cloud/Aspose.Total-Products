@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSM,ODP в XLSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSM в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSM,ODP в XLSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSM в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

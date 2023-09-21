@@ -1,1 +1,1 @@
----title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер MD в EMF или CPP SDKdescription: Бесплатное преобразование MD в EMF с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер MD в EMF или C++ SDKdescription: Бесплатное преобразование MD в EMF с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

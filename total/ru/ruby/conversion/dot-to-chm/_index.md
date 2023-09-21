@@ -1,1 +1,1 @@
----title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер DOT в CHM или Ruby SDKdescription: Бесплатное преобразование DOT в CHM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер DOT в CHM или Ruby SDKdescription: Бесплатное преобразование DOT в CHM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

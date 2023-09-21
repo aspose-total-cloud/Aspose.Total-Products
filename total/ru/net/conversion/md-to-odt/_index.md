@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер MD в ODT или Net SDKdescription: Бесплатное преобразование MD в ODT с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер MD в ODT или Net SDKdescription: Бесплатное преобразование MD в ODT с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

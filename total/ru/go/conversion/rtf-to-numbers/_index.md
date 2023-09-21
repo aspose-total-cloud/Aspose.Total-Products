@@ -1,1 +1,1 @@
----title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер RTF в NUMBERS или GO SDKdescription: Бесплатное преобразование RTF в NUMBERS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в NUMBERS, БЕСПЛАТНЫЙ конвертер RTF в NUMBERS или GO SDKdescription: Бесплатное преобразование RTF в NUMBERS с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

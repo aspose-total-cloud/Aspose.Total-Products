@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,PPSX в DOTX Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOTX в PPSX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,PPSX в DOTX Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOTX в PPSX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

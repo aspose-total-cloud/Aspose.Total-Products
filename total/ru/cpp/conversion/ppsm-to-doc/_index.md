@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,PPSM в DOC Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOC в PPSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,PPSM в DOC Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия DOC в PPSM с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

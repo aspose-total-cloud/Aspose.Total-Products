@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JSON,PPT в JSON Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия JSON в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JSON,PPT в JSON Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия JSON в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

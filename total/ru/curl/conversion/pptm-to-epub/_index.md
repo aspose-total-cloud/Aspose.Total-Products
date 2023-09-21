@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EPUB,PPTM в EPUB Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия EPUB в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EPUB,PPTM в EPUB Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия EPUB в PPTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

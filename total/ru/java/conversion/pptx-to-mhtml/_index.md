@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MHTML,PPTX в MHTML Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия MHTML в PPTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MHTML,PPTX в MHTML Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия MHTML в PPTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

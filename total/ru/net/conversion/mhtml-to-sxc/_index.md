@@ -1,1 +1,1 @@
----title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер MHTML в SXC или Net SDKdescription: Бесплатное преобразование MHTML в SXC с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер MHTML в SXC или Net SDKdescription: Бесплатное преобразование MHTML в SXC с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PNG,PPSX в PNG Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PNG в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PNG,PPSX в PNG Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PNG в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер HTML в POT или Net SDKdescription: Бесплатное преобразование HTML в POT с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POT, БЕСПЛАТНЫЙ конвертер HTML в POT или Net SDKdescription: Бесплатное преобразование HTML в POT с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

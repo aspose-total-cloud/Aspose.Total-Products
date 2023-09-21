@@ -1,1 +1,1 @@
----title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер CHM в EPUB или Python SDKdescription: Бесплатное преобразование CHM в EPUB с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер CHM в EPUB или Python SDKdescription: Бесплатное преобразование CHM в EPUB с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

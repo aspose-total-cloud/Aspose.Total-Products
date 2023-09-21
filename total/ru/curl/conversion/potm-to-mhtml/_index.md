@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MHTML,POTM в MHTML Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия MHTML в POTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MHTML,POTM в MHTML Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия MHTML в POTM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

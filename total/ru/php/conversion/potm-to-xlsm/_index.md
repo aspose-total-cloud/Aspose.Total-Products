@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSM,POTM в XLSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSM в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSM,POTM в XLSM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLSM в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

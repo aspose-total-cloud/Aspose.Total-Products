@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер MD в OTP или Android SDKdescription: Бесплатное преобразование MD в OTP с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер MD в OTP или Android SDKdescription: Бесплатное преобразование MD в OTP с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер DOC в FODS или PHP SDKdescription: Бесплатное преобразование DOC в FODS с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в FODS, БЕСПЛАТНЫЙ конвертер DOC в FODS или PHP SDKdescription: Бесплатное преобразование DOC в FODS с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

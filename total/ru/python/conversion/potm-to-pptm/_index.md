@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTM,POTM в PPTM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPTM в POTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTM,POTM в PPTM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия PPTM в POTM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

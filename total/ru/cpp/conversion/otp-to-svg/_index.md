@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SVG,OTP в SVG Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия SVG в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SVG,OTP в SVG Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия SVG в OTP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

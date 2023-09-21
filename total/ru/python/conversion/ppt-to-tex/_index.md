@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,PPT в TEX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия TEX в PPT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

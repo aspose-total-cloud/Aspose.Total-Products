@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PDFA,XLS в PDFA без конвертера или C++ sdkdescription: Бесплатная конверсия PDFA в XLS с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

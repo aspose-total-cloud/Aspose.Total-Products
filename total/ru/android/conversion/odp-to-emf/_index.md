@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EMF,ODP в EMF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия EMF в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EMF,ODP в EMF Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия EMF в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

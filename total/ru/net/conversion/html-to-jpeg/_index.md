@@ -1,1 +1,1 @@
----title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер HTML в JPEG или Net SDKdescription: Бесплатное преобразование HTML в JPEG с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер HTML в JPEG или Net SDKdescription: Бесплатное преобразование HTML в JPEG с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

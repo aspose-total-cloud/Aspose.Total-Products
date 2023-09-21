@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTM,ODP в DOTM Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOTM в ODP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTM,ODP в DOTM Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия DOTM в ODP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

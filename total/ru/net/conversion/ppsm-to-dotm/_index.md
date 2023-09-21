@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTM,PPSM в DOTM Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия DOTM в PPSM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTM,PPSM в DOTM Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия DOTM в PPSM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

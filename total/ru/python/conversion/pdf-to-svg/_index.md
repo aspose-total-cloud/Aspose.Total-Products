@@ -1,1 +1,1 @@
----title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер PDF в SVG или Python SDKdescription: Бесплатное преобразование PDF в SVG с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер PDF в SVG или Python SDKdescription: Бесплатное преобразование PDF в SVG с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

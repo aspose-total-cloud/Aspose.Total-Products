@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TIFF,POTM в TIFF Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия TIFF в POTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TIFF,POTM в TIFF Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия TIFF в POTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

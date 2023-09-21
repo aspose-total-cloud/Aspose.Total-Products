@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSX,ODP в PPSX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPSX в ODP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSX,ODP в PPSX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PPSX в ODP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

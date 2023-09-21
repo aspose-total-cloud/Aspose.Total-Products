@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DIF,PPSX в DIF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DIF в PPSX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DIF,PPSX в DIF Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия DIF в PPSX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

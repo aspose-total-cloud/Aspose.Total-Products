@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSB,OTP в XLSB Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLSB в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSB,OTP в XLSB Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XLSB в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

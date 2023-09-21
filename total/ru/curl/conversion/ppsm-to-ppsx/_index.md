@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSX,PPSM в PPSX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия PPSX в PPSM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSX,PPSM в PPSX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия PPSX в PPSM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

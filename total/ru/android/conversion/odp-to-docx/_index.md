@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCX,ODP в DOCX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOCX в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCX,ODP в DOCX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOCX в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

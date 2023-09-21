@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер MHTML в DOC или Ruby SDKdescription: Бесплатное преобразование MHTML в DOC с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер MHTML в DOC или Ruby SDKdescription: Бесплатное преобразование MHTML в DOC с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

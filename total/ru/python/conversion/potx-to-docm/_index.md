@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCM,POTX в DOCM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOCM в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCM,POTX в DOCM Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия DOCM в POTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

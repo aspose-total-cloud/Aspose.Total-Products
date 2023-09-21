@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в BMP,PPTX в BMP Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия BMP в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в BMP,PPTX в BMP Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия BMP в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

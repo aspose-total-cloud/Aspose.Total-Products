@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOT,POTX в DOT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOT в POTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOT,POTX в DOT Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия DOT в POTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

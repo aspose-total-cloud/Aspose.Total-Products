@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,PPT в DOC Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOC в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,PPT в DOC Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия DOC в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

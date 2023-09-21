@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPTM в XML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XML в PPTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPTM в XML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XML в PPTM с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

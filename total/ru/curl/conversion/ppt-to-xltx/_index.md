@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTX,PPT в XLTX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLTX в PPT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTX,PPT в XLTX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLTX в PPT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

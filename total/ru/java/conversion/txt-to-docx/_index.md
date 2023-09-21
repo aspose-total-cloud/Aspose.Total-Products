@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер TXT в DOCX или Java SDKdescription: Бесплатное преобразование TXT в DOCX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер TXT в DOCX или Java SDKdescription: Бесплатное преобразование TXT в DOCX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

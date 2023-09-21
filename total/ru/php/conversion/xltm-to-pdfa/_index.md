@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в PDFA,XLTM в PDFA без конвертера или PHP sdkdescription: Бесплатная конверсия PDFA в XLTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

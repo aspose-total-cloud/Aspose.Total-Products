@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CSV,PPSX в CSV Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия CSV в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CSV,PPSX в CSV Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия CSV в PPSX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

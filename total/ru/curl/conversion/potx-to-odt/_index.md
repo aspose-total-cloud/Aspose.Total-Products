@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODT,POTX в ODT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия ODT в POTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODT,POTX в ODT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия ODT в POTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

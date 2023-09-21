@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODT,POT в ODT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия ODT в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODT,POT в ODT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия ODT в POT с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

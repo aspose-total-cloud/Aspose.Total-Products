@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в FODS,POT в FODS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия FODS в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в FODS,POT в FODS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия FODS в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

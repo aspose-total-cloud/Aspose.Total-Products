@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTX,PPSM в XLTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLTX в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTX,PPSM в XLTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия XLTX в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTX,PPT в PPTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPTX в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTX,PPT в PPTX Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPTX в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

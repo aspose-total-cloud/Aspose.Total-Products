@@ -1,1 +1,1 @@
----title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер DOTX в XAML или Ruby SDKdescription: Бесплатное преобразование DOTX в XAML с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер DOTX в XAML или Ruby SDKdescription: Бесплатное преобразование DOTX в XAML с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

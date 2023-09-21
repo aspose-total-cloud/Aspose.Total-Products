@@ -1,1 +1,1 @@
----title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер RTF в POTM или Python SDKdescription: Бесплатное преобразование RTF в POTM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер RTF в POTM или Python SDKdescription: Бесплатное преобразование RTF в POTM с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

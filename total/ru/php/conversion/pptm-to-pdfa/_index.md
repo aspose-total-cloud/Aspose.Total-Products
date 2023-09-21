@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDFA,PPTM в PDFA Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия PDFA в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

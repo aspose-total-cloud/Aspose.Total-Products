@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SXC,ODP в SXC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SXC в ODP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SXC,ODP в SXC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SXC в ODP с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

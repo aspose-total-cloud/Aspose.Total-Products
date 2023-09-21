@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TXT,POT в TXT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия TXT в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TXT,POT в TXT Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия TXT в POT с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

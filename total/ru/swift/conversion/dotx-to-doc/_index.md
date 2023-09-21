@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер DOTX в DOC или Swift SDKdescription: Бесплатное преобразование DOTX в DOC с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер DOTX в DOC или Swift SDKdescription: Бесплатное преобразование DOTX в DOC с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

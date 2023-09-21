@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в HTML,PPTM в HTML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия HTML в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в HTML,PPTM в HTML Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия HTML в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

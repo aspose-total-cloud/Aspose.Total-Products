@@ -1,1 +1,1 @@
----title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер OTT в TIFF или Python SDKdescription: Бесплатное преобразование OTT в TIFF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TIFF, БЕСПЛАТНЫЙ конвертер OTT в TIFF или Python SDKdescription: Бесплатное преобразование OTT в TIFF с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

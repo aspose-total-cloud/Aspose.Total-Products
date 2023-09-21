@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,ODP в TEX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия TEX в ODP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

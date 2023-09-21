@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер RTF в OTP или Net SDKdescription: Бесплатное преобразование RTF в OTP с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер RTF в OTP или Net SDKdescription: Бесплатное преобразование RTF в OTP с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

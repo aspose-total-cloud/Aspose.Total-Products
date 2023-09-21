@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер DOTX в ODT или GO SDKdescription: Бесплатное преобразование DOTX в ODT с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODT, БЕСПЛАТНЫЙ конвертер DOTX в ODT или GO SDKdescription: Бесплатное преобразование DOTX в ODT с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в TEX,ODS в TEX без конвертера или C++ sdkdescription: Бесплатная конверсия TEX в ODS с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TXT,PPSM в TXT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия TXT в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TXT,PPSM в TXT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия TXT в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

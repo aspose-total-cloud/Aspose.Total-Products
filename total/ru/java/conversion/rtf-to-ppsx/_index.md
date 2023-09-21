@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер RTF в PPSX или Java SDKdescription: Бесплатное преобразование RTF в PPSX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPSX, БЕСПЛАТНЫЙ конвертер RTF в PPSX или Java SDKdescription: Бесплатное преобразование RTF в PPSX с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

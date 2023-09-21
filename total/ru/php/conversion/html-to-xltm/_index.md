@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер HTML в XLTM или PHP SDKdescription: Бесплатное преобразование HTML в XLTM с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер HTML в XLTM или PHP SDKdescription: Бесплатное преобразование HTML в XLTM с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

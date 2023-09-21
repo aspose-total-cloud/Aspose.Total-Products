@@ -1,1 +1,1 @@
----title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер DOTM в SXC или Android SDKdescription: Бесплатное преобразование DOTM в SXC с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер DOTM в SXC или Android SDKdescription: Бесплатное преобразование DOTM в SXC с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

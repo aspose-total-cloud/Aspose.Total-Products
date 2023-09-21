@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SXC,PPTM в SXC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SXC в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SXC,PPTM в SXC Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SXC в PPTM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

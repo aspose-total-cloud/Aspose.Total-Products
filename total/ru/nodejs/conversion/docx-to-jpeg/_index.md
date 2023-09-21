@@ -1,1 +1,1 @@
----title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер DOCX в JPEG или Nodejs SDKdescription: Бесплатное преобразование DOCX в JPEG с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JPEG, БЕСПЛАТНЫЙ конвертер DOCX в JPEG или Nodejs SDKdescription: Бесплатное преобразование DOCX в JPEG с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

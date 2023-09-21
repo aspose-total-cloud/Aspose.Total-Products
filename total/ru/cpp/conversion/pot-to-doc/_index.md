@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,POT в DOC Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOC в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,POT в DOC Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия DOC в POT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

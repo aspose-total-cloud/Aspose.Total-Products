@@ -1,1 +1,1 @@
----title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер DOTX в XPS или Java SDKdescription: Бесплатное преобразование DOTX в XPS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер DOTX в XPS или Java SDKdescription: Бесплатное преобразование DOTX в XPS с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

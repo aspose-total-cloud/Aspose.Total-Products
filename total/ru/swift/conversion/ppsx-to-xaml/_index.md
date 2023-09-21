@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XAML,PPSX в XAML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XAML в PPSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XAML,PPSX в XAML Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия XAML в PPSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

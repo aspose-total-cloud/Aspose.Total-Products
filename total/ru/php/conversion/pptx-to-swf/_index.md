@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SWF,PPTX в SWF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия SWF в PPTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SWF,PPTX в SWF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия SWF в PPTX с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

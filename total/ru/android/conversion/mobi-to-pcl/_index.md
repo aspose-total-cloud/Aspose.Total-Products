@@ -1,1 +1,1 @@
----title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер MOBI в PCL или Android SDKdescription: Бесплатное преобразование MOBI в PCL с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PCL, БЕСПЛАТНЫЙ конвертер MOBI в PCL или Android SDKdescription: Бесплатное преобразование MOBI в PCL с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер DOT в SWF или Nodejs SDKdescription: Бесплатное преобразование DOT в SWF с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер DOT в SWF или Nodejs SDKdescription: Бесплатное преобразование DOT в SWF с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

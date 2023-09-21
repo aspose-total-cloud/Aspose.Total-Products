@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JPEG,OTP в JPEG Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия JPEG в OTP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JPEG,OTP в JPEG Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия JPEG в OTP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

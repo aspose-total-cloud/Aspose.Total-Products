@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLTX,PPT в XLTX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLTX в PPT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLTX,PPT в XLTX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия XLTX в PPT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

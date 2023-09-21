@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MOBI,PPS в MOBI Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MOBI в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MOBI,PPS в MOBI Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MOBI в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

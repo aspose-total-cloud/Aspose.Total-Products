@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XPS,OTP в XPS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XPS в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XPS,OTP в XPS Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XPS в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

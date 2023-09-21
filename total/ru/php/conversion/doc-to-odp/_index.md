@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODP, БЕСПЛАТНЫЙ конвертер DOC в ODP или PHP SDKdescription: Бесплатное преобразование DOC в ODP с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODP, БЕСПЛАТНЫЙ конвертер DOC в ODP или PHP SDKdescription: Бесплатное преобразование DOC в ODP с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

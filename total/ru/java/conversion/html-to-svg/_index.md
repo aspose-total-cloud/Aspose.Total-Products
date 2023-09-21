@@ -1,1 +1,1 @@
----title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер HTML в SVG или Java SDKdescription: Бесплатное преобразование HTML в SVG с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SVG, БЕСПЛАТНЫЙ конвертер HTML в SVG или Java SDKdescription: Бесплатное преобразование HTML в SVG с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

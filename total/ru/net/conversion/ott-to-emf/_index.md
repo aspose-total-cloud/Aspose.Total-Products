@@ -1,1 +1,1 @@
----title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер OTT в EMF или Net SDKdescription: Бесплатное преобразование OTT в EMF с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер OTT в EMF или Net SDKdescription: Бесплатное преобразование OTT в EMF с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

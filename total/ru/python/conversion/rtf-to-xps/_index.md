@@ -1,1 +1,1 @@
----title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер RTF в XPS или Python SDKdescription: Бесплатное преобразование RTF в XPS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XPS, БЕСПЛАТНЫЙ конвертер RTF в XPS или Python SDKdescription: Бесплатное преобразование RTF в XPS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

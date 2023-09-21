@@ -1,1 +1,1 @@
----title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер DOT в XAML или PHP SDKdescription: Бесплатное преобразование DOT в XAML с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XAML, БЕСПЛАТНЫЙ конвертер DOT в XAML или PHP SDKdescription: Бесплатное преобразование DOT в XAML с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

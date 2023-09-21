@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в WEB,POT в WEB Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия WEB в POT с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

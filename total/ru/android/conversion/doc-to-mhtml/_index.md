@@ -1,1 +1,1 @@
----title: Конвертировать Word в MHTML, БЕСПЛАТНЫЙ конвертер DOC в MHTML или Android SDKdescription: Бесплатное преобразование DOC в MHTML с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MHTML, БЕСПЛАТНЫЙ конвертер DOC в MHTML или Android SDKdescription: Бесплатное преобразование DOC в MHTML с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

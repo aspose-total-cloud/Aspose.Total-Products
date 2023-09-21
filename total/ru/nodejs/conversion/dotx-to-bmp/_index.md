@@ -1,1 +1,1 @@
----title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер DOTX в BMP или Nodejs SDKdescription: Бесплатное преобразование DOTX в BMP с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер DOTX в BMP или Nodejs SDKdescription: Бесплатное преобразование DOTX в BMP с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,ODP в MHT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия MHT в ODP с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPSX,POT в PPSX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPSX в POT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPSX,POT в PPSX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PPSX в POT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

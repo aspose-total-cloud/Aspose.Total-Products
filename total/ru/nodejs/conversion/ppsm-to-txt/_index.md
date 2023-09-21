@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TXT,PPSM в TXT Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TXT в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TXT,PPSM в TXT Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TXT в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

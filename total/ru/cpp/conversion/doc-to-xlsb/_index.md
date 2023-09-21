@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер DOC в XLSB или CPP SDKdescription: Бесплатное преобразование DOC в XLSB с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSB, БЕСПЛАТНЫЙ конвертер DOC в XLSB или C++ SDKdescription: Бесплатное преобразование DOC в XLSB с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

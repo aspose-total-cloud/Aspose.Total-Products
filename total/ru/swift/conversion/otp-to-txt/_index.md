@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TXT,OTP в TXT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия TXT в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TXT,OTP в TXT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия TXT в OTP с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

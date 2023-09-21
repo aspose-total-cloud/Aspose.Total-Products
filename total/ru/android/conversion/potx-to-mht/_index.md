@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,POTX в MHT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия MHT в POTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

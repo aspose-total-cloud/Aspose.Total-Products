@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPT,PPTM в PPT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PPT в PPTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPT,PPTM в PPT Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PPT в PPTM с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

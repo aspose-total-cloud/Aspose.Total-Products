@@ -1,1 +1,1 @@
----title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер RTF в PS или Python SDKdescription: Бесплатное преобразование RTF в PS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PS, БЕСПЛАТНЫЙ конвертер RTF в PS или Python SDKdescription: Бесплатное преобразование RTF в PS с помощью облачных API и SDK Python. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

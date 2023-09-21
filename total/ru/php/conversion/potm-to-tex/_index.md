@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,POTM в TEX Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия TEX в POTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

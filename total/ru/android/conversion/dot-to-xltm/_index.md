@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер DOT в XLTM или Android SDKdescription: Бесплатное преобразование DOT в XLTM с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLTM, БЕСПЛАТНЫЙ конвертер DOT в XLTM или Android SDKdescription: Бесплатное преобразование DOT в XLTM с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в RTF,PPS в RTF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия RTF в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в RTF,PPS в RTF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия RTF в PPS с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

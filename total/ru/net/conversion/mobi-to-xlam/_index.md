@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLAM, БЕСПЛАТНЫЙ конвертер MOBI в XLAM или Net SDKdescription: Бесплатное преобразование MOBI в XLAM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLAM, БЕСПЛАТНЫЙ конвертер MOBI в XLAM или Net SDKdescription: Бесплатное преобразование MOBI в XLAM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

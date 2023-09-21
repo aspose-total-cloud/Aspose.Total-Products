@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MD,PPTM в MD Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия MD в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MD,PPTM в MD Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия MD в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

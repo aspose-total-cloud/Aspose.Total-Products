@@ -1,1 +1,1 @@
----title: Конвертировать Word в PDF, БЕСПЛАТНЫЙ конвертер MHTML в PDF или Ruby SDKdescription: Бесплатное преобразование MHTML в PDF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PDF, БЕСПЛАТНЫЙ конвертер MHTML в PDF или Ruby SDKdescription: Бесплатное преобразование MHTML в PDF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

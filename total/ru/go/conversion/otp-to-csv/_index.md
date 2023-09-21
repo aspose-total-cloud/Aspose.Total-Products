@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CSV,OTP в CSV Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия CSV в OTP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CSV,OTP в CSV Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия CSV в OTP с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

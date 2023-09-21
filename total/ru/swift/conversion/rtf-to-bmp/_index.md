@@ -1,1 +1,1 @@
----title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер RTF в BMP или Swift SDKdescription: Бесплатное преобразование RTF в BMP с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер RTF в BMP или Swift SDKdescription: Бесплатное преобразование RTF в BMP с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSM,PPSM в XLSM Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLSM в PPSM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSM,PPSM в XLSM Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XLSM в PPSM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

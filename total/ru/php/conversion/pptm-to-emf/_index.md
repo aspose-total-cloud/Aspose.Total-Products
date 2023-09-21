@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EMF,PPTM в EMF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия EMF в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EMF,PPTM в EMF Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия EMF в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

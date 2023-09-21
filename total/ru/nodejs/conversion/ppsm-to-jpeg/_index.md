@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JPEG,PPSM в JPEG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия JPEG в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JPEG,PPSM в JPEG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия JPEG в PPSM с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

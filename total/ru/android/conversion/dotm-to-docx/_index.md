@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер DOTM в DOCX или Android SDKdescription: Бесплатное преобразование DOTM в DOCX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер DOTM в DOCX или Android SDKdescription: Бесплатное преобразование DOTM в DOCX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPS,POTX в PPS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PPS в POTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPS,POTX в PPS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия PPS в POTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

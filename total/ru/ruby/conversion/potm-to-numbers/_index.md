@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в NUMBERS,POTM в NUMBERS Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия NUMBERS в POTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в NUMBERS,POTM в NUMBERS Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия NUMBERS в POTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPT,POTX в PPT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPT в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPT,POTX в PPT Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPT в POTX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер DOCM в POTM или Net SDKdescription: Бесплатное преобразование DOCM в POTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер DOCM в POTM или Net SDKdescription: Бесплатное преобразование DOCM в POTM с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTT,POT в OTT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия OTT в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTT,POT в OTT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия OTT в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

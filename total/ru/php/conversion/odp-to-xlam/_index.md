@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLAM,ODP в XLAM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLAM в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLAM,ODP в XLAM Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия XLAM в ODP с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер HTML в XLSX или Android SDKdescription: Бесплатное преобразование HTML в XLSX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSX, БЕСПЛАТНЫЙ конвертер HTML в XLSX или Android SDKdescription: Бесплатное преобразование HTML в XLSX с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

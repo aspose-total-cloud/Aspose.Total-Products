@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSM,PPT в XLSM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия XLSM в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSM,PPT в XLSM Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия XLSM в PPT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

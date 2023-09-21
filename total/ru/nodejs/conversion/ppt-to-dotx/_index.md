@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,PPT в DOTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOTX в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,PPT в DOTX Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия DOTX в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

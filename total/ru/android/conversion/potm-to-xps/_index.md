@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XPS,POTM в XPS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XPS в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XPS,POTM в XPS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XPS в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

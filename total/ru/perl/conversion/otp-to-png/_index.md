@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PNG,OTP в PNG Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия PNG в OTP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PNG,OTP в PNG Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия PNG в OTP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

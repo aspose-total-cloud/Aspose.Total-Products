@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JPEG,PPT в JPEG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия JPEG в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JPEG,PPT в JPEG Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия JPEG в PPT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

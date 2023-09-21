@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EPUB,PPSX в EPUB Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия EPUB в PPSX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EPUB,PPSX в EPUB Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия EPUB в PPSX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

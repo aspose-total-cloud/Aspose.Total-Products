@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер ODT в XLSM или GO SDKdescription: Бесплатное преобразование ODT в XLSM с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер ODT в XLSM или GO SDKdescription: Бесплатное преобразование ODT в XLSM с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

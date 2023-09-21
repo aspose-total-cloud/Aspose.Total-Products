@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MD,POTM в MD Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия MD в POTM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MD,POTM в MD Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия MD в POTM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

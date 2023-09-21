@@ -1,1 +1,1 @@
----title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер DOTX в EPUB или Ruby SDKdescription: Бесплатное преобразование DOTX в EPUB с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EPUB, БЕСПЛАТНЫЙ конвертер DOTX в EPUB или Ruby SDKdescription: Бесплатное преобразование DOTX в EPUB с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

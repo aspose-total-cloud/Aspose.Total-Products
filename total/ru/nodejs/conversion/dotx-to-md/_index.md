@@ -1,1 +1,1 @@
----title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер DOTX в MD или Nodejs SDKdescription: Бесплатное преобразование DOTX в MD с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в MD, БЕСПЛАТНЫЙ конвертер DOTX в MD или Nodejs SDKdescription: Бесплатное преобразование DOTX в MD с помощью облачных API и SDK Nodejs. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

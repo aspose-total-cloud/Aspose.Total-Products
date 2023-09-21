@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOT,PPSX в DOT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DOT в PPSX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOT,PPSX в DOT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия DOT в PPSX с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

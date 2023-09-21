@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPTM,PPS в PPTM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPTM в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPTM,PPS в PPTM Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия PPTM в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

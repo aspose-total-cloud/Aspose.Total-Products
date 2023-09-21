@@ -1,1 +1,1 @@
----title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер OTT в CHM или CPP SDKdescription: Бесплатное преобразование OTT в CHM с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в CHM, БЕСПЛАТНЫЙ конвертер OTT в CHM или C++ SDKdescription: Бесплатное преобразование OTT в CHM с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

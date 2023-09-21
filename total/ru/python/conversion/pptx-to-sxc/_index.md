@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SXC,PPTX в SXC Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SXC в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SXC,PPTX в SXC Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия SXC в PPTX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

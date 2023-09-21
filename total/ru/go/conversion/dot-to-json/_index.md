@@ -1,1 +1,1 @@
----title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер DOT в JSON или GO SDKdescription: Бесплатное преобразование DOT в JSON с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в JSON, БЕСПЛАТНЫЙ конвертер DOT в JSON или GO SDKdescription: Бесплатное преобразование DOT в JSON с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

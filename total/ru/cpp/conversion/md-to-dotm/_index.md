@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер MD в DOTM или CPP SDKdescription: Бесплатное преобразование MD в DOTM с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер MD в DOTM или C++ SDKdescription: Бесплатное преобразование MD в DOTM с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

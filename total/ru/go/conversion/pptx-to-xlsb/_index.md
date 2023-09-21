@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSB,PPTX в XLSB Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLSB в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSB,PPTX в XLSB Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLSB в PPTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

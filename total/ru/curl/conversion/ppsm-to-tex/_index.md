@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,PPSM в TEX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия TEX в PPSM с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

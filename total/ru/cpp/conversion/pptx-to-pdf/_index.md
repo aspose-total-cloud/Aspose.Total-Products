@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PDF,PPTX в PDF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PDF в PPTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PDF,PPTX в PDF Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PDF в PPTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

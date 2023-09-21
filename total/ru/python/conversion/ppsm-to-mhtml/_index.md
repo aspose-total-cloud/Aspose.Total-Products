@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MHTML,PPSM в MHTML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MHTML в PPSM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MHTML,PPSM в MHTML Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия MHTML в PPSM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

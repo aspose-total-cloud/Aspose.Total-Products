@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOTX,PPTX в DOTX Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия DOTX в PPTX с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOTX,PPTX в DOTX Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия DOTX в PPTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

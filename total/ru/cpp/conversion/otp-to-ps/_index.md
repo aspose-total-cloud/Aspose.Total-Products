@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PS,OTP в PS Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия PS в OTP с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PS,OTP в PS Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия PS в OTP с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

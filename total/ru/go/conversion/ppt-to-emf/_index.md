@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в EMF,PPT в EMF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия EMF в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в EMF,PPT в EMF Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия EMF в PPT с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

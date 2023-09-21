@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в GIF,PPSM в GIF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия GIF в PPSM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в GIF,PPSM в GIF Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия GIF в PPSM с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

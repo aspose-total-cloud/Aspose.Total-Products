@@ -1,1 +1,1 @@
----title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер HTML в XLSM или Ruby SDKdescription: Бесплатное преобразование HTML в XLSM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в XLSM, БЕСПЛАТНЫЙ конвертер HTML в XLSM или Ruby SDKdescription: Бесплатное преобразование HTML в XLSM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

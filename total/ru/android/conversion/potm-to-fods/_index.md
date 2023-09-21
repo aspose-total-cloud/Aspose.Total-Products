@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в FODS,POTM в FODS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия FODS в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в FODS,POTM в FODS Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия FODS в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

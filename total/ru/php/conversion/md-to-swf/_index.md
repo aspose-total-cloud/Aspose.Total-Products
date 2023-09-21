@@ -1,1 +1,1 @@
----title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер MD в SWF или PHP SDKdescription: Бесплатное преобразование MD в SWF с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SWF, БЕСПЛАТНЫЙ конвертер MD в SWF или PHP SDKdescription: Бесплатное преобразование MD в SWF с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

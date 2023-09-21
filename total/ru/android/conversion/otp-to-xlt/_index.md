@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,OTP в XLT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLT в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,OTP в XLT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLT в OTP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

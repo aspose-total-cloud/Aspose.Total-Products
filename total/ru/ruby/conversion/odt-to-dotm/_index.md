@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер ODT в DOTM или Ruby SDKdescription: Бесплатное преобразование ODT в DOTM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOTM, БЕСПЛАТНЫЙ конвертер ODT в DOTM или Ruby SDKdescription: Бесплатное преобразование ODT в DOTM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

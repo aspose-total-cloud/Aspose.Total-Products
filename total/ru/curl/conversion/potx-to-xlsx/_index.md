@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSX,POTX в XLSX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSX в POTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSX,POTX в XLSX Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия XLSX в POTX с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

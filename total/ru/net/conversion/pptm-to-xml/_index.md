@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XML,PPTM в XML Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XML в PPTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XML,PPTM в XML Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия XML в PPTM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

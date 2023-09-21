@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,POTX в XLT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLT в POTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,POTX в XLT Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия XLT в POTX с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

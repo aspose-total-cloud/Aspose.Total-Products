@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в RTF,POTM в RTF Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия RTF в POTM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в RTF,POTM в RTF Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия RTF в POTM с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

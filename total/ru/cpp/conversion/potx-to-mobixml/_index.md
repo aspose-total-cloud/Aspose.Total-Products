@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBIXML,POTX в MOBIXML Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия MOBIXML в POTX с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDFA,PPSM в PDFA Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия PDFA в PPSM с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

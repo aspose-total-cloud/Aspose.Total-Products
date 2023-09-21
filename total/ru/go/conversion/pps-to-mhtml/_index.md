@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в MHTML,PPS в MHTML Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия MHTML в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в MHTML,PPS в MHTML Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия MHTML в PPS с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

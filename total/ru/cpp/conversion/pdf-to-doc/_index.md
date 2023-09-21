@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер PDF в DOC или CPP SDKdescription: Бесплатное преобразование PDF в DOC с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOC, БЕСПЛАТНЫЙ конвертер PDF в DOC или C++ SDKdescription: Бесплатное преобразование PDF в DOC с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

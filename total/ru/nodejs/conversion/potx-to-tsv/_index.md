@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TSV,POTX в TSV Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TSV в POTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TSV,POTX в TSV Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия TSV в POTX с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

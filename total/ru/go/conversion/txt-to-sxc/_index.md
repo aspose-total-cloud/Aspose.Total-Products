@@ -1,1 +1,1 @@
----title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер TXT в SXC или GO SDKdescription: Бесплатное преобразование TXT в SXC с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в SXC, БЕСПЛАТНЫЙ конвертер TXT в SXC или GO SDKdescription: Бесплатное преобразование TXT в SXC с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Excel в TEX,XLSX в TEX без конвертера или Perl sdkdescription: Бесплатная конверсия TEX в XLSX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте рабочие листы Microsoft Excel, CSV и SpreadsheetML или электронную таблицу в облаке.---

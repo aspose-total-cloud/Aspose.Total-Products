@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOC,OTP в DOC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOC в OTP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOC,OTP в DOC Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия DOC в OTP с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

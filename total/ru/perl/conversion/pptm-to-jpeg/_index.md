@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в JPEG,PPTM в JPEG Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия JPEG в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в JPEG,PPTM в JPEG Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия JPEG в PPTM с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в TSV,ODP в TSV Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TSV в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в TSV,ODP в TSV Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия TSV в ODP с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

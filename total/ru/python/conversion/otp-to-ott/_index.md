@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в OTT,OTP в OTT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия OTT в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в OTT,OTP в OTT Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия OTT в OTP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер DOC в BMP или PHP SDKdescription: Бесплатное преобразование DOC в BMP с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в BMP, БЕСПЛАТНЫЙ конвертер DOC в BMP или PHP SDKdescription: Бесплатное преобразование DOC в BMP с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

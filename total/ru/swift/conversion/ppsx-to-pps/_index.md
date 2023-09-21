@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PPS,PPSX в PPS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPS в PPSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PPS,PPSX в PPS Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия PPS в PPSX с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

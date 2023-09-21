@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MOBIXML,PPTM в MOBIXML Бесплатный преобразователь или PHP sdkdescription: Бесплатная конверсия MOBIXML в PPTM с использованием PHP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

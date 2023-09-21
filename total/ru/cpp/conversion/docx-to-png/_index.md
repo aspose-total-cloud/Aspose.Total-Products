@@ -1,1 +1,1 @@
----title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер DOCX в PNG или CPP SDKdescription: Бесплатное преобразование DOCX в PNG с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер DOCX в PNG или C++ SDKdescription: Бесплатное преобразование DOCX в PNG с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XPS,POTX в XPS Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XPS в POTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XPS,POTX в XPS Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия XPS в POTX с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

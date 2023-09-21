@@ -1,1 +1,1 @@
----title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер MD в TSV или Swift SDKdescription: Бесплатное преобразование MD в TSV с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер MD в TSV или Swift SDKdescription: Бесплатное преобразование MD в TSV с помощью облачных API и SDK Swift. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в PDF, БЕСПЛАТНЫЙ конвертер DOTM в PDF или Ruby SDKdescription: Бесплатное преобразование DOTM в PDF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PDF, БЕСПЛАТНЫЙ конвертер DOTM в PDF или Ruby SDKdescription: Бесплатное преобразование DOTM в PDF с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

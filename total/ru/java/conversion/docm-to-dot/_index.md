@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер DOCM в DOT или Java SDKdescription: Бесплатное преобразование DOCM в DOT с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOT, БЕСПЛАТНЫЙ конвертер DOCM в DOT или Java SDKdescription: Бесплатное преобразование DOCM в DOT с помощью облачных API и SDK Java. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,0 +1,1 @@
+---title: Конвертировать Word в TEX, БЕСПЛАТНЫЙ конвертер DOTM в TEX или PHP SDKdescription: Бесплатное преобразование DOTM в TEX с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер MHTML в PNG или PHP SDKdescription: Бесплатное преобразование MHTML в PNG с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PNG, БЕСПЛАТНЫЙ конвертер MHTML в PNG или PHP SDKdescription: Бесплатное преобразование MHTML в PNG с помощью облачных API и SDK PHP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

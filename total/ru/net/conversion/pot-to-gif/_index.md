@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в GIF,POT в GIF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия GIF в POT с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в GIF,POT в GIF Бесплатный преобразователь или Net sdkdescription: Бесплатная конверсия GIF в POT с использованием Net Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

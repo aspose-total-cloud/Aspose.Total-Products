@@ -1,1 +1,1 @@
----title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер DOC в EMF или Perl SDKdescription: Бесплатное преобразование DOC в EMF с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в EMF, БЕСПЛАТНЫЙ конвертер DOC в EMF или Perl SDKdescription: Бесплатное преобразование DOC в EMF с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

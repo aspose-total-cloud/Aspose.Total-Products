@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSX,POTX в XLSX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSX в POTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSX,POTX в XLSX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия XLSX в POTX с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

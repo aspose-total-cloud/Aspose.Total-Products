@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в WEB,PPSM в WEB Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия WEB в PPSM с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

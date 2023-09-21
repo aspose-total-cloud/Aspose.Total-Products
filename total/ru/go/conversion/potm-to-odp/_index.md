@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в ODP,POTM в ODP Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия ODP в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в ODP,POTM в ODP Бесплатный преобразователь или GO sdkdescription: Бесплатная конверсия ODP в POTM с использованием GO Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

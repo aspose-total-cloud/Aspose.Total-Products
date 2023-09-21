@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCM,OTP в DOCM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOCM в OTP с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCM,OTP в DOCM Бесплатный преобразователь или Curl sdkdescription: Бесплатная конверсия DOCM в OTP с использованием Curl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

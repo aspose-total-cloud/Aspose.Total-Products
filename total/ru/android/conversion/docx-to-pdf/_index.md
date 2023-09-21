@@ -1,1 +1,1 @@
----title: Конвертировать Word в PDF, БЕСПЛАТНЫЙ конвертер DOCX в PDF или Android SDKdescription: Бесплатное преобразование DOCX в PDF с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PDF, БЕСПЛАТНЫЙ конвертер DOCX в PDF или Android SDKdescription: Бесплатное преобразование DOCX в PDF с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

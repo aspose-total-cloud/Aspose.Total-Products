@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SWF,POT в SWF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SWF в POT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SWF,POT в SWF Бесплатный преобразователь или Nodejs sdkdescription: Бесплатная конверсия SWF в POT с использованием Nodejs Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

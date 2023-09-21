@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в SVG,POT в SVG Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия SVG в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в SVG,POT в SVG Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия SVG в POT с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

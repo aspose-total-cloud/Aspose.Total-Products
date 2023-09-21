@@ -1,1 +1,1 @@
----title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер HTML в DOCX или Perl SDKdescription: Бесплатное преобразование HTML в DOCX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в DOCX, БЕСПЛАТНЫЙ конвертер HTML в DOCX или Perl SDKdescription: Бесплатное преобразование HTML в DOCX с помощью облачных API и SDK Perl. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

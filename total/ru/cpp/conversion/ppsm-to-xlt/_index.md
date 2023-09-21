@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLT,PPSM в XLT Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия XLT в PPSM с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLT,PPSM в XLT Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия XLT в PPSM с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

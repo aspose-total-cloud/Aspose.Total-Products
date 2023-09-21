@@ -1,1 +1,1 @@
----title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер DOCM в TSV или CPP SDKdescription: Бесплатное преобразование DOCM в TSV с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в TSV, БЕСПЛАТНЫЙ конвертер DOCM в TSV или C++ SDKdescription: Бесплатное преобразование DOCM в TSV с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

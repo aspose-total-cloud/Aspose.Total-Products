@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в MHT,PPS в MHT Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия MHT в PPS с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

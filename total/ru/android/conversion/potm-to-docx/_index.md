@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOCX,POTM в DOCX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOCX в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOCX,POTM в DOCX Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOCX в POTM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

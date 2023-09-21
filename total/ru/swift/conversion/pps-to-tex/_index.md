@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в TEX,PPS в TEX Бесплатный преобразователь или Swift sdkdescription: Бесплатная конверсия TEX в PPS с использованием Swift Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

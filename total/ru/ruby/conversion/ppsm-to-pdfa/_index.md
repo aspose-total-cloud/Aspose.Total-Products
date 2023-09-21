@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в PDFA,PPSM в PDFA Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PDFA в PPSM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

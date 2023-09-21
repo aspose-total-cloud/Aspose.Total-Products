@@ -1,1 +1,1 @@
----title: Конвертировать Word в ODP, БЕСПЛАТНЫЙ конвертер DOT в ODP или Net SDKdescription: Бесплатное преобразование DOT в ODP с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в ODP, БЕСПЛАТНЫЙ конвертер DOT в ODP или Net SDKdescription: Бесплатное преобразование DOT в ODP с помощью облачных API и SDK Net. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

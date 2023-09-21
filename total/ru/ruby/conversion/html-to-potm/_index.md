@@ -1,1 +1,1 @@
----title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер HTML в POTM или Ruby SDKdescription: Бесплатное преобразование HTML в POTM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POTM, БЕСПЛАТНЫЙ конвертер HTML в POTM или Ruby SDKdescription: Бесплатное преобразование HTML в POTM с помощью облачных API и SDK Ruby. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

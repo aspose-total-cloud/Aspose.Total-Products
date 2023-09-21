@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в DOT,PPSM в DOT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOT в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в DOT,PPSM в DOT Бесплатный преобразователь или Android sdkdescription: Бесплатная конверсия DOT в PPSM с использованием Android Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

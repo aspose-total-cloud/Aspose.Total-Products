@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в CSV,ODP в CSV Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия CSV в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в CSV,ODP в CSV Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия CSV в ODP с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,1 +1,1 @@
----title: Конвертировать Word в POTX, БЕСПЛАТНЫЙ конвертер ODT в POTX или GO SDKdescription: Бесплатное преобразование ODT в POTX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в POTX, БЕСПЛАТНЫЙ конвертер ODT в POTX или GO SDKdescription: Бесплатное преобразование ODT в POTX с помощью облачных API и SDK GO. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

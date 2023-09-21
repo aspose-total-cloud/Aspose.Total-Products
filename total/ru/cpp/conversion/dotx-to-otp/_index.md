@@ -1,1 +1,1 @@
----title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер DOTX в OTP или CPP SDKdescription: Бесплатное преобразование DOTX в OTP с помощью облачных API и SDK CPP. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в OTP, БЕСПЛАТНЫЙ конвертер DOTX в OTP или C++ SDKdescription: Бесплатное преобразование DOTX в OTP с помощью облачных API и SDK C++. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---

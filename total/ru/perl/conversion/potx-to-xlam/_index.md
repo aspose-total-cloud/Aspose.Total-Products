@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLAM,POTX в XLAM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLAM в POTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLAM,POTX в XLAM Бесплатный преобразователь или Perl sdkdescription: Бесплатная конверсия XLAM в POTX с использованием Perl Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

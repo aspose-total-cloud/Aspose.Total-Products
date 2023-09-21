@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в PDF,PPTM в PDF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PDF в PPTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в PDF,PPTM в PDF Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия PDF в PPTM с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

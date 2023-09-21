@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в XLSX,PPSX в XLSX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLSX в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в XLSX,PPSX в XLSX Бесплатный преобразователь или Python sdkdescription: Бесплатная конверсия XLSX в PPSX с использованием Python Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

@@ -1,0 +1,1 @@
+---title: Преобразование PowerPoint в WEB,POT в WEB Бесплатный преобразователь или Ruby sdkdescription: Бесплатная конверсия WEB в POT с использованием Ruby Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

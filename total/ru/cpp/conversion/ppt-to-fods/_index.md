@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в FODS,PPT в FODS Бесплатный преобразователь или CPP sdkdescription: Бесплатная конверсия FODS в PPT с использованием CPP Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в FODS,PPT в FODS Бесплатный преобразователь или C++ sdkdescription: Бесплатная конверсия FODS в PPT с использованием C++ Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

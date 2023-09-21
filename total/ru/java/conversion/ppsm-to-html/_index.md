@@ -1,1 +1,1 @@
----title: Преобразование PowerPoint в HTML,PPSM в HTML Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия HTML в PPSM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---
+---title: Преобразование PowerPoint в HTML,PPSM в HTML Бесплатный преобразователь или Java sdkdescription: Бесплатная конверсия HTML в PPSM с использованием Java Cloud API & SDK. Также создавайте, редактируйте и рендерируйте документы Microsoft PowerPoint в облаке.---

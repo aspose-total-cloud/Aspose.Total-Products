@@ -1,1 +1,1 @@
----title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер RTF в PPT или Android SDKdescription: Бесплатное преобразование RTF в PPT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
+---title: Конвертировать Word в PPT, БЕСПЛАТНЫЙ конвертер RTF в PPT или Android SDKdescription: Бесплатное преобразование RTF в PPT с помощью облачных API и SDK Android. Также создавайте, редактируйте и визуализируйте документы Microsoft Word и OpenOffice в облаке.---
