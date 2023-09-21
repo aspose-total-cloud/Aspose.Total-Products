@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นGIF,ODP ถึง GIF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง GIF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นGIF,ODP ถึง GIF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง GIF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

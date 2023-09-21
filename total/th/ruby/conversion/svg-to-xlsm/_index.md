@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSM,SVG ถึง XLSM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของSVG ถึง XLSM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

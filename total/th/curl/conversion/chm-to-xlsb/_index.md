@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSB,CHM ถึง XLSB ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของCHM ถึง XLSB โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSB,CHM ถึง XLSB ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของCHM ถึง XLSB โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

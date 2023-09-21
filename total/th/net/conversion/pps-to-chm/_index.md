@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCHM,PPS ถึง CHM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPS ถึง CHM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCHM,PPS ถึง CHM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPS ถึง CHM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

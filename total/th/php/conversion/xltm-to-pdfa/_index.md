@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDFA,XLTM ถึง PDFA ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLTM ถึง PDFA โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

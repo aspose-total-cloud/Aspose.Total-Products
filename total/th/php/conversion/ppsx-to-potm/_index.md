@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPOTM,PPSX ถึง POTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSX ถึง POTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPOTM,PPSX ถึง POTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSX ถึง POTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

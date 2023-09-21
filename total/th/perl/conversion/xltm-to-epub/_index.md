@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นEPUB,XLTM ถึง EPUB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLTM ถึง EPUB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นEPUB,XLTM ถึง EPUB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLTM ถึง EPUB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

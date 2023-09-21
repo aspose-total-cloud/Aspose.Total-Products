@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMHT,XLTM ถึง MHT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLTM ถึง MHT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

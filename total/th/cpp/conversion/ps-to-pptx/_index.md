@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTX,PS ถึง PPTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPS ถึง PPTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

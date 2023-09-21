@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTEX,XLSB ถึง TEX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLSB ถึง TEX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

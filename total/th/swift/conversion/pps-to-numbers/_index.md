@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นNUMBERS,PPS ถึง NUMBERS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPS ถึง NUMBERS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นNUMBERS,PPS ถึง NUMBERS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPS ถึง NUMBERS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

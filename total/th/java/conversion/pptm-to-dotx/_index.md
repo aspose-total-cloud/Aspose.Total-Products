@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOTX,PPTM ถึง DOTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTM ถึง DOTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOTX,PPTM ถึง DOTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTM ถึง DOTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

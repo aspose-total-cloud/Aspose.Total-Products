@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPOT,PDF ถึง POT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPDF ถึง POT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPOT,PDF ถึง POT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPDF ถึง POT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

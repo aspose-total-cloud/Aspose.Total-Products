@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXML,XLT ถึง XML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLT ถึง XML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXML,XLT ถึง XML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLT ถึง XML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

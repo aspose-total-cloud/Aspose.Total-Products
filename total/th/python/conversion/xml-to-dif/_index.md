@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นDIF,XML ถึง DIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXML ถึง DIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นDIF,XML ถึง DIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXML ถึง DIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

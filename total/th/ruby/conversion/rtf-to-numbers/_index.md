@@ -1,1 +1,1 @@
----title: แปลง Word เป็นNUMBERS,RTF ถึง NUMBERS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของRTF ถึง NUMBERS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นNUMBERS,RTF ถึง NUMBERS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของRTF ถึง NUMBERS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

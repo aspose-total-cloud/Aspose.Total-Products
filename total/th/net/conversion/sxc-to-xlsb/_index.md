@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXLSB,SXC ถึง XLSB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของSXC ถึง XLSB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXLSB,SXC ถึง XLSB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของSXC ถึง XLSB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

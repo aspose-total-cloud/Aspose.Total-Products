@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSX,OTT ถึง XLSX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของOTT ถึง XLSX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSX,OTT ถึง XLSX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของOTT ถึง XLSX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

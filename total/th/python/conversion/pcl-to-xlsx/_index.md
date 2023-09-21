@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,PCL ถึง XLSX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPCL ถึง XLSX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

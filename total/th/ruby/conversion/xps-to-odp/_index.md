@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นODP,XPS ถึง ODP ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXPS ถึง ODP โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

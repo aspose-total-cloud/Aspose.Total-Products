@@ -1,1 +1,1 @@
----title: แปลง Word เป็นNUMBERS,DOT ถึง NUMBERS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง NUMBERS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นNUMBERS,DOT ถึง NUMBERS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง NUMBERS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

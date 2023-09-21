@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นGIF,POT ถึง GIF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOT ถึง GIF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นGIF,POT ถึง GIF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOT ถึง GIF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นTXT,POTX ถึง TXT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTX ถึง TXT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นTXT,POTX ถึง TXT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTX ถึง TXT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

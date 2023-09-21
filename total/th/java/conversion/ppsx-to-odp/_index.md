@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นODP,PPSX ถึง ODP ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง ODP โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นODP,PPSX ถึง ODP ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง ODP โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

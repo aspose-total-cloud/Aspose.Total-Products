@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLAM,TEX ถึง XLAM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTEX ถึง XLAM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

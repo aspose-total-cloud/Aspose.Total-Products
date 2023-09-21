@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นTSV,XLTX ถึง TSV ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLTX ถึง TSV โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นTSV,XLTX ถึง TSV ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLTX ถึง TSV โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

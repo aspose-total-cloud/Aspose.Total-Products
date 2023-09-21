@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDFA,XLS ถึง PDFA ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLS ถึง PDFA โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

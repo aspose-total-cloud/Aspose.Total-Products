@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นTXT,TSV ถึง TXT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTSV ถึง TXT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นTXT,TSV ถึง TXT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTSV ถึง TXT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

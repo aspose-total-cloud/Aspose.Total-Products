@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTM,XPS ถึง XLTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXPS ถึง XLTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

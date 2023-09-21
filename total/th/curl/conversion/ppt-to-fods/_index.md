@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นFODS,PPT ถึง FODS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง FODS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นFODS,PPT ถึง FODS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง FODS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

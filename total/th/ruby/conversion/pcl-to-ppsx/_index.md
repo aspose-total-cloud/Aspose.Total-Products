@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPSX,PCL ถึง PPSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPCL ถึง PPSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

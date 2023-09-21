@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPNG,ODP ถึง PNG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง PNG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPNG,ODP ถึง PNG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง PNG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

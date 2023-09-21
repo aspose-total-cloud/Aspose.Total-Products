@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLTM,PPSM ถึง XLTM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง XLTM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLTM,PPSM ถึง XLTM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง XLTM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

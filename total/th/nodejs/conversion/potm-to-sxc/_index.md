@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSXC,POTM ถึง SXC ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOTM ถึง SXC โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSXC,POTM ถึง SXC ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOTM ถึง SXC โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

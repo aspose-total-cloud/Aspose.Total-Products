@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นXLS,WEB ถึง XLS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง XLS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

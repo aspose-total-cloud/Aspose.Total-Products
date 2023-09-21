@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPSX,DOCX ถึง PPSX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOCX ถึง PPSX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPSX,DOCX ถึง PPSX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOCX ถึง PPSX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

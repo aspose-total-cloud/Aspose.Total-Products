@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,ODP ถึง TEX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของODP ถึง TEX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

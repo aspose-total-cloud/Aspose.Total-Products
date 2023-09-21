@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTEX,FODS ถึง TEX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของFODS ถึง TEX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

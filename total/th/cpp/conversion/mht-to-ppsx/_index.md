@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPSX,MHT ถึง PPSX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMHT ถึง PPSX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

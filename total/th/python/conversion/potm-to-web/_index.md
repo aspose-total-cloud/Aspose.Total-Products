@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นWEB,POTM ถึง WEB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTM ถึง WEB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

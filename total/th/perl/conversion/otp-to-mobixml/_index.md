@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,OTP ถึง MOBIXML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของOTP ถึง MOBIXML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

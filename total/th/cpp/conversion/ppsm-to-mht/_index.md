@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,PPSM ถึง MHT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง MHT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นDOTM,XLS ถึง DOTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLS ถึง DOTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นDOTM,XLS ถึง DOTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLS ถึง DOTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

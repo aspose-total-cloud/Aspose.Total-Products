@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXSLFO,XLSB ถึง XSLFO ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLSB ถึง XSLFO โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

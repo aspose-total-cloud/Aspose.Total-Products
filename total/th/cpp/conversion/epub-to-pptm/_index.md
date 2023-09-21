@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTM,EPUB ถึง PPTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของEPUB ถึง PPTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

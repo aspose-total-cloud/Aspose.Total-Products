@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นNUMBERS,PDFA ถึง NUMBERS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDFA ถึง NUMBERS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

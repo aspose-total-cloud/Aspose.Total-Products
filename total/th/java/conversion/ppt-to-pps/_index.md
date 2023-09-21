@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPS,PPT ถึง PPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPT ถึง PPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPS,PPT ถึง PPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPT ถึง PPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

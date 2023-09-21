@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTSV,CHM ถึง TSV ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของCHM ถึง TSV โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTSV,CHM ถึง TSV ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของCHM ถึง TSV โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

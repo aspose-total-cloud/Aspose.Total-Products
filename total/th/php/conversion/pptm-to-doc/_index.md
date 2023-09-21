@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOC,PPTM ถึง DOC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTM ถึง DOC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOC,PPTM ถึง DOC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTM ถึง DOC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXLAM,XML ถึง XLAM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXML ถึง XLAM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXLAM,XML ถึง XLAM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXML ถึง XLAM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPOTX,PCL ถึง POTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPCL ถึง POTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

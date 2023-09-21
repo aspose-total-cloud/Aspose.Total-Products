@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLTM,POTX ถึง XLTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง XLTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLTM,POTX ถึง XLTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง XLTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

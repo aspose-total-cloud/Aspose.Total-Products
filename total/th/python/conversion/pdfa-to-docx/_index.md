@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOCX,PDFA ถึง DOCX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDFA ถึง DOCX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

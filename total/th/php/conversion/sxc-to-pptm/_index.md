@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPTM,SXC ถึง PPTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของSXC ถึง PPTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPTM,SXC ถึง PPTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของSXC ถึง PPTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

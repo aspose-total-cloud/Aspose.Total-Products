@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นODT,POTM ถึง ODT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTM ถึง ODT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นODT,POTM ถึง ODT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTM ถึง ODT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นMHTML,MD ถึง MHTML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMD ถึง MHTML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นMHTML,MD ถึง MHTML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMD ถึง MHTML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

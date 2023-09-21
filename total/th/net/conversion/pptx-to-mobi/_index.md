@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMOBI,PPTX ถึง MOBI ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTX ถึง MOBI โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMOBI,PPTX ถึง MOBI ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTX ถึง MOBI โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

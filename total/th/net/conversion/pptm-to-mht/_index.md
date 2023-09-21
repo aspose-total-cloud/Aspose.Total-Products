@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,PPTM ถึง MHT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPTM ถึง MHT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

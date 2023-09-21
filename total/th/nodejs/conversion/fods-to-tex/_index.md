@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTEX,FODS ถึง TEX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของFODS ถึง TEX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

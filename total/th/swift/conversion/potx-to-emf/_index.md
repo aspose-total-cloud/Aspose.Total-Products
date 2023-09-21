@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นEMF,POTX ถึง EMF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง EMF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นEMF,POTX ถึง EMF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง EMF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

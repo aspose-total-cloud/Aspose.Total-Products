@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นDIF,XLSB ถึง DIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSB ถึง DIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นDIF,XLSB ถึง DIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLSB ถึง DIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

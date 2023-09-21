@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTX,TEX ถึง XLTX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTEX ถึง XLTX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

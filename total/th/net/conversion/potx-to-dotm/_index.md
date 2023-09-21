@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOTM,POTX ถึง DOTM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง DOTM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOTM,POTX ถึง DOTM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง DOTM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

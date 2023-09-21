@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCHM,POTM ถึง CHM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTM ถึง CHM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCHM,POTM ถึง CHM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTM ถึง CHM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

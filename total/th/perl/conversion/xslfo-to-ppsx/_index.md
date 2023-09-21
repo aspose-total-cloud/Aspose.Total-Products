@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPSX,XSLFO ถึง PPSX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXSLFO ถึง PPSX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTX,SVG ถึง PPTX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของSVG ถึง PPTX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นOTP,ODP ถึง OTP ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง OTP โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นOTP,ODP ถึง OTP ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง OTP โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

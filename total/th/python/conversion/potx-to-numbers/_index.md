@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นNUMBERS,POTX ถึง NUMBERS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง NUMBERS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นNUMBERS,POTX ถึง NUMBERS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง NUMBERS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

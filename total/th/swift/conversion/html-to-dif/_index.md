@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDIF,HTML ถึง DIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของHTML ถึง DIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDIF,HTML ถึง DIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของHTML ถึง DIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

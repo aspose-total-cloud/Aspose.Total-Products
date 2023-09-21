@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นOTP,PPTM ถึง OTP ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTM ถึง OTP โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นOTP,PPTM ถึง OTP ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTM ถึง OTP โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

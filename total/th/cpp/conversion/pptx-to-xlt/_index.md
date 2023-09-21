@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLT,PPTX ถึง XLT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPTX ถึง XLT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLT,PPTX ถึง XLT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPTX ถึง XLT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

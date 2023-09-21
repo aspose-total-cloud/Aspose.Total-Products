@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นFODS,PPTM ถึง FODS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTM ถึง FODS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นFODS,PPTM ถึง FODS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTM ถึง FODS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,PPSM ถึง MOBIXML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSM ถึง MOBIXML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

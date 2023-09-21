@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTIFF,ODT ถึง TIFF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง TIFF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTIFF,ODT ถึง TIFF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง TIFF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

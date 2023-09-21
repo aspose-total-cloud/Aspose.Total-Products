@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPPT,WEB ถึง PPT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของWEB ถึง PPT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

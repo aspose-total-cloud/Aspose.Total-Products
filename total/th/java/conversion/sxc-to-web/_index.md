@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นWEB,SXC ถึง WEB ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของSXC ถึง WEB โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPS,POTM ถึง PS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTM ถึง PS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPS,POTM ถึง PS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTM ถึง PS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

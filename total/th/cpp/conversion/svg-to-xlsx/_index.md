@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,SVG ถึง XLSX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของSVG ถึง XLSX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

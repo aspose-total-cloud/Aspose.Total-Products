@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXPS,PDFA ถึง XPS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง XPS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

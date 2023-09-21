@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPT,PS ถึง PPT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPS ถึง PPT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

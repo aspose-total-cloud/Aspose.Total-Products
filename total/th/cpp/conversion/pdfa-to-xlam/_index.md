@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLAM,PDFA ถึง XLAM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDFA ถึง XLAM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

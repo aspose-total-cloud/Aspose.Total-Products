@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSB,CHM ถึง XLSB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง XLSB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSB,CHM ถึง XLSB ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง XLSB โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

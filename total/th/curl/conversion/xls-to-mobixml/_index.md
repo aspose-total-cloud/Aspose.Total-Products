@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMOBIXML,XLS ถึง MOBIXML ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLS ถึง MOBIXML โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

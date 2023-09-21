@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นGIF,XPS ถึง GIF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXPS ถึง GIF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

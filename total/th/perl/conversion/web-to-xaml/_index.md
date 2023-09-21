@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นXAML,WEB ถึง XAML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง XAML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นEMF,DOTM ถึง EMF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTM ถึง EMF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นEMF,DOTM ถึง EMF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTM ถึง EMF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPNG,WEB ถึง PNG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง PNG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

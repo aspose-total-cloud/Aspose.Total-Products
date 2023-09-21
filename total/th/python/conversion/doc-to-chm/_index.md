@@ -1,1 +1,1 @@
----title: แปลง Word เป็นCHM,DOC ถึง CHM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOC ถึง CHM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นCHM,DOC ถึง CHM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOC ถึง CHM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

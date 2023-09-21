@@ -1,6 +1,6 @@
 ﻿---
-title: Cloud based Document manipulation SDKs with JSON response 
-description: Platform independent Cloud SDKs offering File Format manipulation capabilities for Word Excel PDF PowerPoint Barcode MS-Project Email Image HTML Video files.
+title: MS Office, Word, Excel, PowerPoint, SDK การจัดการ PDF บนระบบคลาวด์พร้อมการตอบสนอง JSON
+description: Cloud SDK อิสระบนแพลตฟอร์มที่นำเสนอความสามารถในการจัดการรูปแบบไฟล์สำหรับ Microsoft Word Excel PDF PowerPoint บาร์โค้ด MS-Project ไฟล์อีเมล รูปภาพ HTML วิดีโอ
 weight: 10
 url: /
 ---

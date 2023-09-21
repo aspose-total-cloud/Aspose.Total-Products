@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นWEB,XLSM ถึง WEB ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLSM ถึง WEB โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

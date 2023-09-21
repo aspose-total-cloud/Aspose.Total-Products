@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นRTF,POT ถึง RTF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง RTF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นRTF,POT ถึง RTF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง RTF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTEX,PCL ถึง TEX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPCL ถึง TEX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

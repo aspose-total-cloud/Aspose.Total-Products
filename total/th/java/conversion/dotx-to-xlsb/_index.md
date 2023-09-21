@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSB,DOTX ถึง XLSB ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTX ถึง XLSB โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSB,DOTX ถึง XLSB ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTX ถึง XLSB โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

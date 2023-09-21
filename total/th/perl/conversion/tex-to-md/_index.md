@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นMD,TEX ถึง MD ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTEX ถึง MD โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

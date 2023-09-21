@@ -1,1 +1,1 @@
----title: แปลง Word เป็นEMF,TXT ถึง EMF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTXT ถึง EMF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นEMF,TXT ถึง EMF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTXT ถึง EMF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,PPT ถึง MHT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPT ถึง MHT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

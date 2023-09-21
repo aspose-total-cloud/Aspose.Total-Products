@@ -1,1 +1,1 @@
----title: แปลง Word เป็นJSON,MHTML ถึง JSON ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของMHTML ถึง JSON โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นJSON,MHTML ถึง JSON ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของMHTML ถึง JSON โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

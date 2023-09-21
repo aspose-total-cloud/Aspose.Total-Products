@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMOBIXML,XLS ถึง MOBIXML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLS ถึง MOBIXML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

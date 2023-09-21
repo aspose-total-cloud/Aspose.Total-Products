@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นODS,TEX ถึง ODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTEX ถึง ODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

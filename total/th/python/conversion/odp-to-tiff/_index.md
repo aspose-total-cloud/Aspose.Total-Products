@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นTIFF,ODP ถึง TIFF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODP ถึง TIFF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นTIFF,ODP ถึง TIFF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODP ถึง TIFF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPTM,DOTM ถึง PPTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTM ถึง PPTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPTM,DOTM ถึง PPTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTM ถึง PPTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

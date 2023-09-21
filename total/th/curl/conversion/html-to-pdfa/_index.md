@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDFA,HTML ถึง PDFA ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของHTML ถึง PDFA โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

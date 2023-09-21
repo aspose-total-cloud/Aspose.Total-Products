@@ -1,1 +1,1 @@
----title: แปลง Word เป็นEPUB,DOT ถึง EPUB ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOT ถึง EPUB โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นEPUB,DOT ถึง EPUB ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOT ถึง EPUB โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLS,PS ถึง XLS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPS ถึง XLS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,POTX ถึง PDFA ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOTX ถึง PDFA โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

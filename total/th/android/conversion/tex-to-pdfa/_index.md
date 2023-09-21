@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPDFA,TEX ถึง PDFA ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTEX ถึง PDFA โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

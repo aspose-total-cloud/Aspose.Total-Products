@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXML,ODP ถึง XML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง XML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXML,ODP ถึง XML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง XML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSB,TEX ถึง XLSB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของTEX ถึง XLSB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

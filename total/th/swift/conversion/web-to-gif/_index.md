@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นGIF,WEB ถึง GIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของWEB ถึง GIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

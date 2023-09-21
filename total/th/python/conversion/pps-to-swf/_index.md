@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSWF,PPS ถึง SWF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง SWF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSWF,PPS ถึง SWF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง SWF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

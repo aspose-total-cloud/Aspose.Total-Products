@@ -1,1 +1,1 @@
----title: แปลง Word เป็นNUMBERS,MOBI ถึง NUMBERS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMOBI ถึง NUMBERS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นNUMBERS,MOBI ถึง NUMBERS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMOBI ถึง NUMBERS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

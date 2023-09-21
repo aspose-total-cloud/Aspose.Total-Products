@@ -1,1 +1,1 @@
----title: แปลง Word เป็นRTF,PDF ถึง RTF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDF ถึง RTF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นRTF,PDF ถึง RTF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDF ถึง RTF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

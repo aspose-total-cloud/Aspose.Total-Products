@@ -1,1 +1,1 @@
----title: แปลง Word เป็นCSV,CHM ถึง CSV ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของCHM ถึง CSV โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นCSV,CHM ถึง CSV ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของCHM ถึง CSV โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

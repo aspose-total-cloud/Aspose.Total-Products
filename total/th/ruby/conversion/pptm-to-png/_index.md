@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPNG,PPTM ถึง PNG ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTM ถึง PNG โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPNG,PPTM ถึง PNG ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTM ถึง PNG โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCSV,PPSX ถึง CSV ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPSX ถึง CSV โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCSV,PPSX ถึง CSV ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPSX ถึง CSV โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

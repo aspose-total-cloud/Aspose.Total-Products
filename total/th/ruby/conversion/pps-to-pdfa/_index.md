@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,PPS ถึง PDFA ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPS ถึง PDFA โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

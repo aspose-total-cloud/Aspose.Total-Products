@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPT,TEX ถึง PPT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของTEX ถึง PPT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

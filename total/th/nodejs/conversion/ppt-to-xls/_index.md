@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLS,PPT ถึง XLS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPT ถึง XLS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLS,PPT ถึง XLS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPT ถึง XLS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

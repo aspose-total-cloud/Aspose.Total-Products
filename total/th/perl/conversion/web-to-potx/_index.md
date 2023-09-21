@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPOTX,WEB ถึง POTX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง POTX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

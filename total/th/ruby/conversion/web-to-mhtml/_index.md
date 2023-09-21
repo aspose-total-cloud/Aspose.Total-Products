@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นMHTML,WEB ถึง MHTML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของWEB ถึง MHTML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

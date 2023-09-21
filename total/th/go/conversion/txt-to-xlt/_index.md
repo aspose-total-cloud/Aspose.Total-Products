@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLT,TXT ถึง XLT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTXT ถึง XLT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLT,TXT ถึง XLT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTXT ถึง XLT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

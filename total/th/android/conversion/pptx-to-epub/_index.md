@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นEPUB,PPTX ถึง EPUB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTX ถึง EPUB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นEPUB,PPTX ถึง EPUB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTX ถึง EPUB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

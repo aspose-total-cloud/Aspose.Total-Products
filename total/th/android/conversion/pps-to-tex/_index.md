@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,PPS ถึง TEX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPS ถึง TEX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

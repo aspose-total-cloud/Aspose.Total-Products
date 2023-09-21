@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นOTP,XLSB ถึง OTP ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLSB ถึง OTP โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นOTP,XLSB ถึง OTP ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLSB ถึง OTP โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

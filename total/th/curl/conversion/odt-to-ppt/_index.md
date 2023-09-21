@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPT,ODT ถึง PPT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODT ถึง PPT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPT,ODT ถึง PPT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODT ถึง PPT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

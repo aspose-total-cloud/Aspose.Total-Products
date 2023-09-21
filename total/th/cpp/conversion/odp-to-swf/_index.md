@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSWF,ODP ถึง SWF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง SWF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSWF,ODP ถึง SWF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง SWF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

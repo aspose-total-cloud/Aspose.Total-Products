@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPOTX,POT ถึง POTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง POTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPOTX,POT ถึง POTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง POTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

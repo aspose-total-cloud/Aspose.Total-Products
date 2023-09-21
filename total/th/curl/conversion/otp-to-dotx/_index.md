@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOTX,OTP ถึง DOTX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของOTP ถึง DOTX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOTX,OTP ถึง DOTX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของOTP ถึง DOTX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

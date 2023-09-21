@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPOTX,MHTML ถึง POTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของMHTML ถึง POTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPOTX,MHTML ถึง POTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของMHTML ถึง POTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

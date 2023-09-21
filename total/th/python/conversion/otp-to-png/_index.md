@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPNG,OTP ถึง PNG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTP ถึง PNG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPNG,OTP ถึง PNG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTP ถึง PNG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

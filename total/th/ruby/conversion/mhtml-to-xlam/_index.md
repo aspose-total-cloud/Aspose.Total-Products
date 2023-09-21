@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLAM,MHTML ถึง XLAM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMHTML ถึง XLAM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLAM,MHTML ถึง XLAM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMHTML ถึง XLAM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMHTML,PPS ถึง MHTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPS ถึง MHTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMHTML,PPS ถึง MHTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPS ถึง MHTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

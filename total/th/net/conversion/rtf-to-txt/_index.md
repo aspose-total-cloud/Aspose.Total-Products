@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTXT,RTF ถึง TXT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของRTF ถึง TXT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTXT,RTF ถึง TXT ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของRTF ถึง TXT โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

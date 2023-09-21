@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นJSON,POT ถึง JSON ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOT ถึง JSON โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นJSON,POT ถึง JSON ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOT ถึง JSON โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

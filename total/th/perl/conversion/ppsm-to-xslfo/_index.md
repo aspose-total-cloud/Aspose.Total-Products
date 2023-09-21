@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXSLFO,PPSM ถึง XSLFO ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSM ถึง XSLFO โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

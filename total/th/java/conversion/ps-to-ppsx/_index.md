@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPSX,PS ถึง PPSX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPS ถึง PPSX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

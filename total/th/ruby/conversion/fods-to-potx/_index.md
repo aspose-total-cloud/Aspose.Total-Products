@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPOTX,FODS ถึง POTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของFODS ถึง POTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPOTX,FODS ถึง POTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของFODS ถึง POTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

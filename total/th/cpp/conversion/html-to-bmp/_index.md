@@ -1,1 +1,1 @@
----title: แปลง Word เป็นBMP,HTML ถึง BMP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของHTML ถึง BMP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นBMP,HTML ถึง BMP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของHTML ถึง BMP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

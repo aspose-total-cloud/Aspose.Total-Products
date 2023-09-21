@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นFODS,ODP ถึง FODS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง FODS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นFODS,ODP ถึง FODS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง FODS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

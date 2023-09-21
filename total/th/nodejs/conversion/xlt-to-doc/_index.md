@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นDOC,XLT ถึง DOC ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLT ถึง DOC โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นDOC,XLT ถึง DOC ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLT ถึง DOC โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

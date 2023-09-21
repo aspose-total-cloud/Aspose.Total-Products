@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPOT,PPTX ถึง POT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTX ถึง POT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPOT,PPTX ถึง POT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTX ถึง POT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

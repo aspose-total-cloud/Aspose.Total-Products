@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLS,PDFA ถึง XLS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDFA ถึง XLS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

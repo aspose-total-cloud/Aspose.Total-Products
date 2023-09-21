@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPOTM,DOT ถึง POTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง POTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPOTM,DOT ถึง POTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOT ถึง POTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นRTF,MOBI ถึง RTF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMOBI ถึง RTF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นRTF,MOBI ถึง RTF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMOBI ถึง RTF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

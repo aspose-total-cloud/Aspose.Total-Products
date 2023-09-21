@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPT,MHTML ถึง PPT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของMHTML ถึง PPT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPT,MHTML ถึง PPT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของMHTML ถึง PPT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

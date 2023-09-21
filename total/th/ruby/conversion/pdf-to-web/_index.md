@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นWEB,PDF ถึง WEB ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDF ถึง WEB โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

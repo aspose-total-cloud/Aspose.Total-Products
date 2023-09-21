@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTM,XPS ถึง PPTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXPS ถึง PPTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

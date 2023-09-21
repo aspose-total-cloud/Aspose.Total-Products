@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPOT,PPSX ถึง POT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSX ถึง POT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPOT,PPSX ถึง POT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSX ถึง POT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

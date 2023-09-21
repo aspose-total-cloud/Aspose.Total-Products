@@ -1,1 +1,1 @@
----title: แปลง Word เป็นBMP,DOCM ถึง BMP ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOCM ถึง BMP โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นBMP,DOCM ถึง BMP ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOCM ถึง BMP โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

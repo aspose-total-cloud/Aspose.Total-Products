@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นEMF,PPTM ถึง EMF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTM ถึง EMF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นEMF,PPTM ถึง EMF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTM ถึง EMF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

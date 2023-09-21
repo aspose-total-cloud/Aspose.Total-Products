@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,PPSM ถึง MOBIXML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง MOBIXML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

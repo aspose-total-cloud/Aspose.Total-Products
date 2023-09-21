@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDFA,ODT ถึง PDFA ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง PDFA โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

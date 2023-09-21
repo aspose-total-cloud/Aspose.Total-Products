@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นBMP,PPT ถึง BMP ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPT ถึง BMP โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นBMP,PPT ถึง BMP ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPT ถึง BMP โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

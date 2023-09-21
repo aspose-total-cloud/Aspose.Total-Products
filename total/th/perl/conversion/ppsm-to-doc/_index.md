@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOC,PPSM ถึง DOC ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSM ถึง DOC โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOC,PPSM ถึง DOC ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSM ถึง DOC โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

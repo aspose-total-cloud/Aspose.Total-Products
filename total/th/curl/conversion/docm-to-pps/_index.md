@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPS,DOCM ถึง PPS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOCM ถึง PPS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPS,DOCM ถึง PPS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOCM ถึง PPS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

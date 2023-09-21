@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPDF,PPSX ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSX ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPDF,PPSX ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPSX ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

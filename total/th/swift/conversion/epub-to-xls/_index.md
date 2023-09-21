@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLS,EPUB ถึง XLS ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของEPUB ถึง XLS โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

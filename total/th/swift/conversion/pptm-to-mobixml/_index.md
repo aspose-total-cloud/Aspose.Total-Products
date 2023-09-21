@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,PPTM ถึง MOBIXML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTM ถึง MOBIXML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLAM,OTT ถึง XLAM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTT ถึง XLAM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLAM,OTT ถึง XLAM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTT ถึง XLAM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นFODS,PDF ถึง FODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDF ถึง FODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นFODS,PDF ถึง FODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDF ถึง FODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

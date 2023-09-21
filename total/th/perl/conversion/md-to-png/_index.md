@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPNG,MD ถึง PNG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMD ถึง PNG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPNG,MD ถึง PNG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของMD ถึง PNG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

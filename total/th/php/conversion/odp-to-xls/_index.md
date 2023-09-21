@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLS,ODP ถึง XLS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODP ถึง XLS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLS,ODP ถึง XLS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODP ถึง XLS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

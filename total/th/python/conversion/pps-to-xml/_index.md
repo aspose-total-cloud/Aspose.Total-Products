@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXML,PPS ถึง XML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง XML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXML,PPS ถึง XML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง XML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นODP,TEX ถึง ODP ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของTEX ถึง ODP โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

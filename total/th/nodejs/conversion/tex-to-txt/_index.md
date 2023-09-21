@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTXT,TEX ถึง TXT ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTEX ถึง TXT โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

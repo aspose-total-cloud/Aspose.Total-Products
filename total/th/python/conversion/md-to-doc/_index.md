@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOC,MD ถึง DOC ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของMD ถึง DOC โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOC,MD ถึง DOC ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของMD ถึง DOC โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

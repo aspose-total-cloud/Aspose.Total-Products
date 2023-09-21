@@ -1,1 +1,1 @@
----title: แปลง Word เป็นJPEG,MOBI ถึง JPEG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMOBI ถึง JPEG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นJPEG,MOBI ถึง JPEG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMOBI ถึง JPEG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

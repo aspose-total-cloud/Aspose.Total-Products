@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTEX,DOCM ถึง TEX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOCM ถึง TEX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

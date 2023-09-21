@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นHTML,PPSX ถึง HTML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPSX ถึง HTML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นHTML,PPSX ถึง HTML ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPSX ถึง HTML โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

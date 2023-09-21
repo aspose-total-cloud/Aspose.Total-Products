@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLTM,PDF ถึง XLTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPDF ถึง XLTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLTM,PDF ถึง XLTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPDF ถึง XLTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

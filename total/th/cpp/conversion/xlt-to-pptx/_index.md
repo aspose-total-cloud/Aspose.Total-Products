@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPTX,XLT ถึง PPTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLT ถึง PPTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPTX,XLT ถึง PPTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLT ถึง PPTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

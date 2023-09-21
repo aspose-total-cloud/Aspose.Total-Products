@@ -1,1 +1,1 @@
----title: แปลง Word เป็นODP,DOC ถึง ODP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOC ถึง ODP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นODP,DOC ถึง ODP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOC ถึง ODP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

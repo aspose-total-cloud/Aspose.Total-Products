@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นMHT,PDFA ถึง MHT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง MHT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

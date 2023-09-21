@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPOTX,TEX ถึง POTX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTEX ถึง POTX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นJPEG,WEB ถึง JPEG ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง JPEG โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นSWF,CHM ถึง SWF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของCHM ถึง SWF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นSWF,CHM ถึง SWF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของCHM ถึง SWF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

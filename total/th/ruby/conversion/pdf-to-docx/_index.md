@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOCX,PDF ถึง DOCX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDF ถึง DOCX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOCX,PDF ถึง DOCX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDF ถึง DOCX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

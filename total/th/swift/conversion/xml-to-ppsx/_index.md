@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPSX,XML ถึง PPSX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXML ถึง PPSX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPSX,XML ถึง PPSX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXML ถึง PPSX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

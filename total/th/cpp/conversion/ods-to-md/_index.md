@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นMD,ODS ถึง MD ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODS ถึง MD โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นMD,ODS ถึง MD ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODS ถึง MD โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

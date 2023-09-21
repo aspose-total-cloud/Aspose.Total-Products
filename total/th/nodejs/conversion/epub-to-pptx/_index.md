@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTX,EPUB ถึง PPTX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของEPUB ถึง PPTX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

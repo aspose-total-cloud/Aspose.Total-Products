@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,PPTM ถึง PDFA ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPTM ถึง PDFA โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

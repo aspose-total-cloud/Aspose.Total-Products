@@ -1,1 +1,1 @@
----title: แปลง Word เป็นJSON,TXT ถึง JSON ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของTXT ถึง JSON โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นJSON,TXT ถึง JSON ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของTXT ถึง JSON โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

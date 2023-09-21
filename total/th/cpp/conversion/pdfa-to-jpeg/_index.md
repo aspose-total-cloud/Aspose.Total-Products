@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นJPEG,PDFA ถึง JPEG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDFA ถึง JPEG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

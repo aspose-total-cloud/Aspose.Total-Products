@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นWEB,POTX ถึง WEB ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTX ถึง WEB โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

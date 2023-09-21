@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDIF,ODT ถึง DIF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODT ถึง DIF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDIF,ODT ถึง DIF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODT ถึง DIF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

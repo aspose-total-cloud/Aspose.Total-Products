@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMOBI,PPSM ถึง MOBI ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง MOBI โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMOBI,PPSM ถึง MOBI ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง MOBI โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

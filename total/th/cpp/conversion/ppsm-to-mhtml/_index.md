@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMHTML,PPSM ถึง MHTML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง MHTML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMHTML,PPSM ถึง MHTML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSM ถึง MHTML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

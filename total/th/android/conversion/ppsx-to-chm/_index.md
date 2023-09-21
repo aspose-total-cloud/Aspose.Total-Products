@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCHM,PPSX ถึง CHM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPSX ถึง CHM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCHM,PPSX ถึง CHM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPSX ถึง CHM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

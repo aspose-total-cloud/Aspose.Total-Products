@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLS,SVG ถึง XLS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของSVG ถึง XLS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

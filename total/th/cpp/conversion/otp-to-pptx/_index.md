@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPTX,OTP ถึง PPTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของOTP ถึง PPTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPTX,OTP ถึง PPTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของOTP ถึง PPTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,PPS ถึง TEX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPS ถึง TEX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

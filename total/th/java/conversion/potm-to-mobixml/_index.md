@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,POTM ถึง MOBIXML ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง MOBIXML โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

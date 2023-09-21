@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOCX,TEX ถึง DOCX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของTEX ถึง DOCX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

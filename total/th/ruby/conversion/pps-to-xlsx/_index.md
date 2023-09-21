@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLSX,PPS ถึง XLSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPS ถึง XLSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLSX,PPS ถึง XLSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPS ถึง XLSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

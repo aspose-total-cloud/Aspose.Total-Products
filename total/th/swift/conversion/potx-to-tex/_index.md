@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,POTX ถึง TEX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTX ถึง TEX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

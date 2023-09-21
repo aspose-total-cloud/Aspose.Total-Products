@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXPS,MHT ถึง XPS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMHT ถึง XPS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

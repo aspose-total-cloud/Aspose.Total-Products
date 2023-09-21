@@ -1,1 +1,1 @@
----title: แปลง Word เป็นMD,MHTML ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของMHTML ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นMD,MHTML ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของMHTML ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

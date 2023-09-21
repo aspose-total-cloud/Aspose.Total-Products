@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPT,PPS ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPT,PPS ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

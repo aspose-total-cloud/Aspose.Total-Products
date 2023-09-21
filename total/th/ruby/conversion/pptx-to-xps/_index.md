@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXPS,PPTX ถึง XPS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTX ถึง XPS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXPS,PPTX ถึง XPS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTX ถึง XPS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

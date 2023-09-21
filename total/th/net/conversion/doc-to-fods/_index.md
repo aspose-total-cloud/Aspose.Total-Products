@@ -1,1 +1,1 @@
----title: แปลง Word เป็นFODS,DOC ถึง FODS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOC ถึง FODS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นFODS,DOC ถึง FODS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOC ถึง FODS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXLSX,TSV ถึง XLSX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTSV ถึง XLSX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXLSX,TSV ถึง XLSX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTSV ถึง XLSX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

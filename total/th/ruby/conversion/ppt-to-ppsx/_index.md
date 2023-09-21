@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPSX,PPT ถึง PPSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPT ถึง PPSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPSX,PPT ถึง PPSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPT ถึง PPSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

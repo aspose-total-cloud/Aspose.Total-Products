@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นOTT,PDFA ถึง OTT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDFA ถึง OTT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

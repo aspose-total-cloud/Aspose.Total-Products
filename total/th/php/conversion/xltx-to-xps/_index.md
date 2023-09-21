@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXPS,XLTX ถึง XPS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLTX ถึง XPS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXPS,XLTX ถึง XPS ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLTX ถึง XPS โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

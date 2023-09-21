@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,TEX ถึง XLSX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTEX ถึง XLSX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นSVG,WEB ถึง SVG ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง SVG โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

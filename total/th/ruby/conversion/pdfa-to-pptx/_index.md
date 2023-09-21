@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTX,PDFA ถึง PPTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง PPTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นTIFF,OTP ถึง TIFF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของOTP ถึง TIFF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นTIFF,OTP ถึง TIFF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของOTP ถึง TIFF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

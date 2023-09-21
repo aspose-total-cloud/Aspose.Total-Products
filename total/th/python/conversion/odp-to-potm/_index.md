@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPOTM,ODP ถึง POTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODP ถึง POTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPOTM,ODP ถึง POTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของODP ถึง POTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

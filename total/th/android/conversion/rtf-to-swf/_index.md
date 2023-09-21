@@ -1,1 +1,1 @@
----title: แปลง Word เป็นSWF,RTF ถึง SWF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของRTF ถึง SWF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นSWF,RTF ถึง SWF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของRTF ถึง SWF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

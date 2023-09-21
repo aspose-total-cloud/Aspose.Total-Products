@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นMHTML,JSON ถึง MHTML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของJSON ถึง MHTML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นMHTML,JSON ถึง MHTML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของJSON ถึง MHTML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

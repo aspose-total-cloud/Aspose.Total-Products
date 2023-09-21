@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLSB,PPSM ถึง XLSB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSM ถึง XLSB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLSB,PPSM ถึง XLSB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSM ถึง XLSB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

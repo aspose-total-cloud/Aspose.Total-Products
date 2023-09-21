@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSWF,POTM ถึง SWF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTM ถึง SWF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSWF,POTM ถึง SWF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTM ถึง SWF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

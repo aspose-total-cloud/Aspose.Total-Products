@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นMD,XPS ถึง MD ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXPS ถึง MD โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

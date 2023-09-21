@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOC,MHT ถึง DOC ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของMHT ถึง DOC โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

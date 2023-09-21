@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นWEB,XLSB ถึง WEB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLSB ถึง WEB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

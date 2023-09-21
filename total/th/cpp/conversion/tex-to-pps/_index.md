@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPS,TEX ถึง PPS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTEX ถึง PPS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

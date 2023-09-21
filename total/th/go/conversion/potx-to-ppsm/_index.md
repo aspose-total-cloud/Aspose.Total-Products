@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPSM,POTX ถึง PPSM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTX ถึง PPSM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPSM,POTX ถึง PPSM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOTX ถึง PPSM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

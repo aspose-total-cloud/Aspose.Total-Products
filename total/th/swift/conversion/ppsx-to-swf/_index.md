@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSWF,PPSX ถึง SWF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSX ถึง SWF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSWF,PPSX ถึง SWF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSX ถึง SWF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

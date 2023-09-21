@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPOTX,WEB ถึง POTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง POTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

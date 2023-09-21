@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLSM,POTX ถึง XLSM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTX ถึง XLSM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLSM,POTX ถึง XLSM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOTX ถึง XLSM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

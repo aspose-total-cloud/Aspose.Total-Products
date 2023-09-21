@@ -1,1 +1,1 @@
----title: แปลง Word เป็นRTF,DOCM ถึง RTF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOCM ถึง RTF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นRTF,DOCM ถึง RTF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOCM ถึง RTF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPPTX,WEB ถึง PPTX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของWEB ถึง PPTX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

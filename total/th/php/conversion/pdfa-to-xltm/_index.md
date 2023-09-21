@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTM,PDFA ถึง XLTM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPDFA ถึง XLTM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

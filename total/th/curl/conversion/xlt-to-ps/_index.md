@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPS,XLT ถึง PS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLT ถึง PS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPS,XLT ถึง PS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLT ถึง PS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

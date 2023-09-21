@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLT,PDFA ถึง XLT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDFA ถึง XLT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

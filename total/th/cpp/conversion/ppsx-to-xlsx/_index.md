@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLSX,PPSX ถึง XLSX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSX ถึง XLSX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLSX,PPSX ถึง XLSX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSX ถึง XLSX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOCX,DOC ถึง DOCX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOC ถึง DOCX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOCX,DOC ถึง DOCX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOC ถึง DOCX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

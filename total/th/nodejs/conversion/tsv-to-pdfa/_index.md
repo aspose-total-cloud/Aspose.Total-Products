@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDFA,TSV ถึง PDFA ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTSV ถึง PDFA โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

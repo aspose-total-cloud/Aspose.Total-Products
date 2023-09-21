@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPT,XSLFO ถึง PPT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXSLFO ถึง PPT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

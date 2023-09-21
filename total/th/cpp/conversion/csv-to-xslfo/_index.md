@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXSLFO,CSV ถึง XSLFO ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของCSV ถึง XSLFO โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCSV,PPTX ถึง CSV ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง CSV โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCSV,PPTX ถึง CSV ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง CSV โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นOTT,TEX ถึง OTT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTEX ถึง OTT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

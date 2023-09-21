@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMD,PPTM ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTM ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMD,PPTM ถึง MD ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTM ถึง MD โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

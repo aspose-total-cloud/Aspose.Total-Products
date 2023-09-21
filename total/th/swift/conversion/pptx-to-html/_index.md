@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นHTML,PPTX ถึง HTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง HTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นHTML,PPTX ถึง HTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง HTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

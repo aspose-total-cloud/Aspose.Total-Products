@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นWEB,POTM ถึง WEB ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPOTM ถึง WEB โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

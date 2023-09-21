@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,POTX ถึง MHT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTX ถึง MHT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

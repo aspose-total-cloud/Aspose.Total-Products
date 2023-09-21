@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นBMP,XPS ถึง BMP ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXPS ถึง BMP โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

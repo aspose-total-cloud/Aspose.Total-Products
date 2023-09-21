@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSXC,OTP ถึง SXC ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTP ถึง SXC โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSXC,OTP ถึง SXC ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของOTP ถึง SXC โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

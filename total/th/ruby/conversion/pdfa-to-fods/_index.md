@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นFODS,PDFA ถึง FODS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง FODS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

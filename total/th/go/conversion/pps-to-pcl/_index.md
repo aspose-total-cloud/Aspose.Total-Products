@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPCL,PPS ถึง PCL ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPS ถึง PCL โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPCL,PPS ถึง PCL ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPS ถึง PCL โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

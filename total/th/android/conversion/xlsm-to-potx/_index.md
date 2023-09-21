@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPOTX,XLSM ถึง POTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLSM ถึง POTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPOTX,XLSM ถึง POTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLSM ถึง POTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นDOC,TSV ถึง DOC ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของTSV ถึง DOC โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นDOC,TSV ถึง DOC ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของTSV ถึง DOC โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

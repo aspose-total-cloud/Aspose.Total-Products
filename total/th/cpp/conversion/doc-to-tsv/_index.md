@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTSV,DOC ถึง TSV ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง TSV โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTSV,DOC ถึง TSV ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง TSV โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

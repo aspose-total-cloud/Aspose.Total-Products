@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXSLFO,SXC ถึง XSLFO ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของSXC ถึง XSLFO โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

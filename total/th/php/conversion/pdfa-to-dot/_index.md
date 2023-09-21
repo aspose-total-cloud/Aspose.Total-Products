@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOT,PDFA ถึง DOT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPDFA ถึง DOT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

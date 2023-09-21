@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTM,PDFA ถึง XLTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง XLTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

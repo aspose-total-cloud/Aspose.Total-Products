@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMHT,DOTM ถึง MHT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOTM ถึง MHT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

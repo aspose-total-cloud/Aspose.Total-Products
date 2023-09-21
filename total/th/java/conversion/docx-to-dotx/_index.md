@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOTX,DOCX ถึง DOTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCX ถึง DOTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOTX,DOCX ถึง DOTX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCX ถึง DOTX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

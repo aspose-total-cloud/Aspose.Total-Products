@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLAM,SVG ถึง XLAM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของSVG ถึง XLAM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นEPUB,SXC ถึง EPUB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของSXC ถึง EPUB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นEPUB,SXC ถึง EPUB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของSXC ถึง EPUB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

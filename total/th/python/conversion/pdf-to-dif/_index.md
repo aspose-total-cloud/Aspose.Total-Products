@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDIF,PDF ถึง DIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDF ถึง DIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDIF,PDF ถึง DIF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDF ถึง DIF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

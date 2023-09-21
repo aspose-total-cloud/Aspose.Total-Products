@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPTM,XLS ถึง PPTM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLS ถึง PPTM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPTM,XLS ถึง PPTM ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLS ถึง PPTM โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

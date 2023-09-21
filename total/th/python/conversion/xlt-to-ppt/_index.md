@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPT,XLT ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLT ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPT,XLT ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLT ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

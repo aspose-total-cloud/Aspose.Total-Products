@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXSLFO,MOBI ถึง XSLFO ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMOBI ถึง XSLFO โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

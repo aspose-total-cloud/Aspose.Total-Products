@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPTX,ODS ถึง PPTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODS ถึง PPTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPTX,ODS ถึง PPTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODS ถึง PPTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

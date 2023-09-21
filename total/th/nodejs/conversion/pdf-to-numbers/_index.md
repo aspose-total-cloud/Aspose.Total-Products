@@ -1,1 +1,1 @@
----title: แปลง Word เป็นNUMBERS,PDF ถึง NUMBERS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPDF ถึง NUMBERS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นNUMBERS,PDF ถึง NUMBERS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPDF ถึง NUMBERS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

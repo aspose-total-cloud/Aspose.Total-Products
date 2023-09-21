@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นJPEG,PDFA ถึง JPEG ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง JPEG โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

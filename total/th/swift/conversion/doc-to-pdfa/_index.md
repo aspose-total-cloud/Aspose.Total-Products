@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDFA,DOC ถึง PDFA ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOC ถึง PDFA โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

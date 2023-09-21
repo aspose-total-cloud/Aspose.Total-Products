@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPT,POT ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPT,POT ถึง PPT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOT ถึง PPT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXML,POTX ถึง XML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง XML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXML,POTX ถึง XML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPOTX ถึง XML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

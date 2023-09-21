@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTEX,TSV ถึง TEX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTSV ถึง TEX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPCL,DOCX ถึง PCL ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOCX ถึง PCL โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPCL,DOCX ถึง PCL ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOCX ถึง PCL โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

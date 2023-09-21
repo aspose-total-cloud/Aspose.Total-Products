@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPT,POTM ถึง PPT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง PPT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPT,POTM ถึง PPT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง PPT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

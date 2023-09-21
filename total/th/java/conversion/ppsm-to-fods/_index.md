@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นFODS,PPSM ถึง FODS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง FODS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นFODS,PPSM ถึง FODS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง FODS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

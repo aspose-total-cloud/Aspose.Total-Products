@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,PPTX ถึง TEX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPTX ถึง TEX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPT,XLSX ถึง PPT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLSX ถึง PPT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPT,XLSX ถึง PPT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLSX ถึง PPT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

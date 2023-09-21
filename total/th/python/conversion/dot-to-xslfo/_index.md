@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXSLFO,DOT ถึง XSLFO ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOT ถึง XSLFO โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

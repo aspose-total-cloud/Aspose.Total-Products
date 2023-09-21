@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPCL,POT ถึง PCL ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOT ถึง PCL โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPCL,POT ถึง PCL ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOT ถึง PCL โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

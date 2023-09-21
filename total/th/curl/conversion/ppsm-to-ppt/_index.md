@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPT,PPSM ถึง PPT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง PPT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPT,PPSM ถึง PPT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง PPT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

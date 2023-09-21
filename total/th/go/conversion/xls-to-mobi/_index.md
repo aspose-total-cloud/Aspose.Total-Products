@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นMOBI,XLS ถึง MOBI ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLS ถึง MOBI โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นMOBI,XLS ถึง MOBI ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของXLS ถึง MOBI โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

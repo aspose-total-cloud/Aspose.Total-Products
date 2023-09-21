@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSX,DOCM ถึง XLSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOCM ถึง XLSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSX,DOCM ถึง XLSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของDOCM ถึง XLSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMD,ODP ถึง MD ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODP ถึง MD โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMD,ODP ถึง MD ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODP ถึง MD โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

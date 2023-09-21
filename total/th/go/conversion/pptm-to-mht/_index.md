@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,PPTM ถึง MHT ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTM ถึง MHT โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

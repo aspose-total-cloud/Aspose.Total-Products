@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTEX,HTML ถึง TEX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของHTML ถึง TEX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

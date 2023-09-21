@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นODS,ODP ถึง ODS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODP ถึง ODS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นODS,ODP ถึง ODS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODP ถึง ODS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

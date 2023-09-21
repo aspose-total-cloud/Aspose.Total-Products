@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นNUMBERS,TEX ถึง NUMBERS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของTEX ถึง NUMBERS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

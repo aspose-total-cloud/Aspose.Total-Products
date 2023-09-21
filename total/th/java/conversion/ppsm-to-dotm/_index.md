@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOTM,PPSM ถึง DOTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง DOTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOTM,PPSM ถึง DOTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง DOTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

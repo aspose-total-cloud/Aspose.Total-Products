@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นODP,XLTM ถึง ODP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLTM ถึง ODP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นODP,XLTM ถึง ODP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLTM ถึง ODP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

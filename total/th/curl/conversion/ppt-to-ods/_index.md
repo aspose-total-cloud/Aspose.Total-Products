@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นODS,PPT ถึง ODS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง ODS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นODS,PPT ถึง ODS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง ODS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

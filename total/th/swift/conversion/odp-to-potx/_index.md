@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPOTX,ODP ถึง POTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง POTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPOTX,ODP ถึง POTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง POTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

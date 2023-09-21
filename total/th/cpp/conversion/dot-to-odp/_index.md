@@ -1,1 +1,1 @@
----title: แปลง Word เป็นODP,DOT ถึง ODP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOT ถึง ODP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นODP,DOT ถึง ODP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOT ถึง ODP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

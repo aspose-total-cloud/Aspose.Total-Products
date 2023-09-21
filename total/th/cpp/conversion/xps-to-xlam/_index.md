@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLAM,XPS ถึง XLAM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXPS ถึง XLAM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

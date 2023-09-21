@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMOBIXML,XLSX ถึง MOBIXML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLSX ถึง MOBIXML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

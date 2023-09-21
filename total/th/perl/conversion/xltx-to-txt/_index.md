@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นTXT,XLTX ถึง TXT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLTX ถึง TXT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นTXT,XLTX ถึง TXT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLTX ถึง TXT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

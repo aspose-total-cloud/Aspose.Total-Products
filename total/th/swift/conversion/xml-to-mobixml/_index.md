@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นMOBIXML,XML ถึง MOBIXML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXML ถึง MOBIXML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

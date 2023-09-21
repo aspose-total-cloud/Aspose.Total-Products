@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPS,MD ถึง PPS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของMD ถึง PPS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPS,MD ถึง PPS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของMD ถึง PPS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

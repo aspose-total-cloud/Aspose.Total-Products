@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMHTML,POTX ถึง MHTML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง MHTML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMHTML,POTX ถึง MHTML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTX ถึง MHTML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

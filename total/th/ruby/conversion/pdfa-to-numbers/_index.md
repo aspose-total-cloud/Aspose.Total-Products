@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นNUMBERS,PDFA ถึง NUMBERS ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDFA ถึง NUMBERS โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นMHTML,DOTM ถึง MHTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOTM ถึง MHTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นMHTML,DOTM ถึง MHTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOTM ถึง MHTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOT,SVG ถึง DOT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของSVG ถึง DOT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

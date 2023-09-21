@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSM,TEX ถึง XLSM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของTEX ถึง XLSM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

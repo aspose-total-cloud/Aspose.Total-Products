@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTX,EPUB ถึง XLTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของEPUB ถึง XLTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

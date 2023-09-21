@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOC,DOTM ถึง DOC ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTM ถึง DOC โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOC,DOTM ถึง DOC ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTM ถึง DOC โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

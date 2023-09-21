@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTXT,MHT ถึง TXT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของMHT ถึง TXT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPT,EPUB ถึง PPT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของEPUB ถึง PPT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นODT,XPS ถึง ODT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของXPS ถึง ODT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

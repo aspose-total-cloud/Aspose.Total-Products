@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPPTX,WEB ถึง PPTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของWEB ถึง PPTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

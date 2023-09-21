@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นCHM,XLTX ถึง CHM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLTX ถึง CHM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นCHM,XLTX ถึง CHM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLTX ถึง CHM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

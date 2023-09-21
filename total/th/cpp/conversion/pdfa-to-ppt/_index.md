@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPT,PDFA ถึง PPT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPDFA ถึง PPT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

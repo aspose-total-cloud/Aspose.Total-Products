@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXSLFO,PPTX ถึง XSLFO ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPPTX ถึง XSLFO โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

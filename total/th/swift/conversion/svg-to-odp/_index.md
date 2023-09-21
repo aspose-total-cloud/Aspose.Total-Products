@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นODP,SVG ถึง ODP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของSVG ถึง ODP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXML,CHM ถึง XML ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของCHM ถึง XML โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXML,CHM ถึง XML ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของCHM ถึง XML โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

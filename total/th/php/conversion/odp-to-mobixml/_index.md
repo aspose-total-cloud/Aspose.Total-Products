@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,ODP ถึง MOBIXML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODP ถึง MOBIXML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

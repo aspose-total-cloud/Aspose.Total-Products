@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,ODP ถึง MOBIXML ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง MOBIXML โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

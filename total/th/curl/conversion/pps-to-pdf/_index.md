@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPDF,PPS ถึง PDF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPS ถึง PDF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPDF,PPS ถึง PDF ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPS ถึง PDF โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

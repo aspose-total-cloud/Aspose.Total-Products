@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOTM,PPS ถึง DOTM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPS ถึง DOTM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOTM,PPS ถึง DOTM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPS ถึง DOTM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

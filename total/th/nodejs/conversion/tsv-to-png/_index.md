@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPNG,TSV ถึง PNG ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTSV ถึง PNG โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPNG,TSV ถึง PNG ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTSV ถึง PNG โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPTX,PDF ถึง PPTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDF ถึง PPTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPTX,PDF ถึง PPTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPDF ถึง PPTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

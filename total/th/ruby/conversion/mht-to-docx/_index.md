@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOCX,MHT ถึง DOCX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMHT ถึง DOCX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

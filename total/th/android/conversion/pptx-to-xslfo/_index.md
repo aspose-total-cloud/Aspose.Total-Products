@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXSLFO,PPTX ถึง XSLFO ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPPTX ถึง XSLFO โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

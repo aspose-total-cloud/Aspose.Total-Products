@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTIFF,DOTM ถึง TIFF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOTM ถึง TIFF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTIFF,DOTM ถึง TIFF ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOTM ถึง TIFF โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

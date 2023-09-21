@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPOTX,PS ถึง POTX ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPS ถึง POTX โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLAM,DOC ถึง XLAM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOC ถึง XLAM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLAM,DOC ถึง XLAM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOC ถึง XLAM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

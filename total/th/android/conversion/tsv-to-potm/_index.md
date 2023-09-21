@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPOTM,TSV ถึง POTM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTSV ถึง POTM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPOTM,TSV ถึง POTM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTSV ถึง POTM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

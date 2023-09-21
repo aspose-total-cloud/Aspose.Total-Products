@@ -1,1 +1,1 @@
----title: แปลง Word เป็นMD,DOTM ถึง MD ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTM ถึง MD โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นMD,DOTM ถึง MD ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTM ถึง MD โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

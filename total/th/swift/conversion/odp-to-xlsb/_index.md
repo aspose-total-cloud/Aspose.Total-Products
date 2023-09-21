@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLSB,ODP ถึง XLSB ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง XLSB โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLSB,ODP ถึง XLSB ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง XLSB โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

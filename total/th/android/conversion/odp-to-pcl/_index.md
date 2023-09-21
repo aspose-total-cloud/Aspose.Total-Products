@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPCL,ODP ถึง PCL ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง PCL โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPCL,ODP ถึง PCL ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของODP ถึง PCL โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

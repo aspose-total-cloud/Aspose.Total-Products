@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPT,PCL ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPCL ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

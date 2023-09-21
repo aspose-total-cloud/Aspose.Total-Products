@@ -1,1 +1,1 @@
----title: แปลง Word เป็นBMP,CHM ถึง BMP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง BMP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นBMP,CHM ถึง BMP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของCHM ถึง BMP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

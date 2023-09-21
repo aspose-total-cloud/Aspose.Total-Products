@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOT,OTP ถึง DOT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของOTP ถึง DOT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOT,OTP ถึง DOT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของOTP ถึง DOT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

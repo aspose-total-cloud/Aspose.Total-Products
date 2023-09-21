@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นBMP,WEB ถึง BMP ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง BMP โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,POTM ถึง MOBIXML ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPOTM ถึง MOBIXML โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

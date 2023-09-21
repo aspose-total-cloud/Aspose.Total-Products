@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPTM,PPSX ถึง PPTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง PPTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPTM,PPSX ถึง PPTM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSX ถึง PPTM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

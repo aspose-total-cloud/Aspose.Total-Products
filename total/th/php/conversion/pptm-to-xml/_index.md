@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXML,PPTM ถึง XML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTM ถึง XML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXML,PPTM ถึง XML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPTM ถึง XML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

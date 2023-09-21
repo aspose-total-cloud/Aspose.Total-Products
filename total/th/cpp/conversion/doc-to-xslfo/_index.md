@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นXSLFO,DOC ถึง XSLFO ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง XSLFO โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นTXT,POT ถึง TXT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOT ถึง TXT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นTXT,POT ถึง TXT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOT ถึง TXT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

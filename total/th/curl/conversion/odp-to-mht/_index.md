@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,ODP ถึง MHT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของODP ถึง MHT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นSWF,WEB ถึง SWF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง SWF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

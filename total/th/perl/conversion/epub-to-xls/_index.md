@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLS,EPUB ถึง XLS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของEPUB ถึง XLS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

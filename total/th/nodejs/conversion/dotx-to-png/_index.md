@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPNG,DOTX ถึง PNG ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของDOTX ถึง PNG โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPNG,DOTX ถึง PNG ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของDOTX ถึง PNG โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

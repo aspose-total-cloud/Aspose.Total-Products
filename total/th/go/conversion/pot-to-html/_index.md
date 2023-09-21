@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นHTML,POT ถึง HTML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOT ถึง HTML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นHTML,POT ถึง HTML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOT ถึง HTML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

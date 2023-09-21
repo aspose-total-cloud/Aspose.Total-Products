@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSB,DOTM ถึง XLSB ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTM ถึง XLSB โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSB,DOTM ถึง XLSB ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTM ถึง XLSB โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

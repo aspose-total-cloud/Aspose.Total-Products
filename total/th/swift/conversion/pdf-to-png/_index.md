@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPNG,PDF ถึง PNG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPDF ถึง PNG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPNG,PDF ถึง PNG ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPDF ถึง PNG โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นBMP,DOC ถึง BMP ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOC ถึง BMP โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นBMP,DOC ถึง BMP ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOC ถึง BMP โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

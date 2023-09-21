@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTXT,TEX ถึง TXT ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของTEX ถึง TXT โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

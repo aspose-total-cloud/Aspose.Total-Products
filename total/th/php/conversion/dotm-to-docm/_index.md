@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOCM,DOTM ถึง DOCM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOTM ถึง DOCM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOCM,DOTM ถึง DOCM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOTM ถึง DOCM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

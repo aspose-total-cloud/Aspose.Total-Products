@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOCX,HTML ถึง DOCX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของHTML ถึง DOCX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOCX,HTML ถึง DOCX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของHTML ถึง DOCX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

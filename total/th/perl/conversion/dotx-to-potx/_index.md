@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPOTX,DOTX ถึง POTX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTX ถึง POTX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPOTX,DOTX ถึง POTX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTX ถึง POTX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOTX,PS ถึง DOTX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPS ถึง DOTX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

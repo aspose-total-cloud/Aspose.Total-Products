@@ -1,1 +1,1 @@
----title: แปลง Word เป็นRTF,DOCX ถึง RTF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCX ถึง RTF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นRTF,DOCX ถึง RTF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCX ถึง RTF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

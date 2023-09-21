@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPDF,MD ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของMD ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPDF,MD ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของMD ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

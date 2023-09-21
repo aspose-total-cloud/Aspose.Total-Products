@@ -1,1 +1,1 @@
----title: แปลง Word เป็นSWF,OTT ถึง SWF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของOTT ถึง SWF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นSWF,OTT ถึง SWF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของOTT ถึง SWF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

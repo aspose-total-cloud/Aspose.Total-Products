@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPPSX,WEB ถึง PPSX ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง PPSX โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

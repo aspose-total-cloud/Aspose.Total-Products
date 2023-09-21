@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นJSON,SVG ถึง JSON ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของSVG ถึง JSON โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

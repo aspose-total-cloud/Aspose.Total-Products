@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPTM,PPSX ถึง PPTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSX ถึง PPTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPTM,PPSX ถึง PPTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPSX ถึง PPTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

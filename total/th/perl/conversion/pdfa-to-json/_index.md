@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นJSON,PDFA ถึง JSON ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPDFA ถึง JSON โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

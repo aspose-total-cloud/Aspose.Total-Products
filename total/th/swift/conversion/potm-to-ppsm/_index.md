@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPSM,POTM ถึง PPSM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTM ถึง PPSM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPSM,POTM ถึง PPSM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPOTM ถึง PPSM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

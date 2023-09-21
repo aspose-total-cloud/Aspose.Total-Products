@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นWEB,XLT ถึง WEB ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLT ถึง WEB โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

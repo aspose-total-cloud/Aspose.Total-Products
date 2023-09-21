@@ -1,1 +1,1 @@
----title: แปลง Word เป็นODS,DOC ถึง ODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง ODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นODS,DOC ถึง ODS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOC ถึง ODS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นNUMBERS,DOTX ถึง NUMBERS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOTX ถึง NUMBERS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นNUMBERS,DOTX ถึง NUMBERS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของDOTX ถึง NUMBERS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

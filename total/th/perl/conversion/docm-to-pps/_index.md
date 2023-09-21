@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPS,DOCM ถึง PPS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOCM ถึง PPS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPS,DOCM ถึง PPS ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOCM ถึง PPS โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLS,PPSM ถึง XLS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง XLS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLS,PPSM ถึง XLS ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPSM ถึง XLS โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

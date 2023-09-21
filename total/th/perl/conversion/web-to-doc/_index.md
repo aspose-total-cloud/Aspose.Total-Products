@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นDOC,WEB ถึง DOC ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง DOC โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

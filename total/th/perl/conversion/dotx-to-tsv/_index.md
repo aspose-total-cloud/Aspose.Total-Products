@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTSV,DOTX ถึง TSV ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTX ถึง TSV โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTSV,DOTX ถึง TSV ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTX ถึง TSV โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

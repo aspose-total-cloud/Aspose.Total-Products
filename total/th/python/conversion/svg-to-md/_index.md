@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นMD,SVG ถึง MD ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของSVG ถึง MD โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

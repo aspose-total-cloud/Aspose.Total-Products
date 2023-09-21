@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นSWF,SVG ถึง SWF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของSVG ถึง SWF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

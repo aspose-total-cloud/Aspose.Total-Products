@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOT,OTP ถึง DOT ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTP ถึง DOT โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOT,OTP ถึง DOT ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTP ถึง DOT โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

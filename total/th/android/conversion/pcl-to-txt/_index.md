@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTXT,PCL ถึง TXT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPCL ถึง TXT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

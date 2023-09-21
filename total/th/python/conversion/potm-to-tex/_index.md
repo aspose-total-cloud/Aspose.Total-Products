@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,POTM ถึง TEX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPOTM ถึง TEX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

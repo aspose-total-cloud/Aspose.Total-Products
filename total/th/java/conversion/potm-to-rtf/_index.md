@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นRTF,POTM ถึง RTF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง RTF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นRTF,POTM ถึง RTF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTM ถึง RTF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

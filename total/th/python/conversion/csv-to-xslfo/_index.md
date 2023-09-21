@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นXSLFO,CSV ถึง XSLFO ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของCSV ถึง XSLFO โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

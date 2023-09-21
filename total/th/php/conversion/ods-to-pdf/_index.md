@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPDF,ODS ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODS ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPDF,ODS ถึง PDF ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของODS ถึง PDF โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

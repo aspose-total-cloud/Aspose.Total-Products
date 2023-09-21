@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLSB,PPTM ถึง XLSB ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTM ถึง XLSB โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLSB,PPTM ถึง XLSB ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTM ถึง XLSB โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

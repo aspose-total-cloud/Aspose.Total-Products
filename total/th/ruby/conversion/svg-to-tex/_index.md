@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTEX,SVG ถึง TEX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของSVG ถึง TEX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

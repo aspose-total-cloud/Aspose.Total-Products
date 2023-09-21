@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSXC,POT ถึง SXC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง SXC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSXC,POT ถึง SXC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง SXC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

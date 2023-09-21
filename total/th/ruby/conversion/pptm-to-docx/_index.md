@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOCX,PPTM ถึง DOCX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTM ถึง DOCX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOCX,PPTM ถึง DOCX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTM ถึง DOCX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

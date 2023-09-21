@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPT,DOTM ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTM ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPT,DOTM ถึง PPT ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTM ถึง PPT โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

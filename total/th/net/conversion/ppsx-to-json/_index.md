@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นJSON,PPSX ถึง JSON ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง JSON โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นJSON,PPSX ถึง JSON ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSX ถึง JSON โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

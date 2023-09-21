@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPCL,PPTX ถึง PCL ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง PCL โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPCL,PPTX ถึง PCL ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง PCL โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

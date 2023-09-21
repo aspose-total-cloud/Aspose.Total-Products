@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOT,XPS ถึง DOT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXPS ถึง DOT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

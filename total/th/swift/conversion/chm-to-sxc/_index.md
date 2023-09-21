@@ -1,1 +1,1 @@
----title: แปลง Word เป็นSXC,CHM ถึง SXC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของCHM ถึง SXC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นSXC,CHM ถึง SXC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของCHM ถึง SXC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

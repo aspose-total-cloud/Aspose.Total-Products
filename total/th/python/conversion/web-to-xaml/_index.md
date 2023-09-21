@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นXAML,WEB ถึง XAML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของWEB ถึง XAML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

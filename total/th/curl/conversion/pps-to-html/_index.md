@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นHTML,PPS ถึง HTML ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPS ถึง HTML โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นHTML,PPS ถึง HTML ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPS ถึง HTML โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

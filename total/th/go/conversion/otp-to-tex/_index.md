@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,OTP ถึง TEX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของOTP ถึง TEX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

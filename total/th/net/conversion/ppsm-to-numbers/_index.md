@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นNUMBERS,PPSM ถึง NUMBERS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSM ถึง NUMBERS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นNUMBERS,PPSM ถึง NUMBERS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPSM ถึง NUMBERS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

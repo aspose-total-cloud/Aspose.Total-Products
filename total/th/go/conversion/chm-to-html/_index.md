@@ -1,1 +1,1 @@
----title: แปลง Word เป็นHTML,CHM ถึง HTML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของCHM ถึง HTML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นHTML,CHM ถึง HTML ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของCHM ถึง HTML โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

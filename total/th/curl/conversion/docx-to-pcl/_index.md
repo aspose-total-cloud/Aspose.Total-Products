@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPCL,DOCX ถึง PCL ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOCX ถึง PCL โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPCL,DOCX ถึง PCL ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของDOCX ถึง PCL โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

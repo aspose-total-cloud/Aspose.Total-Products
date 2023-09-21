@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSXC,PPSM ถึง SXC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง SXC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSXC,PPSM ถึง SXC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSM ถึง SXC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

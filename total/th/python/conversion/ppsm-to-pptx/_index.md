@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPTX,PPSM ถึง PPTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSM ถึง PPTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPTX,PPSM ถึง PPTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSM ถึง PPTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXAML,TXT ถึง XAML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของTXT ถึง XAML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXAML,TXT ถึง XAML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของTXT ถึง XAML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

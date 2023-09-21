@@ -1,1 +1,1 @@
----title: แปลง Word เป็นCHM,DOCM ถึง CHM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOCM ถึง CHM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นCHM,DOCM ถึง CHM ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOCM ถึง CHM โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

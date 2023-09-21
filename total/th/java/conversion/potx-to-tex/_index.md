@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,POTX ถึง TEX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPOTX ถึง TEX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

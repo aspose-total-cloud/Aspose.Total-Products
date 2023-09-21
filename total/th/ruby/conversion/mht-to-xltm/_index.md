@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTM,MHT ถึง XLTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMHT ถึง XLTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

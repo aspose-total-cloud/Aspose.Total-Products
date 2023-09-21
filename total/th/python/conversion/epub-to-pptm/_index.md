@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTM,EPUB ถึง PPTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของEPUB ถึง PPTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

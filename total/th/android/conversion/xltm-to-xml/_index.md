@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXML,XLTM ถึง XML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLTM ถึง XML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXML,XLTM ถึง XML ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLTM ถึง XML โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

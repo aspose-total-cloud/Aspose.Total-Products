@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOTX,MHT ถึง DOTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของMHT ถึง DOTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

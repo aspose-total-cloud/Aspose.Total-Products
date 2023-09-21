@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLS,ODT ถึง XLS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของODT ถึง XLS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLS,ODT ถึง XLS ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของODT ถึง XLS โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

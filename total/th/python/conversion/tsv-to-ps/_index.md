@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPS,TSV ถึง PS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของTSV ถึง PS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPS,TSV ถึง PS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของTSV ถึง PS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

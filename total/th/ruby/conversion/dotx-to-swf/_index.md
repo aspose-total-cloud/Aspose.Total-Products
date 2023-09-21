@@ -1,1 +1,1 @@
----title: แปลง Word เป็นSWF,DOTX ถึง SWF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTX ถึง SWF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นSWF,DOTX ถึง SWF ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของDOTX ถึง SWF โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

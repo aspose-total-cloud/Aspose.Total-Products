@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นCSV,XLSX ถึง CSV ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLSX ถึง CSV โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นCSV,XLSX ถึง CSV ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLSX ถึง CSV โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

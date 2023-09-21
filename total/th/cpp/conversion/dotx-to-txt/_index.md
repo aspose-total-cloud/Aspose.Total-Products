@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTXT,DOTX ถึง TXT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTX ถึง TXT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTXT,DOTX ถึง TXT ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTX ถึง TXT โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นCHM,RTF ถึง CHM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของRTF ถึง CHM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นCHM,RTF ถึง CHM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของRTF ถึง CHM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

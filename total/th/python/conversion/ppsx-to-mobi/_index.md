@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMOBI,PPSX ถึง MOBI ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSX ถึง MOBI โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMOBI,PPSX ถึง MOBI ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPSX ถึง MOBI โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

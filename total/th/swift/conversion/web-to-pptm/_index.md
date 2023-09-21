@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPPTM,WEB ถึง PPTM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของWEB ถึง PPTM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

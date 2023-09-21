@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPNG,XLS ถึง PNG ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLS ถึง PNG โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPNG,XLS ถึง PNG ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXLS ถึง PNG โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

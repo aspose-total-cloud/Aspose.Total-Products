@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTEX,XPS ถึง TEX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXPS ถึง TEX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

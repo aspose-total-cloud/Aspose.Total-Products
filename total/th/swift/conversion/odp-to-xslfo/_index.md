@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXSLFO,ODP ถึง XSLFO ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของODP ถึง XSLFO โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

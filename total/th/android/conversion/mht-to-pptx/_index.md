@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTX,MHT ถึง PPTX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของMHT ถึง PPTX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

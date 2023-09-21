@@ -1,1 +1,1 @@
----title: แปลง Word เป็นJSON,DOTM ถึง JSON ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTM ถึง JSON โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นJSON,DOTM ถึง JSON ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของDOTM ถึง JSON โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,PPSX ถึง PDFA ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPSX ถึง PDFA โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

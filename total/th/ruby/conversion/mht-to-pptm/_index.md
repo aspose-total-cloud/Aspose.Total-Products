@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTM,MHT ถึง PPTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของMHT ถึง PPTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

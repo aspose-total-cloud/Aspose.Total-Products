@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นDOC,WEB ถึง DOC ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของWEB ถึง DOC โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

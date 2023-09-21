@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDIF,DOTX ถึง DIF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTX ถึง DIF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDIF,DOTX ถึง DIF ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOTX ถึง DIF โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

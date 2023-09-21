@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นEMF,TEX ถึง EMF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของTEX ถึง EMF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

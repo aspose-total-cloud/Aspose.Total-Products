@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,OTP ถึง PDFA ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTP ถึง PDFA โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,EPUB ถึง XLSX ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของEPUB ถึง XLSX โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

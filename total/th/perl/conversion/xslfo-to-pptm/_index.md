@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTM,XSLFO ถึง PPTM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXSLFO ถึง PPTM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

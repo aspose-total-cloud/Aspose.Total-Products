@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นXSLFO,POTM ถึง XSLFO ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPOTM ถึง XSLFO โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

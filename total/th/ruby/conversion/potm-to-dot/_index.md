@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOT,POTM ถึง DOT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTM ถึง DOT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOT,POTM ถึง DOT ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPOTM ถึง DOT โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

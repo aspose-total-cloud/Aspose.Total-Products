@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPSM,PPS ถึง PPSM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง PPSM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPSM,PPS ถึง PPSM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง PPSM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

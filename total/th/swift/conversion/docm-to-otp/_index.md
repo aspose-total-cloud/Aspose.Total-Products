@@ -1,1 +1,1 @@
----title: แปลง Word เป็นOTP,DOCM ถึง OTP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCM ถึง OTP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นOTP,DOCM ถึง OTP ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCM ถึง OTP โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

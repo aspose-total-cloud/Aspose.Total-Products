@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDFA,XML ถึง PDFA ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของXML ถึง PDFA โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXML,XLTX ถึง XML ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLTX ถึง XML โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXML,XLTX ถึง XML ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXLTX ถึง XML โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

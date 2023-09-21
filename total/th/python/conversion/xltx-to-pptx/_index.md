@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPTX,XLTX ถึง PPTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLTX ถึง PPTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPTX,XLTX ถึง PPTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของXLTX ถึง PPTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

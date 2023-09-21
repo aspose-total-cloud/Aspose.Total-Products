@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTEX,EPUB ถึง TEX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของEPUB ถึง TEX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

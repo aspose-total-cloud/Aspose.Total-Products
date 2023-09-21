@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,XPS ถึง XLSX ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXPS ถึง XLSX โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

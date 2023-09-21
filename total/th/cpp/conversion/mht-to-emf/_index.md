@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นEMF,MHT ถึง EMF ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMHT ถึง EMF โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

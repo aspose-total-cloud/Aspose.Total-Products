@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,PPS ถึง MOBIXML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPPS ถึง MOBIXML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

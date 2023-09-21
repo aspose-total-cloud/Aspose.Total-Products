@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOC,PDFA ถึง DOC ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPDFA ถึง DOC โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

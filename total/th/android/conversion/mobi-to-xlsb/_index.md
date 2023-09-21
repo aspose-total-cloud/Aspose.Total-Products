@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSB,MOBI ถึง XLSB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของMOBI ถึง XLSB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSB,MOBI ถึง XLSB ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของMOBI ถึง XLSB โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

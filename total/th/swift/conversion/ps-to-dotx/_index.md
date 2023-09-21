@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOTX,PS ถึง DOTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPS ถึง DOTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

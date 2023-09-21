@@ -1,1 +1,1 @@
----title: แปลง Word เป็นSXC,DOTX ถึง SXC ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOTX ถึง SXC โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นSXC,DOTX ถึง SXC ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOTX ถึง SXC โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

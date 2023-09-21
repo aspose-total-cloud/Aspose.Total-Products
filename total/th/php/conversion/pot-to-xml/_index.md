@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXML,POT ถึง XML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง XML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXML,POT ถึง XML ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง XML โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

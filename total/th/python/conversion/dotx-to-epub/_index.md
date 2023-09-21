@@ -1,1 +1,1 @@
----title: แปลง Word เป็นEPUB,DOTX ถึง EPUB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTX ถึง EPUB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นEPUB,DOTX ถึง EPUB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTX ถึง EPUB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

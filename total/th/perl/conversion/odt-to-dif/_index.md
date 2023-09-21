@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDIF,ODT ถึง DIF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง DIF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDIF,ODT ถึง DIF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของODT ถึง DIF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

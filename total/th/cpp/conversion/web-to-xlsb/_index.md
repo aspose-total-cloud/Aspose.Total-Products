@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นXLSB,WEB ถึง XLSB ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง XLSB โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXLTX,XLT ถึง XLTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLT ถึง XLTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXLTX,XLT ถึง XLTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLT ถึง XLTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

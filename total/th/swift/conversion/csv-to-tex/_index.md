@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นTEX,CSV ถึง TEX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของCSV ถึง TEX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

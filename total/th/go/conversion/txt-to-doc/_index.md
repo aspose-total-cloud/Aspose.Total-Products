@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOC,TXT ถึง DOC ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTXT ถึง DOC โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOC,TXT ถึง DOC ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTXT ถึง DOC โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

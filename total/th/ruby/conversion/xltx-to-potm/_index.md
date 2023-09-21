@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPOTM,XLTX ถึง POTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLTX ถึง POTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPOTM,XLTX ถึง POTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXLTX ถึง POTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

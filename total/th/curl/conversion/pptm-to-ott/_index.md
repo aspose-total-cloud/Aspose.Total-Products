@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นOTT,PPTM ถึง OTT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTM ถึง OTT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นOTT,PPTM ถึง OTT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTM ถึง OTT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

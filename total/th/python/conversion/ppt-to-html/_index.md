@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นHTML,PPT ถึง HTML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPT ถึง HTML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นHTML,PPT ถึง HTML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPT ถึง HTML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

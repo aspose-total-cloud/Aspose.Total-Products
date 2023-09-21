@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLAM,DOCX ถึง XLAM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCX ถึง XLAM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLAM,DOCX ถึง XLAM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของDOCX ถึง XLAM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

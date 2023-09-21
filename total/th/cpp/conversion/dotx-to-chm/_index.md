@@ -1,1 +1,1 @@
----title: แปลง Word เป็นCHM,DOTX ถึง CHM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTX ถึง CHM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นCHM,DOTX ถึง CHM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOTX ถึง CHM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

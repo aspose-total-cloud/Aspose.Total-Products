@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นSXC,PPT ถึง SXC ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง SXC โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นSXC,PPT ถึง SXC ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPT ถึง SXC โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

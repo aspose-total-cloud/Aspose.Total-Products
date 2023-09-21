@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLAM,XSLFO ถึง XLAM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของXSLFO ถึง XLAM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPSX,MHTML ถึง PPSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของMHTML ถึง PPSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPSX,MHTML ถึง PPSX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของMHTML ถึง PPSX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSB,PDFA ถึง XLSB ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPDFA ถึง XLSB โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

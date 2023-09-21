@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นHTML,SXC ถึง HTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของSXC ถึง HTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นHTML,SXC ถึง HTML ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของSXC ถึง HTML โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

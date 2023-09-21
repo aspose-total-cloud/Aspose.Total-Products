@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPSX,TEX ถึง PPSX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของTEX ถึง PPSX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

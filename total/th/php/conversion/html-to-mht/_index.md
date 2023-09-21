@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นMHT,HTML ถึง MHT ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของHTML ถึง MHT โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

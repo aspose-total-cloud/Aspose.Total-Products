@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นMOBI,POT ถึง MOBI ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง MOBI โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นMOBI,POT ถึง MOBI ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOT ถึง MOBI โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

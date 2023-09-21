@@ -1,1 +1,1 @@
----title: แปลง Word เป็นDOTX,DOTM ถึง DOTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOTM ถึง DOTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นDOTX,DOTM ถึง DOTX ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของDOTM ถึง DOTX โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

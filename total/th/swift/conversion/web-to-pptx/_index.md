@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นPPTX,WEB ถึง PPTX ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของWEB ถึง PPTX โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

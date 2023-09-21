@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,PPT ถึง PDFA ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPT ถึง PDFA โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

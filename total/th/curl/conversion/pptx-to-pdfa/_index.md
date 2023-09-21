@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นPDFA,PPTX ถึง PDFA ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTX ถึง PDFA โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

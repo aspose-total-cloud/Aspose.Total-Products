@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOT,PPTM ถึง DOT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTM ถึง DOT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOT,PPTM ถึง DOT ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPPTM ถึง DOT โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

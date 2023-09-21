@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นCHM,SVG ถึง CHM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของSVG ถึง CHM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

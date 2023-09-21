@@ -1,1 +1,1 @@
----title: แปลง Word เป็นJPEG,DOTM ถึง JPEG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTM ถึง JPEG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นJPEG,DOTM ถึง JPEG ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOTM ถึง JPEG โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

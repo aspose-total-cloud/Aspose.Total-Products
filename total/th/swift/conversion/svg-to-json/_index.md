@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นJSON,SVG ถึง JSON ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของSVG ถึง JSON โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

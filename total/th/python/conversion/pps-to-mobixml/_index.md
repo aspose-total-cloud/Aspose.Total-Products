@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMOBIXML,PPS ถึง MOBIXML ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPPS ถึง MOBIXML โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

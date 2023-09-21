@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTX,PDFA ถึง XLTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPDFA ถึง XLTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

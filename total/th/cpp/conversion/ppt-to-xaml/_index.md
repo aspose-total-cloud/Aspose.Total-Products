@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXAML,PPT ถึง XAML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPT ถึง XAML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXAML,PPT ถึง XAML ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของPPT ถึง XAML โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

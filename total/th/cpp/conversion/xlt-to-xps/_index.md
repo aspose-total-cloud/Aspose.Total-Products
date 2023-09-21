@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นXPS,XLT ถึง XPS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLT ถึง XPS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นXPS,XLT ถึง XPS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของXLT ถึง XPS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

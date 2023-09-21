@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLTM,PPTX ถึง XLTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTX ถึง XLTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLTM,PPTX ถึง XLTM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของPPTX ถึง XLTM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Excel เป็นPDFA,SXC ถึง PDFA ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของSXC ถึง PDFA โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

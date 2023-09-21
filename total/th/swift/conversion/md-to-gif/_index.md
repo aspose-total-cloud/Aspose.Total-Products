@@ -1,1 +1,1 @@
----title: แปลง Word เป็นGIF,MD ถึง GIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของMD ถึง GIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นGIF,MD ถึง GIF ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของMD ถึง GIF โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

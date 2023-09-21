@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นWEB,PPS ถึง WEB ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของPPS ถึง WEB โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

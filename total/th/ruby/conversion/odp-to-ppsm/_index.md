@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นPPSM,ODP ถึง PPSM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของODP ถึง PPSM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นPPSM,ODP ถึง PPSM ตัวแปลงฟรี หรือ Ruby SDKdescription: การแปลงฟรีของODP ถึง PPSM โดยใช้ Ruby Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDFA,CHM ถึง PDFA ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของCHM ถึง PDFA โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

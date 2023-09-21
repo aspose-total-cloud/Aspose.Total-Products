@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นOTT,POT ถึง OTT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง OTT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นOTT,POT ถึง OTT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOT ถึง OTT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

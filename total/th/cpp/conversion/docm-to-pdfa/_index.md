@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDFA,DOCM ถึง PDFA ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของDOCM ถึง PDFA โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นHTML,SVG ถึง HTML ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของSVG ถึง HTML โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

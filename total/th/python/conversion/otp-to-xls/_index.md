@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLS,OTP ถึง XLS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTP ถึง XLS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLS,OTP ถึง XLS ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTP ถึง XLS โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นXPS,WEB ถึง XPS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง XPS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

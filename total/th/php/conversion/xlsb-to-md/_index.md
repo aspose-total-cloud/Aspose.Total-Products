@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นMD,XLSB ถึง MD ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLSB ถึง MD โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นMD,XLSB ถึง MD ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของXLSB ถึง MD โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

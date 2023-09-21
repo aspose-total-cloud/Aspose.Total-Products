@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOTM,TEX ถึง DOTM ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของTEX ถึง DOTM โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

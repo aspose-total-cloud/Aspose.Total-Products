@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นPDFA,DOCX ถึง PDFA ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของDOCX ถึง PDFA โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

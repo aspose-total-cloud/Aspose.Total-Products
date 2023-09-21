@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPPS,XLSX ถึง PPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLSX ถึง PPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPPS,XLSX ถึง PPS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของXLSX ถึง PPS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

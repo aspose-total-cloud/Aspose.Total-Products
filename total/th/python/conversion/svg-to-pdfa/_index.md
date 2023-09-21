@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPDFA,SVG ถึง PDFA ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของSVG ถึง PDFA โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

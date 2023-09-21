@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,PS ถึง XLSX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPS ถึง XLSX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

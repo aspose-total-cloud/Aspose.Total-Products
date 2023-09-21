@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOCM,PPTX ถึง DOCM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง DOCM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOCM,PPTX ถึง DOCM ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของPPTX ถึง DOCM โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

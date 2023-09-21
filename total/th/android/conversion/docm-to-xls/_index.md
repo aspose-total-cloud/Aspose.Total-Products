@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLS,DOCM ถึง XLS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOCM ถึง XLS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLS,DOCM ถึง XLS ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOCM ถึง XLS โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

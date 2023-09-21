@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLSB,OTT ถึง XLSB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTT ถึง XLSB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLSB,OTT ถึง XLSB ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของOTT ถึง XLSB โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

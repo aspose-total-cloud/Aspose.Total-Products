@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCHM,PPSX ถึง CHM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง CHM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCHM,PPSX ถึง CHM ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPPSX ถึง CHM โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

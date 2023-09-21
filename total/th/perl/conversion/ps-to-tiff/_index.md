@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นTIFF,PS ถึง TIFF ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPS ถึง TIFF โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

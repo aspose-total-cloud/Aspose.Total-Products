@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นTEX,POTX ถึง TEX ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของPOTX ถึง TEX โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

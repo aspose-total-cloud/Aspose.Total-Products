@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOCM,PPSM ถึง DOCM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง DOCM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOCM,PPSM ถึง DOCM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPSM ถึง DOCM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นEMF,PDF ถึง EMF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDF ถึง EMF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นEMF,PDF ถึง EMF ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPDF ถึง EMF โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

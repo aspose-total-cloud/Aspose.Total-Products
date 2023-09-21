@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นSVG,TSV ถึง SVG ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTSV ถึง SVG โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นSVG,TSV ถึง SVG ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของTSV ถึง SVG โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

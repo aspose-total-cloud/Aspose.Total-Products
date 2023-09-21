@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นCHM,XLSB ถึง CHM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLSB ถึง CHM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นCHM,XLSB ถึง CHM ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของXLSB ถึง CHM โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

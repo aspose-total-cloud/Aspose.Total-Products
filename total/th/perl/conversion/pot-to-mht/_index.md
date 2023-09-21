@@ -1,0 +1,1 @@
+---title: แปลง PowerPoint เป็นMHT,POT ถึง MHT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของPOT ถึง MHT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

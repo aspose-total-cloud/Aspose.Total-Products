@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,PDFA ถึง XLSX ตัวแปลงฟรี หรือ Curl SDKdescription: การแปลงฟรีของPDFA ถึง XLSX โดยใช้ Curl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

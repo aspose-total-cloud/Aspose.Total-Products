@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นNUMBERS,ODP ถึง NUMBERS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของODP ถึง NUMBERS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นNUMBERS,ODP ถึง NUMBERS ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของODP ถึง NUMBERS โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

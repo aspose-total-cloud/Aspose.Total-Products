@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นTXT,WEB ถึง TXT ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของWEB ถึง TXT โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

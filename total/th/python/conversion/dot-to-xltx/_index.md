@@ -1,1 +1,1 @@
----title: แปลง Word เป็นXLTX,DOT ถึง XLTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOT ถึง XLTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นXLTX,DOT ถึง XLTX ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOT ถึง XLTX โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

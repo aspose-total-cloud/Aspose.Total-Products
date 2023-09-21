@@ -1,0 +1,1 @@
+---title: แปลง Word เป็นTEX,ODT ถึง TEX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของODT ถึง TEX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

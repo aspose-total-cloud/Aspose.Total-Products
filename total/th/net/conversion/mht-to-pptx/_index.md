@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPPTX,MHT ถึง PPTX ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของMHT ถึง PPTX โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

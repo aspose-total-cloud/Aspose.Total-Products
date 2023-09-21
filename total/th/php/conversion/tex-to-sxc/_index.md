@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นSXC,TEX ถึง SXC ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของTEX ถึง SXC โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

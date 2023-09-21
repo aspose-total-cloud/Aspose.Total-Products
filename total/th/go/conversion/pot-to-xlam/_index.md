@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นXLAM,POT ถึง XLAM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOT ถึง XLAM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นXLAM,POT ถึง XLAM ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของPOT ถึง XLAM โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

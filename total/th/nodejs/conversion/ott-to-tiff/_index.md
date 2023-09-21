@@ -1,1 +1,1 @@
----title: แปลง Word เป็นTIFF,OTT ถึง TIFF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTT ถึง TIFF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นTIFF,OTT ถึง TIFF ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของOTT ถึง TIFF โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นDOCM,PPT ถึง DOCM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPT ถึง DOCM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นDOCM,PPT ถึง DOCM ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของPPT ถึง DOCM โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

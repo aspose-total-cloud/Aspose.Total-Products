@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPT,HTML ถึง PPT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของHTML ถึง PPT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPT,HTML ถึง PPT ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของHTML ถึง PPT โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นGIF,XLTM ถึง GIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLTM ถึง GIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นGIF,XLTM ถึง GIF ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของXLTM ถึง GIF โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

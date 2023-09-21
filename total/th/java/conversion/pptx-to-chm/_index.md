@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นCHM,PPTX ถึง CHM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTX ถึง CHM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นCHM,PPTX ถึง CHM ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของPPTX ถึง CHM โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLSX,SVG ถึง XLSX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของSVG ถึง XLSX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

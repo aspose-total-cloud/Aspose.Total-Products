@@ -1,1 +1,1 @@
----title: แปลง Word เป็นBMP,DOT ถึง BMP ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOT ถึง BMP โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นBMP,DOT ถึง BMP ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของDOT ถึง BMP โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

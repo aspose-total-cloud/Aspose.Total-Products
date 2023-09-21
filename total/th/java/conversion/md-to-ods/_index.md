@@ -1,1 +1,1 @@
----title: แปลง Word เป็นODS,MD ถึง ODS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของMD ถึง ODS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นODS,MD ถึง ODS ตัวแปลงฟรี หรือ Java SDKdescription: การแปลงฟรีของMD ถึง ODS โดยใช้ Java Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

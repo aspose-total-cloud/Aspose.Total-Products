@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLTM,PS ถึง XLTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของPS ถึง XLTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

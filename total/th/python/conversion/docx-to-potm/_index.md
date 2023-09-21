@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPOTM,DOCX ถึง POTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOCX ถึง POTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPOTM,DOCX ถึง POTM ตัวแปลงฟรี หรือ Python SDKdescription: การแปลงฟรีของDOCX ถึง POTM โดยใช้ Python Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLS,MHT ถึง XLS ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของMHT ถึง XLS โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

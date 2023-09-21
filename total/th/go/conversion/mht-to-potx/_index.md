@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นPOTX,MHT ถึง POTX ตัวแปลงฟรี หรือ GO SDKdescription: การแปลงฟรีของMHT ถึง POTX โดยใช้ GO Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

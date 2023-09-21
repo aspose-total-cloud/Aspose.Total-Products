@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นBMP,MHT ถึง BMP ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของMHT ถึง BMP โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

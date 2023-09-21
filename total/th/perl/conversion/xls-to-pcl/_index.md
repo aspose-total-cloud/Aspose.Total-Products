@@ -1,1 +1,1 @@
----title: แปลง Excel เป็นPCL,XLS ถึง PCL ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLS ถึง PCL โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---
+---title: แปลง Excel เป็นPCL,XLS ถึง PCL ตัวแปลงฟรี หรือ Perl SDKdescription: การแปลงฟรีของXLS ถึง PCL โดยใช้ Perl Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลแผ่นงานหรือสเปรดชีต Microsoft Excel, CSV และ SpreadsheetML ในคลาวด์---

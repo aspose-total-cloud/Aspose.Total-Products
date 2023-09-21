@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นNUMBERS,ODP ถึง NUMBERS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง NUMBERS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นNUMBERS,ODP ถึง NUMBERS ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของODP ถึง NUMBERS โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

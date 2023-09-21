@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นDOCX,XPS ถึง DOCX ตัวแปลงฟรี หรือ Nodejs SDKdescription: การแปลงฟรีของXPS ถึง DOCX โดยใช้ Nodejs Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

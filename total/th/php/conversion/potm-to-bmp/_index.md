@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นBMP,POTM ถึง BMP ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง BMP โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นBMP,POTM ถึง BMP ตัวแปลงฟรี หรือ PHP SDKdescription: การแปลงฟรีของPOTM ถึง BMP โดยใช้ PHP Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

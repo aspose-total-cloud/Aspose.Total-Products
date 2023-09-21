@@ -1,0 +1,1 @@
+---title: แปลง PDF เป็นXLT,SVG ถึง XLT ตัวแปลงฟรี หรือ Swift SDKdescription: การแปลงฟรีของSVG ถึง XLT โดยใช้ Swift Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---

@@ -1,1 +1,1 @@
----title: แปลง Word เป็นPPTM,TXT ถึง PPTM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTXT ถึง PPTM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---
+---title: แปลง Word เป็นPPTM,TXT ถึง PPTM ตัวแปลงฟรี หรือ Android SDKdescription: การแปลงฟรีของTXT ถึง PPTM โดยใช้ Android Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft Word & OpenOffice ในระบบคลาวด์---

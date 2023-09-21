@@ -1,1 +1,1 @@
----title: แปลง PowerPoint เป็นBMP,ODP ถึง BMP ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง BMP โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---
+---title: แปลง PowerPoint เป็นBMP,ODP ถึง BMP ตัวแปลงฟรี หรือ Net SDKdescription: การแปลงฟรีของODP ถึง BMP โดยใช้ Net Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร Microsoft PowerPoint ในระบบคลาวด์---

@@ -1,0 +1,1 @@
+---title: แปลง Webpage เป็นSXC,WEB ถึง SXC ตัวแปลงฟรี หรือ C++ SDKdescription: การแปลงฟรีของWEB ถึง SXC โดยใช้ C++ Cloud APIs & SDK นอกจากนี้ยังสร้าง แก้ไข และแสดงผลเอกสาร PDF ในระบบคลาวด์---
