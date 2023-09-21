@@ -1,1 +1,1 @@
----title: Chuyển Word thành BMP, MHTML thành BMP Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của MHTML thành BMP bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
+---title: Chuyển Word thành BMP, MHTML thành BMP Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của MHTML thành BMP bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

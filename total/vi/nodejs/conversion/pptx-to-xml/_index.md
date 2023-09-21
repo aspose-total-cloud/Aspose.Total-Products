@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành XML, PPTX thành XML Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của PPTX thành XML bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành XML, PPTX thành XML Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của PPTX thành XML bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

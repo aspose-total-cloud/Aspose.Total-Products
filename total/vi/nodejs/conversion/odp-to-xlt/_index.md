@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành XLT, ODP thành XLT Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của ODP thành XLT bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành XLT, ODP thành XLT Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của ODP thành XLT bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

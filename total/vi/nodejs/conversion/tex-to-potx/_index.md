@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành POTX, TEX thành POTX Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của TEX thành POTX bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

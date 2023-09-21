@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành XLSX, MHT thành XLSX Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của MHT thành XLSX bằng cách sử dụng Perl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

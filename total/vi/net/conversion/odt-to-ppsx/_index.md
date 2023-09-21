@@ -1,1 +1,1 @@
----title: Chuyển Word thành PPSX, ODT thành PPSX Trình chuyển đổi MIỄN PHÍ hoặc Net SDKdescription: Chuyển đổi miễn phí của ODT thành PPSX bằng cách sử dụng Net Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
+---title: Chuyển Word thành PPSX, ODT thành PPSX Trình chuyển đổi MIỄN PHÍ hoặc Net SDKdescription: Chuyển đổi miễn phí của ODT thành PPSX bằng cách sử dụng Net Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

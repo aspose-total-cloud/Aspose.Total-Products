@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành JSON, SVG thành JSON Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của SVG thành JSON bằng cách sử dụng Perl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

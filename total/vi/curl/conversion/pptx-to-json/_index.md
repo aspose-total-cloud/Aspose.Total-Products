@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành JSON, PPTX thành JSON Trình chuyển đổi MIỄN PHÍ hoặc Curl SDKdescription: Chuyển đổi miễn phí của PPTX thành JSON bằng cách sử dụng Curl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành JSON, PPTX thành JSON Trình chuyển đổi MIỄN PHÍ hoặc Curl SDKdescription: Chuyển đổi miễn phí của PPTX thành JSON bằng cách sử dụng Curl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

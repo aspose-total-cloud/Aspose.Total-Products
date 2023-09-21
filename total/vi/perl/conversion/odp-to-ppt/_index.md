@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành PPT, ODP thành PPT Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của ODP thành PPT bằng cách sử dụng Perl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành PPT, ODP thành PPT Trình chuyển đổi MIỄN PHÍ hoặc Perl SDKdescription: Chuyển đổi miễn phí của ODP thành PPT bằng cách sử dụng Perl Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

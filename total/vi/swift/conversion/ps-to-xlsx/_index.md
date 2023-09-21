@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành XLSX, PS thành XLSX Trình chuyển đổi MIỄN PHÍ hoặc Swift SDKdescription: Chuyển đổi miễn phí của PS thành XLSX bằng cách sử dụng Swift Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

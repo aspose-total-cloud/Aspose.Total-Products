@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành PPT, EPUB thành PPT Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của EPUB thành PPT bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

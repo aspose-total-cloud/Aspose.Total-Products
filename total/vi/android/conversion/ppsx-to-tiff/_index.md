@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành TIFF, PPSX thành TIFF Trình chuyển đổi MIỄN PHÍ hoặc Android SDKdescription: Chuyển đổi miễn phí của PPSX thành TIFF bằng cách sử dụng Android Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành TIFF, PPSX thành TIFF Trình chuyển đổi MIỄN PHÍ hoặc Android SDKdescription: Chuyển đổi miễn phí của PPSX thành TIFF bằng cách sử dụng Android Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

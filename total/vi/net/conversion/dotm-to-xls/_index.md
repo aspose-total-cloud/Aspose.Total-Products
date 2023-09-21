@@ -1,1 +1,1 @@
----title: Chuyển Word thành XLS, DOTM thành XLS Trình chuyển đổi MIỄN PHÍ hoặc Net SDKdescription: Chuyển đổi miễn phí của DOTM thành XLS bằng cách sử dụng Net Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
+---title: Chuyển Word thành XLS, DOTM thành XLS Trình chuyển đổi MIỄN PHÍ hoặc Net SDKdescription: Chuyển đổi miễn phí của DOTM thành XLS bằng cách sử dụng Net Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

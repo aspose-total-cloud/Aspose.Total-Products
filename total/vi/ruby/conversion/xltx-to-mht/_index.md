@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang MHT, XLTX thành MHT Trình chuyển đổi MIỄN PHÍ hoặc Ruby SDKdescription: Chuyển đổi miễn phí của XLTX thành MHT bằng cách sử dụng Ruby Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

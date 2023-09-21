@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành TXT, PS thành TXT Trình chuyển đổi MIỄN PHÍ hoặc Java SDKdescription: Chuyển đổi miễn phí của PS thành TXT bằng cách sử dụng Java Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

@@ -1,1 +1,1 @@
----title: Chuyển Word thành XLT, ODT thành XLT Trình chuyển đổi MIỄN PHÍ hoặc Android SDKdescription: Chuyển đổi miễn phí của ODT thành XLT bằng cách sử dụng Android Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
+---title: Chuyển Word thành XLT, ODT thành XLT Trình chuyển đổi MIỄN PHÍ hoặc Android SDKdescription: Chuyển đổi miễn phí của ODT thành XLT bằng cách sử dụng Android Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

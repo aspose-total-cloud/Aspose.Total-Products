@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành PPTM, PPS thành PPTM Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của PPS thành PPTM bằng cách sử dụng Python Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành PPTM, PPS thành PPTM Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của PPS thành PPTM bằng cách sử dụng Python Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

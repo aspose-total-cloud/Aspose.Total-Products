@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành TXT, SVG thành TXT Trình chuyển đổi MIỄN PHÍ hoặc Net SDKdescription: Chuyển đổi miễn phí của SVG thành TXT bằng cách sử dụng Net Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

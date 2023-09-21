@@ -1,1 +1,1 @@
----title: Chuyển Word thành XML, TXT thành XML Trình chuyển đổi MIỄN PHÍ hoặc C++ SDKdescription: Chuyển đổi miễn phí của TXT thành XML bằng cách sử dụng C++ Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
+---title: Chuyển Word thành XML, TXT thành XML Trình chuyển đổi MIỄN PHÍ hoặc C++ SDKdescription: Chuyển đổi miễn phí của TXT thành XML bằng cách sử dụng C++ Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---

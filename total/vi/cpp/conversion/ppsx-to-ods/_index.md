@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành ODS, PPSX thành ODS Trình chuyển đổi MIỄN PHÍ hoặc C++ SDKdescription: Chuyển đổi miễn phí của PPSX thành ODS bằng cách sử dụng C++ Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành ODS, PPSX thành ODS Trình chuyển đổi MIỄN PHÍ hoặc C++ SDKdescription: Chuyển đổi miễn phí của PPSX thành ODS bằng cách sử dụng C++ Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

@@ -1,6 +1,7 @@
 ﻿---
-title: Cloud based Document manipulation SDKs with JSON response 
-description: Platform independent Cloud SDKs offering File Format manipulation capabilities for Word Excel PDF PowerPoint Barcode MS-Project Email Image HTML Video files.
+title: SDK thao tác MS Office, Word, Excel, PowerPoint, PDF dựa trên đám mây với phản hồi JSON
+description: SDK đám mây độc lập với nền tảng cung cấp khả năng thao tác Định dạng tệp cho các tệp Video HTML hình ảnh HTML của Microsoft Word Excel PDF PowerPoint.
+
 weight: 10
 url: /
 ---

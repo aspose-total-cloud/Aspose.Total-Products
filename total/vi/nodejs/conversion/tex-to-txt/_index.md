@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành TXT, TEX thành TXT Trình chuyển đổi MIỄN PHÍ hoặc Nodejs SDKdescription: Chuyển đổi miễn phí của TEX thành TXT bằng cách sử dụng Nodejs Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

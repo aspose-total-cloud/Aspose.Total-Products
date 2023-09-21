@@ -1,0 +1,1 @@
+---title: Chuyển đổi PDF thành XLS, PS thành XLS Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của PS thành XLS bằng cách sử dụng Python Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu PDF trong Đám mây.---

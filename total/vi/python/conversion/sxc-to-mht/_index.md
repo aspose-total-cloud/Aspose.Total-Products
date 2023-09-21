@@ -1,0 +1,1 @@
+---title: Chuyển đổi Excel sang MHT, SXC thành MHT Trình chuyển đổi MIỄN PHÍ hoặc Python SDKdescription: Chuyển đổi miễn phí của SXC thành MHT bằng cách sử dụng Python Cloud API & SDK. Đồng thời, tạo, chỉnh sửa và kết xuất trang tính hoặc bảng tính Microsoft Excel, CSV và SpreadsheetML trong Đám mây.---

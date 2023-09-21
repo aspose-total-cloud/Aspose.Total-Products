@@ -1,1 +1,1 @@
----title: Chuyển đổi PowerPoint thành TIFF, PPTM thành TIFF Trình chuyển đổi MIỄN PHÍ hoặc Swift SDKdescription: Chuyển đổi miễn phí của PPTM thành TIFF bằng cách sử dụng Swift Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---
+---title: Chuyển đổi PowerPoint thành TIFF, PPTM thành TIFF Trình chuyển đổi MIỄN PHÍ hoặc Swift SDKdescription: Chuyển đổi miễn phí của PPTM thành TIFF bằng cách sử dụng Swift Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft PowerPoint trong Đám mây.---

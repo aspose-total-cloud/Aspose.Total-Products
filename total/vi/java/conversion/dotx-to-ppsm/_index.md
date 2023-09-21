@@ -1,1 +1,1 @@
----title: Chuyển Word thành PPSM, DOTX thành PPSM Trình chuyển đổi MIỄN PHÍ hoặc Java SDKdescription: Chuyển đổi miễn phí của DOTX thành PPSM bằng cách sử dụng Java Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
+---title: Chuyển Word thành PPSM, DOTX thành PPSM Trình chuyển đổi MIỄN PHÍ hoặc Java SDKdescription: Chuyển đổi miễn phí của DOTX thành PPSM bằng cách sử dụng Java Cloud API & SDK. Đồng thời Tạo, Chỉnh sửa & Kết xuất tài liệu Microsoft Word & OpenOffice trong Đám mây.---
