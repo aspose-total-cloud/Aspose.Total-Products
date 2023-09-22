@@ -1,4 +1,4 @@
 ﻿---
-title：使用 .NET SDK 转换合并拆分 Excel PowerPoint PDF
-description：使用 .NET 云 API 和 SDK 免费转换 Microsoft Word、Excel、PowerPoint、PDF。 还可以在云中创建、编辑和渲染 Microsoft Word 和 OpenOffice 文档。
+title: Convert Merge Split Word Excel PowerPoint using C#.Net SDK
+description: Free Conversion of Microsoft Word, Excel PowerPoint using C#.NET Cloud APIs & SDKs. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.
 ---
