@@ -1,79 +1,79 @@
 ﻿---
-title: MS Office, Word, Excel, PowerPoint, SDKs de manipulação de PDF baseados em nuvem com resposta JSON
-description: SDKs de nuvem independentes de plataforma que oferecem recursos de manipulação de formato de arquivo para arquivos de vídeo HTML de imagem de e-mail do Microsoft Word Excel PDF PowerPoint Barcode MS-Project.
+title: SDKs de manipulação de documentos baseados em nuvem com resposta JSON
+description: SDKs de nuvem independentes de plataforma que oferecem recursos de manipulação de formato de arquivo para arquivos de vídeo Word Excel PDF PowerPoint Barcode MS-Project Email Image HTML.
 weight: 10
 url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Office Documents in Cloud" h2="Cloud SDKs to Manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 other file formats in any type of application." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
+{{< blocks/products/pf/upper-banner h1="Manipule documentos do Office na nuvem" h2="Cloud SDKs para manipular Word, Excel, PDF, PowerPoint, Outlook, Visio e mais de 100 outros formatos de arquivo em qualquer tipo de aplicação." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/product-logos/aspose_total-for-cloud.svg" liveDemosLink="https://products.aspose.app" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud/" docsLink="https://docs.aspose.cloud/total/" directDownloadLink="https://releases.aspose.cloud/" pfName="Aspose.Total" subTitlepfName="Cloud Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud offers REST based SDKs providing the capabilities for document generation, conversion and automation platform. Use our award winning SDKs and perform all these operations in the cloud. It makes easier for the Web and Mobile application developers to work with Microsoft Word documents, Excel spreadsheets, PowerPoint presentations, Adobe PDFs, OpenDocument formats, Barcodes, OCR, Microsoft Visio Diagrams and Email formats & protocols in their apps. The SDKs can be called from any platform: .NET, Java, Ruby, Salesforce, and Amazon etc. 
+{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud oferece SDKs baseados em REST, fornecendo recursos para geração de documentos, conversão e plataforma de automação. Use nossos SDKs premiados e execute todas essas operações na nuvem. Torna mais fácil para os desenvolvedores de aplicativos da Web e móveis trabalharem com documentos do Microsoft Word, planilhas do Excel, apresentações do PowerPoint, Adobe PDFs, formatos OpenDocument, códigos de barras, OCR, diagramas do Microsoft Visio e formatos e protocolos de e-mail em seus aplicativos. Os SDKs podem ser chamados de qualquer plataforma: .NET, Java, Ruby, Salesforce e Amazon etc.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total Cloud includes following document manipulation SDKs:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total Cloud inclui os seguintes SDKs de manipulação de documentos:" >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Words Cloud Product Family" imgSrc="/product-logos/aspose_words-for-cloud.svg" href="/words/family/" >}}
-A set of platform independent Word document manipulation SDKs, that can be used on any language supporting HTTP requests. Create, modify and convert Word documents in the cloud. It supports DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB and many other formats.
+Um conjunto de SDKs de manipulação de documentos do Word independentes de plataforma, que podem ser usados em qualquer linguagem que suporte solicitações HTTP. Crie, modifique e converta documentos do Word na nuvem. Suporta DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB e muitos outros formatos.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.PDF Cloud Product Family" imgSrc="/product-logos/aspose_pdf-for-cloud.svg" href="/pdf/family/" >}}
-Aspose.PDF Cloud provides platform independent - true REST based SDKs for creating, modifying, managing and converting PDF files over web, desktop, mobile and cloud platforms. Developers can easily read, write, convert and manipulate PDF documents in the cloud.
+Aspose.PDF Cloud fornece SDKs independentes de plataforma - verdadeiros REST para criar, modificar, gerenciar e converter arquivos PDF em plataformas web, desktop, móveis e em nuvem. Os desenvolvedores podem ler, escrever, converter e manipular facilmente documentos PDF na nuvem.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Cells Cloud Product Family" imgSrc="/product-logos/aspose_cells-for-cloud.svg" href="/cells/family/" >}}
-Aspose.Cells Cloud offers REST based SDKs with features to create, modify, manage and convert Excel spreadsheets formats including XLS, XLSX, XLSM, XLTX, XLTM and ODS as well as CSV, TSV & HTML.
+Aspose.Cells Cloud oferece SDKs baseados em REST com recursos para criar, modificar, gerenciar e converter formatos de planilhas Excel, incluindo XLS, XLSX, XLSM, XLTX, XLTM e ODS, bem como CSV, TSV e HTML.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Email Cloud Product Family" imgSrc="/product-logos/aspose_email-for-cloud.svg" href="/email/family/" >}}
-Aspose.Email Cloud allows email message processing in cloud-based applications. True REST based SDKs can be used with any language and on any platform with native support for Outlook message format such as MSG as well as EML & MHTML formats.
+Aspose.Email Cloud permite o processamento de mensagens de e-mail em aplicativos baseados em nuvem. Os SDKs baseados em REST verdadeiros podem ser usados com qualquer linguagem e em qualquer plataforma com suporte nativo para formatos de mensagens do Outlook, como MSG, bem como formatos EML e MHTML.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Slides Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/slides/family/" >}}
-Offers unique PowerPoint management SDKs that enable you to read, write, convert and manipulate PowerPoint presentations in the cloud. It supports most popular presentation formats including PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP and many more.
+Oferece SDKs exclusivos de gerenciamento do PowerPoint que permitem ler, escrever, converter e manipular apresentações do PowerPoint na nuvem. Suporta os formatos de apresentação mais populares, incluindo PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP e muitos mais.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Imaging Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/imaging/family/" >}}
-Aspose.Imaging Cloud provides imaging SDKs, enabling the developers to manipulate & convert image in their applications. These are developed on top of REST APIs and can be used with any language and on any platform. The SDKs support reading & writing raster image formats including PNG, GIF, BMP, TIFF and JPEG. 
+Aspose.Imaging Cloud fornece SDKs de imagem, permitindo aos desenvolvedores manipular e converter imagens em seus aplicativos. Eles são desenvolvidos com base em APIs REST e podem ser usados com qualquer linguagem e em qualquer plataforma. Os SDKs suportam leitura e gravação de formatos de imagem raster, incluindo PNG, GIF, BMP, TIFF e JPEG.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.BarCode Cloud Product Family" imgSrc="/product-logos/aspose_barcode-for-cloud.svg" href="/barcode/family/" >}}
-Aspose.BarCode Cloud enables the developers to quickly and easily add barcode generation and recognition functionalities to their applications. These SDKs are developed on top of true REST APIs, therefore can be used with any language and on any platform.
+Aspose.BarCode Cloud permite que os desenvolvedores adicionem de forma rápida e fácil funcionalidades de geração e reconhecimento de código de barras aos seus aplicativos. Esses SDKs são desenvolvidos com base em APIs REST verdadeiras, portanto, podem ser usados com qualquer linguagem e em qualquer plataforma.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Diagram Cloud Product Family" imgSrc="/product-logos/aspose_diagram-for-cloud.svg" href="/diagram/family/" >}}
-Create applications providing the capabilities to Create, Manipulate or Convert Microsoft Visio Diagrams. Platform independence and Cloud computing powers of Cloud SDKs enable you to use our SDKs on any platform, that is capable of calling REST APIs.
+Crie aplicativos que fornecem recursos para criar, manipular ou converter diagramas do Microsoft Visio. A independência de plataforma e os poderes de computação em nuvem dos Cloud SDKs permitem que você use nossos SDKs em qualquer plataforma que seja capaz de chamar APIs REST.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Tasks Cloud Product Family" imgSrc="/product-logos/aspose_tasks-for-cloud.svg" href="/tasks/family/" >}}
-Aspose.Tasks Cloud Product family is a set of REST based SDKs providing the features for manipulating Microsoft Project files, as well as the project data including Tasks, Resources, Task links and Assignments in the cloud. 
+A família de produtos Aspose.Tasks Cloud é um conjunto de SDKs baseados em REST que fornece recursos para manipular arquivos do Microsoft Project, bem como os dados do projeto, incluindo tarefas, recursos, links de tarefas e atribuições na nuvem.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.OCR Cloud Product Family" imgSrc="/product-logos/aspose_ocr-for-cloud.svg" href="/ocr/family/" >}}
-Aspose.OCR Cloud provides Optical Character Recognition SDKs that allow developers to add OCR functionality to their applications. These are true REST based SDKs can can be used with any language and on any platform.
+Aspose.OCR Cloud fornece SDKs de reconhecimento óptico de caracteres que permitem aos desenvolvedores adicionar funcionalidade OCR aos seus aplicativos. Esses são verdadeiros SDKs baseados em REST que podem ser usados com qualquer linguagem e em qualquer plataforma.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.OMR Cloud Product Family" imgSrc="/product-logos/aspose_omr-for-cloud.svg" href="/omr/family/" >}}
-Empowers the developers to add Optical Mark Recognition functionality to their applications. The SDKs allow reading human-marked data from scans or photos of document forms such as surveys & questionnaires, whereas responses are delivered in JSON format.
+Capacita os desenvolvedores a adicionar a funcionalidade de reconhecimento óptico de marcas aos seus aplicativos. Os SDKs permitem a leitura de dados marcados por humanos a partir de digitalizações ou fotos de formulários de documentos, como pesquisas e questionários, enquanto as respostas são entregues no formato JSON.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.CAD Cloud Product Family" imgSrc="/product-logos/aspose_cad-for-cloud.svg" href="/cad/family/" >}}
-Aspose.CAD Cloud enables the developers to convert popular AutoCAD formats including (DWG, DXF etc) to PDF and Raster images. The SDK does does not require AutoCAD or any other software to be installed.
+Aspose.CAD Cloud permite que os desenvolvedores convertam formatos populares do AutoCAD, incluindo (DWG, DXF etc.) em imagens PDF e Raster. O SDK não requer a instalação do AutoCAD ou de qualquer outro software.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud Product Family" imgSrc="/product-logos/aspose_3d-for-cloud.svg" href="/3d/family/" >}}
-Aspose.3D Cloud helps you fetch 3D objects, models & entities stored on the cloud and perform various operations such as rotation, scaling, transformation, translation, and conversion from one 3D format to another.
+Aspose.3D Cloud ajuda você a buscar objetos, modelos e entidades 3D armazenados na nuvem e realizar várias operações, como rotação, dimensionamento, transformação, tradução e conversão de um formato 3D para outro.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.HTML Cloud Product Family" imgSrc="/product-logos/aspose_html-for-cloud.svg" href="/html/family/" >}}
-A collection of SDKs developed on top of true REST APIs, enabling you to perform a wide range of file processing operations including creation, manipulation, conversion and rendering of HTML file in the cloud. Also support HTML conversion to fixed layout document formats such as PDF, XPS and image formats.
+Uma coleção de SDKs desenvolvidos com base em APIs REST verdadeiras, permitindo executar uma ampla variedade de operações de processamento de arquivos, incluindo criação, manipulação, conversão e renderização de arquivos HTML na nuvem. Também oferece suporte à conversão de HTML para formatos de documentos de layout fixo, como PDF, XPS e formatos de imagem.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud Product Family" imgSrc="/product-logos/aspose_video-for-cloud.svg" href="/video/family/" >}}
-Aspose.Video Cloud offers a complete range of SDKs, developed on top of true REST APIs, and they enable you to edit video file properties such as FPS, aspect ratio and resolution. Besides files manipulation, they also enable you to convert the video files to different supported formats and also re-encode them with the different video codecs.
+Aspose.Video Cloud oferece uma gama completa de SDKs, desenvolvidos com base em verdadeiras APIs REST, e permitem editar propriedades de arquivos de vídeo, como FPS, proporção de aspecto e resolução. Além da manipulação de arquivos, eles também permitem converter os arquivos de vídeo para diferentes formatos suportados e também recodificá-los com diferentes codecs de vídeo.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< /blocks/products/pf/total/products >}}
@@ -83,98 +83,98 @@ Aspose.Video Cloud offers a complete range of SDKs, developed on top of true RES
  <a class="anchor" id="features" name="features">
   <div class="row">
   <div class="container">
-<h2 class="h2title"></a> Advanced Features of Aspose.Total Cloud SDKs</h2>
-<p>Delivering our very best, and getting better with each release.</p>
+<h2 class="h2title"></a> Recursos avançados dos SDKs Aspose.Total Cloud</h2>
+<p>Entregamos o que temos de melhor e melhoramos a cada lançamento.</p>
 <div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert documents to images</p>
+<p class="col-lg-10">Converta documentos em imagens</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-envelope ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Perform mail merge</p>
+<p class="col-lg-10">Executar mala direta</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-word-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert Microsoft Office, Acrobat PDF, OpenDocument and many other formats</p>
+<div class="col-lg-4"><em class="fa fa-file-word-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Converta Microsoft Office, Acrobat PDF, OpenDocument e muitos outros formatos</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-barcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Add barcodes to Word documents</p>
+<p class="col-lg-10">Adicionar códigos de barras a documentos do Word</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-line-chart ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate reports using mail merge</p>
+<p class="col-lg-10">Gerar relatórios usando mala direta</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Build dynamic Excel reports on the fly</p>
+<p class="col-lg-10">Crie relatórios dinâmicos do Excel dinamicamente</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">High-fidelity rendering</p>
+<p class="col-lg-10">Renderização de alta fidelidade</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create documents from scratch</p>
+<p class="col-lg-10">Crie documentos do zero</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-code ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Transform XML to PDF</p>
+<p class="col-lg-10">Transformar XML em PDF</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert images to PDF</p>
+<p class="col-lg-10">Converter imagens em PDF</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create slides</p>
+<p class="col-lg-10">Criar slides</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Configure Visio TimeLine shapes</p>
+<p class="col-lg-10">Configurar formas do Visio TimeLine</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Replace or extract text from PDF documents</p>
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Substitua ou extraia texto de documentos PDF</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-image-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Remove, replace or extract images from PDF</p>
+<p class="col-lg-10">Remover, substituir ou extrair imagens de PDF</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Get information about images in PDF documents</p>
+<p class="col-lg-10">Obtenha informações sobre imagens em documentos PDF</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-save  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate barcode images</p>
+<div class="col-lg-4"><em class="fa fa-save ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Gerar imagens de código de barras</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-qrcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize barcodes from images</p>
+<p class="col-lg-10">Reconhecer códigos de barras de imagens</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-text-width  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract text from images</p>
-</div>
-<div class="col-lg-12">
-<h2 class="h2title">Conveniently Transform Files</h2>
-<p>Aspose Cloud SKDs enable you to equip your application with file format conversion & manipulation capabilities in an easy way so that you could perform file format processing without plunging yourself in the complexities of any format's underlying implementation.</p>
-<p>It lets you perform a number of operations such saving quotes to the PDF documents or extracting data as spreadsheets, in order serve the contents in a format that best suits your users.</p>
+<div class="col-lg-4"><em class="fa fa-text-width ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">Extrair texto de imagens</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Create Images & Thumbnails</h2>
-<p>Images of documents, and images in documents, both features can be used for many different types of documents and applications. Creating the images manually could be a huge overhead but creating them automatically can not be too difficult. Aspose Cloud SKDs gives you several tools for creating and managing images.</p>
-<p>Aspose Cloud SKDs includes features to create, extract & embed images. For instance, you can create images of document pages in order to use them as thumbnails or links on the web pages. You may also convert a page in any document - a spreadsheet, Word document, PDF or presentation - to an image and include that in another document.</p>
+<h2 class="h2title">Transforme arquivos de maneira conveniente</h2>
+<p>Os SKDs do Aspose Cloud permitem equipar seu aplicativo com recursos de conversão e manipulação de formato de arquivo de maneira fácil, para que você possa executar o processamento de formato de arquivo sem mergulhar nas complexidades da implementação subjacente de qualquer formato.</p>
+<p>Ele permite realizar diversas operações, como salvar cotações em documentos PDF ou extrair dados em planilhas, para disponibilizar o conteúdo no formato que melhor se adapta aos seus usuários.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Powerful Reporting, Document Assembly & Mail Merge</h2>
-<p>Companies keep data in a lot of different places, however, with Aspose Cloud SKDs, you can bring them all together in your web or mobile apps. Set up templates and merge data from external sources to create letters, reports or documents. Thanks to the wide variety of formats that we support, the final document can be saved in one or more formats as it suits your users.</p>
+<h2 class="h2title">Criar imagens e miniaturas</h2>
+<p>Imagens de documentos e imagens em documentos, ambos os recursos podem ser usados para muitos tipos diferentes de documentos e aplicações. Criar as imagens manualmente pode ser uma grande sobrecarga, mas criá-las automaticamente não pode ser muito difícil. Aspose Cloud SKDs oferece várias ferramentas para criar e gerenciar imagens.</p>
+<p>Aspose Cloud SKDs inclui recursos para criar, extrair e incorporar imagens. Por exemplo, você pode criar imagens de páginas de documentos para usá-las como miniaturas ou links nas páginas da web. Você também pode converter uma página de qualquer documento (uma planilha, um documento do Word, um PDF ou uma apresentação) em uma imagem e incluí-la em outro documento.</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Process a Multitude of File Formats</h2>
-<p>Aspose Cloud SKDs allows you to build an incredibly versatile file processing system capable of handling many popular file formats. You can easily create, modify & even inter-convert files . Aspose.Total Cloud will allow you to conveniently process the following file formats:</p>
-<ul class="unstyled"><li>Microsoft Word documents</li>
-<li>Microsoft Excel spreadsheets</li>
-<li>Microsoft PowerPoint presentations</li>
-<li>Adobe PDF Documents</li>
-<li>Microsoft Visio Diagrams</li>
-<li>Commonly used image formats</li>
+<h2 class="h2title">Relatórios avançados, montagem de documentos e mala direta</h2>
+<p>As empresas mantêm dados em vários lugares diferentes, no entanto, com os SKDs do Aspose Cloud, você pode reuni-los todos em seus aplicativos web ou móveis. Configure modelos e mescle dados de fontes externas para criar cartas, relatórios ou documentos. Graças à grande variedade de formatos que suportamos, o documento final pode ser salvo em um ou mais formatos, conforme for mais adequado aos seus usuários.</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">Processar uma infinidade de formatos de arquivo</h2>
+<p>O Aspose Cloud SKDs permite que você crie um sistema de processamento de arquivos incrivelmente versátil, capaz de lidar com muitos formatos de arquivo populares. Você pode facilmente criar, modificar e até mesmo converter arquivos entre si. Aspose.Total Cloud permitirá que você processe convenientemente os seguintes formatos de arquivo:</p>
+<ul class="unstyled"><li>Documentos do Microsoft Word</li>
+<li>Planilhas Microsoft Excel</li>
+<li>Apresentações do Microsoft PowerPoint</li>
+<li>Documentos Adobe PDF</li>
+<li>Diagramas do Microsoft Visio</li>
+<li>Formatos de imagem comumente usados</li>
 </ul></div>
 <div class="col-lg-12">
-<h2 class="h2title">Manage & Keep Track of Documents</h2>
-<p>Document management is crucial for all companies especially when it comes to track file and archive these generated documents. With Aspose Cloud SKDs, you have several options on how to manage documents:</p>
-<ul class="unstyled"><li>Track documents with barcodes - encode document information and embedded in the document</li>
-<li>Add watermarks to signal a document's status</li>
-<li>Change headers or footers as a document reaches a particular point in a work flow</li>
-<li>Insert text or images to signal a document's status</li>
+<h2 class="h2title">Gerenciar e acompanhar documentos</h2>
+<p>O gerenciamento de documentos é crucial para todas as empresas, especialmente quando se trata de rastrear e arquivar esses documentos gerados. Com Aspose Cloud SKDs, você tem várias opções sobre como gerenciar documentos:</p>
+<ul class="unstyled"><li>Rastreie documentos com códigos de barras - codifique as informações do documento e incorpore-as no documento</li>
+<li>Adicione marcas d’água para sinalizar o status de um documento</li>
+<li>Alterar cabeçalhos ou rodapés à medida que um documento atinge um ponto específico em um fluxo de trabalho</li>
+<li>Insira texto ou imagens para sinalizar o status de um documento</li>
 </ul></div>
 <div class="col-lg-12">
-<h2 class="h2title">Language, Platform & Storage Independence</h2>
-<p>Aspose Cloud SKDs are platform independent & are developed on top of true REST based document manipulation APIs. These characteristics allow us to use them in any language: .NET, Java, PHP, Android, Python, Ruby, Rails, Node.js, Swift, jQuery and many more.</p>
-<p>You can use them on any platform i.e. Web, Desktop, Mobile, and Cloud. The SDKs can also integrate with other cloud services to give you the flexibility you need when processing documents. You can also use Aspose.Total Cloud with many third party storage providers including Amazon S3, Google Cloud, Google Drive and DropBox.</p>
+<h2 class="h2title">Independência de idioma, plataforma e armazenamento</h2>
+<p>Os SKDs do Aspose Cloud são independentes de plataforma e são desenvolvidos com base em verdadeiras APIs de manipulação de documentos baseadas em REST. Essas características nos permitem utilizá-los em qualquer linguagem: .NET, Java, PHP, Android, Python, Ruby, Rails, Node.js, Swift, jQuery e muito mais.</p>
+<p>Você pode usá-los em qualquer plataforma, ou seja, Web, Desktop, Mobile e Cloud. Os SDKs também podem ser integrados a outros serviços em nuvem para oferecer a flexibilidade necessária ao processar documentos. Você também pode usar o Aspose.Total Cloud com muitos provedores de armazenamento de terceiros, incluindo Amazon S3, Google Cloud, Google Drive e DropBox.</p>
 </div>
 </div>
 </div>

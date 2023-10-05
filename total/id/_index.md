@@ -1,71 +1,71 @@
 ﻿---
 title: SDK manipulasi MS Office, Word, Excel, PowerPoint, PDF berbasis cloud dengan respons JSON
-description: Cloud SDK independen platform yang menawarkan kemampuan manipulasi Format File untuk file Video HTML Gambar Email Microsoft Word Excel PDF PowerPoint Barcode MS-Project.
+description: Cloud SDK platform independen yang menawarkan kemampuan manipulasi Format File untuk file Video HTML Gambar Email Microsoft Word Excel PDF PowerPoint Barcode MS-Project.
 weight: 10
 url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Office Documents in Cloud" h2="Cloud SDKs to Manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 other file formats in any type of application." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
+{{< blocks/products/pf/upper-banner h1="Memanipulasi Dokumen Office di Cloud" h2="Cloud SDK untuk Memanipulasi Word, Excel, PDF, PowerPoint, Outlook, Visio, dan lebih dari 100 format file lainnya dalam semua jenis aplikasi." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/product-logos/aspose_total-for-cloud.svg" liveDemosLink="https://products.aspose.app" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud/" docsLink="https://docs.aspose.cloud/total/" directDownloadLink="https://releases.aspose.cloud/" pfName="Aspose.Total" subTitlepfName="Cloud Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud offers REST based SDKs providing the capabilities for document generation, conversion and automation platform. Use our award winning SDKs and perform all these operations in the cloud. It makes easier for the Web and Mobile application developers to work with Microsoft Word documents, Excel spreadsheets, PowerPoint presentations, Adobe PDFs, OpenDocument formats, Barcodes, OCR, Microsoft Visio Diagrams and Email formats & protocols in their apps. The SDKs can be called from any platform: .NET, Java, Ruby, Salesforce, and Amazon etc. 
+{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud menawarkan SDK berbasis REST yang menyediakan kemampuan untuk pembuatan dokumen, konversi, dan platform otomatisasi. Gunakan SDK pemenang penghargaan kami dan lakukan semua operasi ini di cloud. Memudahkan pengembang aplikasi Web dan Seluler untuk bekerja dengan dokumen Microsoft Word, spreadsheet Excel, presentasi PowerPoint, Adobe PDF, format OpenDocument, Barcode, OCR, Diagram Microsoft Visio, serta format & protokol Email di aplikasi mereka. SDK dapat dipanggil dari platform apa pun: .NET, Java, Ruby, Salesforce, dan Amazon, dll.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total Cloud includes following document manipulation SDKs:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total Cloud mencakup SDK manipulasi dokumen berikut:" >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Words Cloud Product Family" imgSrc="/product-logos/aspose_words-for-cloud.svg" href="/words/family/" >}}
 A set of platform independent Word document manipulation SDKs, that can be used on any language supporting HTTP requests. Create, modify and convert Word documents in the cloud. It supports DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB and many other formats.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.PDF Cloud Product Family" imgSrc="/product-logos/aspose_pdf-for-cloud.svg" href="/pdf/family/" >}}
-Aspose.PDF Cloud provides platform independent - true REST based SDKs for creating, modifying, managing and converting PDF files over web, desktop, mobile and cloud platforms. Developers can easily read, write, convert and manipulate PDF documents in the cloud.
+Aspose.PDF Cloud menyediakan platform independen - SDK berbasis REST sejati untuk membuat, memodifikasi, mengelola, dan mengonversi file PDF melalui platform web, desktop, seluler, dan cloud. Pengembang dapat dengan mudah membaca, menulis, mengonversi, dan memanipulasi dokumen PDF di cloud.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Cells Cloud Product Family" imgSrc="/product-logos/aspose_cells-for-cloud.svg" href="/cells/family/" >}}
-Aspose.Cells Cloud offers REST based SDKs with features to create, modify, manage and convert Excel spreadsheets formats including XLS, XLSX, XLSM, XLTX, XLTM and ODS as well as CSV, TSV & HTML.
+Aspose.Cells Cloud menawarkan SDK berbasis REST dengan fitur untuk membuat, memodifikasi, mengelola, dan mengonversi format spreadsheet Excel termasuk XLS, XLSX, XLSM, XLTX, XLTM dan ODS serta CSV, TSV & HTML.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Email Cloud Product Family" imgSrc="/product-logos/aspose_email-for-cloud.svg" href="/email/family/" >}}
-Aspose.Email Cloud allows email message processing in cloud-based applications. True REST based SDKs can be used with any language and on any platform with native support for Outlook message format such as MSG as well as EML & MHTML formats.
+Aspose.Email Cloud memungkinkan pemrosesan pesan email dalam aplikasi berbasis cloud. SDK berbasis True REST dapat digunakan dengan bahasa apa pun dan pada platform apa pun dengan dukungan asli untuk format pesan Outlook seperti format MSG serta EML & MHTML.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Slides Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/slides/family/" >}}
-Offers unique PowerPoint management SDKs that enable you to read, write, convert and manipulate PowerPoint presentations in the cloud. It supports most popular presentation formats including PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP and many more.
+Menawarkan SDK manajemen PowerPoint unik yang memungkinkan Anda membaca, menulis, mengonversi, dan memanipulasi presentasi PowerPoint di cloud. Ini mendukung sebagian besar format presentasi populer termasuk PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP dan banyak lagi.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Imaging Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/imaging/family/" >}}
-Aspose.Imaging Cloud provides imaging SDKs, enabling the developers to manipulate & convert image in their applications. These are developed on top of REST APIs and can be used with any language and on any platform. The SDKs support reading & writing raster image formats including PNG, GIF, BMP, TIFF and JPEG. 
+Aspose.Imaging Cloud menyediakan SDK pencitraan, memungkinkan pengembang memanipulasi & mengonversi gambar dalam aplikasi mereka. Ini dikembangkan di atas REST API dan dapat digunakan dengan bahasa apa pun dan pada platform apa pun. SDK mendukung membaca & menulis format gambar raster termasuk PNG, GIF, BMP, TIFF, dan JPEG.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.BarCode Cloud Product Family" imgSrc="/product-logos/aspose_barcode-for-cloud.svg" href="/barcode/family/" >}}
-Aspose.BarCode Cloud enables the developers to quickly and easily add barcode generation and recognition functionalities to their applications. These SDKs are developed on top of true REST APIs, therefore can be used with any language and on any platform.
+Aspose.BarCode Cloud memungkinkan pengembang dengan cepat dan mudah menambahkan fungsi pembuatan dan pengenalan kode batang ke aplikasi mereka. SDK ini dikembangkan di atas REST API yang sebenarnya, sehingga dapat digunakan dengan bahasa apa pun dan pada platform apa pun.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Diagram Cloud Product Family" imgSrc="/product-logos/aspose_diagram-for-cloud.svg" href="/diagram/family/" >}}
-Create applications providing the capabilities to Create, Manipulate or Convert Microsoft Visio Diagrams. Platform independence and Cloud computing powers of Cloud SDKs enable you to use our SDKs on any platform, that is capable of calling REST APIs.
+Membuat aplikasi yang menyediakan kemampuan untuk Membuat, Memanipulasi, atau Mengonversi Diagram Microsoft Visio. Independensi platform dan kekuatan komputasi Cloud dari Cloud SDK memungkinkan Anda menggunakan SDK kami di platform apa pun, yang mampu memanggil REST API.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Tasks Cloud Product Family" imgSrc="/product-logos/aspose_tasks-for-cloud.svg" href="/tasks/family/" >}}
-Aspose.Tasks Cloud Product family is a set of REST based SDKs providing the features for manipulating Microsoft Project files, as well as the project data including Tasks, Resources, Task links and Assignments in the cloud. 
+Keluarga Produk Cloud Aspose.Tasks adalah sekumpulan SDK berbasis REST yang menyediakan fitur untuk memanipulasi file Microsoft Project, serta data proyek termasuk Tugas, Sumber Daya, tautan Tugas, dan Tugas di cloud.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.OCR Cloud Product Family" imgSrc="/product-logos/aspose_ocr-for-cloud.svg" href="/ocr/family/" >}}
-Aspose.OCR Cloud provides Optical Character Recognition SDKs that allow developers to add OCR functionality to their applications. These are true REST based SDKs can can be used with any language and on any platform.
+Aspose.OCR Cloud menyediakan SDK Pengenalan Karakter Optik yang memungkinkan pengembang menambahkan fungsionalitas OCR ke aplikasi mereka. Ini adalah SDK berbasis REST yang sebenarnya dan dapat digunakan dengan bahasa apa pun dan pada platform apa pun.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.OMR Cloud Product Family" imgSrc="/product-logos/aspose_omr-for-cloud.svg" href="/omr/family/" >}}
-Empowers the developers to add Optical Mark Recognition functionality to their applications. The SDKs allow reading human-marked data from scans or photos of document forms such as surveys & questionnaires, whereas responses are delivered in JSON format.
+Memberdayakan pengembang untuk menambahkan fungsionalitas Pengenalan Tanda Optik ke aplikasi mereka. SDK memungkinkan pembacaan data yang ditandai manusia dari pindaian atau foto formulir dokumen seperti survei & kuesioner, sedangkan tanggapan dikirimkan dalam format JSON.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.CAD Cloud Product Family" imgSrc="/product-logos/aspose_cad-for-cloud.svg" href="/cad/family/" >}}
-Aspose.CAD Cloud enables the developers to convert popular AutoCAD formats including (DWG, DXF etc) to PDF and Raster images. The SDK does does not require AutoCAD or any other software to be installed.
+Aspose.CAD Cloud memungkinkan pengembang untuk mengkonversi format AutoCAD populer termasuk (DWG, DXF dll) ke gambar PDF dan Raster. SDK tidak memerlukan instalasi AutoCAD atau perangkat lunak lainnya.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud Product Family" imgSrc="/product-logos/aspose_3d-for-cloud.svg" href="/3d/family/" >}}
-Aspose.3D Cloud helps you fetch 3D objects, models & entities stored on the cloud and perform various operations such as rotation, scaling, transformation, translation, and conversion from one 3D format to another.
+Aspose.3D Cloud membantu Anda mengambil objek, model & entitas 3D yang disimpan di cloud dan melakukan berbagai operasi seperti rotasi, penskalaan, transformasi, terjemahan, dan konversi dari satu format 3D ke format lainnya.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.HTML Cloud Product Family" imgSrc="/product-logos/aspose_html-for-cloud.svg" href="/html/family/" >}}
@@ -73,7 +73,7 @@ A collection of SDKs developed on top of true REST APIs, enabling you to perform
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud Product Family" imgSrc="/product-logos/aspose_video-for-cloud.svg" href="/video/family/" >}}
-Aspose.Video Cloud offers a complete range of SDKs, developed on top of true REST APIs, and they enable you to edit video file properties such as FPS, aspect ratio and resolution. Besides files manipulation, they also enable you to convert the video files to different supported formats and also re-encode them with the different video codecs.
+Aspose.Video Cloud menawarkan rangkaian lengkap SDK, yang dikembangkan di atas REST API yang sebenarnya, dan memungkinkan Anda mengedit properti file video seperti FPS, rasio aspek, dan resolusi. Selain manipulasi file, mereka juga memungkinkan Anda mengonversi file video ke format berbeda yang didukung dan juga menyandi ulangnya dengan codec video berbeda.
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< /blocks/products/pf/total/products >}}

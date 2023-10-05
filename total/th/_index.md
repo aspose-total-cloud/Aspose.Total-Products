@@ -1,79 +1,79 @@
 ﻿---
-title: MS Office, Word, Excel, PowerPoint, SDK การจัดการ PDF บนระบบคลาวด์พร้อมการตอบสนอง JSON
-description: Cloud SDK อิสระบนแพลตฟอร์มที่นำเสนอความสามารถในการจัดการรูปแบบไฟล์สำหรับ Microsoft Word Excel PDF PowerPoint บาร์โค้ด MS-Project ไฟล์อีเมล รูปภาพ HTML วิดีโอ
+title: SDK การจัดการเอกสารบนคลาวด์พร้อมการตอบสนอง JSON
+description: Cloud SDK อิสระบนแพลตฟอร์มที่นำเสนอความสามารถในการจัดการรูปแบบไฟล์สำหรับ Word Excel PDF PowerPoint บาร์โค้ด MS-Project อีเมล รูปภาพ ไฟล์วิดีโอ HTML
 weight: 10
 url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Office Documents in Cloud" h2="Cloud SDKs to Manipulate Word, Excel, PDF, PowerPoint, Outlook, Visio and more than 100 other file formats in any type of application." logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
+{{< blocks/products/pf/upper-banner h1="จัดการเอกสาร Office ในระบบคลาวด์" h2="Cloud SDK เพื่อจัดการ Word, Excel, PDF, PowerPoint, Outlook, Visio และรูปแบบไฟล์อื่นๆ มากกว่า 100 รูปแบบในแอปพลิเคชันทุกประเภท" logoImageSrc="/headers/aspose_total-for-cloud.svg" pfName="Aspose.Total">}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/product-logos/aspose_total-for-cloud.svg" liveDemosLink="https://products.aspose.app" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud/" docsLink="https://docs.aspose.cloud/total/" directDownloadLink="https://releases.aspose.cloud/" pfName="Aspose.Total" subTitlepfName="Cloud Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud offers REST based SDKs providing the capabilities for document generation, conversion and automation platform. Use our award winning SDKs and perform all these operations in the cloud. It makes easier for the Web and Mobile application developers to work with Microsoft Word documents, Excel spreadsheets, PowerPoint presentations, Adobe PDFs, OpenDocument formats, Barcodes, OCR, Microsoft Visio Diagrams and Email formats & protocols in their apps. The SDKs can be called from any platform: .NET, Java, Ruby, Salesforce, and Amazon etc. 
+{{< blocks/products/pf/total/overview >}} Aspose.Total Cloud นำเสนอ SDK ที่ใช้ REST ซึ่งมอบความสามารถสำหรับแพลตฟอร์มการสร้างเอกสาร การแปลง และการทำงานอัตโนมัติ ใช้ SDK ที่ได้รับรางวัลของเราและดำเนินการทั้งหมดเหล่านี้ในระบบคลาวด์ ช่วยให้นักพัฒนาแอปพลิเคชันบนเว็บและมือถือทำงานกับเอกสาร Microsoft Word, สเปรดชีต Excel, งานนำเสนอ PowerPoint, Adobe PDF, รูปแบบ OpenDocument, บาร์โค้ด, OCR, Microsoft Visio Diagrams และรูปแบบอีเมลและโปรโตคอลในแอปได้ง่ายขึ้น สามารถเรียก SDK ได้จากทุกแพลตฟอร์ม: .NET, Java, Ruby, Salesforce และ Amazon เป็นต้น
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total Cloud includes following document manipulation SDKs:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total Cloud มี SDK การจัดการเอกสารดังต่อไปนี้:" >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Words Cloud Product Family" imgSrc="/product-logos/aspose_words-for-cloud.svg" href="/words/family/" >}}
-A set of platform independent Word document manipulation SDKs, that can be used on any language supporting HTTP requests. Create, modify and convert Word documents in the cloud. It supports DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB and many other formats.
+ชุด SDK การจัดการเอกสาร Word ที่ไม่ขึ้นกับแพลตฟอร์ม ซึ่งสามารถใช้กับภาษาใดๆ ที่รองรับคำขอ HTTP สร้าง แก้ไข และแปลงเอกสาร Word ในระบบคลาวด์ รองรับ DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB และรูปแบบอื่นๆ อีกมากมาย
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.PDF Cloud Product Family" imgSrc="/product-logos/aspose_pdf-for-cloud.svg" href="/pdf/family/" >}}
-Aspose.PDF Cloud provides platform independent - true REST based SDKs for creating, modifying, managing and converting PDF files over web, desktop, mobile and cloud platforms. Developers can easily read, write, convert and manipulate PDF documents in the cloud.
+Aspose.PDF Cloud นำเสนอแพลตฟอร์มที่เป็นอิสระ - SDK ที่ใช้ REST อย่างแท้จริงสำหรับการสร้าง แก้ไข จัดการและแปลงไฟล์ PDF ผ่านทางแพลตฟอร์มเว็บ เดสก์ท็อป อุปกรณ์เคลื่อนที่ และคลาวด์ นักพัฒนาสามารถอ่าน เขียน แปลง และจัดการเอกสาร PDF ในระบบคลาวด์ได้อย่างง่ายดาย
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Cells Cloud Product Family" imgSrc="/product-logos/aspose_cells-for-cloud.svg" href="/cells/family/" >}}
-Aspose.Cells Cloud offers REST based SDKs with features to create, modify, manage and convert Excel spreadsheets formats including XLS, XLSX, XLSM, XLTX, XLTM and ODS as well as CSV, TSV & HTML.
+Aspose.Cells Cloud นำเสนอ SDK ที่ใช้ REST พร้อมฟีเจอร์ในการสร้าง แก้ไข จัดการ และแปลงรูปแบบสเปรดชีต Excel รวมถึง XLS, XLSX, XLSM, XLTX, XLTM และ ODS รวมถึง CSV, TSV และ HTML
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Email Cloud Product Family" imgSrc="/product-logos/aspose_email-for-cloud.svg" href="/email/family/" >}}
-Aspose.Email Cloud allows email message processing in cloud-based applications. True REST based SDKs can be used with any language and on any platform with native support for Outlook message format such as MSG as well as EML & MHTML formats.
+Aspose.Email Cloud ช่วยให้สามารถประมวลผลข้อความอีเมลในแอปพลิเคชันบนคลาวด์ SDK ที่ใช้ True REST สามารถใช้ได้กับทุกภาษาและทุกแพลตฟอร์มที่รองรับรูปแบบข้อความ Outlook เช่น MSG รวมถึงรูปแบบ EML และ MHTML
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Slides Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/slides/family/" >}}
-Offers unique PowerPoint management SDKs that enable you to read, write, convert and manipulate PowerPoint presentations in the cloud. It supports most popular presentation formats including PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP and many more.
+นำเสนอ SDK การจัดการ PowerPoint ที่ไม่ซ้ำใครที่ช่วยให้คุณสามารถอ่าน เขียน แปลง และจัดการงานนำเสนอ PowerPoint ในระบบคลาวด์ รองรับรูปแบบการนำเสนอยอดนิยม เช่น PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM, ODP และอื่นๆ อีกมากมาย
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Imaging Cloud Product Family" imgSrc="/product-logos/aspose_slides-for-cloud.svg" href="/imaging/family/" >}}
-Aspose.Imaging Cloud provides imaging SDKs, enabling the developers to manipulate & convert image in their applications. These are developed on top of REST APIs and can be used with any language and on any platform. The SDKs support reading & writing raster image formats including PNG, GIF, BMP, TIFF and JPEG. 
+Aspose.Imaging Cloud มอบ SDK เกี่ยวกับภาพ ซึ่งช่วยให้นักพัฒนาสามารถจัดการและแปลงภาพในแอปพลิเคชันของตนได้ สิ่งเหล่านี้ได้รับการพัฒนาบน REST API และสามารถใช้ได้กับทุกภาษาและทุกแพลตฟอร์ม SDK รองรับการอ่านและการเขียนรูปแบบภาพแรสเตอร์ รวมถึง PNG, GIF, BMP, TIFF และ JPEG
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.BarCode Cloud Product Family" imgSrc="/product-logos/aspose_barcode-for-cloud.svg" href="/barcode/family/" >}}
-Aspose.BarCode Cloud enables the developers to quickly and easily add barcode generation and recognition functionalities to their applications. These SDKs are developed on top of true REST APIs, therefore can be used with any language and on any platform.
+Aspose.BarCode Cloud ช่วยให้นักพัฒนาสามารถเพิ่มฟังก์ชันการสร้างและจดจำบาร์โค้ดให้กับแอปพลิเคชันของตนได้อย่างรวดเร็วและง่ายดาย SDK เหล่านี้ได้รับการพัฒนาบน REST API ที่แท้จริง ดังนั้นจึงใช้ได้กับทุกภาษาและทุกแพลตฟอร์ม
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Diagram Cloud Product Family" imgSrc="/product-logos/aspose_diagram-for-cloud.svg" href="/diagram/family/" >}}
-Create applications providing the capabilities to Create, Manipulate or Convert Microsoft Visio Diagrams. Platform independence and Cloud computing powers of Cloud SDKs enable you to use our SDKs on any platform, that is capable of calling REST APIs.
+สร้างแอปพลิเคชันที่มีความสามารถในการสร้าง จัดการ หรือแปลง Microsoft Visio Diagrams ความเป็นอิสระของแพลตฟอร์มและพลังการประมวลผลบนคลาวด์ของ Cloud SDK ช่วยให้คุณใช้ SDK ของเราบนแพลตฟอร์มใดก็ได้ที่สามารถเรียกใช้ REST API ได้
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Tasks Cloud Product Family" imgSrc="/product-logos/aspose_tasks-for-cloud.svg" href="/tasks/family/" >}}
-Aspose.Tasks Cloud Product family is a set of REST based SDKs providing the features for manipulating Microsoft Project files, as well as the project data including Tasks, Resources, Task links and Assignments in the cloud. 
+กลุ่มผลิตภัณฑ์ระบบคลาวด์ Aspose.Tasks คือชุดของ SDK ที่ใช้ REST ซึ่งมีฟีเจอร์สำหรับจัดการไฟล์ Microsoft Project เช่นเดียวกับข้อมูลโครงการ รวมถึงงาน ทรัพยากร ลิงก์งาน และการมอบหมายในระบบคลาวด์
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.OCR Cloud Product Family" imgSrc="/product-logos/aspose_ocr-for-cloud.svg" href="/ocr/family/" >}}
-Aspose.OCR Cloud provides Optical Character Recognition SDKs that allow developers to add OCR functionality to their applications. These are true REST based SDKs can can be used with any language and on any platform.
+Aspose.OCR Cloud นำเสนอ SDK การรู้จำอักขระแบบออปติคัลที่ช่วยให้นักพัฒนาสามารถเพิ่มฟังก์ชัน OCR ให้กับแอปพลิเคชันของตนได้ SDK ที่ใช้ REST เหล่านี้สามารถใช้ได้กับทุกภาษาและทุกแพลตฟอร์ม
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.OMR Cloud Product Family" imgSrc="/product-logos/aspose_omr-for-cloud.svg" href="/omr/family/" >}}
-Empowers the developers to add Optical Mark Recognition functionality to their applications. The SDKs allow reading human-marked data from scans or photos of document forms such as surveys & questionnaires, whereas responses are delivered in JSON format.
+ช่วยให้นักพัฒนาสามารถเพิ่มฟังก์ชันการจดจำเครื่องหมายด้วยแสงให้กับแอปพลิเคชันของตนได้ SDK อนุญาตให้อ่านข้อมูลที่ทำเครื่องหมายโดยมนุษย์จากการสแกนหรือภาพถ่ายของแบบฟอร์มเอกสาร เช่น แบบสำรวจและแบบสอบถาม ในขณะที่คำตอบจะถูกส่งในรูปแบบ JSON
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.CAD Cloud Product Family" imgSrc="/product-logos/aspose_cad-for-cloud.svg" href="/cad/family/" >}}
-Aspose.CAD Cloud enables the developers to convert popular AutoCAD formats including (DWG, DXF etc) to PDF and Raster images. The SDK does does not require AutoCAD or any other software to be installed.
+Aspose.CAD Cloud ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ AutoCAD ยอดนิยม รวมถึง (DWG, DXF ฯลฯ) เป็น PDF และรูปภาพ Raster SDK ไม่จำเป็นต้องติดตั้ง AutoCAD หรือซอฟต์แวร์อื่นใด
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.3D Cloud Product Family" imgSrc="/product-logos/aspose_3d-for-cloud.svg" href="/3d/family/" >}}
-Aspose.3D Cloud helps you fetch 3D objects, models & entities stored on the cloud and perform various operations such as rotation, scaling, transformation, translation, and conversion from one 3D format to another.
+Aspose.3D Cloud ช่วยให้คุณดึงวัตถุ 3 มิติ โมเดล และเอนทิตีที่จัดเก็บไว้ในคลาวด์ และดำเนินการต่างๆ เช่น การหมุน การปรับขนาด การแปลง การแปล และการแปลงจากรูปแบบ 3 มิติหนึ่งไปยังอีกรูปแบบหนึ่ง
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.HTML Cloud Product Family" imgSrc="/product-logos/aspose_html-for-cloud.svg" href="/html/family/" >}}
-A collection of SDKs developed on top of true REST APIs, enabling you to perform a wide range of file processing operations including creation, manipulation, conversion and rendering of HTML file in the cloud. Also support HTML conversion to fixed layout document formats such as PDF, XPS and image formats.
+คอลเลกชัน SDK ที่พัฒนาบน REST API ที่แท้จริง ทำให้คุณสามารถดำเนินการประมวลผลไฟล์ได้หลากหลาย รวมถึงการสร้าง การจัดการ การแปลง และการเรนเดอร์ไฟล์ HTML ในระบบคลาวด์ นอกจากนี้ยังรองรับการแปลง HTML เป็นรูปแบบเอกสารเค้าโครงคงที่ เช่น PDF, XPS และรูปแบบรูปภาพ
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< blocks/products/pf/total/product-item productName="Aspose.Video Cloud Product Family" imgSrc="/product-logos/aspose_video-for-cloud.svg" href="/video/family/" >}}
-Aspose.Video Cloud offers a complete range of SDKs, developed on top of true REST APIs, and they enable you to edit video file properties such as FPS, aspect ratio and resolution. Besides files manipulation, they also enable you to convert the video files to different supported formats and also re-encode them with the different video codecs.
+Aspose.Video Cloud นำเสนอ SDK ที่หลากหลาย ซึ่งพัฒนาบน REST API ที่แท้จริง และช่วยให้คุณสามารถแก้ไขคุณสมบัติไฟล์วิดีโอ เช่น FPS อัตราส่วนภาพ และความละเอียดได้ นอกจากการจัดการไฟล์แล้ว ยังช่วยให้คุณสามารถแปลงไฟล์วิดีโอเป็นรูปแบบที่รองรับต่างๆ และยังเข้ารหัสอีกครั้งด้วยตัวแปลงสัญญาณวิดีโอต่างๆ
 {{< /blocks/products/pf/total/product-item  >}}
 
 {{< /blocks/products/pf/total/products >}}
@@ -83,98 +83,98 @@ Aspose.Video Cloud offers a complete range of SDKs, developed on top of true RES
  <a class="anchor" id="features" name="features">
   <div class="row">
   <div class="container">
-<h2 class="h2title"></a> Advanced Features of Aspose.Total Cloud SDKs</h2>
-<p>Delivering our very best, and getting better with each release.</p>
+<h2 class="h2title"></a> คุณสมบัติขั้นสูงของ Aspose.Total Cloud SDKs</h2>
+<p>นำเสนอสิ่งที่ดีที่สุดและพัฒนาขึ้นเรื่อยๆ ในแต่ละรุ่น</p>
 <div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert documents to images</p>
+<p class="col-lg-10">แปลงเอกสารเป็นรูปภาพ</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-envelope ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Perform mail merge</p>
+<p class="col-lg-10">ดำเนินการจดหมายเวียน</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-word-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert Microsoft Office, Acrobat PDF, OpenDocument and many other formats</p>
+<div class="col-lg-4"><em class="ฟะ fa-file-word-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">แปลง Microsoft Office, Acrobat PDF, OpenDocument และรูปแบบอื่นๆ อีกมากมาย</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-barcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Add barcodes to Word documents</p>
+<p class="col-lg-10">เพิ่มบาร์โค้ดลงในเอกสาร Word</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-line-chart ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate reports using mail merge</p>
+<p class="col-lg-10">สร้างรายงานโดยใช้จดหมายเวียน</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Build dynamic Excel reports on the fly</p>
+<div class="col-lg-4"><em class="ฟะ fa-file-excel-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">สร้างรายงาน Excel แบบไดนามิกได้ทันที</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">High-fidelity rendering</p>
+<p class="col-lg-10">การเรนเดอร์ที่มีความเที่ยงตรงสูง</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create documents from scratch</p>
+<p class="col-lg-10">สร้างเอกสารตั้งแต่เริ่มต้น</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-code ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Transform XML to PDF</p>
+<div class="col-lg-4"><em class="ฟะ fa-code ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">แปลง XML เป็น PDF</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Convert images to PDF</p>
+<div class="col-lg-4"><em class="ฟ้า fa-image ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">แปลงรูปภาพเป็น PDF</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Create slides</p>
+<p class="col-lg-10">สร้างสไลด์</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Configure Visio TimeLine shapes</p>
+<p class="col-lg-10">กำหนดค่ารูปร่าง Visio TimeLine</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Replace or extract text from PDF documents</p>
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">แทนที่หรือแยกข้อความจากเอกสาร PDF</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-file-image-o ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Remove, replace or extract images from PDF</p>
+<p class="col-lg-10">ลบ แทนที่ หรือแยกรูปภาพออกจาก PDF</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Get information about images in PDF documents</p>
+<div class="col-lg-4"><em class="ฟ้า fa-image ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">รับข้อมูลเกี่ยวกับรูปภาพในเอกสาร PDF</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-save  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Generate barcode images</p>
+<div class="col-lg-4"><em class="fa fa-save ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">สร้างภาพบาร์โค้ด</p>
 </div>
 <div class="col-lg-4"><em class="fa fa-qrcode ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Recognize barcodes from images</p>
+<p class="col-lg-10">จดจำบาร์โค้ดจากรูปภาพ</p>
 </div>
-<div class="col-lg-4"><em class="fa fa-text-width  ico-blue fa-2x col-lg-2"> </em>
-<p class="col-lg-10">Extract text from images</p>
-</div>
-<div class="col-lg-12">
-<h2 class="h2title">Conveniently Transform Files</h2>
-<p>Aspose Cloud SKDs enable you to equip your application with file format conversion & manipulation capabilities in an easy way so that you could perform file format processing without plunging yourself in the complexities of any format's underlying implementation.</p>
-<p>It lets you perform a number of operations such saving quotes to the PDF documents or extracting data as spreadsheets, in order serve the contents in a format that best suits your users.</p>
+<div class="col-lg-4"><em class="fa fa-text-width ico-blue fa-2x col-lg-2"> </em>
+<p class="col-lg-10">แยกข้อความออกจากรูปภาพ</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Create Images & Thumbnails</h2>
-<p>Images of documents, and images in documents, both features can be used for many different types of documents and applications. Creating the images manually could be a huge overhead but creating them automatically can not be too difficult. Aspose Cloud SKDs gives you several tools for creating and managing images.</p>
-<p>Aspose Cloud SKDs includes features to create, extract & embed images. For instance, you can create images of document pages in order to use them as thumbnails or links on the web pages. You may also convert a page in any document - a spreadsheet, Word document, PDF or presentation - to an image and include that in another document.</p>
+<h2 class="h2title">แปลงไฟล์ได้อย่างสะดวก</h2>
+<p>Aspose Cloud SKD ช่วยให้คุณสามารถจัดเตรียมแอปพลิเคชันของคุณด้วยความสามารถในการแปลงและการจัดการรูปแบบไฟล์ในวิธีที่ง่ายดาย เพื่อให้คุณสามารถดำเนินการประมวลผลรูปแบบไฟล์ได้โดยไม่ต้องจมอยู่กับความซับซ้อนของการใช้งานพื้นฐานของรูปแบบใดๆ</p>
+<p>ช่วยให้คุณสามารถดำเนินการหลายอย่าง เช่น บันทึกราคาลงในเอกสาร PDF หรือแยกข้อมูลเป็นสเปรดชีต เพื่อแสดงเนื้อหาในรูปแบบที่เหมาะสมกับผู้ใช้ของคุณมากที่สุด</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Powerful Reporting, Document Assembly & Mail Merge</h2>
-<p>Companies keep data in a lot of different places, however, with Aspose Cloud SKDs, you can bring them all together in your web or mobile apps. Set up templates and merge data from external sources to create letters, reports or documents. Thanks to the wide variety of formats that we support, the final document can be saved in one or more formats as it suits your users.</p>
+<h2 class="h2title">สร้างรูปภาพและภาพขนาดย่อ</h2>
+<p>รูปภาพของเอกสาร และรูปภาพในเอกสาร คุณสมบัติทั้งสองนี้สามารถใช้ได้กับเอกสารและแอปพลิเคชันประเภทต่างๆ มากมาย การสร้างภาพด้วยตนเองอาจมีค่าใช้จ่ายสูง แต่การสร้างภาพโดยอัตโนมัติอาจไม่ใช่เรื่องยากเกินไป Aspose Cloud SKD มีเครื่องมือมากมายสำหรับการสร้างและจัดการรูปภาพ</p>
+<p>Aspose Cloud SKD มีคุณสมบัติในการสร้าง แยก และฝังรูปภาพ ตัวอย่างเช่น คุณสามารถสร้างรูปภาพของหน้าเอกสารเพื่อใช้เป็นรูปขนาดย่อหรือลิงก์บนหน้าเว็บได้ คุณยังสามารถแปลงหน้าในเอกสารใดก็ได้ เช่น สเปรดชีต เอกสาร Word PDF หรืองานนำเสนอ ให้เป็นรูปภาพและรวมไว้ในเอกสารอื่น</p>
 </div>
 <div class="col-lg-12">
-<h2 class="h2title">Process a Multitude of File Formats</h2>
-<p>Aspose Cloud SKDs allows you to build an incredibly versatile file processing system capable of handling many popular file formats. You can easily create, modify & even inter-convert files . Aspose.Total Cloud will allow you to conveniently process the following file formats:</p>
-<ul class="unstyled"><li>Microsoft Word documents</li>
-<li>Microsoft Excel spreadsheets</li>
-<li>Microsoft PowerPoint presentations</li>
-<li>Adobe PDF Documents</li>
-<li>Microsoft Visio Diagrams</li>
-<li>Commonly used image formats</li>
+<h2 class="h2title">การรายงานอันทรงพลัง การประกอบเอกสาร และการรวมจดหมาย</h2>
+<p>บริษัทเก็บข้อมูลไว้ในที่ต่างๆ มากมาย อย่างไรก็ตาม ด้วย Aspose Cloud SKD คุณสามารถนำข้อมูลทั้งหมดมารวมกันบนเว็บหรือแอปมือถือของคุณได้ ตั้งค่าเทมเพลตและผสานข้อมูลจากแหล่งภายนอกเพื่อสร้างจดหมาย รายงาน หรือเอกสาร ด้วยรูปแบบที่หลากหลายที่เรารองรับ ทำให้สามารถบันทึกเอกสารขั้นสุดท้ายในรูปแบบอย่างน้อย 1 รูปแบบตามที่เหมาะกับผู้ใช้ของคุณ</p>
+</div>
+<div class="col-lg-12">
+<h2 class="h2title">ประมวลผลรูปแบบไฟล์ที่หลากหลาย</h2>
+<p>Aspose Cloud SKD ช่วยให้คุณสร้างระบบประมวลผลไฟล์ที่หลากหลายอย่างไม่น่าเชื่อ ซึ่งสามารถจัดการรูปแบบไฟล์ยอดนิยมได้มากมาย คุณสามารถสร้าง แก้ไข และแม้แต่แปลงไฟล์ระหว่างกันได้อย่างง่ายดาย Aspose.Total Cloud จะช่วยให้คุณประมวลผลรูปแบบไฟล์ต่อไปนี้ได้อย่างสะดวก:</p>
+<ul class="unstyled"><li>เอกสาร Microsoft Word</li>
+<li>สเปรดชีต Microsoft Excel</li>
+<li>งานนำเสนอ Microsoft PowerPoint</li>
+<li>เอกสาร Adobe PDF</li>
+<li>ไดอะแกรม Microsoft Visio</li>
+<li>รูปแบบรูปภาพที่ใช้กันทั่วไป</li>
 </ul></div>
 <div class="col-lg-12">
-<h2 class="h2title">Manage & Keep Track of Documents</h2>
-<p>Document management is crucial for all companies especially when it comes to track file and archive these generated documents. With Aspose Cloud SKDs, you have several options on how to manage documents:</p>
-<ul class="unstyled"><li>Track documents with barcodes - encode document information and embedded in the document</li>
-<li>Add watermarks to signal a document's status</li>
-<li>Change headers or footers as a document reaches a particular point in a work flow</li>
-<li>Insert text or images to signal a document's status</li>
+<h2 class="h2title">จัดการและติดตามเอกสาร</h2>
+<p>การจัดการเอกสารเป็นสิ่งสำคัญสำหรับทุกบริษัท โดยเฉพาะอย่างยิ่งเมื่อเป็นเรื่องของการติดตามไฟล์และการเก็บถาวรเอกสารที่สร้างขึ้นเหล่านี้ ด้วย Aspose Cloud SKD คุณจะมีตัวเลือกมากมายในการจัดการเอกสาร:</p>
+<ul class="unstyled"><li>ติดตามเอกสารด้วยบาร์โค้ด - เข้ารหัสข้อมูลเอกสารและฝังอยู่ในเอกสาร</li>
+<li>เพิ่มลายน้ำเพื่อบ่งบอกถึงสถานะของเอกสาร</li>
+<li>เปลี่ยนส่วนหัวหรือส่วนท้ายเมื่อเอกสารถึงจุดใดจุดหนึ่งในขั้นตอนการทำงาน</li>
+<li>แทรกข้อความหรือรูปภาพเพื่อบ่งบอกถึงสถานะของเอกสาร</li>
 </ul></div>
 <div class="col-lg-12">
-<h2 class="h2title">Language, Platform & Storage Independence</h2>
-<p>Aspose Cloud SKDs are platform independent & are developed on top of true REST based document manipulation APIs. These characteristics allow us to use them in any language: .NET, Java, PHP, Android, Python, Ruby, Rails, Node.js, Swift, jQuery and many more.</p>
-<p>You can use them on any platform i.e. Web, Desktop, Mobile, and Cloud. The SDKs can also integrate with other cloud services to give you the flexibility you need when processing documents. You can also use Aspose.Total Cloud with many third party storage providers including Amazon S3, Google Cloud, Google Drive and DropBox.</p>
+<h2 class="h2title">ความเป็นอิสระด้านภาษา แพลตฟอร์ม และพื้นที่จัดเก็บข้อมูล</h2>
+<p>Aspose Cloud SKD เป็นแพลตฟอร์มที่เป็นอิสระและได้รับการพัฒนาบน API การจัดการเอกสารที่ใช้ REST ที่แท้จริง คุณลักษณะเหล่านี้ช่วยให้เราสามารถใช้ในภาษาใดก็ได้: .NET, Java, PHP, Android, Python, Ruby, Rails, Node.js, Swift, jQuery และอื่นๆ อีกมากมาย</p>
+<p>คุณสามารถใช้มันบนแพลตฟอร์มใดก็ได้ เช่น เว็บ เดสก์ท็อป มือถือ และคลาวด์ SDK ยังสามารถทำงานร่วมกับบริการคลาวด์อื่นๆ เพื่อให้คุณมีความยืดหยุ่นตามที่คุณต้องการในการประมวลผลเอกสาร คุณยังสามารถใช้ Aspose.Total Cloud กับผู้ให้บริการพื้นที่จัดเก็บข้อมูลบุคคลที่สามจำนวนมาก รวมถึง Amazon S3, Google Cloud, Google Drive และ DropBox</p>
 </div>
 </div>
 </div>
