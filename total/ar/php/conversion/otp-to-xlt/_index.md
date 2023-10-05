@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، OTP به XLT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانOTP به XLT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

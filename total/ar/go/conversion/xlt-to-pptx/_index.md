@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTX، XLT به PPTX مبدل رایگان یا GO SDKdescription: تبدیل رایگانXLT به PPTX با استفاده از GO Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

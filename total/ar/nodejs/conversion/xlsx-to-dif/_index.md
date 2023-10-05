@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDIF، XLSX به DIF مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXLSX به DIF با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

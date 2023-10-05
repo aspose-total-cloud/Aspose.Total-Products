@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، RTF به PPTX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانRTF به PPTX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTIFF، RTF به TIFF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانRTF به TIFF با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXML، DOC به XML مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOC به XML با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

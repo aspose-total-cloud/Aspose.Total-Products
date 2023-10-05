@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPSX، XLSX به PPSX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXLSX به PPSX با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

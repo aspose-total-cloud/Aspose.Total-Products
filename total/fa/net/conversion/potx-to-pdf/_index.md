@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDF، POTX به PDF مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOTX به PDF با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

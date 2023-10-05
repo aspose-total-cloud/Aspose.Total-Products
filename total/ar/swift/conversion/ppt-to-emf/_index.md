@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهEMF، PPT به EMF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPT به EMF با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

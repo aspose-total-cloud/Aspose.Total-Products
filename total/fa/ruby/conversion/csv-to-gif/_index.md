@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهGIF، CSV به GIF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانCSV به GIF با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

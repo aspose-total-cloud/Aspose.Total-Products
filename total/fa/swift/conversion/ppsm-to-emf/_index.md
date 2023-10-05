@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهEMF، PPSM به EMF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSM به EMF با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJPEG، ODP به JPEG مبدل رایگان یا PHP SDKdescription: تبدیل رایگانODP به JPEG با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

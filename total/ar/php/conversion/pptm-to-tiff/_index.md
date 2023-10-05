@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTIFF، PPTM به TIFF مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPTM به TIFF با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

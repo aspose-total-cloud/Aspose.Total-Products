@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهSWF، XLT به SWF مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXLT به SWF با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

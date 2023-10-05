@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDIF، XLS به DIF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXLS به DIF با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

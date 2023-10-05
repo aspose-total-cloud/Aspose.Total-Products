@@ -1,0 +1,1 @@
+---title: تبدیل Word بهMOBI، DOCX به MOBI مبدل رایگان یا Android SDKdescription: تبدیل رایگانDOCX به MOBI با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

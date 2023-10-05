@@ -1,0 +1,1 @@
+---title: تبدیل Word بهJPEG، MHTML به JPEG مبدل رایگان یا C++ SDKdescription: تبدیل رایگانMHTML به JPEG با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

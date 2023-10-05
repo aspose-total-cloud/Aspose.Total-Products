@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBIXML، PPSX به MOBIXML مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSX به MOBIXML با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدXLS، SVG به XLS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانSVG به XLS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

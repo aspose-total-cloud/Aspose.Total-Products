@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSX، TXT به XLSX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانTXT به XLSX با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

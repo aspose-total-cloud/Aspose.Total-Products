@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهBMP، PPTM به BMP مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPTM به BMP با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

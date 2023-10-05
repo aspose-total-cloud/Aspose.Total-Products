@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXPS، DOC به XPS مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOC به XPS با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

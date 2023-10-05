@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTM، POTM به PPTM مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOTM به PPTM با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

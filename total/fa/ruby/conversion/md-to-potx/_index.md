@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOTX، MD به POTX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانMD به POTX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، ODP به JSON مبدل رایگان یا Perl SDKdescription: تبدیل رایگانODP به JSON با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

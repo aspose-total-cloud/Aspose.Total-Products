@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهCHM، XLTX به CHM مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXLTX به CHM با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

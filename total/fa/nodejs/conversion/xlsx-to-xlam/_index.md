@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLAM، XLSX به XLAM مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXLSX به XLAM با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

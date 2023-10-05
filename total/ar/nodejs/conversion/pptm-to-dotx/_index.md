@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTX، PPTM به DOTX مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPTM به DOTX با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

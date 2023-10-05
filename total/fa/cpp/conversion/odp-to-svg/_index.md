@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSVG، ODP به SVG مبدل رایگان یا C++ SDKdescription: تبدیل رایگانODP به SVG با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

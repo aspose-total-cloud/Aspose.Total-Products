@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، POTM به JSON مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOTM به JSON با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

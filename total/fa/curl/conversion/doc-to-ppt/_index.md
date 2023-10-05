@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPT، DOC به PPT مبدل رایگان یا Curl SDKdescription: تبدیل رایگانDOC به PPT با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

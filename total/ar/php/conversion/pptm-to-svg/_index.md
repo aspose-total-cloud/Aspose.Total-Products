@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSVG، PPTM به SVG مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPTM به SVG با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPTM، TEX به PPTM مبدل رایگان یا Python SDKdescription: تبدیل رایگانTEX به PPTM با استفاده از Python Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

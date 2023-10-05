@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOTX، TXT به POTX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانTXT به POTX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

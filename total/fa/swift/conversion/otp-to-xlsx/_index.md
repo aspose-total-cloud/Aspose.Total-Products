@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، OTP به XLSX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانOTP به XLSX با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCHM، PPTM به CHM مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPTM به CHM با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

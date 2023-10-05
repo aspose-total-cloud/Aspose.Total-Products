@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTX، PPSM به DOTX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPSM به DOTX با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

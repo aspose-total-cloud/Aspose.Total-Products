@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTX، XLTM به PPTX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLTM به PPTX با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

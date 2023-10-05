@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهSXC، XLTX به SXC مبدل رایگان یا Java SDKdescription: تبدیل رایگانXLTX به SXC با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

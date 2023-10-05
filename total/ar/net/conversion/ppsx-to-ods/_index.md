@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODS، PPSX به ODS مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPSX به ODS با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

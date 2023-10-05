@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهRTF، XLSM به RTF مبدل رایگان یا Net SDKdescription: تبدیل رایگانXLSM به RTF با استفاده از Net Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTEX، XML به TEX مبدل رایگان یا Net SDKdescription: تبدیل رایگانXML به TEX با استفاده از Net Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

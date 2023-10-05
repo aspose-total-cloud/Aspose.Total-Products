@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTM، POT به DOTM مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPOT به DOTM با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

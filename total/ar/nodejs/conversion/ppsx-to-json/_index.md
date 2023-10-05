@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، PPSX به JSON مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPSX به JSON با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، DOT به PPTX مبدل رایگان یا Java SDKdescription: تبدیل رایگانDOT به PPTX با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

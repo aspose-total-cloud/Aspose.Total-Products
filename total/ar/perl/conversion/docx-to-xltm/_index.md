@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLTM، DOCX به XLTM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOCX به XLTM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

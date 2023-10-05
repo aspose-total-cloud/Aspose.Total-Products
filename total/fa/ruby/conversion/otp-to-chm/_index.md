@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCHM، OTP به CHM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانOTP به CHM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

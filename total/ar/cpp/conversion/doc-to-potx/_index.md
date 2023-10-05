@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOTX، DOC به POTX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOC به POTX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

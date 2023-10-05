@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTEX، XLSM به TEX مبدل رایگان یا GO SDKdescription: تبدیل رایگانXLSM به TEX با استفاده از GO Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTX، OTP به PPTX مبدل رایگان یا Android SDKdescription: تبدیل رایگانOTP به PPTX با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

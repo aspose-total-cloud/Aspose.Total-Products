@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTM، PPS به XLTM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPS به XLTM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

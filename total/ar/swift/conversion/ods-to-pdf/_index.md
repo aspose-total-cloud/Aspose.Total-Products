@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPDF، ODS به PDF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانODS به PDF با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

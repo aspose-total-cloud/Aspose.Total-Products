@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOT، DOCX به POT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOCX به POT با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

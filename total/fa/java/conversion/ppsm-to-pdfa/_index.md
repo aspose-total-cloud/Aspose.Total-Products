@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDFA، PPSM به PDFA مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSM به PDFA با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

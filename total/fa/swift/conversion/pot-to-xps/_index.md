@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXPS، POT به XPS مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPOT به XPS با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

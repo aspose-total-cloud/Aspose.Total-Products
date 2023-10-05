@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLS، FODS به XLS مبدل رایگان یا PHP SDKdescription: تبدیل رایگانFODS به XLS با استفاده از PHP Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

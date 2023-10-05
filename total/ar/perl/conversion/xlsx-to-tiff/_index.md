@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTIFF، XLSX به TIFF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانXLSX به TIFF با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

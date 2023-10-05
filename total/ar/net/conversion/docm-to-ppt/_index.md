@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPT، DOCM به PPT مبدل رایگان یا Net SDKdescription: تبدیل رایگانDOCM به PPT با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

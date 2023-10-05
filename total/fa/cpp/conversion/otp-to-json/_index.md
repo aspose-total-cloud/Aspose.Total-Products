@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، OTP به JSON مبدل رایگان یا C++ SDKdescription: تبدیل رایگانOTP به JSON با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

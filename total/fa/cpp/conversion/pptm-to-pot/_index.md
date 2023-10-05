@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPOT، PPTM به POT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTM به POT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

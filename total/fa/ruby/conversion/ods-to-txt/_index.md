@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTXT، ODS به TXT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODS به TXT با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

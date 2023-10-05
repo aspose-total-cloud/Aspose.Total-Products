@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهEMF، PPS به EMF مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPS به EMF با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXPS، PPTX به XPS مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPTX به XPS با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

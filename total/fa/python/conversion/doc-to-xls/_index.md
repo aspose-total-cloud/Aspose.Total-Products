@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLS، DOC به XLS مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOC به XLS با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

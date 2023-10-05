@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCX، POT به DOCX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPOT به DOCX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

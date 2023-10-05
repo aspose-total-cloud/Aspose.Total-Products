@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBIXML، ODP به MOBIXML مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODP به MOBIXML با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLSX، XLTM به XLSX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانXLTM به XLSX با استفاده از PHP Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

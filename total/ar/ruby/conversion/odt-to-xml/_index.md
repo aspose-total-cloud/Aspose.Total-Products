@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXML، ODT به XML مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODT به XML با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

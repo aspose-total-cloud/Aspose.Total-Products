@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTXT، CSV به TXT مبدل رایگان یا Swift SDKdescription: تبدیل رایگانCSV به TXT با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

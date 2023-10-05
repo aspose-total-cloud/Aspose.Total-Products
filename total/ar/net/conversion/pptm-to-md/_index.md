@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMD، PPTM به MD مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTM به MD با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

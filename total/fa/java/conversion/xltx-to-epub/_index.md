@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهEPUB، XLTX به EPUB مبدل رایگان یا Java SDKdescription: تبدیل رایگانXLTX به EPUB با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

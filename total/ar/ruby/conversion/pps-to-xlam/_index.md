@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPS به XLAM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPS به XLAM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

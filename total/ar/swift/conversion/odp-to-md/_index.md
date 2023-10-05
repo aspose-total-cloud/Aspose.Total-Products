@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMD، ODP به MD مبدل رایگان یا Swift SDKdescription: تبدیل رایگانODP به MD با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

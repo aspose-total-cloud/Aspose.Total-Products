@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXAML، DOT به XAML مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOT به XAML با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

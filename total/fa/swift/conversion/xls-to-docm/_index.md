@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOCM، XLS به DOCM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLS به DOCM با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLT، XLSM به XLT مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXLSM به XLT با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

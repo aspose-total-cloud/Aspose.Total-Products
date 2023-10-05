@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPT، POTX به PPT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOTX به PPT با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

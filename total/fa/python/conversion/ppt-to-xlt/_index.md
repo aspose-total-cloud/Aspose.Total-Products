@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، PPT به XLT مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPT به XLT با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

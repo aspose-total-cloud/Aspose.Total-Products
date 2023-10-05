@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSB، PPT به XLSB مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPT به XLSB با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

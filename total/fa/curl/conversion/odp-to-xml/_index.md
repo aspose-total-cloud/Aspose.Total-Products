@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، ODP به XML مبدل رایگان یا Curl SDKdescription: تبدیل رایگانODP به XML با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

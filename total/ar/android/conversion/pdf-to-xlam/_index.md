@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLAM، PDF به XLAM مبدل رایگان یا Android SDKdescription: تبدیل رایگانPDF به XLAM با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

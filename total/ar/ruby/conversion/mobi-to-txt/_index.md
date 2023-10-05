@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTXT، MOBI به TXT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانMOBI به TXT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

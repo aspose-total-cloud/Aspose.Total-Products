@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXML، DOTM به XML مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOTM به XML با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

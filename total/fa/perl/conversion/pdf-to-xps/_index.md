@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXPS، PDF به XPS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPDF به XPS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

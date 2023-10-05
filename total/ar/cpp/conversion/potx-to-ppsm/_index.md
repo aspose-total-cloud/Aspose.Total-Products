@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPSM، POTX به PPSM مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTX به PPSM با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

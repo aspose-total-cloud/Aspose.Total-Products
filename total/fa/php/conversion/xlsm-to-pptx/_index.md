@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTX، XLSM به PPTX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانXLSM به PPTX با استفاده از PHP Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

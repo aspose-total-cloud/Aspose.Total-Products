@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهWEB، PPSX به WEB مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSX به WEB با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

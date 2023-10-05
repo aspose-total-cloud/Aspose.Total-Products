@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDFA، PPSX به PDFA مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPSX به PDFA با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، POTM به XLSX مبدل رایگان یا Android SDKdescription: تبدیل رایگانPOTM به XLSX با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

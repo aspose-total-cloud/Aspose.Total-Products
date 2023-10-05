@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTX، POTM به PPTX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTM به PPTX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

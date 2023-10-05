@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCX، POTX به DOCX مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به DOCX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

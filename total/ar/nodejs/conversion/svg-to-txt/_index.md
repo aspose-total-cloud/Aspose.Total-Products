@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدTXT، SVG به TXT مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانSVG به TXT با استفاده از Nodejs Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

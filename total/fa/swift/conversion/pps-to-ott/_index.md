@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهOTT، PPS به OTT مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPS به OTT با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

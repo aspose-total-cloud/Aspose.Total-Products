@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOT، PPS به DOT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPS به DOT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMHT، PPS به MHT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPS به MHT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

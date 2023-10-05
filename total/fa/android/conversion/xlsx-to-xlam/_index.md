@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLAM، XLSX به XLAM مبدل رایگان یا Android SDKdescription: تبدیل رایگانXLSX به XLAM با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

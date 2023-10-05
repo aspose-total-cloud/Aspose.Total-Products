@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، PPTM به XML مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPTM به XML با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

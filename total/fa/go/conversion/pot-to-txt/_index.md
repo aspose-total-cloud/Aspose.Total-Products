@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTXT، POT به TXT مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOT به TXT با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

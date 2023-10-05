@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLS، PPSM به XLS مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSM به XLS با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCSV، PPTM به CSV مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPTM به CSV با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

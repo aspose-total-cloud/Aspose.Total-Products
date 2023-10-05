@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهJSON، FODS به JSON مبدل رایگان یا Curl SDKdescription: تبدیل رایگانFODS به JSON با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، MD به PPTX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانMD به PPTX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

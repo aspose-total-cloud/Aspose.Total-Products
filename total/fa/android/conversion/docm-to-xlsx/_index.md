@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSX، DOCM به XLSX مبدل رایگان یا Android SDKdescription: تبدیل رایگانDOCM به XLSX با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

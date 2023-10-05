@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهEMF، ODP به EMF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODP به EMF با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

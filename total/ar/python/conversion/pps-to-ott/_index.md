@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهOTT، PPS به OTT مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPS به OTT با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

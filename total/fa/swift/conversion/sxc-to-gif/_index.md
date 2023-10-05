@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهGIF، SXC به GIF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانSXC به GIF با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

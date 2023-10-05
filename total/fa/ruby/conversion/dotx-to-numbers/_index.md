@@ -1,0 +1,1 @@
+---title: تبدیل Word بهNUMBERS، DOTX به NUMBERS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانDOTX به NUMBERS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

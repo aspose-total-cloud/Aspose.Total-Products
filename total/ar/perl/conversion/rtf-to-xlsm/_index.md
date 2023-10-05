@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSM، RTF به XLSM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانRTF به XLSM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

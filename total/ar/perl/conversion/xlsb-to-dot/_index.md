@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOT، XLSB به DOT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانXLSB به DOT با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

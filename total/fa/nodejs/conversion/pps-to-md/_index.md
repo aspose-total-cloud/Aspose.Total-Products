@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMD، PPS به MD مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPS به MD با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

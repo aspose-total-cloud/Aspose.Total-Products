@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPS، CSV به PPS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانCSV به PPS با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSB، PPTX به XLSB مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPTX به XLSB با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODS، PPTM به ODS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTM به ODS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

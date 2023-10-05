@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، PPT به XML مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPT به XML با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

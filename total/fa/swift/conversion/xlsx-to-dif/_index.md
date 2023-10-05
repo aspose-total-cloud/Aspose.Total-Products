@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDIF، XLSX به DIF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLSX به DIF با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

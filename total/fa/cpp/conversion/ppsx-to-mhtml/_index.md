@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMHTML، PPSX به MHTML مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPSX به MHTML با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهGIF، CHM به GIF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانCHM به GIF با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، DOC به PPTX مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOC به PPTX با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

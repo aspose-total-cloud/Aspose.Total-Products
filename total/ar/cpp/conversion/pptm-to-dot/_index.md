@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOT، PPTM به DOT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTM به DOT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

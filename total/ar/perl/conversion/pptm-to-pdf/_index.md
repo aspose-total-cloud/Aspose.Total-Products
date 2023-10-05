@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDF، PPTM به PDF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPTM به PDF با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

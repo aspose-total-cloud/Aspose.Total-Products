@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDIF، PPTX به DIF مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPTX به DIF با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

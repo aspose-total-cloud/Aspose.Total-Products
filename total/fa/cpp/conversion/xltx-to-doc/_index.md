@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOC، XLTX به DOC مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXLTX به DOC با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

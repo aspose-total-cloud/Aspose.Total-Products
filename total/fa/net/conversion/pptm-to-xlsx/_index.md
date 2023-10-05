@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، PPTM به XLSX مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTM به XLSX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

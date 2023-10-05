@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSXC، DOTX به SXC مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانDOTX به SXC با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

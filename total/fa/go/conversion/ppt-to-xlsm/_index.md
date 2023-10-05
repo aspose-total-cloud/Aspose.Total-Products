@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSM، PPT به XLSM مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPT به XLSM با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

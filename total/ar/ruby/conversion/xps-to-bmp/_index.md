@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدBMP، XPS به BMP مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXPS به BMP با استفاده از Ruby Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

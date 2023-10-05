@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTSV، POTX به TSV مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPOTX به TSV با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

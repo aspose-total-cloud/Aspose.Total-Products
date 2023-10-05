@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهGIF، TSV به GIF مبدل رایگان یا Curl SDKdescription: تبدیل رایگانTSV به GIF با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

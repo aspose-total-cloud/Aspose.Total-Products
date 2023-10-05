@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODT، PPS به ODT مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPS به ODT با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

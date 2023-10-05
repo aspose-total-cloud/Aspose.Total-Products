@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOT، XML به DOT مبدل رایگان یا Android SDKdescription: تبدیل رایگانXML به DOT با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

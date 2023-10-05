@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLT، RTF به XLT مبدل رایگان یا Python SDKdescription: تبدیل رایگانRTF به XLT با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

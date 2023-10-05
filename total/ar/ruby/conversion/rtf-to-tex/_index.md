@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، RTF به TEX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانRTF به TEX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

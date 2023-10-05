@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهRTF، CSV به RTF مبدل رایگان یا Android SDKdescription: تبدیل رایگانCSV به RTF با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

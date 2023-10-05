@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهBMP، PPTM به BMP مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPTM به BMP با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

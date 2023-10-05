@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدXLTX، PS به XLTX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPS به XLTX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهCSV، XLS به CSV مبدل رایگان یا Curl SDKdescription: تبدیل رایگانXLS به CSV با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

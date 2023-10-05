@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLSB، XLTM به XLSB مبدل رایگان یا Java SDKdescription: تبدیل رایگانXLTM به XLSB با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

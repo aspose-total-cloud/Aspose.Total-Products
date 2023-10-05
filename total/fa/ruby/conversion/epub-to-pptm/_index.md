@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPTM، EPUB به PPTM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانEPUB به PPTM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

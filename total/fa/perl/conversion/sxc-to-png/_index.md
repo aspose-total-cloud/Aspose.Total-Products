@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPNG، SXC به PNG مبدل رایگان یا Perl SDKdescription: تبدیل رایگانSXC به PNG با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

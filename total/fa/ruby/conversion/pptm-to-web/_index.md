@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهWEB، PPTM به WEB مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPTM به WEB با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

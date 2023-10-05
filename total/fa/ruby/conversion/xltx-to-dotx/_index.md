@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOTX، XLTX به DOTX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXLTX به DOTX با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

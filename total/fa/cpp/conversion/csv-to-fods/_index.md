@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهFODS، CSV به FODS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانCSV به FODS با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهCHM، XLSX به CHM مبدل رایگان یا Curl SDKdescription: تبدیل رایگانXLSX به CHM با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

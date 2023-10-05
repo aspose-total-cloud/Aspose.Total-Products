@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTEX، PPT به TEX مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPT به TEX با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

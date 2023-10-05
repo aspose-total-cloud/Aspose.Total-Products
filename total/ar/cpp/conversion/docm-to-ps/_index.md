@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPS، DOCM به PS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOCM به PS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

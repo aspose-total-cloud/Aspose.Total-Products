@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSXC، PDF به SXC مبدل رایگان یا Net SDKdescription: تبدیل رایگانPDF به SXC با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

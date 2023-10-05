@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOC، XLSB به DOC مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXLSB به DOC با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

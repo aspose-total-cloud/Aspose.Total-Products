@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOT، MHTML به DOT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانMHTML به DOT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPT، PPTM به PPT مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPTM به PPT با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

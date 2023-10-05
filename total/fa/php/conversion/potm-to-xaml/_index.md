@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXAML، POTM به XAML مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPOTM به XAML با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

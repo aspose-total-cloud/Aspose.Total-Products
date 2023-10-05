@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPT، TXT به PPT مبدل رایگان یا Net SDKdescription: تبدیل رایگانTXT به PPT با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

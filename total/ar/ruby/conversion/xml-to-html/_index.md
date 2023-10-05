@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهHTML، XML به HTML مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXML به HTML با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

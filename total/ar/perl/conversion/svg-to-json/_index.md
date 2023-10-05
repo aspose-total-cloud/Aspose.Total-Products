@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدJSON، SVG به JSON مبدل رایگان یا Perl SDKdescription: تبدیل رایگانSVG به JSON با استفاده از Perl Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

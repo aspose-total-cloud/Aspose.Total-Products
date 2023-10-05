@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، PPTM به JSON مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPTM به JSON با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

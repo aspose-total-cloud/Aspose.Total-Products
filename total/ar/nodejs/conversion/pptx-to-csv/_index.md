@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCSV، PPTX به CSV مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPTX به CSV با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

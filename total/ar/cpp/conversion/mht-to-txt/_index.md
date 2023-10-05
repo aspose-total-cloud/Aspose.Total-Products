@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدTXT، MHT به TXT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانMHT به TXT با استفاده از C++ Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

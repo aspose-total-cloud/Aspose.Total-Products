@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOTX، DOC به DOTX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOC به DOTX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

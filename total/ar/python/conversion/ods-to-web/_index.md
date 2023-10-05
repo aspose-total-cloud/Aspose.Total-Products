@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهWEB، ODS به WEB مبدل رایگان یا Python SDKdescription: تبدیل رایگانODS به WEB با استفاده از Python Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

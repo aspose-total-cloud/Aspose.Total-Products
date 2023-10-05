@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهMHT، XLTX به MHT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانXLTX به MHT با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLTX، SXC به XLTX مبدل رایگان یا GO SDKdescription: تبدیل رایگانSXC به XLTX با استفاده از GO Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

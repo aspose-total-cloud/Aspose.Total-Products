@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، DOTM به PPTX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOTM به PPTX با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

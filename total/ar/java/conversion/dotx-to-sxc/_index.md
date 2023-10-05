@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSXC، DOTX به SXC مبدل رایگان یا Java SDKdescription: تبدیل رایگانDOTX به SXC با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

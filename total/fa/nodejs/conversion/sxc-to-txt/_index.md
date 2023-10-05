@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTXT، SXC به TXT مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانSXC به TXT با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

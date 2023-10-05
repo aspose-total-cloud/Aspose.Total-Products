@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدXLSX، MHT به XLSX مبدل رایگان یا Curl SDKdescription: تبدیل رایگانMHT به XLSX با استفاده از Curl Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

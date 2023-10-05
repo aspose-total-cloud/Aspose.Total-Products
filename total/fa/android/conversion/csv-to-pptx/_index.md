@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTX، CSV به PPTX مبدل رایگان یا Android SDKdescription: تبدیل رایگانCSV به PPTX با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

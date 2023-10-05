@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPSM، XLS به PPSM مبدل رایگان یا PHP SDKdescription: تبدیل رایگانXLS به PPSM با استفاده از PHP Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

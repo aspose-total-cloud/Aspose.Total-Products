@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTM، POTX به DOTM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPOTX به DOTM با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

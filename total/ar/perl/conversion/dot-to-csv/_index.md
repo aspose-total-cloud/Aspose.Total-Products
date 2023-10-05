@@ -1,0 +1,1 @@
+---title: تبدیل Word بهCSV، DOT به CSV مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOT به CSV با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

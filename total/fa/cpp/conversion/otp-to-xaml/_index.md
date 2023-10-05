@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXAML، OTP به XAML مبدل رایگان یا C++ SDKdescription: تبدیل رایگانOTP به XAML با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

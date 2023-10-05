@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدTXT، PDFA به TXT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPDFA به TXT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

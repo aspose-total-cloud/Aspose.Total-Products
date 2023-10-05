@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTX، ODP به PPTX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانODP به PPTX با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

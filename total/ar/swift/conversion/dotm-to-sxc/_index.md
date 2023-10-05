@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSXC، DOTM به SXC مبدل رایگان یا Swift SDKdescription: تبدیل رایگانDOTM به SXC با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

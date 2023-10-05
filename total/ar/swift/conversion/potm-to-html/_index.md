@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهHTML، POTM به HTML مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPOTM به HTML با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

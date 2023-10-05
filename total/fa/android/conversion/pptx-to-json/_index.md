@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، PPTX به JSON مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPTX به JSON با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

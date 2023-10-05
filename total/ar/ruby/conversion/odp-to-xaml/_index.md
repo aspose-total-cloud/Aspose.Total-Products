@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXAML، ODP به XAML مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODP به XAML با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

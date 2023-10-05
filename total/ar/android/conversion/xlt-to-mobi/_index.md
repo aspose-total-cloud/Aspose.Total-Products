@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهMOBI، XLT به MOBI مبدل رایگان یا Android SDKdescription: تبدیل رایگانXLT به MOBI با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

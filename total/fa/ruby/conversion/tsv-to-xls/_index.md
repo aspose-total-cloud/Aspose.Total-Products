@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLS، TSV به XLS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانTSV به XLS با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

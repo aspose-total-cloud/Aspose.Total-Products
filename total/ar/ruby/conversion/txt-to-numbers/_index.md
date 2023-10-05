@@ -1,0 +1,1 @@
+---title: تبدیل Word بهNUMBERS، TXT به NUMBERS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانTXT به NUMBERS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

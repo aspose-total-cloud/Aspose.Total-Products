@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPS، OTP به PPS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانOTP به PPS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

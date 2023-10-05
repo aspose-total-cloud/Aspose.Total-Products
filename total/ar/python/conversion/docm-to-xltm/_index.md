@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLTM، DOCM به XLTM مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOCM به XLTM با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

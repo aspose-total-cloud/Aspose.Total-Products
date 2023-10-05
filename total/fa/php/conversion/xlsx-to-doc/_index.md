@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOC، XLSX به DOC مبدل رایگان یا PHP SDKdescription: تبدیل رایگانXLSX به DOC با استفاده از PHP Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

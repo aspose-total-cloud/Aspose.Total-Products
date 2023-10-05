@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLTM، FODS به XLTM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانFODS به XLTM با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

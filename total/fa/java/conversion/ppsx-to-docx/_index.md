@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCX، PPSX به DOCX مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSX به DOCX با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

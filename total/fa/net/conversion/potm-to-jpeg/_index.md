@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJPEG، POTM به JPEG مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOTM به JPEG با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

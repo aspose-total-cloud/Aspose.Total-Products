@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPS، PPTX به PS مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPTX به PS با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

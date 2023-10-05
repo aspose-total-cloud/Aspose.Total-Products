@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODS، PPSM به ODS مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSM به ODS با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSM، DOTM به XLSM مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOTM به XLSM با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

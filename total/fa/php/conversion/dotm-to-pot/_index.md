@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOT، DOTM به POT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانDOTM به POT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

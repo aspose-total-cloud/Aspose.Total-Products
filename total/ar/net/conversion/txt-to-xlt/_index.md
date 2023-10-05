@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLT، TXT به XLT مبدل رایگان یا Net SDKdescription: تبدیل رایگانTXT به XLT با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

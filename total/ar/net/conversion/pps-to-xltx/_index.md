@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTX، PPS به XLTX مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPS به XLTX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

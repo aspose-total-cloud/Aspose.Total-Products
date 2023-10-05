@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدTXT، SVG به TXT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانSVG به TXT با استفاده از C++ Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

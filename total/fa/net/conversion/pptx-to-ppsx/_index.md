@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPSX، PPTX به PPSX مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTX به PPSX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

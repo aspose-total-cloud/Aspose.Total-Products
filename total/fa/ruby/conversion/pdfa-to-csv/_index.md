@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدCSV، PDFA به CSV مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPDFA به CSV با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

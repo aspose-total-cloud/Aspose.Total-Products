@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهNUMBERS، PPTM به NUMBERS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPTM به NUMBERS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

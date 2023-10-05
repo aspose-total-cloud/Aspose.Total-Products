@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، ODP به XLSX مبدل رایگان یا Java SDKdescription: تبدیل رایگانODP به XLSX با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

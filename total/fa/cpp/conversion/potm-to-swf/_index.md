@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSWF، POTM به SWF مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTM به SWF با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXAML، RTF به XAML مبدل رایگان یا Perl SDKdescription: تبدیل رایگانRTF به XAML با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

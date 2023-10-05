@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPTM به XLAM مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPTM به XLAM با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTM، POTX به XLTM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPOTX به XLTM با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

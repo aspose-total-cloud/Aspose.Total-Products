@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLSX، FODS به XLSX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانFODS به XLSX با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

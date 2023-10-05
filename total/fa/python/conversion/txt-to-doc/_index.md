@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOC، TXT به DOC مبدل رایگان یا Python SDKdescription: تبدیل رایگانTXT به DOC با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

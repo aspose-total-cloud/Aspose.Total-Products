@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOT، ODS به DOT مبدل رایگان یا Java SDKdescription: تبدیل رایگانODS به DOT با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

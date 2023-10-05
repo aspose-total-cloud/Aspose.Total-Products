@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCM، PPSX به DOCM مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPSX به DOCM با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

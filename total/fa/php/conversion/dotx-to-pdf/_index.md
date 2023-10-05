@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPDF، DOTX به PDF مبدل رایگان یا PHP SDKdescription: تبدیل رایگانDOTX به PDF با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

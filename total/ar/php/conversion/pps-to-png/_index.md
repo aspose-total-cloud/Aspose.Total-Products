@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPNG، PPS به PNG مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPS به PNG با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

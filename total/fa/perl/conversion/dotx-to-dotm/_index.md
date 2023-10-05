@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOTM، DOTX به DOTM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOTX به DOTM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

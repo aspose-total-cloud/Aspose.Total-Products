@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPSX، TXT به PPSX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانTXT به PPSX با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

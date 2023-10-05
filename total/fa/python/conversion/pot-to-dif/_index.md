@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDIF، POT به DIF مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOT به DIF با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

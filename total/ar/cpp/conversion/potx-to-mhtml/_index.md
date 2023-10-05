@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMHTML، POTX به MHTML مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTX به MHTML با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

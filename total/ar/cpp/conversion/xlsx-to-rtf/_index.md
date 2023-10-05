@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهRTF، XLSX به RTF مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXLSX به RTF با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

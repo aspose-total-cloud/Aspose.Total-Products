@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOC، POTX به DOC مبدل رایگان یا Android SDKdescription: تبدیل رایگانPOTX به DOC با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

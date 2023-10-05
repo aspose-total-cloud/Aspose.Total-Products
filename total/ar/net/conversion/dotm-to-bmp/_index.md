@@ -1,0 +1,1 @@
+---title: تبدیل Word بهBMP، DOTM به BMP مبدل رایگان یا Net SDKdescription: تبدیل رایگانDOTM به BMP با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

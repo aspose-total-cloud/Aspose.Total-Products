@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTIFF، OTP به TIFF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانOTP به TIFF با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

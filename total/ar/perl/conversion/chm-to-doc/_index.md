@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOC، CHM به DOC مبدل رایگان یا Perl SDKdescription: تبدیل رایگانCHM به DOC با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

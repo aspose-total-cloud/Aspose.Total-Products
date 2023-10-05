@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهODS، FODS به ODS مبدل رایگان یا Python SDKdescription: تبدیل رایگانFODS به ODS با استفاده از Python Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

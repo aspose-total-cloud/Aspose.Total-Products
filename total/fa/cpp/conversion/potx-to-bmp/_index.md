@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهBMP، POTX به BMP مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTX به BMP با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

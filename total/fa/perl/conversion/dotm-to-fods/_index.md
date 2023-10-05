@@ -1,0 +1,1 @@
+---title: تبدیل Word بهFODS، DOTM به FODS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOTM به FODS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

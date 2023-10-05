@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOTM، DOTX به POTM مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOTX به POTM با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

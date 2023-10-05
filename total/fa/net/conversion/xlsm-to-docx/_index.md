@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOCX، XLSM به DOCX مبدل رایگان یا Net SDKdescription: تبدیل رایگانXLSM به DOCX با استفاده از Net Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

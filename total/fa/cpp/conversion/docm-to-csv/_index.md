@@ -1,0 +1,1 @@
+---title: تبدیل Word بهCSV، DOCM به CSV مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOCM به CSV با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

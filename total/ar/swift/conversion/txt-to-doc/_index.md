@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOC، TXT به DOC مبدل رایگان یا Swift SDKdescription: تبدیل رایگانTXT به DOC با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

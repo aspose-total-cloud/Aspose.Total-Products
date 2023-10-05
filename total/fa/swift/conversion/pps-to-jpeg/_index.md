@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJPEG، PPS به JPEG مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPS به JPEG با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

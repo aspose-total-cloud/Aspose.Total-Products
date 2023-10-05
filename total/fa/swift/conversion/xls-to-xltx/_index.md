@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLTX، XLS به XLTX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLS به XLTX با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

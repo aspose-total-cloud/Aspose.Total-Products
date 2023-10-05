@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXAML، POT به XAML مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOT به XAML با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTM، ODP به PPTM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODP به PPTM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

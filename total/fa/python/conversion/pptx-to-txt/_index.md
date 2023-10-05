@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTXT، PPTX به TXT مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPTX به TXT با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

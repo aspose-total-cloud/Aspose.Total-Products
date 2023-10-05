@@ -1,0 +1,1 @@
+---title: تبدیل Word بهCHM، DOTX به CHM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانDOTX به CHM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

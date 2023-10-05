@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدXLS، MHT به XLS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانMHT به XLS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

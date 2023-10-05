@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSB، PPTM به XLSB مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTM به XLSB با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

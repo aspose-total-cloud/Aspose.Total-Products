@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPS، POTX به PS مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به PS با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPSX به XLAM مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSX به XLAM با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

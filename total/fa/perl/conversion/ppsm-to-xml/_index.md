@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، PPSM به XML مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPSM به XML با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

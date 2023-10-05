@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLSX، XLT به XLSX مبدل رایگان یا Python SDKdescription: تبدیل رایگانXLT به XLSX با استفاده از Python Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

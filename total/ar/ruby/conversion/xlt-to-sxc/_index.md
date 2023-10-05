@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهSXC، XLT به SXC مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXLT به SXC با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

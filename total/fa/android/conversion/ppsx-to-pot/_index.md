@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPOT، PPSX به POT مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSX به POT با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

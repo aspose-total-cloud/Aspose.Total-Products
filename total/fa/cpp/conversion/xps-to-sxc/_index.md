@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدSXC، XPS به SXC مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXPS به SXC با استفاده از C++ Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

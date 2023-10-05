@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXML، SXC به XML مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانSXC به XML با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

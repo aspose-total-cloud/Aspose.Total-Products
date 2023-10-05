@@ -1,0 +1,1 @@
+---title: تبدیل Word بهCSV، DOTX به CSV مبدل رایگان یا Curl SDKdescription: تبدیل رایگانDOTX به CSV با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

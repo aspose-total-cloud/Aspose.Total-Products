@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOT، POTM به DOT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOTM به DOT با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، DOCX به PPTX مبدل رایگان یا Net SDKdescription: تبدیل رایگانDOCX به PPTX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

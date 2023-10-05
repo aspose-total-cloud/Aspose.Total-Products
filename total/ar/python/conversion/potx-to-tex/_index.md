@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTEX، POTX به TEX مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTX به TEX با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهRTF، POTX به RTF مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به RTF با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

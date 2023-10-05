@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهFODS، PPS به FODS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPS به FODS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOTX، DOCX به DOTX مبدل رایگان یا GO SDKdescription: تبدیل رایگانDOCX به DOTX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

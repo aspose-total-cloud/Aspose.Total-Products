@@ -1,0 +1,1 @@
+---title: تبدیل Word بهGIF، DOTX به GIF مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOTX به GIF با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

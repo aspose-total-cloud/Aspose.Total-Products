@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXPS، DOTM به XPS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOTM به XPS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

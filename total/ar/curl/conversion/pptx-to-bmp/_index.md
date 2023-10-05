@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهBMP، PPTX به BMP مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPTX به BMP با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

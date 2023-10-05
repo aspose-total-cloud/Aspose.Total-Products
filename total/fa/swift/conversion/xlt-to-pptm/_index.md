@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTM، XLT به PPTM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLT به PPTM با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

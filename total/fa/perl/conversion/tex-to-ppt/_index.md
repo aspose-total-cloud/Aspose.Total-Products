@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPT، TEX به PPT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانTEX به PPT با استفاده از Perl Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

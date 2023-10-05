@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPNG، PPTX به PNG مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTX به PNG با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

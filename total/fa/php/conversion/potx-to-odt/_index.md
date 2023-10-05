@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODT، POTX به ODT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPOTX به ODT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

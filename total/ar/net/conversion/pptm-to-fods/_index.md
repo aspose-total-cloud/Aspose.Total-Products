@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهFODS، PPTM به FODS مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTM به FODS با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

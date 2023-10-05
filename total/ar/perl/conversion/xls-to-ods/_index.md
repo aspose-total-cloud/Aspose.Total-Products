@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهODS، XLS به ODS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانXLS به ODS با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

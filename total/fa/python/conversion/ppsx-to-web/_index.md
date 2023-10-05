@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهWEB، PPSX به WEB مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPSX به WEB با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

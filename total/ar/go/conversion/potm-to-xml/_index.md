@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، POTM به XML مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTM به XML با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

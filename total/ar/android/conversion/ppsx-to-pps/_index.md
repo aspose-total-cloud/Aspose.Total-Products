@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPS، PPSX به PPS مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSX به PPS با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

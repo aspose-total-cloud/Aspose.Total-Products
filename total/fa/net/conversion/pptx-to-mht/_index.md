@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMHT، PPTX به MHT مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTX به MHT با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

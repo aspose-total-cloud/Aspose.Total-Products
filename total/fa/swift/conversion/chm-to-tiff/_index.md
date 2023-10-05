@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTIFF، CHM به TIFF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانCHM به TIFF با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

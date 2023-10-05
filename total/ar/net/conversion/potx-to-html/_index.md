@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهHTML، POTX به HTML مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOTX به HTML با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

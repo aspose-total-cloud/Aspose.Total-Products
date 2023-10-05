@@ -1,0 +1,1 @@
+---title: تبدیل Word بهODP، DOTX به ODP مبدل رایگان یا Android SDKdescription: تبدیل رایگانDOTX به ODP با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

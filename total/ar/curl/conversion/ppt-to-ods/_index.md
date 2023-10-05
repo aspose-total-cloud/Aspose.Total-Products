@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODS، PPT به ODS مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPT به ODS با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLAM، ODS به XLAM مبدل رایگان یا PHP SDKdescription: تبدیل رایگانODS به XLAM با استفاده از PHP Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

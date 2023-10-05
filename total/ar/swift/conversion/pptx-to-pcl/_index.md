@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPCL، PPTX به PCL مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPTX به PCL با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

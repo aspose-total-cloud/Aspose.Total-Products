@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPTX، MHT به PPTX مبدل رایگان یا Python SDKdescription: تبدیل رایگانMHT به PPTX با استفاده از Python Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

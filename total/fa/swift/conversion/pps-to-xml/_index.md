@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، PPS به XML مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPS به XML با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

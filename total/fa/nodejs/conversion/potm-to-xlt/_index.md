@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، POTM به XLT مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPOTM به XLT با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

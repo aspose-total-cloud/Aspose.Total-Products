@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTEX، PPTX به TEX مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPTX به TEX با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

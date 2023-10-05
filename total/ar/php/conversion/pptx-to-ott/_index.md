@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهOTT، PPTX به OTT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPTX به OTT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

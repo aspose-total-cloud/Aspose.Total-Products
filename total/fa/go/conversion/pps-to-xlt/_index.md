@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، PPS به XLT مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPS به XLT با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، PPS به JSON مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPS به JSON با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

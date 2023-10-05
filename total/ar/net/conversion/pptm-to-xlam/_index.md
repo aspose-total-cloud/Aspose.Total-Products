@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPTM به XLAM مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTM به XLAM با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

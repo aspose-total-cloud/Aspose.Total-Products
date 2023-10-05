@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJPEG، PPTM به JPEG مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPTM به JPEG با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

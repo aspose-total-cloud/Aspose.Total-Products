@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهFODS، XLSB به FODS مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXLSB به FODS با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

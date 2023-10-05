@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOC، POT به DOC مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOT به DOC با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

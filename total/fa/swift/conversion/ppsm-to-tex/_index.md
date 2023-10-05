@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTEX، PPSM به TEX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSM به TEX با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

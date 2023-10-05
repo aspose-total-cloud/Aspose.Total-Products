@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLTX، DOTM به XLTX مبدل رایگان یا Net SDKdescription: تبدیل رایگانDOTM به XLTX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

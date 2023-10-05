@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTSV، PPSX به TSV مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSX به TSV با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

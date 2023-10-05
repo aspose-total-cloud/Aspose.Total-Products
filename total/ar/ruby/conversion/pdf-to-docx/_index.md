@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOCX، PDF به DOCX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPDF به DOCX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

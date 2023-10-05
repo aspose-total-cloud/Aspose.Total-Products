@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPSM، DOTM به PPSM مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOTM به PPSM با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، ODP به XLT مبدل رایگان یا PHP SDKdescription: تبدیل رایگانODP به XLT با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

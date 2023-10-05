@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPTX به XLAM مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTX به XLAM با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

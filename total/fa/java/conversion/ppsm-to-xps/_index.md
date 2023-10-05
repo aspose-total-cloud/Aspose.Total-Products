@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXPS، PPSM به XPS مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSM به XPS با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، POT به XML مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPOT به XML با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

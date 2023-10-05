@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCHM، PPTX به CHM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPTX به CHM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

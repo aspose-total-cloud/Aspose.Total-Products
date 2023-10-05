@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDIF، POTX به DIF مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOTX به DIF با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

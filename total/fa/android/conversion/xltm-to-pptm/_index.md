@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTM، XLTM به PPTM مبدل رایگان یا Android SDKdescription: تبدیل رایگانXLTM به PPTM با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

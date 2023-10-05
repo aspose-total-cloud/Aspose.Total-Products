@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTM، POTM به PPTM مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPOTM به PPTM با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

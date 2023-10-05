@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSM، POTX به XLSM مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTX به XLSM با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

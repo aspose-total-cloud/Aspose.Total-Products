@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPS، DOC به PPS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOC به PPS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

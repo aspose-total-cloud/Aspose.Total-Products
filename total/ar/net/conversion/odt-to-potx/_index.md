@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOTX، ODT به POTX مبدل رایگان یا Net SDKdescription: تبدیل رایگانODT به POTX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

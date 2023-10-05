@@ -1,0 +1,1 @@
+---title: تبدیل Word بهGIF، HTML به GIF مبدل رایگان یا C++ SDKdescription: تبدیل رایگانHTML به GIF با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

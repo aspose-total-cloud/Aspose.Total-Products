@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSXC، PPSM به SXC مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPSM به SXC با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

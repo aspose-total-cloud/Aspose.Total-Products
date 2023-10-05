@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSXC، ODP به SXC مبدل رایگان یا Android SDKdescription: تبدیل رایگانODP به SXC با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهCSV، DOTX به CSV مبدل رایگان یا PHP SDKdescription: تبدیل رایگانDOTX به CSV با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

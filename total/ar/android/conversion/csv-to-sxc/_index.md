@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهSXC، CSV به SXC مبدل رایگان یا Android SDKdescription: تبدیل رایگانCSV به SXC با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

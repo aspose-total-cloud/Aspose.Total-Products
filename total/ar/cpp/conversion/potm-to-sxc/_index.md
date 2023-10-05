@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSXC، POTM به SXC مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTM به SXC با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

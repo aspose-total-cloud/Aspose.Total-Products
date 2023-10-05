@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهEMF، PPTM به EMF مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPTM به EMF با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

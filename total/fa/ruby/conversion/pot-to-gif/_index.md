@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهGIF، POT به GIF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOT به GIF با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

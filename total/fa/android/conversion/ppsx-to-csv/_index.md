@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCSV، PPSX به CSV مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSX به CSV با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

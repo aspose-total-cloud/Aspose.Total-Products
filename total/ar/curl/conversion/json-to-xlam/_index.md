@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLAM، JSON به XLAM مبدل رایگان یا Curl SDKdescription: تبدیل رایگانJSON به XLAM با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

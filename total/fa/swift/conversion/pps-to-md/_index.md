@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMD، PPS به MD مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPS به MD با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

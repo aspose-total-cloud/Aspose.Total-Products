@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOT، XLSX به DOT مبدل رایگان یا Curl SDKdescription: تبدیل رایگانXLSX به DOT با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

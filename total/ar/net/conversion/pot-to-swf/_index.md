@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSWF، POT به SWF مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOT به SWF با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

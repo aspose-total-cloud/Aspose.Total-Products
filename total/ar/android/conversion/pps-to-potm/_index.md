@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPOTM، PPS به POTM مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPS به POTM با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOT، TSV به DOT مبدل رایگان یا Curl SDKdescription: تبدیل رایگانTSV به DOT با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTEX، POT به TEX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOT به TEX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

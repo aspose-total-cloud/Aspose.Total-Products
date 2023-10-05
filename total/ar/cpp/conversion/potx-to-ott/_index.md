@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهOTT، POTX به OTT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTX به OTT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLS، DOC به XLS مبدل رایگان یا Android SDKdescription: تبدیل رایگانDOC به XLS با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

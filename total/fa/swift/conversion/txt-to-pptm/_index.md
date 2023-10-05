@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTM، TXT به PPTM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانTXT به PPTM با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

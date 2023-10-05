@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهRTF، PPSX به RTF مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSX به RTF با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

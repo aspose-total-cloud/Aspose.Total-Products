@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDFA، PPT به PDFA مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPT به PDFA با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

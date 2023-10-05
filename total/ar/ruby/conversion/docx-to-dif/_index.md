@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDIF، DOCX به DIF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانDOCX به DIF با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

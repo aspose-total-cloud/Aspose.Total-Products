@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTIFF، PPS به TIFF مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPS به TIFF با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

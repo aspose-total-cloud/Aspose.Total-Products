@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPNG، PPT به PNG مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPT به PNG با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSXC، PPTX به SXC مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPTX به SXC با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

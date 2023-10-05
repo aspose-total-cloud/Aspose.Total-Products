@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSX، DOT به XLSX مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOT به XLSX با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPS، DOCX به PPS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOCX به PPS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

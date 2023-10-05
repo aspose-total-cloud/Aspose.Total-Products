@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTX، OTP به XLTX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانOTP به XLTX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

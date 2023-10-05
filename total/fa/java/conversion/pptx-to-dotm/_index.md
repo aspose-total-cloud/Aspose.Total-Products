@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTM، PPTX به DOTM مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPTX به DOTM با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

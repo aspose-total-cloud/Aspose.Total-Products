@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTX، PPSM به DOTX مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSM به DOTX با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

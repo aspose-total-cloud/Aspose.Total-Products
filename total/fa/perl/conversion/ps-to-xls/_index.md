@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدXLS، PS به XLS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPS به XLS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

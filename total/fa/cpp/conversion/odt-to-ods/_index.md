@@ -1,0 +1,1 @@
+---title: تبدیل Word بهODS، ODT به ODS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانODT به ODS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

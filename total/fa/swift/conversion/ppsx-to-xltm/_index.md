@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTM، PPSX به XLTM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSX به XLTM با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهBMP، POT به BMP مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOT به BMP با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

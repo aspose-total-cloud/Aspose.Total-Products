@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهJSON، SXC به JSON مبدل رایگان یا Curl SDKdescription: تبدیل رایگانSXC به JSON با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

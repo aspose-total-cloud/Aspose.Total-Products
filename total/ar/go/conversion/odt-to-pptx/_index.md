@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، ODT به PPTX مبدل رایگان یا GO SDKdescription: تبدیل رایگانODT به PPTX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

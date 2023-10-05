@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCX، OTP به DOCX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانOTP به DOCX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

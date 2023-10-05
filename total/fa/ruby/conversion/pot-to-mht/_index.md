@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMHT، POT به MHT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOT به MHT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

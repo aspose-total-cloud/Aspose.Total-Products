@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODS، PPSX به ODS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPSX به ODS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

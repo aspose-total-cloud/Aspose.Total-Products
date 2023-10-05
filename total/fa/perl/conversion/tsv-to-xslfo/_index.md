@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXSLFO، TSV به XSLFO مبدل رایگان یا Perl SDKdescription: تبدیل رایگانTSV به XSLFO با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

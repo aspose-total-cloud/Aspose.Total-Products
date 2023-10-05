@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBI، POT به MOBI مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOT به MOBI با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

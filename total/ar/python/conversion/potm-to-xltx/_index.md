@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTX، POTM به XLTX مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTM به XLTX با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

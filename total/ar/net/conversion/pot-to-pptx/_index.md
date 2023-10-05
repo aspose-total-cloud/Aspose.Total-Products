@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTX، POT به PPTX مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOT به PPTX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCSV، PPSM به CSV مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPSM به CSV با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

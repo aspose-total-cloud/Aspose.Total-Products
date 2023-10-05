@@ -1,0 +1,1 @@
+---title: تبدیل Word بهMHTML، DOC به MHTML مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOC به MHTML با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

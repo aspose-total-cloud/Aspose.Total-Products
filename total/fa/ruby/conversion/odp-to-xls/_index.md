@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLS، ODP به XLS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODP به XLS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

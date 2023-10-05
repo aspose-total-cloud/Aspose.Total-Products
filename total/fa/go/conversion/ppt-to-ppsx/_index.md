@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPSX، PPT به PPSX مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPT به PPSX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSVG، PDF به SVG مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPDF به SVG با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

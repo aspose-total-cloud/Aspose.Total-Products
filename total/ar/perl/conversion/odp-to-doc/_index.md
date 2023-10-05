@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOC، ODP به DOC مبدل رایگان یا Perl SDKdescription: تبدیل رایگانODP به DOC با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTX، POTX به PPTX مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به PPTX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

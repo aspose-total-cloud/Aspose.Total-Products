@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDF، PPSM به PDF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPSM به PDF با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

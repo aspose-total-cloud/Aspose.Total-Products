@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSX، MHTML به XLSX مبدل رایگان یا GO SDKdescription: تبدیل رایگانMHTML به XLSX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

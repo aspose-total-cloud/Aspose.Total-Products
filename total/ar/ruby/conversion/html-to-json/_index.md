@@ -1,0 +1,1 @@
+---title: تبدیل Word بهJSON، HTML به JSON مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانHTML به JSON با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

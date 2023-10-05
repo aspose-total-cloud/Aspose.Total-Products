@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLT، PDF به XLT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPDF به XLT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهBMP، PPSX به BMP مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSX به BMP با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTM، SXC به PPTM مبدل رایگان یا GO SDKdescription: تبدیل رایگانSXC به PPTM با استفاده از GO Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

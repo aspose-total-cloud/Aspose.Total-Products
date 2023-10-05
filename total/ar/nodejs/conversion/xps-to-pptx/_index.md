@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPTX، XPS به PPTX مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXPS به PPTX با استفاده از Nodejs Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

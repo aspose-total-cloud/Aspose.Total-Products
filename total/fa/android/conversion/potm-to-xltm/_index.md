@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTM، POTM به XLTM مبدل رایگان یا Android SDKdescription: تبدیل رایگانPOTM به XLTM با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

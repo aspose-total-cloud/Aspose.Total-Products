@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCX، PPT به DOCX مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPT به DOCX با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

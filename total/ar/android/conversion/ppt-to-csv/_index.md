@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCSV، PPT به CSV مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPT به CSV با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهOTT، POT به OTT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOT به OTT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

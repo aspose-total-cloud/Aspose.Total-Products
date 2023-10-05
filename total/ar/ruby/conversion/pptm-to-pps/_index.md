@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPS، PPTM به PPS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPTM به PPS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

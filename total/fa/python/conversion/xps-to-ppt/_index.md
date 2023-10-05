@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPT، XPS به PPT مبدل رایگان یا Python SDKdescription: تبدیل رایگانXPS به PPT با استفاده از Python Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

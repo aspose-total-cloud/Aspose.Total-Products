@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهRTF، POTX به RTF مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOTX به RTF با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTXT، XLSB به TXT مبدل رایگان یا Curl SDKdescription: تبدیل رایگانXLSB به TXT با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

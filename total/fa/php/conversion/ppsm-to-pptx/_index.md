@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPTX، PPSM به PPTX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPSM به PPTX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

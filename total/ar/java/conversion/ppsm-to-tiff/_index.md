@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTIFF، PPSM به TIFF مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSM به TIFF با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

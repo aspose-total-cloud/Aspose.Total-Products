@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJPEG، PPTX به JPEG مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPTX به JPEG با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODT، POTM به ODT مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPOTM به ODT با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

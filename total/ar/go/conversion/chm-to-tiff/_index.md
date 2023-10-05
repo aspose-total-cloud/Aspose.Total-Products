@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTIFF، CHM به TIFF مبدل رایگان یا GO SDKdescription: تبدیل رایگانCHM به TIFF با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

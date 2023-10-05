@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDFA، PPS به PDFA مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPS به PDFA با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

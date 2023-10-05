@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPOTM، XLTX به POTM مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLTX به POTM با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

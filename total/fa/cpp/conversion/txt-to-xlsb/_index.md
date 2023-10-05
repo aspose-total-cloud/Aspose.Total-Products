@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSB، TXT به XLSB مبدل رایگان یا C++ SDKdescription: تبدیل رایگانTXT به XLSB با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

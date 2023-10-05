@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSVG، MHTML به SVG مبدل رایگان یا Python SDKdescription: تبدیل رایگانMHTML به SVG با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، PPSM به XLT مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPSM به XLT با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPOTX، CSV به POTX مبدل رایگان یا Java SDKdescription: تبدیل رایگانCSV به POTX با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

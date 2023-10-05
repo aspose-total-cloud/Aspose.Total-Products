@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPT به XLAM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPT به XLAM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

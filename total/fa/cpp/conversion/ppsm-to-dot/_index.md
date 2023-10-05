@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOT، PPSM به DOT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPSM به DOT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

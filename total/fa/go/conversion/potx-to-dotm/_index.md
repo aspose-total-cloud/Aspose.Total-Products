@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTM، POTX به DOTM مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به DOTM با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

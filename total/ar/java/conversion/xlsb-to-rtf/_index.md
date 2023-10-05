@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهRTF، XLSB به RTF مبدل رایگان یا Java SDKdescription: تبدیل رایگانXLSB به RTF با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXML، PPT به XML مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPT به XML با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهGIF، PPTM به GIF مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTM به GIF با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

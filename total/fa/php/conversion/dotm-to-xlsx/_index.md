@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSX، DOTM به XLSX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانDOTM به XLSX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

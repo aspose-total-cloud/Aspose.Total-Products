@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXSLFO، DOCM به XSLFO مبدل رایگان یا Python SDKdescription: تبدیل رایگانDOCM به XSLFO با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

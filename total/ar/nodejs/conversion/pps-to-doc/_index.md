@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOC، PPS به DOC مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPS به DOC با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

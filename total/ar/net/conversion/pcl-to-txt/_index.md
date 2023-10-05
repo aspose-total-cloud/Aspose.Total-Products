@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدTXT، PCL به TXT مبدل رایگان یا Net SDKdescription: تبدیل رایگانPCL به TXT با استفاده از Net Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

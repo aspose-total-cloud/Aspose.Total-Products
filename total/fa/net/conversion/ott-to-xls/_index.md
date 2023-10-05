@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLS، OTT به XLS مبدل رایگان یا Net SDKdescription: تبدیل رایگانOTT به XLS با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTXT، POTM به TXT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOTM به TXT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

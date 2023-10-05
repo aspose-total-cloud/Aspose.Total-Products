@@ -1,0 +1,1 @@
+---title: تبدیل Word بهMD، CHM به MD مبدل رایگان یا Perl SDKdescription: تبدیل رایگانCHM به MD با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

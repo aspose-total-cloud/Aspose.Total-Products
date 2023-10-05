@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSM، POTM به XLSM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOTM به XLSM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

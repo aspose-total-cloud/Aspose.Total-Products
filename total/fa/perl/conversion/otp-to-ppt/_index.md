@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPT، OTP به PPT مبدل رایگان یا Perl SDKdescription: تبدیل رایگانOTP به PPT با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

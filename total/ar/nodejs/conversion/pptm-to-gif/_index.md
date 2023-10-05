@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهGIF، PPTM به GIF مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPTM به GIF با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، POT به XLT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPOT به XLT با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

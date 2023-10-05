@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTM، PPS به DOTM مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPS به DOTM با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

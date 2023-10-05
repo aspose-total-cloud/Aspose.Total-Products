@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPT، FODS به PPT مبدل رایگان یا Java SDKdescription: تبدیل رایگانFODS به PPT با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، POT به XLSX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOT به XLSX با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

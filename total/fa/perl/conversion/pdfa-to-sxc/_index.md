@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدSXC، PDFA به SXC مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPDFA به SXC با استفاده از Perl Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

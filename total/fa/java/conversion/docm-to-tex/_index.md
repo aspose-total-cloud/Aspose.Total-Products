@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، DOCM به TEX مبدل رایگان یا Java SDKdescription: تبدیل رایگانDOCM به TEX با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

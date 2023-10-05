@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLAM، PPTM به XLAM مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPTM به XLAM با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

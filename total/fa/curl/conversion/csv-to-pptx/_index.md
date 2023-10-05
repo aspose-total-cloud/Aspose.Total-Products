@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTX، CSV به PPTX مبدل رایگان یا Curl SDKdescription: تبدیل رایگانCSV به PPTX با استفاده از Curl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPS، POT به PPS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOT به PPS با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOCX، PPTX به DOCX مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPTX به DOCX با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

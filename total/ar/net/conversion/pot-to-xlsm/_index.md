@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSM، POT به XLSM مبدل رایگان یا Net SDKdescription: تبدیل رایگانPOT به XLSM با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

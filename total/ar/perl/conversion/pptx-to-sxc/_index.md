@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSXC، PPTX به SXC مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPTX به SXC با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

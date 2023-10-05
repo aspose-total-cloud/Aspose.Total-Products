@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، PPTX به JSON مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTX به JSON با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

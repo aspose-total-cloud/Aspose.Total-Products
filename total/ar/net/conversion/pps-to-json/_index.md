@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJSON، PPS به JSON مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPS به JSON با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

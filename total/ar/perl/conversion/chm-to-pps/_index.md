@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPS، CHM به PPS مبدل رایگان یا Perl SDKdescription: تبدیل رایگانCHM به PPS با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

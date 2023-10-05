@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLTM، DOTM به XLTM مبدل رایگان یا GO SDKdescription: تبدیل رایگانDOTM به XLTM با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

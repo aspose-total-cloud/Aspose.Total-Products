@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهMD، SXC به MD مبدل رایگان یا Perl SDKdescription: تبدیل رایگانSXC به MD با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

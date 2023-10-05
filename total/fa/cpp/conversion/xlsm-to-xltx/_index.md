@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLTX، XLSM به XLTX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXLSM به XLTX با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

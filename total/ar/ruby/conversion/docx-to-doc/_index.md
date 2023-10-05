@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOC، DOCX به DOC مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانDOCX به DOC با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

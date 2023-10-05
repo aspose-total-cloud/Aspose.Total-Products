@@ -1,0 +1,1 @@
+---title: تبدیل Word بهSXC، OTT به SXC مبدل رایگان یا Android SDKdescription: تبدیل رایگانOTT به SXC با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

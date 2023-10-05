@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTSV، PPSM به TSV مبدل رایگان یا Python SDKdescription: تبدیل رایگانPPSM به TSV با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

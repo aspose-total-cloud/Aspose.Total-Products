@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهODS، XML به ODS مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانXML به ODS با استفاده از Ruby Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

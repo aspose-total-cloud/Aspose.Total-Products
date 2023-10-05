@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPSX، MHTML به PPSX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانMHTML به PPSX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

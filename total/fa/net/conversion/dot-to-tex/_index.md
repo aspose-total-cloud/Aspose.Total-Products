@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، DOT به TEX مبدل رایگان یا Net SDKdescription: تبدیل رایگانDOT به TEX با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

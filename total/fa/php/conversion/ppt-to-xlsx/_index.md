@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، PPT به XLSX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPT به XLSX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSVG، POTX به SVG مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTX به SVG با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPOT، PPSM به POT مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSM به POT با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

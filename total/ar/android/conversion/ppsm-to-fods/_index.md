@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهFODS، PPSM به FODS مبدل رایگان یا Android SDKdescription: تبدیل رایگانPPSM به FODS با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

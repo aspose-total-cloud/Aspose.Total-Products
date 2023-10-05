@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLT، PPT به XLT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPT به XLT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

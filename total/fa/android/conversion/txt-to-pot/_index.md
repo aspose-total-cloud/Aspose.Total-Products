@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPOT، TXT به POT مبدل رایگان یا Android SDKdescription: تبدیل رایگانTXT به POT با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

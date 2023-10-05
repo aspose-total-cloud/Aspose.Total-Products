@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTXT، POTX به TXT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPOTX به TXT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

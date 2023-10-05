@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBI، PPTM به MOBI مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPTM به MOBI با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهFODS، PPSX به FODS مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSX به FODS با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

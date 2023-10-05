@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، OTT به TEX مبدل رایگان یا Python SDKdescription: تبدیل رایگانOTT به TEX با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

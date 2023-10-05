@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTX، XML به PPTX مبدل رایگان یا Net SDKdescription: تبدیل رایگانXML به PPTX با استفاده از Net Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTEX، POT به TEX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOT به TEX با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

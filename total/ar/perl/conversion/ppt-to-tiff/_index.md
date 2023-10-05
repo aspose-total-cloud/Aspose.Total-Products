@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTIFF، PPT به TIFF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPT به TIFF با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

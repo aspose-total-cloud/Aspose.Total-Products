@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOTM، XLSX به DOTM مبدل رایگان یا GO SDKdescription: تبدیل رایگانXLSX به DOTM با استفاده از GO Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

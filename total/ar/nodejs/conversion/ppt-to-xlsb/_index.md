@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSB، PPT به XLSB مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPPT به XLSB با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

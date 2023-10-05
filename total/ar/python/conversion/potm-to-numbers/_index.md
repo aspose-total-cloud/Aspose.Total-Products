@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهNUMBERS، POTM به NUMBERS مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTM به NUMBERS با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

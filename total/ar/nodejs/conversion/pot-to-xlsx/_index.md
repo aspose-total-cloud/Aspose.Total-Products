@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLSX، POT به XLSX مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانPOT به XLSX با استفاده از Nodejs Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTX، POTX به XLTX مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به XLTX با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

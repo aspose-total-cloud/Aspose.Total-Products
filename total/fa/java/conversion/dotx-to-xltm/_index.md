@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLTM، DOTX به XLTM مبدل رایگان یا Java SDKdescription: تبدیل رایگانDOTX به XLTM با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

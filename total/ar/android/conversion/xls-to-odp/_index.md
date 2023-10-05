@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهODP، XLS به ODP مبدل رایگان یا Android SDKdescription: تبدیل رایگانXLS به ODP با استفاده از Android Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

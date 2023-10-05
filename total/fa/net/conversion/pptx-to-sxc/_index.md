@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهSXC، PPTX به SXC مبدل رایگان یا Net SDKdescription: تبدیل رایگانPPTX به SXC با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

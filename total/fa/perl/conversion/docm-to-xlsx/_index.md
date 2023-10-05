@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSX، DOCM به XLSX مبدل رایگان یا Perl SDKdescription: تبدیل رایگانDOCM به XLSX با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

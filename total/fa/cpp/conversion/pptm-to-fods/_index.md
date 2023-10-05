@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهFODS، PPTM به FODS مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPPTM به FODS با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

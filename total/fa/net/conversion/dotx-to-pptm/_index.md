@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTM، DOTX به PPTM مبدل رایگان یا Net SDKdescription: تبدیل رایگانDOTX به PPTM با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

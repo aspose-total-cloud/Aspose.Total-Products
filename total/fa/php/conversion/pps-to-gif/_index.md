@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهGIF، PPS به GIF مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPS به GIF با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

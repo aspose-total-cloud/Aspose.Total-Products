@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBIXML، POTM به MOBIXML مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPOTM به MOBIXML با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

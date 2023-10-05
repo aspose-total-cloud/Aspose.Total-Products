@@ -1,0 +1,1 @@
+---title: تبدیل Word بهODS، PDF به ODS مبدل رایگان یا Java SDKdescription: تبدیل رایگانPDF به ODS با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

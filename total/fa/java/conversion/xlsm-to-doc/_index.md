@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOC، XLSM به DOC مبدل رایگان یا Java SDKdescription: تبدیل رایگانXLSM به DOC با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

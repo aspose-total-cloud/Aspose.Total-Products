@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXLAM، XLTX به XLAM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانXLTX به XLAM با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

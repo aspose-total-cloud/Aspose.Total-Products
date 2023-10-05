@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، PDF به TEX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانPDF به TEX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

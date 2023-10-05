@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، DOTX به TEX مبدل رایگان یا Curl SDKdescription: تبدیل رایگانDOTX به TEX با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

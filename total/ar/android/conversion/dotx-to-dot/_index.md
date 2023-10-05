@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOT، DOTX به DOT مبدل رایگان یا Android SDKdescription: تبدیل رایگانDOTX به DOT با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

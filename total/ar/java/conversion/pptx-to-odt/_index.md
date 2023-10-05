@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهODT، PPTX به ODT مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPTX به ODT با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

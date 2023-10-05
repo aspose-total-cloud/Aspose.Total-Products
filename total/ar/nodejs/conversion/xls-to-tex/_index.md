@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهTEX، XLS به TEX مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانXLS به TEX با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

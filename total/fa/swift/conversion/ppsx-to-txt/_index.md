@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهTXT، PPSX به TXT مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPSX به TXT با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

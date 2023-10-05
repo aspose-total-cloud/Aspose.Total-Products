@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهODS، XLSB به ODS مبدل رایگان یا Python SDKdescription: تبدیل رایگانXLSB به ODS با استفاده از Python Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

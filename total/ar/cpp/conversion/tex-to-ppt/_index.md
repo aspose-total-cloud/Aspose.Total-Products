@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPPT، TEX به PPT مبدل رایگان یا C++ SDKdescription: تبدیل رایگانTEX به PPT با استفاده از C++ Cloud APIs & SDK همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

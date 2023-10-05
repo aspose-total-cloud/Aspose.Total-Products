@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهXML، XLSB به XML مبدل رایگان یا Net SDKdescription: تبدیل رایگانXLSB به XML با استفاده از Net Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

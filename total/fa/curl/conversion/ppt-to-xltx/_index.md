@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTX، PPT به XLTX مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPT به XLTX با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

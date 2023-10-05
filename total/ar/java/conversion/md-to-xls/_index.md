@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLS، MD به XLS مبدل رایگان یا Java SDKdescription: تبدیل رایگانMD به XLS با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

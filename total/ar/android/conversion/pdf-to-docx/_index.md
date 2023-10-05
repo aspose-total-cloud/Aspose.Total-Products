@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOCX، PDF به DOCX مبدل رایگان یا Android SDKdescription: تبدیل رایگانPDF به DOCX با استفاده از Android Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

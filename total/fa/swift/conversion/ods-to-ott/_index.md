@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهOTT، ODS به OTT مبدل رایگان یا Swift SDKdescription: تبدیل رایگانODS به OTT با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

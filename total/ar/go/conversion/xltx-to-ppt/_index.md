@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPT، XLTX به PPT مبدل رایگان یا GO SDKdescription: تبدیل رایگانXLTX به PPT با استفاده از GO Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTIFF، ODT به TIFF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODT به TIFF با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

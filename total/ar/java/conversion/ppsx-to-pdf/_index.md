@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPDF، PPSX به PDF مبدل رایگان یا Java SDKdescription: تبدیل رایگانPPSX به PDF با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

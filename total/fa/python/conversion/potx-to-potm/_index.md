@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPOTM، POTX به POTM مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTX به POTM با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

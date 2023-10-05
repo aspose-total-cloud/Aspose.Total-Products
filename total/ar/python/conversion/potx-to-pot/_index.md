@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPOT، POTX به POT مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTX به POT با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

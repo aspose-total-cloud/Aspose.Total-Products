@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTX، PPTM به XLTX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPTM به XLTX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

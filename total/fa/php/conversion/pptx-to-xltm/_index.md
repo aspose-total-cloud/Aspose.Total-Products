@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهXLTM، PPTX به XLTM مبدل رایگان یا PHP SDKdescription: تبدیل رایگانPPTX به XLTM با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

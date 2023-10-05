@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهCSV، POT به CSV مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPOT به CSV با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

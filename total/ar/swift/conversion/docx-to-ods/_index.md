@@ -1,0 +1,1 @@
+---title: تبدیل Word بهODS، DOCX به ODS مبدل رایگان یا Swift SDKdescription: تبدیل رایگانDOCX به ODS با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

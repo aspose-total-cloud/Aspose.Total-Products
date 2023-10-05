@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدPOT، PDFA به POT مبدل رایگان یا Python SDKdescription: تبدیل رایگانPDFA به POT با استفاده از Python Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدMD، TEX به MD مبدل رایگان یا Perl SDKdescription: تبدیل رایگانTEX به MD با استفاده از Perl Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

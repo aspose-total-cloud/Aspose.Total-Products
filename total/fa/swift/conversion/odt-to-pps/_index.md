@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPS، ODT به PPS مبدل رایگان یا Swift SDKdescription: تبدیل رایگانODT به PPS با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPT، FODS به PPT مبدل رایگان یا Nodejs SDKdescription: تبدیل رایگانFODS به PPT با استفاده از Nodejs Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

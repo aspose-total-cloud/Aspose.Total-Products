@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهGIF، PPT به GIF مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPT به GIF با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

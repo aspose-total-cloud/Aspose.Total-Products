@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTM، DOCX به PPTM مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOCX به PPTM با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

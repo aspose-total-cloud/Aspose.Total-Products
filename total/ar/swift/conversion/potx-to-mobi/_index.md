@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBI، POTX به MOBI مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPOTX به MOBI با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

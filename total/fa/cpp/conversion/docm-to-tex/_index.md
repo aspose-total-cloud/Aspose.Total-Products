@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTEX، DOCM به TEX مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOCM به TEX با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

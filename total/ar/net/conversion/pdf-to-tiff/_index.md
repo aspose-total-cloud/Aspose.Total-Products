@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTIFF، PDF به TIFF مبدل رایگان یا Net SDKdescription: تبدیل رایگانPDF به TIFF با استفاده از Net Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

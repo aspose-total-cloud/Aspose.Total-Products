@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPS، PPTM به PPS مبدل رایگان یا Swift SDKdescription: تبدیل رایگانPPTM به PPS با استفاده از Swift Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPS، DOC به PPS مبدل رایگان یا Java SDKdescription: تبدیل رایگانDOC به PPS با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

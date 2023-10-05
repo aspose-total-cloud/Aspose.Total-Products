@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOT، ODP به DOT مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانODP به DOT با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

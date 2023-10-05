@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMHTML، PPSM به MHTML مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانPPSM به MHTML با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

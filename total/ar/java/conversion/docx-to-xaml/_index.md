@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXAML، DOCX به XAML مبدل رایگان یا Java SDKdescription: تبدیل رایگانDOCX به XAML با استفاده از Java Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

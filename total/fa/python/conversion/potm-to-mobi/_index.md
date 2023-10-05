@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBI، POTM به MOBI مبدل رایگان یا Python SDKdescription: تبدیل رایگانPOTM به MOBI با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

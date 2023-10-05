@@ -1,0 +1,1 @@
+---title: تبدیل Word بهODP، MD به ODP مبدل رایگان یا Python SDKdescription: تبدیل رایگانMD به ODP با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

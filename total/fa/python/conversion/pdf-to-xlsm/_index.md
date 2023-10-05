@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXLSM، PDF به XLSM مبدل رایگان یا Python SDKdescription: تبدیل رایگانPDF به XLSM با استفاده از Python Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

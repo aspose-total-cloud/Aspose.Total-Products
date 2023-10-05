@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPNG، PPTM به PNG مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPPTM به PNG با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

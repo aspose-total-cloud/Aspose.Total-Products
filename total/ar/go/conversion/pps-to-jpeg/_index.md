@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهJPEG، PPS به JPEG مبدل رایگان یا GO SDKdescription: تبدیل رایگانPPS به JPEG با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

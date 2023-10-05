@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPTX، OTT به PPTX مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانOTT به PPTX با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

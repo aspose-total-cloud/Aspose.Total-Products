@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهDOC، XLT به DOC مبدل رایگان یا Swift SDKdescription: تبدیل رایگانXLT به DOC با استفاده از Swift Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

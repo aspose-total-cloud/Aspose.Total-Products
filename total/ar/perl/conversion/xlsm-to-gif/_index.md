@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهGIF، XLSM به GIF مبدل رایگان یا Perl SDKdescription: تبدیل رایگانXLSM به GIF با استفاده از Perl Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

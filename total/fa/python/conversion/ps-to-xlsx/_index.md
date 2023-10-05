@@ -1,0 +1,1 @@
+---title: PDF را به  تبدیل کنیدXLSX، PS به XLSX مبدل رایگان یا Python SDKdescription: تبدیل رایگانPS به XLSX با استفاده از Python Cloud APIs & SDK. همچنین اسناد PDF را در Cloud ایجاد، ویرایش و رندر کنید.---

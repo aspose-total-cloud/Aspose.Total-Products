@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهPPSM، PPTX به PPSM مبدل رایگان یا Perl SDKdescription: تبدیل رایگانPPTX به PPSM با استفاده از Perl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

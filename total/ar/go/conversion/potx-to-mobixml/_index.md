@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهMOBIXML، POTX به MOBIXML مبدل رایگان یا GO SDKdescription: تبدیل رایگانPOTX به MOBIXML با استفاده از GO Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

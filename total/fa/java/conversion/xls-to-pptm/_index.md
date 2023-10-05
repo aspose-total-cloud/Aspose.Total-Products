@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهPPTM، XLS به PPTM مبدل رایگان یا Java SDKdescription: تبدیل رایگانXLS به PPTM با استفاده از Java Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

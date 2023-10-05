@@ -1,0 +1,1 @@
+---title: تبدیل Word بهPPS، DOCM به PPS مبدل رایگان یا PHP SDKdescription: تبدیل رایگانDOCM به PPS با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

@@ -1,0 +1,1 @@
+---title: تبدیل Word بهXAML، DOTM به XAML مبدل رایگان یا C++ SDKdescription: تبدیل رایگانDOTM به XAML با استفاده از C++ Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---

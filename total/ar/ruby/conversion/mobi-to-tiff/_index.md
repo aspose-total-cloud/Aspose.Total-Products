@@ -1,0 +1,1 @@
+---title: تبدیل Word بهTIFF، MOBI به TIFF مبدل رایگان یا Ruby SDKdescription: تبدیل رایگانMOBI به TIFF با استفاده از Ruby Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید.---

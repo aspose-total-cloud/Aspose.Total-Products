@@ -1,0 +1,1 @@
+---title: تبدیل پاورپوینت بهDOTX، POTX به DOTX مبدل رایگان یا Curl SDKdescription: تبدیل رایگانPOTX به DOTX با استفاده از Curl Cloud APIs & SDK. همچنین اسناد Microsoft PowerPoint را در Cloud ایجاد، ویرایش و رندر کنید.---

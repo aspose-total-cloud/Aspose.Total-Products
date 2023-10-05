@@ -1,0 +1,1 @@
+---title: تبدیل اکسل بهOTP، XLS به OTP مبدل رایگان یا C++ SDKdescription: تبدیل رایگانXLS به OTP با استفاده از C++ Cloud APIs & SDK. همچنین کاربرگ یا صفحه گسترده Microsoft Excel، CSV و SpreadsheetML را در Cloud ایجاد، ویرایش و رندر کنید.---

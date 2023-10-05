@@ -1,0 +1,1 @@
+---title: تبدیل Word بهDOTX، MHTML به DOTX مبدل رایگان یا PHP SDKdescription: تبدیل رایگانMHTML به DOTX با استفاده از PHP Cloud APIs & SDK. همچنین اسناد Microsoft Word و OpenOffice را در Cloud ایجاد، ویرایش و رندر کنید---
