@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOTM,PPT σε DOTM ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του PPT σε DOTM χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

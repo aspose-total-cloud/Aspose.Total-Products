@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεPDFA,ODS σε PDFA ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του ODS σε PDFA χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

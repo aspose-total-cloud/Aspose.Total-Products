@@ -1,0 +1,1 @@
+---title: Konvertera PDF till CSV, SVG till CSV GRATIS Converter eller Curl SDKdescription: Gratis konvertering av SVG till CSV genom att använda Curl Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

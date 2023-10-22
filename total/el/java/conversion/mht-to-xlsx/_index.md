@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,MHT σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του MHT σε XLSX χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

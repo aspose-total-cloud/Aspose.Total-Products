@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεJSON,XLSX σε JSON ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του XLSX σε JSON χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

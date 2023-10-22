@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXML,PPSX σε XML ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του PPSX σε XML χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

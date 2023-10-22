@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεTSV,SXC σε TSV ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του SXC σε TSV χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

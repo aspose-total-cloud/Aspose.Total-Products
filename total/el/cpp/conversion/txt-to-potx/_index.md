@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεPOTX,TXT σε POTX ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του TXT σε POTX χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεODP,SXC σε ODP ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του SXC σε ODP χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

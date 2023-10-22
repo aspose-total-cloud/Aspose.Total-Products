@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεPPT,RTF σε PPT ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του RTF σε PPT χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

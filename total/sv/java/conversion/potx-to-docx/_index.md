@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOCX, POTX till DOCX GRATIS Converter eller Java SDKdescription: Gratis konvertering av POTX till DOCX genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

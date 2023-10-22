@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLTM,ODP σε XLTM ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του ODP σε XLTM χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

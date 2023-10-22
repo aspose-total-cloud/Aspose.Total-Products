@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεODS,DOTM σε ODS ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του DOTM σε ODS χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

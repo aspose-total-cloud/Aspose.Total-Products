@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεNUMBERS,DOC σε NUMBERS ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του DOC σε NUMBERS χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

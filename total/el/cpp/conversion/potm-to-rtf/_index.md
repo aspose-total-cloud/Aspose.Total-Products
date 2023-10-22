@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεRTF,POTM σε RTF ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του POTM σε RTF χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

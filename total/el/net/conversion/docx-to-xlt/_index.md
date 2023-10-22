@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLT,DOCX σε XLT ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του DOCX σε XLT χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

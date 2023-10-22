@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεFODS,XLTM σε FODS ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του XLTM σε FODS χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

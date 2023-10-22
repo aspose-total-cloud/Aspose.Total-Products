@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPOTX,PPS σε POTX ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του PPS σε POTX χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

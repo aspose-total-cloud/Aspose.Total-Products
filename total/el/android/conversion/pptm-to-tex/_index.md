@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεTEX,PPTM σε TEX ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του PPTM σε TEX χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

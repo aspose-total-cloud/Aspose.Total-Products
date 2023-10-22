@@ -1,0 +1,1 @@
+---title: Konvertera PDF till SXC, SVG till SXC GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av SVG till SXC genom att använda Nodejs Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

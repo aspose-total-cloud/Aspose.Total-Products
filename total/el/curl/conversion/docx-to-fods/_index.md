@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεFODS,DOCX σε FODS ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του DOCX σε FODS χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera Word tillFODS, DOCX till FODS GRATIS Converter eller PHP SDKdescription: Gratis konvertering av DOCX till FODS genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

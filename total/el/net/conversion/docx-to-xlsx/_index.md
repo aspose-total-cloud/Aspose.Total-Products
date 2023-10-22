@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLSX,DOCX σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του DOCX σε XLSX χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεPPTX,XLT σε PPTX ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του XLT σε PPTX χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

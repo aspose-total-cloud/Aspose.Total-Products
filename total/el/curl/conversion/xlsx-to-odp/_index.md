@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεODP,XLSX σε ODP ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του XLSX σε ODP χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

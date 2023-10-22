@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillJSON, POTX till JSON GRATIS Converter eller PHP SDKdescription: Gratis konvertering av POTX till JSON genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

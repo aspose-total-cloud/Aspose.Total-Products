@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεXLSM,XLTM σε XLSM ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του XLTM σε XLSM χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

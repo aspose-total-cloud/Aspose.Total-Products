@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε BMP,XPS σε BMP ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του XPS σε BMP χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε PPTX,EPUB σε PPTX ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του EPUB σε PPTX χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

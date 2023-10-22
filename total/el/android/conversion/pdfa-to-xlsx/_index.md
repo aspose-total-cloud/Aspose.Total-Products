@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,PDFA σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του PDFA σε XLSX χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

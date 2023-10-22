@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSXC, POTX till SXC GRATIS Converter eller Java SDKdescription: Gratis konvertering av POTX till SXC genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεPPS,XLSB σε PPS ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του XLSB σε PPS χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεGIF,OTP σε GIF ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του OTP σε GIF χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

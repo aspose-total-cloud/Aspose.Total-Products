@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLTM, TXT till XLTM GRATIS Converter eller GO SDKdescription: Gratis konvertering av TXT till XLTM genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

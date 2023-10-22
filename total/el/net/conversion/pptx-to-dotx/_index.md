@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOTX,PPTX σε DOTX ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του PPTX σε DOTX χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

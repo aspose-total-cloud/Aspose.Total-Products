@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLS, CHM till XLS GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av CHM till XLS genom att använda Nodejs Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

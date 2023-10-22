@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPS,POTX σε PS ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του POTX σε PS χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

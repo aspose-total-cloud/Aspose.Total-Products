@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLTX,POTX σε XLTX ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του POTX σε XLTX χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

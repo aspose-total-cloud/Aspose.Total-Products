@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillSVG, XLSB till SVG GRATIS Converter eller Net SDKdescription: Gratis konvertering av XLSB till SVG genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

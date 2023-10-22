@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPSX, OTT till PPSX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av OTT till PPSX genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

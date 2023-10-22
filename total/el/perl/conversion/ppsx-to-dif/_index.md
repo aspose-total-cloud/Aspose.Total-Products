@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDIF,PPSX σε DIF ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του PPSX σε DIF χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

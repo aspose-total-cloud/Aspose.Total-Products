@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLAM,PPS σε XLAM ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του PPS σε XLAM χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

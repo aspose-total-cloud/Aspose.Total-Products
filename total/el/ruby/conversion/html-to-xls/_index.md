@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLS,HTML σε XLS ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του HTML σε XLS χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

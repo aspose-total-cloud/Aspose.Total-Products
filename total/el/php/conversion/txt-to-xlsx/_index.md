@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLSX,TXT σε XLSX ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του TXT σε XLSX χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

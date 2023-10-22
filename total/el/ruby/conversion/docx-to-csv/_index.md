@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεCSV,DOCX σε CSV ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του DOCX σε CSV χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

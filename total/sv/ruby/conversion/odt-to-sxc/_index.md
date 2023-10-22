@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, ODT till SXC GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av ODT till SXC genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

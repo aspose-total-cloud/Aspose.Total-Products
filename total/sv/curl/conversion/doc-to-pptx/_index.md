@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, DOC till PPTX GRATIS Converter eller Curl SDKdescription: Gratis konvertering av DOC till PPTX genom att använda Curl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

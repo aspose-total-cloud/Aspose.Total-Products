@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεODS,PPTX σε ODS ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του PPTX σε ODS χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

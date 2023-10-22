@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXML,ODP σε XML ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του ODP σε XML χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

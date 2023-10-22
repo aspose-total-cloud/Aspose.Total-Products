@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,PS σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του PS σε XLSX χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

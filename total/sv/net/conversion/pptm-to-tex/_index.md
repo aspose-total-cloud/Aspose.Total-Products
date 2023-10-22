@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTEX, PPTM till TEX GRATIS Converter eller Net SDKdescription: Gratis konvertering av PPTM till TEX genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSX, POTM till XLSX GRATIS Converter eller Swift SDKdescription: Gratis konvertering av POTM till XLSX genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

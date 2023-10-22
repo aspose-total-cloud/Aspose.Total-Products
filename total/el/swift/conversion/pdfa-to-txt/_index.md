@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε TXT,PDFA σε TXT ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του PDFA σε TXT χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

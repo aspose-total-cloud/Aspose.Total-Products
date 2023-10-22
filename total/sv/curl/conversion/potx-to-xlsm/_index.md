@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSM, POTX till XLSM GRATIS Converter eller Curl SDKdescription: Gratis konvertering av POTX till XLSM genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

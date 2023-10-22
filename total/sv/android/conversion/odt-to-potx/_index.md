@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPOTX, ODT till POTX GRATIS Converter eller Android SDKdescription: Gratis konvertering av ODT till POTX genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

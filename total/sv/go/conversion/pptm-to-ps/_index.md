@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPS, PPTM till PS GRATIS Converter eller GO SDKdescription: Gratis konvertering av PPTM till PS genom att använda GO Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

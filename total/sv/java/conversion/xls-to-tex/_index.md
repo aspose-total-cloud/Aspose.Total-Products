@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillTEX, XLS till TEX GRATIS Converter eller Java SDKdescription: Gratis konvertering av XLS till TEX genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

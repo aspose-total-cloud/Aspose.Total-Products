@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεOTT,PPSX σε OTT ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του PPSX σε OTT χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

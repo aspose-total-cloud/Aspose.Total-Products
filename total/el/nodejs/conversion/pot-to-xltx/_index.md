@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLTX,POT σε XLTX ΔΩΡΕΑΝ μετατροπέας ή Nodejs SDKdescription: Δωρεάν μετατροπή του POT σε XLTX χρησιμοποιώντας το Nodejs Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPDFA,POTX σε PDFA ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του POTX σε PDFA χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

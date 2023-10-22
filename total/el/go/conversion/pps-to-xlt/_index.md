@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLT,PPS σε XLT ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του PPS σε XLT χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

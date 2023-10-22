@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXAML,DOT σε XAML ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του DOT σε XAML χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

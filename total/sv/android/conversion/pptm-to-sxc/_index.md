@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSXC, PPTM till SXC GRATIS Converter eller Android SDKdescription: Gratis konvertering av PPTM till SXC genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

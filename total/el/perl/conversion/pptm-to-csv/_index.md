@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεCSV,PPTM σε CSV ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του PPTM σε CSV χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

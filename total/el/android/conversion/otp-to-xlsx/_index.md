@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLSX,OTP σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του OTP σε XLSX χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

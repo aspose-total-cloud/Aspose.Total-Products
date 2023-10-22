@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillBMP, PPSX till BMP GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPSX till BMP genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLTX,POTM σε XLTX ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του POTM σε XLTX χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

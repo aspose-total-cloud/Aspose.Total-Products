@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOTM, PPTX till DOTM GRATIS Converter eller Python SDKdescription: Gratis konvertering av PPTX till DOTM genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

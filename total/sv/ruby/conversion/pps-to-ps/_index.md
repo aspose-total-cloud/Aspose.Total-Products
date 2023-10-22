@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPS, PPS till PS GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPS till PS genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

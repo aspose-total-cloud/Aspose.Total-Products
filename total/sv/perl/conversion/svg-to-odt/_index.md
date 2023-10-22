@@ -1,0 +1,1 @@
+---title: Konvertera PDF till ODT, SVG till ODT GRATIS Converter eller Perl SDKdescription: Gratis konvertering av SVG till ODT genom att använda Perl Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

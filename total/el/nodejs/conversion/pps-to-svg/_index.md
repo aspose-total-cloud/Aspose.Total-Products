@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεSVG,PPS σε SVG ΔΩΡΕΑΝ μετατροπέας ή Nodejs SDKdescription: Δωρεάν μετατροπή του PPS σε SVG χρησιμοποιώντας το Nodejs Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

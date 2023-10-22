@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, MD till PPTX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av MD till PPTX genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

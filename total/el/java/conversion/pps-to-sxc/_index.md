@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεSXC,PPS σε SXC ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του PPS σε SXC χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

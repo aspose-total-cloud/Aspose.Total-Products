@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεTEX,HTML σε TEX ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του HTML σε TEX χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

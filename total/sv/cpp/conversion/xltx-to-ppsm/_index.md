@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillPPSM, XLTX till PPSM GRATIS Converter eller C++ SDKdescription: Gratis konvertering av XLTX till PPSM genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

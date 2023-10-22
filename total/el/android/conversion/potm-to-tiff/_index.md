@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεTIFF,POTM σε TIFF ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του POTM σε TIFF χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

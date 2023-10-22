@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, DOTX till PPTX GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av DOTX till PPTX genom att använda Nodejs Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

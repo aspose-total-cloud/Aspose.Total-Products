@@ -1,0 +1,1 @@
+---title: Konvertera Word tillDOCX, DOTM till DOCX GRATIS Converter eller Perl SDKdescription: Gratis konvertering av DOTM till DOCX genom att använda Perl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

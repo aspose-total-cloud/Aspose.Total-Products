@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTEX, PPTX till TEX GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PPTX till TEX genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

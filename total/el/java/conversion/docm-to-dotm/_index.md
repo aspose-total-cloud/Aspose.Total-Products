@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεDOTM,DOCM σε DOTM ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του DOCM σε DOTM χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

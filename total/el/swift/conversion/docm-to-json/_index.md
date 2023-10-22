@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεJSON,DOCM σε JSON ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του DOCM σε JSON χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

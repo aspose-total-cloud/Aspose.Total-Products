@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillGIF, PPSX till GIF GRATIS Converter eller Java SDKdescription: Gratis konvertering av PPSX till GIF genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

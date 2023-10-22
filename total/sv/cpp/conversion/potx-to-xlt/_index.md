@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLT, POTX till XLT GRATIS Converter eller C++ SDKdescription: Gratis konvertering av POTX till XLT genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

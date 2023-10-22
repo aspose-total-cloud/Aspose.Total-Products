@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTXT, DOT till TXT GRATIS Converter eller GO SDKdescription: Gratis konvertering av DOT till TXT genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

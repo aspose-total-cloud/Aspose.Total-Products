@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDIF,POTX σε DIF ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του POTX σε DIF χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

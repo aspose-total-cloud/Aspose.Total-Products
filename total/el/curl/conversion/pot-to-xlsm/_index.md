@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLSM,POT σε XLSM ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του POT σε XLSM χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

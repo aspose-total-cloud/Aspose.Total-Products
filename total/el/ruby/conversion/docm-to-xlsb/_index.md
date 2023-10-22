@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLSB,DOCM σε XLSB ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του DOCM σε XLSB χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

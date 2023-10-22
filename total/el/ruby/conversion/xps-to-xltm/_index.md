@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLTM,XPS σε XLTM ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του XPS σε XLTM χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

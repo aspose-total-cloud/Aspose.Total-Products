@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLS,PPTM σε XLS ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του PPTM σε XLS χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

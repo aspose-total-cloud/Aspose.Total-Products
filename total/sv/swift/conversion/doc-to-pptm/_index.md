@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTM, DOC till PPTM GRATIS Converter eller Swift SDKdescription: Gratis konvertering av DOC till PPTM genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

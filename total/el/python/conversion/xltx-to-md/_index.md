@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεMD,XLTX σε MD ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του XLTX σε MD χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

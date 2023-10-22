@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεTIFF,DOTM σε TIFF ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του DOTM σε TIFF χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

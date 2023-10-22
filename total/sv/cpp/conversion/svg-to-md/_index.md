@@ -1,0 +1,1 @@
+---title: Konvertera PDF till MD, SVG till MD GRATIS Converter eller C++ SDKdescription: Gratis konvertering av SVG till MD genom att använda C++ Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

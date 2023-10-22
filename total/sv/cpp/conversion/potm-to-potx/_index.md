@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPOTX, POTM till POTX GRATIS Converter eller C++ SDKdescription: Gratis konvertering av POTM till POTX genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

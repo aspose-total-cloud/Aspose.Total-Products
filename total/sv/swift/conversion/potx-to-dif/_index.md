@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDIF, POTX till DIF GRATIS Converter eller Swift SDKdescription: Gratis konvertering av POTX till DIF genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

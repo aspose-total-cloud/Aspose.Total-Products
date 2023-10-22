@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSWF, PPTX till SWF GRATIS Converter eller Perl SDKdescription: Gratis konvertering av PPTX till SWF genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

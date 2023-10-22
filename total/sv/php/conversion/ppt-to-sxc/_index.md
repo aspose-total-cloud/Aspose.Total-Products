@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSXC, PPT till SXC GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPT till SXC genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

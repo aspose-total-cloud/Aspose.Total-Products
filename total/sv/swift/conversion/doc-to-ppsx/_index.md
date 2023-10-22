@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPSX, DOC till PPSX GRATIS Converter eller Swift SDKdescription: Gratis konvertering av DOC till PPSX genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

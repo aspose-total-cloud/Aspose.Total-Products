@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, PDF till PPTX GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PDF till PPTX genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

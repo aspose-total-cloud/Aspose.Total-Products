@@ -1,0 +1,1 @@
+---title: Μετατροπή Webpage σε PPT,WEB σε PPT ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του WEB σε PPT χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

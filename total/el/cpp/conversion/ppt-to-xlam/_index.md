@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLAM,PPT σε XLAM ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του PPT σε XLAM χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

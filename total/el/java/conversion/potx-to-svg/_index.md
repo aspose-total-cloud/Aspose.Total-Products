@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεSVG,POTX σε SVG ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του POTX σε SVG χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

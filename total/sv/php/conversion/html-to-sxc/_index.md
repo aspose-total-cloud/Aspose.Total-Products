@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, HTML till SXC GRATIS Converter eller PHP SDKdescription: Gratis konvertering av HTML till SXC genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

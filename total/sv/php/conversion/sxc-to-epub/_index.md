@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillEPUB, SXC till EPUB GRATIS Converter eller PHP SDKdescription: Gratis konvertering av SXC till EPUB genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

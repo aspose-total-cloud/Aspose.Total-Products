@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεTIFF,DOCM σε TIFF ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του DOCM σε TIFF χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

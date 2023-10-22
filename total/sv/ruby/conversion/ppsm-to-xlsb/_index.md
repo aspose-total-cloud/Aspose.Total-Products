@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSB, PPSM till XLSB GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPSM till XLSB genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

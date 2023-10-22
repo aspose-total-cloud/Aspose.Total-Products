@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillMD, PPTM till MD GRATIS Converter eller Curl SDKdescription: Gratis konvertering av PPTM till MD genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

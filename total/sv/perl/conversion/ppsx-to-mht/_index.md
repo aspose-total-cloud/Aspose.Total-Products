@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillMHT, PPSX till MHT GRATIS Converter eller Perl SDKdescription: Gratis konvertering av PPSX till MHT genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

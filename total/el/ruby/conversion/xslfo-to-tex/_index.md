@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε TEX,XSLFO σε TEX ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του XSLFO σε TEX χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

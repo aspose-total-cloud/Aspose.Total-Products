@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLS, ODP till XLS GRATIS Converter eller C++ SDKdescription: Gratis konvertering av ODP till XLS genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

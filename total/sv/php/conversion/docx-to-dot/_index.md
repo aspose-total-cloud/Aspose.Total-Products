@@ -1,0 +1,1 @@
+---title: Konvertera Word tillDOT, DOCX till DOT GRATIS Converter eller PHP SDKdescription: Gratis konvertering av DOCX till DOT genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

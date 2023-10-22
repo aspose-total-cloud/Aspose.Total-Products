@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,XSLFO σε XLSX ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του XSLFO σε XLSX χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

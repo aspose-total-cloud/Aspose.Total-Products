@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLTX, TXT till XLTX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av TXT till XLTX genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

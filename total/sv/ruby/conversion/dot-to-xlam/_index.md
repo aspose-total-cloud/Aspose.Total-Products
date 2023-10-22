@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLAM, DOT till XLAM GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av DOT till XLAM genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεCSV,RTF σε CSV ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του RTF σε CSV χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

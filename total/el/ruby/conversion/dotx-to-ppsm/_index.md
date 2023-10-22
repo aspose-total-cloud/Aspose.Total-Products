@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεPPSM,DOTX σε PPSM ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του DOTX σε PPSM χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

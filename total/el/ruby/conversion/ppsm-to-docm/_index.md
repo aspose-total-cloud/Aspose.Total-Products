@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOCM,PPSM σε DOCM ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του PPSM σε DOCM χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

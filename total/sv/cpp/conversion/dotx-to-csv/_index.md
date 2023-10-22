@@ -1,0 +1,1 @@
+---title: Konvertera Word tillCSV, DOTX till CSV GRATIS Converter eller C++ SDKdescription: Gratis konvertering av DOTX till CSV genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

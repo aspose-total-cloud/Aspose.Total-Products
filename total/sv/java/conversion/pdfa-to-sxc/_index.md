@@ -1,0 +1,1 @@
+---title: Konvertera PDF till SXC, PDFA till SXC GRATIS Converter eller Java SDKdescription: Gratis konvertering av PDFA till SXC genom att använda Java Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

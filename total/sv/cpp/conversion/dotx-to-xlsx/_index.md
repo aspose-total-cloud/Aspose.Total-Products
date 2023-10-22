@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLSX, DOTX till XLSX GRATIS Converter eller C++ SDKdescription: Gratis konvertering av DOTX till XLSX genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

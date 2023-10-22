@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOTX,POTX σε DOTX ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του POTX σε DOTX χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

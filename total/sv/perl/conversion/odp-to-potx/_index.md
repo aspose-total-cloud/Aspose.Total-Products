@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPOTX, ODP till POTX GRATIS Converter eller Perl SDKdescription: Gratis konvertering av ODP till POTX genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

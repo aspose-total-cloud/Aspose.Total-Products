@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXML, PPTM till XML GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPTM till XML genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

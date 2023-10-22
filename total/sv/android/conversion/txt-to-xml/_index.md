@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXML, TXT till XML GRATIS Converter eller Android SDKdescription: Gratis konvertering av TXT till XML genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

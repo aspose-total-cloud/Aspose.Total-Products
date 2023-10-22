@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOTX, PPT till DOTX GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PPT till DOTX genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

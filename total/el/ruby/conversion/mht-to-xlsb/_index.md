@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSB,MHT σε XLSB ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του MHT σε XLSB χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

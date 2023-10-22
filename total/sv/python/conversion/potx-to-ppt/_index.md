@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPT, POTX till PPT GRATIS Converter eller Python SDKdescription: Gratis konvertering av POTX till PPT genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

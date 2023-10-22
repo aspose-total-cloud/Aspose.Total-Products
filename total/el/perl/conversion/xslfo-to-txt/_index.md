@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε TXT,XSLFO σε TXT ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του XSLFO σε TXT χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillRTF, XLSX till RTF GRATIS Converter eller Java SDKdescription: Gratis konvertering av XLSX till RTF genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε JPEG,XPS σε JPEG ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του XPS σε JPEG χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLTM,PPT σε XLTM ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του PPT σε XLTM χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

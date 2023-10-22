@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLSX, PDF till XLSX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PDF till XLSX genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

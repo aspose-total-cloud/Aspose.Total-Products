@@ -1,0 +1,1 @@
+---title: Konvertera PDF till XLS, MHT till XLS GRATIS Converter eller Swift SDKdescription: Gratis konvertering av MHT till XLS genom att använda Swift Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

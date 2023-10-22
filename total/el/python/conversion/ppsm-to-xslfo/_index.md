@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXSLFO,PPSM σε XSLFO ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του PPSM σε XSLFO χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

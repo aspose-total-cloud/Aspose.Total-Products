@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε PPTX,MHT σε PPTX ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του MHT σε PPTX χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

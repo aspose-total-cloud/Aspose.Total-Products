@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε JSON,SVG σε JSON ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του SVG σε JSON χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

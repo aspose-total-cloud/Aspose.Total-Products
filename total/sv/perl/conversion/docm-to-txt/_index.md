@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTXT, DOCM till TXT GRATIS Converter eller Perl SDKdescription: Gratis konvertering av DOCM till TXT genom att använda Perl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

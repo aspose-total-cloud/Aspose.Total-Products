@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPOTX,PPSM σε POTX ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του PPSM σε POTX χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

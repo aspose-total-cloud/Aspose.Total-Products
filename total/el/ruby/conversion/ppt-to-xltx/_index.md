@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLTX,PPT σε XLTX ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του PPT σε XLTX χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSVG, ODP till SVG GRATIS Converter eller GO SDKdescription: Gratis konvertering av ODP till SVG genom att använda GO Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

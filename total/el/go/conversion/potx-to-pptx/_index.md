@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPPTX,POTX σε PPTX ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του POTX σε PPTX χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

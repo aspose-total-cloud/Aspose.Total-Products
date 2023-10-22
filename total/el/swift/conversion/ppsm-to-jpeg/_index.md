@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεJPEG,PPSM σε JPEG ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του PPSM σε JPEG χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PDF till XLS, SVG till XLS GRATIS Converter eller Net SDKdescription: Gratis konvertering av SVG till XLS genom att använda Net Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

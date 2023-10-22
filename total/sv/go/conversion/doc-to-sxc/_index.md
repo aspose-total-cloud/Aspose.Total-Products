@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, DOC till SXC GRATIS Converter eller GO SDKdescription: Gratis konvertering av DOC till SXC genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLTM,MHTML σε XLTM ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του MHTML σε XLTM χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

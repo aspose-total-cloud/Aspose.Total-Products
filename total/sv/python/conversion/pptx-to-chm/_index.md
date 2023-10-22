@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillCHM, PPTX till CHM GRATIS Converter eller Python SDKdescription: Gratis konvertering av PPTX till CHM genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

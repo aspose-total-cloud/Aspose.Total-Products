@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLS, PPTX till XLS GRATIS Converter eller Android SDKdescription: Gratis konvertering av PPTX till XLS genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεTEX,PPTX σε TEX ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του PPTX σε TEX χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

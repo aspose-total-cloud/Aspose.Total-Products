@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεCSV,DOTM σε CSV ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του DOTM σε CSV χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

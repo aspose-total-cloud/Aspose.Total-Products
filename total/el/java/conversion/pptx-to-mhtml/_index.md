@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεMHTML,PPTX σε MHTML ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του PPTX σε MHTML χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

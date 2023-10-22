@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPNG, PPSM till PNG GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPSM till PNG genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

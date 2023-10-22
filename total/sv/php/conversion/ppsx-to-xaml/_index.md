@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXAML, PPSX till XAML GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPSX till XAML genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

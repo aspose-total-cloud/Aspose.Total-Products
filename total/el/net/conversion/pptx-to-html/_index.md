@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεHTML,PPTX σε HTML ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του PPTX σε HTML χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

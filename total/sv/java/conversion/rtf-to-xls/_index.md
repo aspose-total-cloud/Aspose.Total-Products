@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLS, RTF till XLS GRATIS Converter eller Java SDKdescription: Gratis konvertering av RTF till XLS genom att använda Java Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

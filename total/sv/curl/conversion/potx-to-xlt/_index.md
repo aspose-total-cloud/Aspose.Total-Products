@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLT, POTX till XLT GRATIS Converter eller Curl SDKdescription: Gratis konvertering av POTX till XLT genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

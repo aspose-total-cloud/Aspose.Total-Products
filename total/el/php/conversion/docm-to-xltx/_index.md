@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLTX,DOCM σε XLTX ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του DOCM σε XLTX χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

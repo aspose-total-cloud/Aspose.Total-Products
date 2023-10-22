@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillMD, XLS till MD GRATIS Converter eller Perl SDKdescription: Gratis konvertering av XLS till MD genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

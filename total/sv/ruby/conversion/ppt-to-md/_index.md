@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillMD, PPT till MD GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPT till MD genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

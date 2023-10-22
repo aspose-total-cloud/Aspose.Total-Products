@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε DOTX,MHT σε DOTX ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του MHT σε DOTX χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

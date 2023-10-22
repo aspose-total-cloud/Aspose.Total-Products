@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillMHT, XLS till MHT GRATIS Converter eller Perl SDKdescription: Gratis konvertering av XLS till MHT genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

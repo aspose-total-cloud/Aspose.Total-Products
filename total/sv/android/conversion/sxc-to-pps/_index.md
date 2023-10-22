@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillPPS, SXC till PPS GRATIS Converter eller Android SDKdescription: Gratis konvertering av SXC till PPS genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

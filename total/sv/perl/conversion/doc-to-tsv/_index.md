@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTSV, DOC till TSV GRATIS Converter eller Perl SDKdescription: Gratis konvertering av DOC till TSV genom att använda Perl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

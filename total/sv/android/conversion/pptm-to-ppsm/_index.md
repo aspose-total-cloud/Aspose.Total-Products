@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPSM, PPTM till PPSM GRATIS Converter eller Android SDKdescription: Gratis konvertering av PPTM till PPSM genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

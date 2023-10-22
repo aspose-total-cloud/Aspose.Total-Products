@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSXC, PPTX till SXC GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PPTX till SXC genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

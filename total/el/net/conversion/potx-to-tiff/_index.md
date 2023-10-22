@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεTIFF,POTX σε TIFF ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του POTX σε TIFF χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

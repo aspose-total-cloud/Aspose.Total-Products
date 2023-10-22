@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLSX,DOTX σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του DOTX σε XLSX χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

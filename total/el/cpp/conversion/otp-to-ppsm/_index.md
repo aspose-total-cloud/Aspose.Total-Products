@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPPSM,OTP σε PPSM ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του OTP σε PPSM χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

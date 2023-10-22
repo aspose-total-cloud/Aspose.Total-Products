@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPSM, PPSX till PPSM GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPSX till PPSM genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

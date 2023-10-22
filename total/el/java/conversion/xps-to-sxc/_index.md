@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε SXC,XPS σε SXC ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του XPS σε SXC χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

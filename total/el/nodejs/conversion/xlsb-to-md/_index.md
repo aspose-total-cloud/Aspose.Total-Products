@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεMD,XLSB σε MD ΔΩΡΕΑΝ μετατροπέας ή Nodejs SDKdescription: Δωρεάν μετατροπή του XLSB σε MD χρησιμοποιώντας το Nodejs Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

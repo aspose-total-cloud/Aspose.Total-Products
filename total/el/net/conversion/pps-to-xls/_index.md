@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLS,PPS σε XLS ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του PPS σε XLS χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

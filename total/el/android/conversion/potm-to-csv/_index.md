@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεCSV,POTM σε CSV ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του POTM σε CSV χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

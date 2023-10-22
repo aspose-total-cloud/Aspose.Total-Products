@@ -1,0 +1,1 @@
+---title: Konvertera Word tillJPEG, DOTX till JPEG GRATIS Converter eller C++ SDKdescription: Gratis konvertering av DOTX till JPEG genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

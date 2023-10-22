@@ -1,0 +1,1 @@
+---title: Konvertera Word tillODT, DOTM till ODT GRATIS Converter eller Android SDKdescription: Gratis konvertering av DOTM till ODT genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

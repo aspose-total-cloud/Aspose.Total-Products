@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεPOTX,XLTX σε POTX ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του XLTX σε POTX χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

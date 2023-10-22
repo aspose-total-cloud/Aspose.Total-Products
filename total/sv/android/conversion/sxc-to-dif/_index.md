@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillDIF, SXC till DIF GRATIS Converter eller Android SDKdescription: Gratis konvertering av SXC till DIF genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

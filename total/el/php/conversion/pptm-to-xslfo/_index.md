@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXSLFO,PPTM σε XSLFO ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του PPTM σε XSLFO χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεNUMBERS,DOTM σε NUMBERS ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του DOTM σε NUMBERS χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

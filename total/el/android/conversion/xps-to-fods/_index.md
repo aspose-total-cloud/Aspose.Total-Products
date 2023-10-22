@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε FODS,XPS σε FODS ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του XPS σε FODS χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

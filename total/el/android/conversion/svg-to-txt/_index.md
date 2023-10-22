@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε TXT,SVG σε TXT ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του SVG σε TXT χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPSX, POTX till PPSX GRATIS Converter eller Swift SDKdescription: Gratis konvertering av POTX till PPSX genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

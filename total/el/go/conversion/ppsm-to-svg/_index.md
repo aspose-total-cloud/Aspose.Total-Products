@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεSVG,PPSM σε SVG ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του PPSM σε SVG χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

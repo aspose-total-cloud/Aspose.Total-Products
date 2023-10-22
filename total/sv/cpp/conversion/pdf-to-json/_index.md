@@ -1,0 +1,1 @@
+---title: Konvertera Word tillJSON, PDF till JSON GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PDF till JSON genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

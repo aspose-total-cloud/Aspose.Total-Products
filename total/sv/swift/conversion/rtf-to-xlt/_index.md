@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLT, RTF till XLT GRATIS Converter eller Swift SDKdescription: Gratis konvertering av RTF till XLT genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

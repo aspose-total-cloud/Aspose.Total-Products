@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεMOBIXML,PPT σε MOBIXML ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του PPT σε MOBIXML χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

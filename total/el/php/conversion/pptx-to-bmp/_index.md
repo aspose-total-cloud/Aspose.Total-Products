@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεBMP,PPTX σε BMP ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του PPTX σε BMP χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

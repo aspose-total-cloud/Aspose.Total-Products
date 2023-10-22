@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, DOT till SXC GRATIS Converter eller GO SDKdescription: Gratis konvertering av DOT till SXC genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

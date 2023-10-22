@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLSB,PPTX σε XLSB ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του PPTX σε XLSB χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

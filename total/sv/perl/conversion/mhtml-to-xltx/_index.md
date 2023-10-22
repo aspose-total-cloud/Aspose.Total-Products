@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLTX, MHTML till XLTX GRATIS Converter eller Perl SDKdescription: Gratis konvertering av MHTML till XLTX genom att använda Perl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

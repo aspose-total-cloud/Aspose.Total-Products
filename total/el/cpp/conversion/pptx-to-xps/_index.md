@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXPS,PPTX σε XPS ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του PPTX σε XPS χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

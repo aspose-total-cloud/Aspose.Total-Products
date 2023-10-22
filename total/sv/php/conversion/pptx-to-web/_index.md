@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillWEB, PPTX till WEB GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPTX till WEB genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

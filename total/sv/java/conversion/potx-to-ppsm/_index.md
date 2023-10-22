@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPSM, POTX till PPSM GRATIS Converter eller Java SDKdescription: Gratis konvertering av POTX till PPSM genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

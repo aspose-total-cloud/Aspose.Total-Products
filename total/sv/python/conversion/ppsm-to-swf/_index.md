@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSWF, PPSM till SWF GRATIS Converter eller Python SDKdescription: Gratis konvertering av PPSM till SWF genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

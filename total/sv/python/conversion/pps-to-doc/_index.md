@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOC, PPS till DOC GRATIS Converter eller Python SDKdescription: Gratis konvertering av PPS till DOC genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

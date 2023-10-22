@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTIFF, PPSX till TIFF GRATIS Converter eller GO SDKdescription: Gratis konvertering av PPSX till TIFF genom att använda GO Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

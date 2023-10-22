@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPTX, POTX till PPTX GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av POTX till PPTX genom att använda Nodejs Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

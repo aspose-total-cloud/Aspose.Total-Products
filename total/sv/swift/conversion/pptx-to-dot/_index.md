@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOT, PPTX till DOT GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPTX till DOT genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

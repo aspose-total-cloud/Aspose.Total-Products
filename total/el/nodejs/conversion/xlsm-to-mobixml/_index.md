@@ -1,0 +1,1 @@
+---title: Μετατροπή του Excel σεMOBIXML,XLSM σε MOBIXML ΔΩΡΕΑΝ μετατροπέας ή Nodejs SDKdescription: Δωρεάν μετατροπή του XLSM σε MOBIXML χρησιμοποιώντας το Nodejs Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε φύλλα εργασίας ή υπολογιστικό φύλλο Microsoft Excel, CSV και SpreadsheetML στο Cloud.---

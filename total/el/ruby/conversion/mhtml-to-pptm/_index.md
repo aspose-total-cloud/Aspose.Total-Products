@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεPPTM,MHTML σε PPTM ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του MHTML σε PPTM χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

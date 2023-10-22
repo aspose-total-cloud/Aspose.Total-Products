@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, DOTM till PPTX GRATIS Converter eller Android SDKdescription: Gratis konvertering av DOTM till PPTX genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

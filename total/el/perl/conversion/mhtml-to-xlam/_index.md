@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLAM,MHTML σε XLAM ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του MHTML σε XLAM χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

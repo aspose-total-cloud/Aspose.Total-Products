@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεMOBI,POTX σε MOBI ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του POTX σε MOBI χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

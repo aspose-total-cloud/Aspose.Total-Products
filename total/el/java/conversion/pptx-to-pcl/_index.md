@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPCL,PPTX σε PCL ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του PPTX σε PCL χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

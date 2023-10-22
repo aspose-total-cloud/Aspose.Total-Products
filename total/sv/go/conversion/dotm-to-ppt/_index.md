@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPT, DOTM till PPT GRATIS Converter eller GO SDKdescription: Gratis konvertering av DOTM till PPT genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

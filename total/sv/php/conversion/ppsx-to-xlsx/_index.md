@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSX, PPSX till XLSX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPSX till XLSX genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

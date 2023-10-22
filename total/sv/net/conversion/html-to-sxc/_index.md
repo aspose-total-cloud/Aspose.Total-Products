@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, HTML till SXC GRATIS Converter eller Net SDKdescription: Gratis konvertering av HTML till SXC genom att använda Net Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

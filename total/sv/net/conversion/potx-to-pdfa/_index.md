@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPDFA, POTX till PDFA GRATIS Converter eller Net SDKdescription: Gratis konvertering av POTX till PDFA genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

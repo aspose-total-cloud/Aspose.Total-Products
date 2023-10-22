@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXLSX,DOCM σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του DOCM σε XLSX χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

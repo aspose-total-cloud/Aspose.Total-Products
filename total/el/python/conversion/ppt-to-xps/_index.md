@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXPS,PPT σε XPS ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του PPT σε XPS χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

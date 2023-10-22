@@ -1,0 +1,1 @@
+---title: Konvertera Word tillDOC, DOCX till DOC GRATIS Converter eller Python SDKdescription: Gratis konvertering av DOCX till DOC genom att använda Python Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

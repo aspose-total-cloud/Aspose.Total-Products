@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε ODS,SVG σε ODS ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του SVG σε ODS χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

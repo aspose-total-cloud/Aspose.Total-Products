@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPNG, DOTM till PNG GRATIS Converter eller GO SDKdescription: Gratis konvertering av DOTM till PNG genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

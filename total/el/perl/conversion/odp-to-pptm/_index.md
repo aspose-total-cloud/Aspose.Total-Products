@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPPTM,ODP σε PPTM ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του ODP σε PPTM χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillCHM, XLS till CHM GRATIS Converter eller Curl SDKdescription: Gratis konvertering av XLS till CHM genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

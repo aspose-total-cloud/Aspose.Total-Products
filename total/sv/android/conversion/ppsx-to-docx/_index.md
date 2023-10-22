@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOCX, PPSX till DOCX GRATIS Converter eller Android SDKdescription: Gratis konvertering av PPSX till DOCX genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεXSLFO,ODT σε XSLFO ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του ODT σε XSLFO χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

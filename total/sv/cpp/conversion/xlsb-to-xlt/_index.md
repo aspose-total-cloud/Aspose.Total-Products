@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillXLT, XLSB till XLT GRATIS Converter eller C++ SDKdescription: Gratis konvertering av XLSB till XLT genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

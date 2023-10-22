@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεPDFA,MHTML σε PDFA ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του MHTML σε PDFA χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTXT, OTP till TXT GRATIS Converter eller Net SDKdescription: Gratis konvertering av OTP till TXT genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPPTM,OTP σε PPTM ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του OTP σε PPTM χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

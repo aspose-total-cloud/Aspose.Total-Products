@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLT,POTM σε XLT ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του POTM σε XLT χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

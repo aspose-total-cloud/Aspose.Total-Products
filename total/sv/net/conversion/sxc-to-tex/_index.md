@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillTEX, SXC till TEX GRATIS Converter eller Net SDKdescription: Gratis konvertering av SXC till TEX genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

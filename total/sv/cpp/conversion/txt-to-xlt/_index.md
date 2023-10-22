@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLT, TXT till XLT GRATIS Converter eller C++ SDKdescription: Gratis konvertering av TXT till XLT genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

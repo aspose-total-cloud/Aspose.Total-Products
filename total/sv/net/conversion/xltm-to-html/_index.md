@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillHTML, XLTM till HTML GRATIS Converter eller Net SDKdescription: Gratis konvertering av XLTM till HTML genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

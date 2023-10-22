@@ -1,0 +1,1 @@
+---title: Konvertera PDF till DOCX, SVG till DOCX GRATIS Converter eller Android SDKdescription: Gratis konvertering av SVG till DOCX genom att använda Android Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

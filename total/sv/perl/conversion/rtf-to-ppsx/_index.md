@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPSX, RTF till PPSX GRATIS Converter eller Perl SDKdescription: Gratis konvertering av RTF till PPSX genom att använda Perl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

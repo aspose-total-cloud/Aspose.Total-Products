@@ -1,0 +1,1 @@
+---title: Konvertera PDF till POTX, SVG till POTX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av SVG till POTX genom att använda Ruby Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

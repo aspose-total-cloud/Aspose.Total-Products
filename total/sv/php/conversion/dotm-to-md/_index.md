@@ -1,0 +1,1 @@
+---title: Konvertera Word tillMD, DOTM till MD GRATIS Converter eller PHP SDKdescription: Gratis konvertering av DOTM till MD genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

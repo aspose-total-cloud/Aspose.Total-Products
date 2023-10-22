@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,SVG σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του SVG σε XLSX χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

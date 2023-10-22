@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLTX, PPSM till XLTX GRATIS Converter eller Java SDKdescription: Gratis konvertering av PPSM till XLTX genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

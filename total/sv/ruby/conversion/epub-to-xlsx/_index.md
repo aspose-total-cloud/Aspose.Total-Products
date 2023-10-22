@@ -1,0 +1,1 @@
+---title: Konvertera PDF till XLSX, EPUB till XLSX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av EPUB till XLSX genom att använda Ruby Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

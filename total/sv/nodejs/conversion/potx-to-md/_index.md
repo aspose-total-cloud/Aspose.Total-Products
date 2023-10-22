@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillMD, POTX till MD GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av POTX till MD genom att använda Nodejs Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

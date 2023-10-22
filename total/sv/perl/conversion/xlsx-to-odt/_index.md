@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillODT, XLSX till ODT GRATIS Converter eller Perl SDKdescription: Gratis konvertering av XLSX till ODT genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

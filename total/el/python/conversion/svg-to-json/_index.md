@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε JSON,SVG σε JSON ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του SVG σε JSON χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTXT, PPS till TXT GRATIS Converter eller Curl SDKdescription: Gratis konvertering av PPS till TXT genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

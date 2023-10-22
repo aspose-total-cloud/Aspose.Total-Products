@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLS, TXT till XLS GRATIS Converter eller Perl SDKdescription: Gratis konvertering av TXT till XLS genom att använda Perl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera PDF till PPTX, SVG till PPTX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av SVG till PPTX genom att använda PHP Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

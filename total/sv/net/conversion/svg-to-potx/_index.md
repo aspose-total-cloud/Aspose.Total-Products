@@ -1,0 +1,1 @@
+---title: Konvertera PDF till POTX, SVG till POTX GRATIS Converter eller Net SDKdescription: Gratis konvertering av SVG till POTX genom att använda Net Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

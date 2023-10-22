@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε PPTX,SVG σε PPTX ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του SVG σε PPTX χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSX, PPSX till XLSX GRATIS Converter eller Java SDKdescription: Gratis konvertering av PPSX till XLSX genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

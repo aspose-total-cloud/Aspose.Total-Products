@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillCSV, XLS till CSV GRATIS Converter eller Swift SDKdescription: Gratis konvertering av XLS till CSV genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

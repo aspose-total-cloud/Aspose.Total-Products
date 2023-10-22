@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPT, CHM till PPT GRATIS Converter eller Swift SDKdescription: Gratis konvertering av CHM till PPT genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

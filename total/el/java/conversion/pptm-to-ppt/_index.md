@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPPT,PPTM σε PPT ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του PPTM σε PPT χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

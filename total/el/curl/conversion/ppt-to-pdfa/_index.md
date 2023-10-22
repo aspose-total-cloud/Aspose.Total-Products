@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPDFA,PPT σε PDFA ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του PPT σε PDFA χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

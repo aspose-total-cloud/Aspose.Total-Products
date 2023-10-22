@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTXT, POTM till TXT GRATIS Converter eller Swift SDKdescription: Gratis konvertering av POTM till TXT genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPDFA, TXT till PDFA GRATIS Converter eller Curl SDKdescription: Gratis konvertering av TXT till PDFA genom att använda Curl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

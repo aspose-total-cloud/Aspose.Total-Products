@@ -1,0 +1,1 @@
+---title: Konvertera Word tillDOTX, DOC till DOTX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av DOC till DOTX genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

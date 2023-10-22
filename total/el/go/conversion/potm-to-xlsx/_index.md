@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLSX,POTM σε XLSX ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του POTM σε XLSX χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

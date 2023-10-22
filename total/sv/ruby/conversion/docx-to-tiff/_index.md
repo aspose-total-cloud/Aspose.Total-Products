@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTIFF, DOCX till TIFF GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av DOCX till TIFF genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

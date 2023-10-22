@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPPTX, POT till PPTX GRATIS Converter eller GO SDKdescription: Gratis konvertering av POT till PPTX genom att använda GO Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

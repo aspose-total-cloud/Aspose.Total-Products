@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLS, DOC till XLS GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av DOC till XLS genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

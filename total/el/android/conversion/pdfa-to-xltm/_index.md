@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLTM,PDFA σε XLTM ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του PDFA σε XLTM χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

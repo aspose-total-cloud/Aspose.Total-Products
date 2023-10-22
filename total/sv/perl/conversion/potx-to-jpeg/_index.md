@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillJPEG, POTX till JPEG GRATIS Converter eller Perl SDKdescription: Gratis konvertering av POTX till JPEG genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

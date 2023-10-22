@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLS,PDFA σε XLS ΔΩΡΕΑΝ μετατροπέας ή Curl SDKdescription: Δωρεάν μετατροπή του PDFA σε XLS χρησιμοποιώντας το Curl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

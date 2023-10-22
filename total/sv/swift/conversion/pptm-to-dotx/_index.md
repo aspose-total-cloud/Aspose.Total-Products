@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOTX, PPTM till DOTX GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPTM till DOTX genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

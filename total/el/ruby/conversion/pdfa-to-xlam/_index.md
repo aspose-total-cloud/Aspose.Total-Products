@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLAM,PDFA σε XLAM ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του PDFA σε XLAM χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

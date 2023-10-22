@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPS, DOT till PPS GRATIS Converter eller Android SDKdescription: Gratis konvertering av DOT till PPS genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

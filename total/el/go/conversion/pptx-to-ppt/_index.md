@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPPT,PPTX σε PPT ΔΩΡΕΑΝ μετατροπέας ή GO SDKdescription: Δωρεάν μετατροπή του PPTX σε PPT χρησιμοποιώντας το GO Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

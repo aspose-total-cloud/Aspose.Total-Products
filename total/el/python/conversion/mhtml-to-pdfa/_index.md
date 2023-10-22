@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεPDFA,MHTML σε PDFA ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του MHTML σε PDFA χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

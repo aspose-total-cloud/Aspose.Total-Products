@@ -1,0 +1,1 @@
+---title: Konvertera PDF till PPTX, PS till PPTX GRATIS Converter eller GO SDKdescription: Gratis konvertering av PS till PPTX genom att använda GO Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

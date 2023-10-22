@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε DOCM,SVG σε DOCM ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του SVG σε DOCM χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

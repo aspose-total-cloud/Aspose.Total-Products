@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillCSV, POTM till CSV GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av POTM till CSV genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

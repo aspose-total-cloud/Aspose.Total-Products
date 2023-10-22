@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillJSON, CSV till JSON GRATIS Converter eller Swift SDKdescription: Gratis konvertering av CSV till JSON genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

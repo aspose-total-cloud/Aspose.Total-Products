@@ -1,0 +1,1 @@
+---title: Konvertera Word tillJPEG, DOTM till JPEG GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av DOTM till JPEG genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

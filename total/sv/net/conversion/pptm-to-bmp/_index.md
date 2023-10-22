@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillBMP, PPTM till BMP GRATIS Converter eller Net SDKdescription: Gratis konvertering av PPTM till BMP genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

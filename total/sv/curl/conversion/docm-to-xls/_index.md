@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLS, DOCM till XLS GRATIS Converter eller Curl SDKdescription: Gratis konvertering av DOCM till XLS genom att använda Curl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

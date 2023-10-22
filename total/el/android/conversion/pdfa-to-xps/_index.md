@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XPS,PDFA σε XPS ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του PDFA σε XPS χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillXLAM, XLT till XLAM GRATIS Converter eller Curl SDKdescription: Gratis konvertering av XLT till XLAM genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

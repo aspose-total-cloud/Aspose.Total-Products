@@ -1,0 +1,1 @@
+---title: Konvertera Word tillBMP, TXT till BMP GRATIS Converter eller C++ SDKdescription: Gratis konvertering av TXT till BMP genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

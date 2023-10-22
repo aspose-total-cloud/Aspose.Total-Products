@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, DOTX till SXC GRATIS Converter eller Curl SDKdescription: Gratis konvertering av DOTX till SXC genom att använda Curl Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

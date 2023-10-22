@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillODT, PPTM till ODT GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PPTM till ODT genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

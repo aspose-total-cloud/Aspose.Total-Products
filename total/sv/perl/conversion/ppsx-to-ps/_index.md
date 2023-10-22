@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPS, PPSX till PS GRATIS Converter eller Perl SDKdescription: Gratis konvertering av PPSX till PS genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

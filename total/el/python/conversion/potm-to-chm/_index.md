@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεCHM,POTM σε CHM ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του POTM σε CHM χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

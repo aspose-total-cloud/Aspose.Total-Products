@@ -1,0 +1,1 @@
+---title: Konvertera PDF till XLSX, PS till XLSX GRATIS Converter eller Android SDKdescription: Gratis konvertering av PS till XLSX genom att använda Android Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

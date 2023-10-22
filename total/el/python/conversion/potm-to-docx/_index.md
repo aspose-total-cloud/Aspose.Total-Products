@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOCX,POTM σε DOCX ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του POTM σε DOCX χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSVG, POT till SVG GRATIS Converter eller PHP SDKdescription: Gratis konvertering av POT till SVG genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTIFF, PPTX till TIFF GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPTX till TIFF genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

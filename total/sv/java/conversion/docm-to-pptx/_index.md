@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, DOCM till PPTX GRATIS Converter eller Java SDKdescription: Gratis konvertering av DOCM till PPTX genom att använda Java Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

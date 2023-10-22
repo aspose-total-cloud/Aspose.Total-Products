@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTEX, DOT till TEX GRATIS Converter eller Python SDKdescription: Gratis konvertering av DOT till TEX genom att använda Python Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

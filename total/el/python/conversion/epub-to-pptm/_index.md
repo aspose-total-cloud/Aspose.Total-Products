@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε PPTM,EPUB σε PPTM ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του EPUB σε PPTM χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

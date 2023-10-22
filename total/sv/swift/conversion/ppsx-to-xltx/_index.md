@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLTX, PPSX till XLTX GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPSX till XLTX genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

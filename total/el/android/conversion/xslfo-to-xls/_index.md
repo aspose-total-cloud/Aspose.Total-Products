@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLS,XSLFO σε XLS ΔΩΡΕΑΝ μετατροπέας ή Android SDKdescription: Δωρεάν μετατροπή του XSLFO σε XLS χρησιμοποιώντας το Android Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

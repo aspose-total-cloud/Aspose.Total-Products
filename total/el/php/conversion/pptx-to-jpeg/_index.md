@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεJPEG,PPTX σε JPEG ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του PPTX σε JPEG χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

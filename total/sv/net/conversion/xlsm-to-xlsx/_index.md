@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillXLSX, XLSM till XLSX GRATIS Converter eller Net SDKdescription: Gratis konvertering av XLSM till XLSX genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

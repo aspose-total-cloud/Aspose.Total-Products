@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, OTT till PPTX GRATIS Converter eller C++ SDKdescription: Gratis konvertering av OTT till PPTX genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

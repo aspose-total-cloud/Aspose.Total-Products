@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLTM, PDF till XLTM GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PDF till XLTM genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

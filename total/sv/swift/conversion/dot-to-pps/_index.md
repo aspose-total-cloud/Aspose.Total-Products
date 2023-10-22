@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPS, DOT till PPS GRATIS Converter eller Swift SDKdescription: Gratis konvertering av DOT till PPS genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

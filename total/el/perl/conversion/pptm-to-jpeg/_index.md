@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεJPEG,PPTM σε JPEG ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του PPTM σε JPEG χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

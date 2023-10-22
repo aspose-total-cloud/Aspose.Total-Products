@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTM, MOBI till PPTM GRATIS Converter eller PHP SDKdescription: Gratis konvertering av MOBI till PPTM genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillPPTM, XLTM till PPTM GRATIS Converter eller Curl SDKdescription: Gratis konvertering av XLTM till PPTM genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOC, PPTX till DOC GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPTX till DOC genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

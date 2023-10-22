@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεJPEG,ODP σε JPEG ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του ODP σε JPEG χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

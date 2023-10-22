@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillJSON, PPSX till JSON GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPSX till JSON genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

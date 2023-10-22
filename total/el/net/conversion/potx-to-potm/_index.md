@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPOTM,POTX σε POTM ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του POTX σε POTM χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

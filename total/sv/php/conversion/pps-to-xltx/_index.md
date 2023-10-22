@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLTX, PPS till XLTX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPS till XLTX genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

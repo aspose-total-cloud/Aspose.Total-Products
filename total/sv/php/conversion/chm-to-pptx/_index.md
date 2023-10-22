@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTX, CHM till PPTX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av CHM till PPTX genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

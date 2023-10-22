@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillGIF, XLTM till GIF GRATIS Converter eller Swift SDKdescription: Gratis konvertering av XLTM till GIF genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

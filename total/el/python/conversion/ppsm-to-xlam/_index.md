@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεXLAM,PPSM σε XLAM ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του PPSM σε XLAM χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

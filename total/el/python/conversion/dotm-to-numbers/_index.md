@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεNUMBERS,DOTM σε NUMBERS ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του DOTM σε NUMBERS χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

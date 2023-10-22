@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSXC, CHM till SXC GRATIS Converter eller Android SDKdescription: Gratis konvertering av CHM till SXC genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

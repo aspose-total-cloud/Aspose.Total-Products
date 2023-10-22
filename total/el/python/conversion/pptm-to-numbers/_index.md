@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεNUMBERS,PPTM σε NUMBERS ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του PPTM σε NUMBERS χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

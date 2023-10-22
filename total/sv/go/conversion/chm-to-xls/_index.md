@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLS, CHM till XLS GRATIS Converter eller GO SDKdescription: Gratis konvertering av CHM till XLS genom att använda GO Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

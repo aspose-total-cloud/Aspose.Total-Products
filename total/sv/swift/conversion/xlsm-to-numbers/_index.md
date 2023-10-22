@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillNUMBERS, XLSM till NUMBERS GRATIS Converter eller Swift SDKdescription: Gratis konvertering av XLSM till NUMBERS genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

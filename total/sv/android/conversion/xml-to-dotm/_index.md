@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillDOTM, XML till DOTM GRATIS Converter eller Android SDKdescription: Gratis konvertering av XML till DOTM genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

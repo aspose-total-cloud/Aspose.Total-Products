@@ -1,0 +1,1 @@
+---title: Μετατροπή του Word σεTIFF,MHTML σε TIFF ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του MHTML σε TIFF χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα Microsoft Word & OpenOffice στο Cloud.---

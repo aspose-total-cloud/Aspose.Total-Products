@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOCX,POTX σε DOCX ΔΩΡΕΑΝ μετατροπέας ή Nodejs SDKdescription: Δωρεάν μετατροπή του POTX σε DOCX χρησιμοποιώντας το Nodejs Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

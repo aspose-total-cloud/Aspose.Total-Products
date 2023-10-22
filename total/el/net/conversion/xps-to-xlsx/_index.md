@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,XPS σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του XPS σε XLSX χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

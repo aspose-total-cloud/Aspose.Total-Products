@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLTX, PPTX till XLTX GRATIS Converter eller Curl SDKdescription: Gratis konvertering av PPTX till XLTX genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

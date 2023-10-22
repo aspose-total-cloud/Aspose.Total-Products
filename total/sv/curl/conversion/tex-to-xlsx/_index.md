@@ -1,0 +1,1 @@
+---title: Konvertera PDF till XLSX, TEX till XLSX GRATIS Converter eller Curl SDKdescription: Gratis konvertering av TEX till XLSX genom att använda Curl Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

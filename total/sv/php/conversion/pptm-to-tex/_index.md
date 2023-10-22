@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTEX, PPTM till TEX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPTM till TEX genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

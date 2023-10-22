@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεNUMBERS,PPT σε NUMBERS ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του PPT σε NUMBERS χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

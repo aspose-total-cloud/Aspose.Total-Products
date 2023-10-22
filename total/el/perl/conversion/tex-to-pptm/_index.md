@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε PPTM,TEX σε PPTM ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του TEX σε PPTM χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

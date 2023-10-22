@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLTX, HTML till XLTX GRATIS Converter eller Net SDKdescription: Gratis konvertering av HTML till XLTX genom att använda Net Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

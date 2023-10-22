@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillBMP, XLSM till BMP GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av XLSM till BMP genom att använda Nodejs Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

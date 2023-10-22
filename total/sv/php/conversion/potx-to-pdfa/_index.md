@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPDFA, POTX till PDFA GRATIS Converter eller PHP SDKdescription: Gratis konvertering av POTX till PDFA genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

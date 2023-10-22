@@ -1,0 +1,1 @@
+---title: Konvertera Word tillOTT, TXT till OTT GRATIS Converter eller PHP SDKdescription: Gratis konvertering av TXT till OTT genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

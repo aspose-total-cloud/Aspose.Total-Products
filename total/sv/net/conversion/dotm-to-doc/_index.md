@@ -1,0 +1,1 @@
+---title: Konvertera Word tillDOC, DOTM till DOC GRATIS Converter eller Net SDKdescription: Gratis konvertering av DOTM till DOC genom att använda Net Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera Word tillSVG, RTF till SVG GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av RTF till SVG genom att använda Nodejs Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

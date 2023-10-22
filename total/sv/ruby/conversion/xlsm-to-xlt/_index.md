@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillXLT, XLSM till XLT GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av XLSM till XLT genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

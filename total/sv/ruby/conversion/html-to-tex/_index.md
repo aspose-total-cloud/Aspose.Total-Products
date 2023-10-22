@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTEX, HTML till TEX GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av HTML till TEX genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

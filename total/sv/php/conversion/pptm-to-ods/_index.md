@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillODS, PPTM till ODS GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPTM till ODS genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

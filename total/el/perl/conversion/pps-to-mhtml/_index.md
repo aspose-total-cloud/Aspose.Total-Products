@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεMHTML,PPS σε MHTML ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του PPS σε MHTML χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

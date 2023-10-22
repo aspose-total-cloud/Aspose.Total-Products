@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSX, PPTX till XLSX GRATIS Converter eller Python SDKdescription: Gratis konvertering av PPTX till XLSX genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

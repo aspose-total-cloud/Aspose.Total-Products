@@ -1,0 +1,1 @@
+---title: Konvertera Word tillDOT, CHM till DOT GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av CHM till DOT genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

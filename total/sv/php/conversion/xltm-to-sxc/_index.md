@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillSXC, XLTM till SXC GRATIS Converter eller PHP SDKdescription: Gratis konvertering av XLTM till SXC genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

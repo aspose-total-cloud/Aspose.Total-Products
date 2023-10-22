@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPDFA,POTX σε PDFA ΔΩΡΕΑΝ μετατροπέας ή Perl SDKdescription: Δωρεάν μετατροπή του POTX σε PDFA χρησιμοποιώντας το Perl Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

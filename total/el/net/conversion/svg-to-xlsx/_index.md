@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLSX,SVG σε XLSX ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του SVG σε XLSX χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

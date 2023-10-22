@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLSB, DOTX till XLSB GRATIS Converter eller C++ SDKdescription: Gratis konvertering av DOTX till XLSB genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

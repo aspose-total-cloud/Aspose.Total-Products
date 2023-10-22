@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεTXT,ODP σε TXT ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του ODP σε TXT χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

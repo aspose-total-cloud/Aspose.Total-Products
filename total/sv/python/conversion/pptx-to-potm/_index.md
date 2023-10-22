@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillPOTM, PPTX till POTM GRATIS Converter eller Python SDKdescription: Gratis konvertering av PPTX till POTM genom att använda Python Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

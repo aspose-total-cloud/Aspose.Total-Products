@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLTX,PDFA σε XLTX ΔΩΡΕΑΝ μετατροπέας ή Swift SDKdescription: Δωρεάν μετατροπή του PDFA σε XLTX χρησιμοποιώντας το Swift Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

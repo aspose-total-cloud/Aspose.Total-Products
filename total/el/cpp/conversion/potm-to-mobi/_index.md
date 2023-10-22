@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεMOBI,POTM σε MOBI ΔΩΡΕΑΝ μετατροπέας ή C++ SDKdescription: Δωρεάν μετατροπή του POTM σε MOBI χρησιμοποιώντας το C++ Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

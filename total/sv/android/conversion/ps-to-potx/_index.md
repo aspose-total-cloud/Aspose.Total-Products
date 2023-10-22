@@ -1,0 +1,1 @@
+---title: Konvertera PDF till POTX, PS till POTX GRATIS Converter eller Android SDKdescription: Gratis konvertering av PS till POTX genom att använda Android Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

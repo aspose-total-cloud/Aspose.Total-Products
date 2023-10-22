@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSVG, PPT till SVG GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPT till SVG genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

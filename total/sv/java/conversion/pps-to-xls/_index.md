@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLS, PPS till XLS GRATIS Converter eller Java SDKdescription: Gratis konvertering av PPS till XLS genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

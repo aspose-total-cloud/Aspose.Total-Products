@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε DOC,PDFA σε DOC ΔΩΡΕΑΝ μετατροπέας ή Python SDKdescription: Δωρεάν μετατροπή του PDFA σε DOC χρησιμοποιώντας το Python Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

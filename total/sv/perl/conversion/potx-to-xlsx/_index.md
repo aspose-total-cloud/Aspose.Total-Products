@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLSX, POTX till XLSX GRATIS Converter eller Perl SDKdescription: Gratis konvertering av POTX till XLSX genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

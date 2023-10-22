@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLAM, DOCX till XLAM GRATIS Converter eller Swift SDKdescription: Gratis konvertering av DOCX till XLAM genom att använda Swift Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

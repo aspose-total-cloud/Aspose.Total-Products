@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillXLT, XLTM till XLT GRATIS Converter eller Java SDKdescription: Gratis konvertering av XLTM till XLT genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

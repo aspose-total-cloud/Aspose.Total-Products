@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillNUMBERS, FODS till NUMBERS GRATIS Converter eller Nodejs SDKdescription: Gratis konvertering av FODS till NUMBERS genom att använda Nodejs Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

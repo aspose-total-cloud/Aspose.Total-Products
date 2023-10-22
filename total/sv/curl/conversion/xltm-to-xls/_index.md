@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillXLS, XLTM till XLS GRATIS Converter eller Curl SDKdescription: Gratis konvertering av XLTM till XLS genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDIF, PPSM till DIF GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av PPSM till DIF genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

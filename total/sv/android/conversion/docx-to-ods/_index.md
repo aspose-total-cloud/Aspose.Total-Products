@@ -1,0 +1,1 @@
+---title: Konvertera Word tillODS, DOCX till ODS GRATIS Converter eller Android SDKdescription: Gratis konvertering av DOCX till ODS genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

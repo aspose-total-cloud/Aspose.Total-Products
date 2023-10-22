@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLT, CHM till XLT GRATIS Converter eller PHP SDKdescription: Gratis konvertering av CHM till XLT genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

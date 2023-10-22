@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXML, DOT till XML GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av DOT till XML genom att använda Ruby Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

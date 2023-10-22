@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLTM, POTX till XLTM GRATIS Converter eller Net SDKdescription: Gratis konvertering av POTX till XLTM genom att använda Net Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera Word tillTXT, HTML till TXT GRATIS Converter eller C++ SDKdescription: Gratis konvertering av HTML till TXT genom att använda C++ Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

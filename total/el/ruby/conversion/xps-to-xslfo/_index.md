@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XSLFO,XPS σε XSLFO ΔΩΡΕΑΝ μετατροπέας ή Ruby SDKdescription: Δωρεάν μετατροπή του XPS σε XSLFO χρησιμοποιώντας το Ruby Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

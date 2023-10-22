@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillJPEG, XLSX till JPEG GRATIS Converter eller Curl SDKdescription: Gratis konvertering av XLSX till JPEG genom att använda Curl Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

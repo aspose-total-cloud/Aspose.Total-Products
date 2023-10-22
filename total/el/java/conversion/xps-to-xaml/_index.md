@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XAML,XPS σε XAML ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του XPS σε XAML χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

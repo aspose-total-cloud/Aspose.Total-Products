@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillSVG, PPSM till SVG GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PPSM till SVG genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

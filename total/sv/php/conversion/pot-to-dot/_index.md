@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillDOT, POT till DOT GRATIS Converter eller PHP SDKdescription: Gratis konvertering av POT till DOT genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPOT, TXT till POT GRATIS Converter eller PHP SDKdescription: Gratis konvertering av TXT till POT genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

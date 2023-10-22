@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillBMP, PPTM till BMP GRATIS Converter eller Perl SDKdescription: Gratis konvertering av PPTM till BMP genom att använda Perl Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

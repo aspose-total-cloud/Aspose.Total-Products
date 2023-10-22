@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεDOCX,PPSX σε DOCX ΔΩΡΕΑΝ μετατροπέας ή Net SDKdescription: Δωρεάν μετατροπή του PPSX σε DOCX χρησιμοποιώντας το Net Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

@@ -1,0 +1,1 @@
+---title: Μετατροπή PDF σε XLS,PCL σε XLS ΔΩΡΕΑΝ μετατροπέας ή Java SDKdescription: Δωρεάν μετατροπή του PCL σε XLS χρησιμοποιώντας το Java Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα PDF στο Cloud.---

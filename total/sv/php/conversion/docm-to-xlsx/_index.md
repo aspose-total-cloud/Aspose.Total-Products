@@ -1,0 +1,1 @@
+---title: Konvertera Word tillXLSX, DOCM till XLSX GRATIS Converter eller PHP SDKdescription: Gratis konvertering av DOCM till XLSX genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

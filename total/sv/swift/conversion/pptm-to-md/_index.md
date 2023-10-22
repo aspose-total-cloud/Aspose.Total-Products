@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillMD, PPTM till MD GRATIS Converter eller Swift SDKdescription: Gratis konvertering av PPTM till MD genom att använda Swift Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

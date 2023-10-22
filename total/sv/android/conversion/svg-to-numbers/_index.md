@@ -1,0 +1,1 @@
+---title: Konvertera PDF till NUMBERS, SVG till NUMBERS GRATIS Converter eller Android SDKdescription: Gratis konvertering av SVG till NUMBERS genom att använda Android Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---

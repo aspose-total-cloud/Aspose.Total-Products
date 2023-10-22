@@ -1,0 +1,1 @@
+---title: Konvertera Word tillPPTM, DOCM till PPTM GRATIS Converter eller Android SDKdescription: Gratis konvertering av DOCM till PPTM genom att använda Android Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

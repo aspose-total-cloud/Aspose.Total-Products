@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillODP, PPTX till ODP GRATIS Converter eller Android SDKdescription: Gratis konvertering av PPTX till ODP genom att använda Android Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

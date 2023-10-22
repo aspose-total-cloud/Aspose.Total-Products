@@ -1,0 +1,1 @@
+---title: Konvertera Excel tillSXC, XLTM till SXC GRATIS Converter eller Java SDKdescription: Gratis konvertering av XLTM till SXC genom att använda Java Cloud API och SDK. Skapa, redigera och rendera även Microsoft Excel-, CSV- och SpreadsheetML-kalkylblad eller kalkylblad i molnet.---

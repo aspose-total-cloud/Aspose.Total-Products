@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillTIFF, PPSX till TIFF GRATIS Converter eller C++ SDKdescription: Gratis konvertering av PPSX till TIFF genom att använda C++ Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

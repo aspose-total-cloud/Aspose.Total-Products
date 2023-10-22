@@ -1,0 +1,1 @@
+---title: Konvertera Word tillODP, DOTM till ODP GRATIS Converter eller PHP SDKdescription: Gratis konvertering av DOTM till ODP genom att använda PHP Cloud APIs & SDKs. Skapa, redigera och rendera även Microsoft Word & OpenOffice-dokument i molnet.---

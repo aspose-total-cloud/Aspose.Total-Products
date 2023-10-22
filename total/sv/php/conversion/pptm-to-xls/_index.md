@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillXLS, PPTM till XLS GRATIS Converter eller PHP SDKdescription: Gratis konvertering av PPTM till XLS genom att använda PHP Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

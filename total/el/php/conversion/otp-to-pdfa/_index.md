@@ -1,0 +1,1 @@
+---title: Μετατροπή PowerPoint σεPDFA,OTP σε PDFA ΔΩΡΕΑΝ μετατροπέας ή PHP SDKdescription: Δωρεάν μετατροπή του OTP σε PDFA χρησιμοποιώντας το PHP Cloud API & SDK. Επίσης, δημιουργήστε, επεξεργαστείτε και αποδώστε έγγραφα του Microsoft PowerPoint στο Cloud.---

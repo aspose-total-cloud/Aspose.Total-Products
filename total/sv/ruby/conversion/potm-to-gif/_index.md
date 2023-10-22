@@ -1,0 +1,1 @@
+---title: Konvertera PowerPoint tillGIF, POTM till GIF GRATIS Converter eller Ruby SDKdescription: Gratis konvertering av POTM till GIF genom att använda Ruby Cloud API och SDK. Skapa, redigera och rendera även Microsoft PowerPoint-dokument i molnet.---

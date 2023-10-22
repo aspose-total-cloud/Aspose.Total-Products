@@ -1,0 +1,1 @@
+---title: Konvertera PDF till FODS, SVG till FODS GRATIS Converter eller Python SDKdescription: Gratis konvertering av SVG till FODS genom att använda Python Cloud API:er och SDK:er. Skapa, redigera och rendera även PDF-dokument i molnet.---
