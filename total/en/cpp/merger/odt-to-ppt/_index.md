@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, ODT to PPT FREE Merger App or C++ SDKdescription: Free Merger of ODT to PPT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

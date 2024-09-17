@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, DOT to MHT FREE Merger App or PHP SDKdescription: Free Merger of DOT to MHT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

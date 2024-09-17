@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, PDF to SVG FREE Merger App or Android SDKdescription: Free Merger of PDF to SVG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

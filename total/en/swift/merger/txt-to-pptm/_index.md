@@ -1,0 +1,1 @@
+---title: Merge Word to PPTM, TXT to PPTM FREE Merger App or Swift SDKdescription: Free Merger of TXT to PPTM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

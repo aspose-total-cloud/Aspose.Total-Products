@@ -1,0 +1,1 @@
+---title: Merge Word to MHTML, PDF to MHTML FREE Merger App or PHP SDKdescription: Free Merger of PDF to MHTML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

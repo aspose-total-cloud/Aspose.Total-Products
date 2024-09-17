@@ -1,0 +1,1 @@
+---title: Merge Word to MOBI, DOTX to MOBI FREE Merger App or Swift SDKdescription: Free Merger of DOTX to MOBI by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, PPS to DOT FREE Merger using Java SDKdescription: Merge Free PPS to DOT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

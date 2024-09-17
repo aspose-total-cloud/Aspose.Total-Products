@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, PPT to EMF FREE Merger using Swift SDKdescription: Merge Free PPT to EMF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

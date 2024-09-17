@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODT, ODP to ODT FREE Merger using C++ SDKdescription: Merge Free ODP to ODT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

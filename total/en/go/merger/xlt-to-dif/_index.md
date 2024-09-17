@@ -1,0 +1,1 @@
+---title: Merge Excel to DIF, XLT to DIF FREE Merger App or GO SDKdescription: Merge Free XLT to DIF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

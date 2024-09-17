@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, POTM to DOT FREE Merger using C++ SDKdescription: Merge Free POTM to DOT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to DOC, XLS to DOC FREE Merger App or Java SDKdescription: Merge Free XLS to DOC by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, PPSM to XLAM FREE Merger using Swift SDKdescription: Merge Free PPSM to XLAM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

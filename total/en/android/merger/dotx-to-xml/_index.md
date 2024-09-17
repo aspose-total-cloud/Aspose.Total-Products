@@ -1,0 +1,1 @@
+---title: Merge Word to XML, DOTX to XML FREE Merger App or Android SDKdescription: Free Merger of DOTX to XML by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

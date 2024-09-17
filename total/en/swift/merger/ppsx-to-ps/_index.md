@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, PPSX to PS FREE Merger using Swift SDKdescription: Merge Free PPSX to PS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

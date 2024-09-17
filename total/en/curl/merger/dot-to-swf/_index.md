@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, DOT to SWF FREE Merger App or Curl SDKdescription: Free Merger of DOT to SWF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

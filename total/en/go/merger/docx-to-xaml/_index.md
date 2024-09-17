@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, DOCX to XAML FREE Merger App or GO SDKdescription: Free Merger of DOCX to XAML by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

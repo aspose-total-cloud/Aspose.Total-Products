@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XLT to PDFA FREE Merger App or Curl SDKdescription: Merge Free XLT to PDFA by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

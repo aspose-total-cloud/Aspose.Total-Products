@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, POTX to JPEG FREE Merger using Swift SDKdescription: Merge Free POTX to JPEG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

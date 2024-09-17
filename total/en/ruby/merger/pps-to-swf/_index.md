@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SWF, PPS to SWF FREE Merger using Ruby SDKdescription: Merge Free PPS to SWF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

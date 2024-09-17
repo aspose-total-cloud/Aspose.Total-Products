@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, DOCM to SXC FREE Merger App or PHP SDKdescription: Free Merger of DOCM to SXC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

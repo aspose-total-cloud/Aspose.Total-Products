@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSB, XLSX to XLSB FREE Merger App or Ruby SDKdescription: Merge Free XLSX to XLSB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

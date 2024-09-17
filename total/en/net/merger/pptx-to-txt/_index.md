@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, PPTX to TXT FREE Merger using Net SDKdescription: Merge Free PPTX to TXT by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

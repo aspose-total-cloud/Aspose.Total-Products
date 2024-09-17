@@ -1,0 +1,1 @@
+---title: Merge Excel to DOT, XLS to DOT FREE Merger App or Perl SDKdescription: Merge Free XLS to DOT by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

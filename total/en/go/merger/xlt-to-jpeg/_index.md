@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, XLT to JPEG FREE Merger App or GO SDKdescription: Merge Free XLT to JPEG by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

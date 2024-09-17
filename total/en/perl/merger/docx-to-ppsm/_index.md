@@ -1,0 +1,1 @@
+---title: Merge Word to PPSM, DOCX to PPSM FREE Merger App or Perl SDKdescription: Free Merger of DOCX to PPSM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

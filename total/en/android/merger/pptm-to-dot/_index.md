@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, PPTM to DOT FREE Merger using Android SDKdescription: Merge Free PPTM to DOT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

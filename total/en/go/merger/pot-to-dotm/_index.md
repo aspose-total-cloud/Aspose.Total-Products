@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTM, POT to DOTM FREE Merger using GO SDKdescription: Merge Free POT to DOTM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

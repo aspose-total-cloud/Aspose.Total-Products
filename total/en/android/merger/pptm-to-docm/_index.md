@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCM, PPTM to DOCM FREE Merger using Android SDKdescription: Merge Free PPTM to DOCM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

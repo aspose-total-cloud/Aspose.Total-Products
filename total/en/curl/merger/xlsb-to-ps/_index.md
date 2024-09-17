@@ -1,0 +1,1 @@
+---title: Merge Excel to PS, XLSB to PS FREE Merger App or Curl SDKdescription: Merge Free XLSB to PS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

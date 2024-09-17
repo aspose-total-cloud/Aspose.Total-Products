@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DIF, PPTM to DIF FREE Merger using Nodejs SDKdescription: Merge Free PPTM to DIF by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

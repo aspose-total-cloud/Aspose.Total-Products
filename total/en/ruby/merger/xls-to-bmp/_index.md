@@ -1,0 +1,1 @@
+---title: Merge Excel to BMP, XLS to BMP FREE Merger App or Ruby SDKdescription: Merge Free XLS to BMP by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

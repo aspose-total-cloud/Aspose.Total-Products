@@ -1,0 +1,1 @@
+---title: Merge Excel to FODS, XLTX to FODS FREE Merger App or Net SDKdescription: Merge Free XLTX to FODS by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

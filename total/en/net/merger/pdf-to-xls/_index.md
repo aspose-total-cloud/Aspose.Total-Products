@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, PDF to XLS FREE Merger App or Net SDKdescription: Free Merger of PDF to XLS by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

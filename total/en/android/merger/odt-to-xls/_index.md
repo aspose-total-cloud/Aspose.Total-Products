@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, ODT to XLS FREE Merger App or Android SDKdescription: Free Merger of ODT to XLS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

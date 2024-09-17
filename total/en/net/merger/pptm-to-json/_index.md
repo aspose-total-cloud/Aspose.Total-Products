@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JSON, PPTM to JSON FREE Merger using Net SDKdescription: Merge Free PPTM to JSON by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

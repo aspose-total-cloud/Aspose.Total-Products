@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, FODS to GIF FREE Merger App or PHP SDKdescription: Merge Free FODS to GIF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

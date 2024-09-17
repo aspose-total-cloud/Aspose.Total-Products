@@ -1,0 +1,1 @@
+---title: Merge Excel to DOT, XML to DOT FREE Merger App or Java SDKdescription: Merge Free XML to DOT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

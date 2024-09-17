@@ -1,0 +1,1 @@
+---title: Merge Excel to DIF, XLTM to DIF FREE Merger App or Python SDKdescription: Merge Free XLTM to DIF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

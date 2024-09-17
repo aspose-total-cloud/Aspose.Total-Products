@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, SXC to XML FREE Merger App or Net SDKdescription: Merge Free SXC to XML by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

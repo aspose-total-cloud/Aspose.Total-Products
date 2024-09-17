@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, PPT to DOC FREE Merger using PHP SDKdescription: Merge Free PPT to DOC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTM, PPSM to PPTM FREE Merger using PHP SDKdescription: Merge Free PPSM to PPTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

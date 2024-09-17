@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTM, XLS to DOTM FREE Merger App or Net SDKdescription: Merge Free XLS to DOTM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

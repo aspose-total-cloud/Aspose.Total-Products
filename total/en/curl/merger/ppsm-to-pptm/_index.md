@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTM, PPSM to PPTM FREE Merger using Curl SDKdescription: Merge Free PPSM to PPTM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

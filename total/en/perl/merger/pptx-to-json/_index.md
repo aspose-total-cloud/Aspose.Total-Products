@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JSON, PPTX to JSON FREE Merger using Perl SDKdescription: Merge Free PPTX to JSON by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

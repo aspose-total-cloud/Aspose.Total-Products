@@ -1,0 +1,1 @@
+---title: Merge Excel to MHT, XLSX to MHT FREE Merger App or Ruby SDKdescription: Merge Free XLSX to MHT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, XLS to JSON FREE Merger App or Python SDKdescription: Merge Free XLS to JSON by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

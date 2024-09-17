@@ -1,0 +1,1 @@
+---title: Merge Word to JPEG, DOTX to JPEG FREE Merger App or GO SDKdescription: Free Merger of DOTX to JPEG by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

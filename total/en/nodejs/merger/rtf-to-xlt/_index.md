@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, RTF to XLT FREE Merger App or Nodejs SDKdescription: Free Merger of RTF to XLT by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

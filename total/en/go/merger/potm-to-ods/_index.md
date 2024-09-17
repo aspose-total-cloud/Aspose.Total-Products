@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODS, POTM to ODS FREE Merger using GO SDKdescription: Merge Free POTM to ODS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

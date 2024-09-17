@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLTX, POTX to XLTX FREE Merger using Python SDKdescription: Merge Free POTX to XLTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, POT to DOCX FREE Merger using PHP SDKdescription: Merge Free POT to DOCX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

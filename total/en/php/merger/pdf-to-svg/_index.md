@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, PDF to SVG FREE Merger App or PHP SDKdescription: Free Merger of PDF to SVG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

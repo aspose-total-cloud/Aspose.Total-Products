@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to CSV, PPT to CSV FREE Merger using Net SDKdescription: Merge Free PPT to CSV by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

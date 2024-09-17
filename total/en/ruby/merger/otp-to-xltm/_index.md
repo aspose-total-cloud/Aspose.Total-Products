@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLTM, OTP to XLTM FREE Merger using Ruby SDKdescription: Merge Free OTP to XLTM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

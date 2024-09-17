@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to CSV, PPTX to CSV FREE Merger using Swift SDKdescription: Merge Free PPTX to CSV by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

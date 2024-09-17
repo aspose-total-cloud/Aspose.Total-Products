@@ -1,0 +1,1 @@
+---title: Merge Word to XML, DOT to XML FREE Merger App or Swift SDKdescription: Free Merger of DOT to XML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

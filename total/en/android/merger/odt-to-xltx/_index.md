@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, ODT to XLTX FREE Merger App or Android SDKdescription: Free Merger of ODT to XLTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

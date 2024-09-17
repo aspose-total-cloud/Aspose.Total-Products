@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, POTX to PNG FREE Merger using Net SDKdescription: Merge Free POTX to PNG by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

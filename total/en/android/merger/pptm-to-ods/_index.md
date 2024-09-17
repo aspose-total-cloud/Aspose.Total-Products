@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODS, PPTM to ODS FREE Merger using Android SDKdescription: Merge Free PPTM to ODS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

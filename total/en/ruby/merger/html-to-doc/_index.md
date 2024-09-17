@@ -1,0 +1,1 @@
+---title: Merge Word to DOC, HTML to DOC FREE Merger App or Ruby SDKdescription: Free Merger of HTML to DOC by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

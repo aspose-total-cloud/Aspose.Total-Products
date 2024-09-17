@@ -1,0 +1,1 @@
+---title: Merge Word to XPS, DOC to XPS FREE Merger App or GO SDKdescription: Free Merger of DOC to XPS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, XLTX to XML FREE Merger App or Android SDKdescription: Merge Free XLTX to XML by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

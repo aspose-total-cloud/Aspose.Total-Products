@@ -1,0 +1,1 @@
+---title: Merge Word to HTML, DOC to HTML FREE Merger App or Python SDKdescription: Free Merger of DOC to HTML by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

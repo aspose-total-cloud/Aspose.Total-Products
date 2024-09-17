@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, CHM to BMP FREE Merger App or Android SDKdescription: Free Merger of CHM to BMP by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

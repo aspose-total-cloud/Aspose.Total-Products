@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PDF, PPTM to PDF FREE Merger using Ruby SDKdescription: Merge Free PPTM to PDF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

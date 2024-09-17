@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MHT, PPT to MHT FREE Merger using GO SDKdescription: Merge Free PPT to MHT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

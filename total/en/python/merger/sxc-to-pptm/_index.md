@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTM, SXC to PPTM FREE Merger App or Python SDKdescription: Merge Free SXC to PPTM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

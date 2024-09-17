@@ -1,0 +1,1 @@
+---title: Merge Word to XLSM, TXT to XLSM FREE Merger App or Perl SDKdescription: Free Merger of TXT to XLSM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

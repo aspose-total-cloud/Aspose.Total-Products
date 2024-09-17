@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, POTM to TIFF FREE Merger using PHP SDKdescription: Merge Free POTM to TIFF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

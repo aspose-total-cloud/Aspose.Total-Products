@@ -1,0 +1,1 @@
+---title: Merge Excel to XLT, FODS to XLT FREE Merger App or Ruby SDKdescription: Merge Free FODS to XLT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

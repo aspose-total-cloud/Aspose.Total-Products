@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPSM to SXC FREE Merger using GO SDKdescription: Merge Free PPSM to SXC by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

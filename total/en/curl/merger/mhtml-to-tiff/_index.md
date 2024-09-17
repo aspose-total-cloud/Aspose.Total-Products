@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, MHTML to TIFF FREE Merger App or Curl SDKdescription: Free Merger of MHTML to TIFF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

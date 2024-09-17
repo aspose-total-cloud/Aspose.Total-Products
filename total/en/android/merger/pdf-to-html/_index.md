@@ -1,0 +1,1 @@
+---title: Merge Word to HTML, PDF to HTML FREE Merger App or Android SDKdescription: Free Merger of PDF to HTML by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

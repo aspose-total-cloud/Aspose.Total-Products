@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, DOCX to PPSX FREE Merger App or C++ SDKdescription: Free Merger of DOCX to PPSX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

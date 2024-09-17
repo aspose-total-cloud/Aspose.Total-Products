@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, XLT to JSON FREE Merger App or C++ SDKdescription: Merge Free XLT to JSON by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

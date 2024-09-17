@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XML to PDFA FREE Merger App or GO SDKdescription: Merge Free XML to PDFA by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

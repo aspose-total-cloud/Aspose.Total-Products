@@ -1,0 +1,1 @@
+---title: Merge Excel to XLAM, JSON to XLAM FREE Merger App or Nodejs SDKdescription: Merge Free JSON to XLAM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

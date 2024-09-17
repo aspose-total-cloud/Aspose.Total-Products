@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPTM to TIFF FREE Merger using GO SDKdescription: Merge Free PPTM to TIFF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

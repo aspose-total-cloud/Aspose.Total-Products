@@ -1,0 +1,1 @@
+---title: Merge Word to WEB, DOCX to WEB FREE Merger App or Curl SDKdescription: Free Merger of DOCX to WEB by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

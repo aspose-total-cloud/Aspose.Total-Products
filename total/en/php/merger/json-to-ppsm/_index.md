@@ -1,0 +1,1 @@
+---title: Merge Excel to PPSM, JSON to PPSM FREE Merger App or PHP SDKdescription: Merge Free JSON to PPSM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

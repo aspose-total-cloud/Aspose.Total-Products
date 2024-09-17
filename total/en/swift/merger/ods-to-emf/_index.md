@@ -1,0 +1,1 @@
+---title: Merge Excel to EMF, ODS to EMF FREE Merger App or Swift SDKdescription: Merge Free ODS to EMF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

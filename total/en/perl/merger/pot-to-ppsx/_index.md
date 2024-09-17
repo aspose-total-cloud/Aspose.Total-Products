@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, POT to PPSX FREE Merger using Perl SDKdescription: Merge Free POT to PPSX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

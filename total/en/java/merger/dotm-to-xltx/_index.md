@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, DOTM to XLTX FREE Merger App or Java SDKdescription: Free Merger of DOTM to XLTX by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

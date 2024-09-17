@@ -1,0 +1,1 @@
+---title: Merge Word to PS, TXT to PS FREE Merger App or Java SDKdescription: Free Merger of TXT to PS by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

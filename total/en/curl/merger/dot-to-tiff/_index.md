@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, DOT to TIFF FREE Merger App or Curl SDKdescription: Free Merger of DOT to TIFF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

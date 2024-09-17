@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POT, PPSX to POT FREE Merger using Swift SDKdescription: Merge Free PPSX to POT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

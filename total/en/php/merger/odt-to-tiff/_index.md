@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, ODT to TIFF FREE Merger App or PHP SDKdescription: Free Merger of ODT to TIFF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to XLTM, XLT to XLTM FREE Merger App or Android SDKdescription: Merge Free XLT to XLTM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

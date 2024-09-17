@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPSM to TIFF FREE Merger using C++ SDKdescription: Merge Free PPSM to TIFF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

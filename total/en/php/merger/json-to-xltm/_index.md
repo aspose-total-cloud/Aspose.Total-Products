@@ -1,0 +1,1 @@
+---title: Merge Excel to XLTM, JSON to XLTM FREE Merger App or PHP SDKdescription: Merge Free JSON to XLTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

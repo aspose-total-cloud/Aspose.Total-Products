@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POT to SXC FREE Merger using PHP SDKdescription: Merge Free POT to SXC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

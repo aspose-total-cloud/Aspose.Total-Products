@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, TXT to BMP FREE Merger App or Nodejs SDKdescription: Free Merger of TXT to BMP by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

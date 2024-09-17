@@ -1,0 +1,1 @@
+---title: Merge Word to MOBI, DOCX to MOBI FREE Merger App or Curl SDKdescription: Free Merger of DOCX to MOBI by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

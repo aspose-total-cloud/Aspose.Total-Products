@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, XLT to SVG FREE Merger App or C++ SDKdescription: Merge Free XLT to SVG by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

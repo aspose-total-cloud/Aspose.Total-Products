@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, PDF to DOT FREE Merger App or Nodejs SDKdescription: Free Merger of PDF to DOT by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

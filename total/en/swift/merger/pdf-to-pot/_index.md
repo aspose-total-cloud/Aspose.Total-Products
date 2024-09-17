@@ -1,0 +1,1 @@
+---title: Merge Word to POT, PDF to POT FREE Merger App or Swift SDKdescription: Free Merger of PDF to POT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

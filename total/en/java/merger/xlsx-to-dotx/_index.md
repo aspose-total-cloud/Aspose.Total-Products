@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, XLSX to DOTX FREE Merger App or Java SDKdescription: Merge Free XLSX to DOTX by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, PPTX to EMF FREE Merger using Perl SDKdescription: Merge Free PPTX to EMF by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to HTML, FODS to HTML FREE Merger App or Ruby SDKdescription: Merge Free FODS to HTML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

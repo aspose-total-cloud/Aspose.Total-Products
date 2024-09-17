@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, POTM to TSV FREE Merger using Python SDKdescription: Merge Free POTM to TSV by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

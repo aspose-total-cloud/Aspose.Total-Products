@@ -1,0 +1,1 @@
+---title: Merge Excel to XSLFO, XLSX to XSLFO FREE Merger App or Ruby SDKdescription: Merge Free XLSX to XSLFO by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

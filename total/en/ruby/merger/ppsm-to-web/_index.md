@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to WEB, PPSM to WEB FREE Merger using Ruby SDKdescription: Merge Free PPSM to WEB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

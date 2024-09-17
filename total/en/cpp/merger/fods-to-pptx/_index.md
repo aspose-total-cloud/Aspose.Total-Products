@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTX, FODS to PPTX FREE Merger App or C++ SDKdescription: Merge Free FODS to PPTX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

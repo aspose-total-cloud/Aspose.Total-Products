@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTX, POT to POTX FREE Merger using Android SDKdescription: Merge Free POT to POTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

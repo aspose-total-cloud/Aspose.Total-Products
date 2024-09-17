@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, HTML to PPSX FREE Merger App or Android SDKdescription: Free Merger of HTML to PPSX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

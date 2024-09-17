@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, POTX to GIF FREE Merger using Ruby SDKdescription: Merge Free POTX to GIF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

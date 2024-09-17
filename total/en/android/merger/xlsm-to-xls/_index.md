@@ -1,0 +1,1 @@
+---title: Merge Excel to XLS, XLSM to XLS FREE Merger App or Android SDKdescription: Merge Free XLSM to XLS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

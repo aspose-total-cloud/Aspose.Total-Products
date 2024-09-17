@@ -1,0 +1,1 @@
+---title: Merge Word to GIF, DOT to GIF FREE Merger App or Ruby SDKdescription: Free Merger of DOT to GIF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

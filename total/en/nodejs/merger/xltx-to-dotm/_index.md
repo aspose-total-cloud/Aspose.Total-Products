@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTM, XLTX to DOTM FREE Merger App or Nodejs SDKdescription: Merge Free XLTX to DOTM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

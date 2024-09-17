@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, ODP to DOC FREE Merger using PHP SDKdescription: Merge Free ODP to DOC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

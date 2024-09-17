@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, ODT to XLT FREE Merger App or GO SDKdescription: Free Merger of ODT to XLT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

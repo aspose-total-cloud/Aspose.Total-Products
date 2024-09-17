@@ -1,0 +1,1 @@
+---title: Merge Excel to OTP, XLSB to OTP FREE Merger App or Android SDKdescription: Merge Free XLSB to OTP by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

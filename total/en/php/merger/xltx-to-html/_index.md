@@ -1,0 +1,1 @@
+---title: Merge Excel to HTML, XLTX to HTML FREE Merger App or PHP SDKdescription: Merge Free XLTX to HTML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

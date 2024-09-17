@@ -1,0 +1,1 @@
+---title: Merge Excel to MD, XLS to MD FREE Merger App or Android SDKdescription: Merge Free XLS to MD by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

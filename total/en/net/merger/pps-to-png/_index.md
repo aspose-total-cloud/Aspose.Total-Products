@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, PPS to PNG FREE Merger using Net SDKdescription: Merge Free PPS to PNG by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, FODS to XML FREE Merger App or PHP SDKdescription: Merge Free FODS to XML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

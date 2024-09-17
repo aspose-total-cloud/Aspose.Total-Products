@@ -1,0 +1,1 @@
+---title: Merge Word to MOBI, DOT to MOBI FREE Merger App or Android SDKdescription: Free Merger of DOT to MOBI by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

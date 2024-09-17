@@ -1,0 +1,1 @@
+---title: Merge Word to TEX, DOCM to TEX FREE Merger App or Python SDKdescription: Free Merger of DOCM to TEX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

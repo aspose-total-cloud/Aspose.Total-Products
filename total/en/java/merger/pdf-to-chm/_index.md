@@ -1,0 +1,1 @@
+---title: Merge Word to CHM, PDF to CHM FREE Merger App or Java SDKdescription: Free Merger of PDF to CHM by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

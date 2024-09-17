@@ -1,0 +1,1 @@
+---title: Merge Word to DOCM, RTF to DOCM FREE Merger App or C++ SDKdescription: Free Merger of RTF to DOCM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

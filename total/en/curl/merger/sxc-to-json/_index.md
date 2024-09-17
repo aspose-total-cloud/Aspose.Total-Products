@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, SXC to JSON FREE Merger App or Curl SDKdescription: Merge Free SXC to JSON by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to PPSX, XLSX to PPSX FREE Merger App or C++ SDKdescription: Merge Free XLSX to PPSX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

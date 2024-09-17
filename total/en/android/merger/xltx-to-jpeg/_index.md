@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, XLTX to JPEG FREE Merger App or Android SDKdescription: Merge Free XLTX to JPEG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

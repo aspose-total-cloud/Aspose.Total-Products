@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, HTML to PPSX FREE Merger App or Swift SDKdescription: Free Merger of HTML to PPSX by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

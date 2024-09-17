@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, CSV to GIF FREE Merger App or Curl SDKdescription: Merge Free CSV to GIF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

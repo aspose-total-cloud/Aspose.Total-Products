@@ -1,0 +1,1 @@
+---title: Merge Word to MHTML, DOT to MHTML FREE Merger App or Python SDKdescription: Free Merger of DOT to MHTML by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

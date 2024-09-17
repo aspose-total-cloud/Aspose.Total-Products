@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTM, ODS to DOTM FREE Merger App or Curl SDKdescription: Merge Free ODS to DOTM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

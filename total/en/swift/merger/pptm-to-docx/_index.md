@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, PPTM to DOCX FREE Merger using Swift SDKdescription: Merge Free PPTM to DOCX by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

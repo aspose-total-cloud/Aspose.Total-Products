@@ -1,0 +1,1 @@
+---title: Merge Excel to DOT, SXC to DOT FREE Merger App or PHP SDKdescription: Merge Free SXC to DOT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

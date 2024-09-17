@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTM, XLSM to PPTM FREE Merger App or Swift SDKdescription: Merge Free XLSM to PPTM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, TXT to XLTX FREE Merger App or Curl SDKdescription: Free Merger of TXT to XLTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

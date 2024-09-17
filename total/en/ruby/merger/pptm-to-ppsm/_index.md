@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSM, PPTM to PPSM FREE Merger using Ruby SDKdescription: Merge Free PPTM to PPSM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DIF, CHM to DIF FREE Merger App or Curl SDKdescription: Free Merger of CHM to DIF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

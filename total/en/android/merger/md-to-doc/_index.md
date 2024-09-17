@@ -1,0 +1,1 @@
+---title: Merge Word to DOC, MD to DOC FREE Merger App or Android SDKdescription: Free Merger of MD to DOC by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

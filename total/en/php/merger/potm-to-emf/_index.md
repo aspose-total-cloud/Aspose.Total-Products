@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, POTM to EMF FREE Merger using PHP SDKdescription: Merge Free POTM to EMF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

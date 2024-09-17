@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, JSON to DOCM FREE Merger App or Python SDKdescription: Merge Free JSON to DOCM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

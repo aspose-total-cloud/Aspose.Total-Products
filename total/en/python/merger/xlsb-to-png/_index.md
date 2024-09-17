@@ -1,0 +1,1 @@
+---title: Merge Excel to PNG, XLSB to PNG FREE Merger App or Python SDKdescription: Merge Free XLSB to PNG by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

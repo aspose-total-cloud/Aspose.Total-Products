@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POTX to SXC FREE Merger using Curl SDKdescription: Merge Free POTX to SXC by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

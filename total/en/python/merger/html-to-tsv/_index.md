@@ -1,0 +1,1 @@
+---title: Merge Word to TSV, HTML to TSV FREE Merger App or Python SDKdescription: Free Merger of HTML to TSV by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

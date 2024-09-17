@@ -1,0 +1,1 @@
+---title: Merge Word to JPEG, MD to JPEG FREE Merger App or Swift SDKdescription: Free Merger of MD to JPEG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

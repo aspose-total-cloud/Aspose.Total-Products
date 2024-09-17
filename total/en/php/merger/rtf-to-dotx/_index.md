@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, RTF to DOTX FREE Merger App or PHP SDKdescription: Free Merger of RTF to DOTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POTM to SXC FREE Merger using Nodejs SDKdescription: Merge Free POTM to SXC by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

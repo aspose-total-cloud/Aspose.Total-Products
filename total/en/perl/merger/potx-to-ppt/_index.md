@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPT, POTX to PPT FREE Merger using Perl SDKdescription: Merge Free POTX to PPT by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

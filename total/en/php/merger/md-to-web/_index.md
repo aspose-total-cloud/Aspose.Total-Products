@@ -1,0 +1,1 @@
+---title: Merge Word to WEB, MD to WEB FREE Merger App or PHP SDKdescription: Free Merger of MD to WEB by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

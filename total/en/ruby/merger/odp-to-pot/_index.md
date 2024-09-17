@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POT, ODP to POT FREE Merger using Ruby SDKdescription: Merge Free ODP to POT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

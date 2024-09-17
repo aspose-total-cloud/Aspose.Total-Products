@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, CSV to PDFA FREE Merger App or Ruby SDKdescription: Merge Free CSV to PDFA by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

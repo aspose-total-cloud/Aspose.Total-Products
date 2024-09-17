@@ -1,0 +1,1 @@
+---title: Merge Word to XML, MHTML to XML FREE Merger App or Curl SDKdescription: Free Merger of MHTML to XML by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

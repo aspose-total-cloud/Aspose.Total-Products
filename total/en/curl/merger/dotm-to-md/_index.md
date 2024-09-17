@@ -1,0 +1,1 @@
+---title: Merge Word to MD, DOTM to MD FREE Merger App or Curl SDKdescription: Free Merger of DOTM to MD by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

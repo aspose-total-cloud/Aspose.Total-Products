@@ -1,0 +1,1 @@
+---title: Merge Word to WEB, PDF to WEB FREE Merger App or Ruby SDKdescription: Free Merger of PDF to WEB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

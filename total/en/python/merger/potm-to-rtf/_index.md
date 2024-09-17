@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to RTF, POTM to RTF FREE Merger using Python SDKdescription: Merge Free POTM to RTF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to MHTML, DOCX to MHTML FREE Merger App or PHP SDKdescription: Free Merger of DOCX to MHTML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

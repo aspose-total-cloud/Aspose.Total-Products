@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, XLT to POTX FREE Merger App or PHP SDKdescription: Merge Free XLT to POTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

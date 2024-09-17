@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, POT to TXT FREE Merger using PHP SDKdescription: Merge Free POT to TXT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

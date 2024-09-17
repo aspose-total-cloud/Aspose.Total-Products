@@ -1,0 +1,1 @@
+---title: Merge Excel to PPSX, JSON to PPSX FREE Merger App or Curl SDKdescription: Merge Free JSON to PPSX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

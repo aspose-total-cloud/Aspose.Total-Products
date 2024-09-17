@@ -1,0 +1,1 @@
+---title: Merge Word to HTML, TXT to HTML FREE Merger App or Swift SDKdescription: Free Merger of TXT to HTML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

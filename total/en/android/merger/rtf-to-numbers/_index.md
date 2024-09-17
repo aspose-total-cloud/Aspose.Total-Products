@@ -1,0 +1,1 @@
+---title: Merge Word to NUMBERS, RTF to NUMBERS FREE Merger App or Android SDKdescription: Free Merger of RTF to NUMBERS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

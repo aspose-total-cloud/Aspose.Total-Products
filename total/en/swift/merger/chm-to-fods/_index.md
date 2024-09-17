@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, CHM to FODS FREE Merger App or Swift SDKdescription: Free Merger of CHM to FODS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

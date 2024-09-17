@@ -1,0 +1,1 @@
+---title: Merge Word to EPUB, DOTX to EPUB FREE Merger App or Python SDKdescription: Free Merger of DOTX to EPUB by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

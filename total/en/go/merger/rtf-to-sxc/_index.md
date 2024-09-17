@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, RTF to SXC FREE Merger App or GO SDKdescription: Free Merger of RTF to SXC by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

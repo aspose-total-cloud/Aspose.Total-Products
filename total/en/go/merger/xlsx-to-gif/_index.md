@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, XLSX to GIF FREE Merger App or GO SDKdescription: Merge Free XLSX to GIF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

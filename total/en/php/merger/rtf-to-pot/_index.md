@@ -1,0 +1,1 @@
+---title: Merge Word to POT, RTF to POT FREE Merger App or PHP SDKdescription: Free Merger of RTF to POT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to PPT, XLTX to PPT FREE Merger App or GO SDKdescription: Merge Free XLTX to PPT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

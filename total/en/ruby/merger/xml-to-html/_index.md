@@ -1,0 +1,1 @@
+---title: Merge Excel to HTML, XML to HTML FREE Merger App or Ruby SDKdescription: Merge Free XML to HTML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

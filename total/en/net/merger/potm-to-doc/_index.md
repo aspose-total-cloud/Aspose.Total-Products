@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, POTM to DOC FREE Merger using Net SDKdescription: Merge Free POTM to DOC by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

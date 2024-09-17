@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSB, POTM to XLSB FREE Merger using Swift SDKdescription: Merge Free POTM to XLSB by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTX, PPSM to DOTX FREE Merger using PHP SDKdescription: Merge Free PPSM to DOTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

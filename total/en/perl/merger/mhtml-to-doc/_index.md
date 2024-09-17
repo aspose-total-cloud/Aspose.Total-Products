@@ -1,0 +1,1 @@
+---title: Merge Word to DOC, MHTML to DOC FREE Merger App or Perl SDKdescription: Free Merger of MHTML to DOC by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

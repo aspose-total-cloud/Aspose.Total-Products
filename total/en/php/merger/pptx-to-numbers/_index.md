@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to NUMBERS, PPTX to NUMBERS FREE Merger using PHP SDKdescription: Merge Free PPTX to NUMBERS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

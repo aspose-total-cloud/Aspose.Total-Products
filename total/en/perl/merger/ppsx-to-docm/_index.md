@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCM, PPSX to DOCM FREE Merger using Perl SDKdescription: Merge Free PPSX to DOCM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

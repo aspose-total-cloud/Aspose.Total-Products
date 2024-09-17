@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, DOTM to DOTX FREE Merger App or Android SDKdescription: Free Merger of DOTM to DOTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

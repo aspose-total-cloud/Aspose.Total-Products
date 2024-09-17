@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, DOCX to FODS FREE Merger App or Swift SDKdescription: Free Merger of DOCX to FODS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

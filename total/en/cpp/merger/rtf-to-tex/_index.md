@@ -1,0 +1,1 @@
+---title: Merge Word to TEX, RTF to TEX FREE Merger App or C++ SDKdescription: Free Merger of RTF to TEX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

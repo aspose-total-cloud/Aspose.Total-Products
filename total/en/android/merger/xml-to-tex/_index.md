@@ -1,0 +1,1 @@
+---title: Merge Excel to TEX, XML to TEX FREE Merger App or Android SDKdescription: Merge Free XML to TEX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

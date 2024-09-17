@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, MHTML to DOTM FREE Merger App or Curl SDKdescription: Free Merger of MHTML to DOTM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

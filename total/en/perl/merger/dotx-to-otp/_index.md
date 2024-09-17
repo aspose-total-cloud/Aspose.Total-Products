@@ -1,0 +1,1 @@
+---title: Merge Word to OTP, DOTX to OTP FREE Merger App or Perl SDKdescription: Free Merger of DOTX to OTP by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

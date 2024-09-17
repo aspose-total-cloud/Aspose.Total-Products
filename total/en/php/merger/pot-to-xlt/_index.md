@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLT, POT to XLT FREE Merger using PHP SDKdescription: Merge Free POT to XLT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

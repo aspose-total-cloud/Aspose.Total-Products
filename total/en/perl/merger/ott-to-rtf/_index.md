@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, OTT to RTF FREE Merger App or Perl SDKdescription: Free Merger of OTT to RTF by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

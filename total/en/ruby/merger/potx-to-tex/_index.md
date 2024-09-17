@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TEX, POTX to TEX FREE Merger using Ruby SDKdescription: Merge Free POTX to TEX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, DOT to XLSB FREE Merger App or Android SDKdescription: Free Merger of DOT to XLSB by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

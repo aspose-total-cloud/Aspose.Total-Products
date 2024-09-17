@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, POTM to TXT FREE Merger using Java SDKdescription: Merge Free POTM to TXT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

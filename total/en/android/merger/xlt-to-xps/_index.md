@@ -1,0 +1,1 @@
+---title: Merge Excel to XPS, XLT to XPS FREE Merger App or Android SDKdescription: Merge Free XLT to XPS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

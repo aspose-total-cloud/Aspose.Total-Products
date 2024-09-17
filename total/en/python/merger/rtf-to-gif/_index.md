@@ -1,0 +1,1 @@
+---title: Merge Word to GIF, RTF to GIF FREE Merger App or Python SDKdescription: Free Merger of RTF to GIF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

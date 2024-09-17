@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODS, PPTX to ODS FREE Merger using PHP SDKdescription: Merge Free PPTX to ODS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, TXT to PNG FREE Merger App or GO SDKdescription: Free Merger of TXT to PNG by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

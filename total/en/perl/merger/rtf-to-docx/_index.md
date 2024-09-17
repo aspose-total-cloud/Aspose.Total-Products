@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, RTF to DOCX FREE Merger App or Perl SDKdescription: Free Merger of RTF to DOCX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

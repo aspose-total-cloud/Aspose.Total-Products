@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DIF, POT to DIF FREE Merger using Ruby SDKdescription: Merge Free POT to DIF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

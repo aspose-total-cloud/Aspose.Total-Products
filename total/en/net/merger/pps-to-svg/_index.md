@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, PPS to SVG FREE Merger using Net SDKdescription: Merge Free PPS to SVG by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

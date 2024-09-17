@@ -1,0 +1,1 @@
+---title: Merge Excel to DOT, XML to DOT FREE Merger App or GO SDKdescription: Merge Free XML to DOT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

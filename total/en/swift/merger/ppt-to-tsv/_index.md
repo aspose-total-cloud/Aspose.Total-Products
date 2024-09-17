@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, PPT to TSV FREE Merger using Swift SDKdescription: Merge Free PPT to TSV by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

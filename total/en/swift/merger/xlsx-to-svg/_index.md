@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, XLSX to SVG FREE Merger App or Swift SDKdescription: Merge Free XLSX to SVG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

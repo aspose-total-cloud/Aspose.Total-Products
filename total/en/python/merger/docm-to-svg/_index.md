@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, DOCM to SVG FREE Merger App or Python SDKdescription: Free Merger of DOCM to SVG by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

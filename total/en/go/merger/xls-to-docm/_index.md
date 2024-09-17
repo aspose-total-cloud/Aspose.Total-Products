@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, XLS to DOCM FREE Merger App or GO SDKdescription: Merge Free XLS to DOCM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

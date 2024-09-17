@@ -1,0 +1,1 @@
+---title: Merge Word to PS, DOCM to PS FREE Merger App or Nodejs SDKdescription: Free Merger of DOCM to PS by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

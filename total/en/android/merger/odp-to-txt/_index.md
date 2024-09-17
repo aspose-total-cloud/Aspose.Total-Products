@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, ODP to TXT FREE Merger using Android SDKdescription: Merge Free ODP to TXT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

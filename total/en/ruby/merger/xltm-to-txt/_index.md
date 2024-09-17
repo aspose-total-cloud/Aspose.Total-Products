@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, XLTM to TXT FREE Merger App or Ruby SDKdescription: Merge Free XLTM to TXT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

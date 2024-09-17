@@ -1,0 +1,1 @@
+---title: Merge Excel to TEX, FODS to TEX FREE Merger App or Curl SDKdescription: Merge Free FODS to TEX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

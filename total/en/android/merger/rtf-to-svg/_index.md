@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, RTF to SVG FREE Merger App or Android SDKdescription: Free Merger of RTF to SVG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

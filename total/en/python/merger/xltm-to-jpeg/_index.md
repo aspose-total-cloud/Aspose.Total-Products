@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, XLTM to JPEG FREE Merger App or Python SDKdescription: Merge Free XLTM to JPEG by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

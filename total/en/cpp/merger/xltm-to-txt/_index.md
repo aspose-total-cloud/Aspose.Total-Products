@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, XLTM to TXT FREE Merger App or C++ SDKdescription: Merge Free XLTM to TXT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

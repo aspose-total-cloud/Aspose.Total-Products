@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, DOC to RTF FREE Merger App or Android SDKdescription: Free Merger of DOC to RTF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

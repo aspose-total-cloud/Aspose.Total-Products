@@ -1,0 +1,1 @@
+---title: Merge Excel to BMP, XLSB to BMP FREE Merger App or Curl SDKdescription: Merge Free XLSB to BMP by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

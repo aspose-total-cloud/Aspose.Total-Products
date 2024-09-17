@@ -1,0 +1,1 @@
+---title: Merge Excel to SWF, ODS to SWF FREE Merger App or Ruby SDKdescription: Merge Free ODS to SWF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

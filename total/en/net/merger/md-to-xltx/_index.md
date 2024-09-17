@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, MD to XLTX FREE Merger App or Net SDKdescription: Free Merger of MD to XLTX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

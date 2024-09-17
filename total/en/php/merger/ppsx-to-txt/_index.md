@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, PPSX to TXT FREE Merger using PHP SDKdescription: Merge Free PPSX to TXT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, PPSM to BMP FREE Merger using GO SDKdescription: Merge Free PPSM to BMP by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PDF, DOC to PDF FREE Merger App or Curl SDKdescription: Free Merger of DOC to PDF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

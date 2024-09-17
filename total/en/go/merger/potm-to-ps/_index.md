@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, POTM to PS FREE Merger using GO SDKdescription: Merge Free POTM to PS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

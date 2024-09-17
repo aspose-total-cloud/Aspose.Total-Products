@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, ODS to TXT FREE Merger App or Curl SDKdescription: Merge Free ODS to TXT by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

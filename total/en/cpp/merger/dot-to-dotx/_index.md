@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, DOT to DOTX FREE Merger App or C++ SDKdescription: Free Merger of DOT to DOTX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

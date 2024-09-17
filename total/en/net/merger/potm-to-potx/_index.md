@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTX, POTM to POTX FREE Merger using Net SDKdescription: Merge Free POTM to POTX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

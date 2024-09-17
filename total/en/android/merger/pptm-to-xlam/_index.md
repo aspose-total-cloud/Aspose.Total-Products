@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, PPTM to XLAM FREE Merger using Android SDKdescription: Merge Free PPTM to XLAM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

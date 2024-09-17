@@ -1,0 +1,1 @@
+---title: Merge Word to TSV, DOCX to TSV FREE Merger App or Nodejs SDKdescription: Free Merger of DOCX to TSV by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MHT, PPT to MHT FREE Merger using C++ SDKdescription: Merge Free PPT to MHT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

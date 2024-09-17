@@ -1,0 +1,1 @@
+---title: Merge Word to CSV, DOCM to CSV FREE Merger App or GO SDKdescription: Free Merger of DOCM to CSV by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, DOC to DOTM FREE Merger App or Nodejs SDKdescription: Free Merger of DOC to DOTM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

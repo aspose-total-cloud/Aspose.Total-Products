@@ -1,0 +1,1 @@
+---title: Merge Excel to DOC, XLT to DOC FREE Merger App or Swift SDKdescription: Merge Free XLT to DOC by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, TXT to DOTX FREE Merger App or GO SDKdescription: Free Merger of TXT to DOTX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

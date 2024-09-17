@@ -1,0 +1,1 @@
+---title: Merge Word to EPUB, DOCM to EPUB FREE Merger App or Android SDKdescription: Free Merger of DOCM to EPUB by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

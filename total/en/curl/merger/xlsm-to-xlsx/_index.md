@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSX, XLSM to XLSX FREE Merger App or Curl SDKdescription: Merge Free XLSM to XLSX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

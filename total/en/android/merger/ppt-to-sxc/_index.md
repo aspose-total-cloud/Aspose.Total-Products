@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPT to SXC FREE Merger using Android SDKdescription: Merge Free PPT to SXC by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

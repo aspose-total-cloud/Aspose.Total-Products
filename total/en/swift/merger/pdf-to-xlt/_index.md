@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, PDF to XLT FREE Merger App or Swift SDKdescription: Free Merger of PDF to XLT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

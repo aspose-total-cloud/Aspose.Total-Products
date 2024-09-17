@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, TXT to DOTM FREE Merger App or Net SDKdescription: Free Merger of TXT to DOTM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

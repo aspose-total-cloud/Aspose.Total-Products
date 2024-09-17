@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, DOC to DOCX FREE Merger App or Ruby SDKdescription: Free Merger of DOC to DOCX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

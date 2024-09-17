@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to OTP, POT to OTP FREE Merger using Ruby SDKdescription: Merge Free POT to OTP by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

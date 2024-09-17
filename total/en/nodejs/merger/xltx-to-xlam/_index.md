@@ -1,0 +1,1 @@
+---title: Merge Excel to XLAM, XLTX to XLAM FREE Merger App or Nodejs SDKdescription: Merge Free XLTX to XLAM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

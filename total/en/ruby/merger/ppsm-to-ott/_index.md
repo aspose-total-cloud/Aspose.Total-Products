@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to OTT, PPSM to OTT FREE Merger using Ruby SDKdescription: Merge Free PPSM to OTT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

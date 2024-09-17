@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTM, PPTM to DOTM FREE Merger using C++ SDKdescription: Merge Free PPTM to DOTM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

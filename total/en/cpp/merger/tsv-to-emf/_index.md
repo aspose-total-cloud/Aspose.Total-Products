@@ -1,0 +1,1 @@
+---title: Merge Excel to EMF, TSV to EMF FREE Merger App or C++ SDKdescription: Merge Free TSV to EMF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

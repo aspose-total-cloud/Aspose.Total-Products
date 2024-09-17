@@ -1,0 +1,1 @@
+---title: Merge Excel to XAML, XLS to XAML FREE Merger App or Python SDKdescription: Merge Free XLS to XAML by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

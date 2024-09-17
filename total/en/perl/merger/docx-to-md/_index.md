@@ -1,0 +1,1 @@
+---title: Merge Word to MD, DOCX to MD FREE Merger App or Perl SDKdescription: Free Merger of DOCX to MD by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

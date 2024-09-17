@@ -1,0 +1,1 @@
+---title: Merge Excel to EMF, SXC to EMF FREE Merger App or Curl SDKdescription: Merge Free SXC to EMF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

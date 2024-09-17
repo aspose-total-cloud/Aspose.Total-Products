@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPS to TIFF FREE Merger using Android SDKdescription: Merge Free PPS to TIFF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

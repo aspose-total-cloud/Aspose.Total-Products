@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, DOTX to PPSX FREE Merger App or Curl SDKdescription: Free Merger of DOTX to PPSX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

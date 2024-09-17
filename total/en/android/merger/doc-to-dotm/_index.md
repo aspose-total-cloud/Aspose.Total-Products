@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, DOC to DOTM FREE Merger App or Android SDKdescription: Free Merger of DOC to DOTM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, MOBI to PPSX FREE Merger App or Nodejs SDKdescription: Free Merger of MOBI to PPSX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

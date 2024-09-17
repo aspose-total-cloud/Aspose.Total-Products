@@ -1,0 +1,1 @@
+---title: Merge Excel to MD, XLSX to MD FREE Merger App or Swift SDKdescription: Merge Free XLSX to MD by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

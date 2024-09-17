@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, PPSM to TXT FREE Merger using Java SDKdescription: Merge Free PPSM to TXT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

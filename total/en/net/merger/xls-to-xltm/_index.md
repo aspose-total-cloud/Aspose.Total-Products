@@ -1,0 +1,1 @@
+---title: Merge Excel to XLTM, XLS to XLTM FREE Merger App or Net SDKdescription: Merge Free XLS to XLTM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

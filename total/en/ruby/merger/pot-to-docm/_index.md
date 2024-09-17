@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCM, POT to DOCM FREE Merger using Ruby SDKdescription: Merge Free POT to DOCM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to XLT, XLTM to XLT FREE Merger App or PHP SDKdescription: Merge Free XLTM to XLT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

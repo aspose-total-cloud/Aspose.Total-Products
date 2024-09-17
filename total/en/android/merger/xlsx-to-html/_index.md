@@ -1,0 +1,1 @@
+---title: Merge Excel to HTML, XLSX to HTML FREE Merger App or Android SDKdescription: Merge Free XLSX to HTML by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

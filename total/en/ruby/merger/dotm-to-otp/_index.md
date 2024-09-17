@@ -1,0 +1,1 @@
+---title: Merge Word to OTP, DOTM to OTP FREE Merger App or Ruby SDKdescription: Free Merger of DOTM to OTP by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

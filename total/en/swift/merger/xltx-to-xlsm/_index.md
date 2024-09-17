@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSM, XLTX to XLSM FREE Merger App or Swift SDKdescription: Merge Free XLTX to XLSM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

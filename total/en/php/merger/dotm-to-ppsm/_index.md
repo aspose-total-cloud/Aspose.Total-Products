@@ -1,0 +1,1 @@
+---title: Merge Word to PPSM, DOTM to PPSM FREE Merger App or PHP SDKdescription: Free Merger of DOTM to PPSM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

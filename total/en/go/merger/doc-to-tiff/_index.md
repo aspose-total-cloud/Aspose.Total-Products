@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, DOC to TIFF FREE Merger App or GO SDKdescription: Free Merger of DOC to TIFF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

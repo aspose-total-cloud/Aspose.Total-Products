@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, JSON to POTX FREE Merger App or GO SDKdescription: Merge Free JSON to POTX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

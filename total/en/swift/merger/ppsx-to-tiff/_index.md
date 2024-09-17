@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPSX to TIFF FREE Merger using Swift SDKdescription: Merge Free PPSX to TIFF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

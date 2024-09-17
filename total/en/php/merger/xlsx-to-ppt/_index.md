@@ -1,0 +1,1 @@
+---title: Merge Excel to PPT, XLSX to PPT FREE Merger App or PHP SDKdescription: Merge Free XLSX to PPT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

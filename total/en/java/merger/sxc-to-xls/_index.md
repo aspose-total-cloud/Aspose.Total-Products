@@ -1,0 +1,1 @@
+---title: Merge Excel to XLS, SXC to XLS FREE Merger App or Java SDKdescription: Merge Free SXC to XLS by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

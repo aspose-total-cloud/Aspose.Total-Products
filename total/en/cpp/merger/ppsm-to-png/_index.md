@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, PPSM to PNG FREE Merger using C++ SDKdescription: Merge Free PPSM to PNG by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

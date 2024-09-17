@@ -1,0 +1,1 @@
+---title: Merge Excel to POT, XLT to POT FREE Merger App or Android SDKdescription: Merge Free XLT to POT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

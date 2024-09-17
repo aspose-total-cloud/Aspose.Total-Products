@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MOBIXML, PPTM to MOBIXML FREE Merger using Ruby SDKdescription: Merge Free PPTM to MOBIXML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

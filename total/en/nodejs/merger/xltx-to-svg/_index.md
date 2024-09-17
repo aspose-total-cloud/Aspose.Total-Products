@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, XLTX to SVG FREE Merger App or Nodejs SDKdescription: Merge Free XLTX to SVG by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

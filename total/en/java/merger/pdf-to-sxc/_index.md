@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, PDF to SXC FREE Merger App or Java SDKdescription: Free Merger of PDF to SXC by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

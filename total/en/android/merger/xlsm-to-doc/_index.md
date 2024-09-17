@@ -1,0 +1,1 @@
+---title: Merge Excel to DOC, XLSM to DOC FREE Merger App or Android SDKdescription: Merge Free XLSM to DOC by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

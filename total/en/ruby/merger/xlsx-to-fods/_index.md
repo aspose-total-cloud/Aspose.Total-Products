@@ -1,0 +1,1 @@
+---title: Merge Excel to FODS, XLSX to FODS FREE Merger App or Ruby SDKdescription: Merge Free XLSX to FODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

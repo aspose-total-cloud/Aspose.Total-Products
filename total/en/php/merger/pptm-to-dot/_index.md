@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, PPTM to DOT FREE Merger using PHP SDKdescription: Merge Free PPTM to DOT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

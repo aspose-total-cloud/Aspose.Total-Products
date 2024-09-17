@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, DOC to XLS FREE Merger App or Java SDKdescription: Free Merger of DOC to XLS by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

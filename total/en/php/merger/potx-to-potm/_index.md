@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTM, POTX to POTM FREE Merger using PHP SDKdescription: Merge Free POTX to POTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

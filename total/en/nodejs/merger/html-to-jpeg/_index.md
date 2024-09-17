@@ -1,0 +1,1 @@
+---title: Merge Word to JPEG, HTML to JPEG FREE Merger App or Nodejs SDKdescription: Free Merger of HTML to JPEG by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, OTP to SXC FREE Merger using Ruby SDKdescription: Merge Free OTP to SXC by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

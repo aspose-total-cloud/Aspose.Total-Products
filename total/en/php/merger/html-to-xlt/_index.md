@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, HTML to XLT FREE Merger App or PHP SDKdescription: Free Merger of HTML to XLT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

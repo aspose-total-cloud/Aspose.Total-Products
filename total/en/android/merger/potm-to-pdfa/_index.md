@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PDFA, POTM to PDFA FREE Merger using Android SDKdescription: Merge Free POTM to PDFA by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

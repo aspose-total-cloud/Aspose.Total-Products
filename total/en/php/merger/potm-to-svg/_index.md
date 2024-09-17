@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, POTM to SVG FREE Merger using PHP SDKdescription: Merge Free POTM to SVG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

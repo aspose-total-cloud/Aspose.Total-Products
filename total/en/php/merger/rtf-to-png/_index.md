@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, RTF to PNG FREE Merger App or PHP SDKdescription: Free Merger of RTF to PNG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

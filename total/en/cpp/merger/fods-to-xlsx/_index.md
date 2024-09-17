@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSX, FODS to XLSX FREE Merger App or C++ SDKdescription: Merge Free FODS to XLSX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

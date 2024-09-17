@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, DOCM to PNG FREE Merger App or Swift SDKdescription: Free Merger of DOCM to PNG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

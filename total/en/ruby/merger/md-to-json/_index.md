@@ -1,0 +1,1 @@
+---title: Merge Word to JSON, MD to JSON FREE Merger App or Ruby SDKdescription: Free Merger of MD to JSON by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

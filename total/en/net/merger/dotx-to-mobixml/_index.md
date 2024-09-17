@@ -1,0 +1,1 @@
+---title: Merge Word to MOBIXML, DOTX to MOBIXML FREE Merger App or Net SDKdescription: Free Merger of DOTX to MOBIXML by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to MHTML, DOCX to MHTML FREE Merger App or Java SDKdescription: Free Merger of DOCX to MHTML by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

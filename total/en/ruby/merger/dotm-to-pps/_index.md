@@ -1,0 +1,1 @@
+---title: Merge Word to PPS, DOTM to PPS FREE Merger App or Ruby SDKdescription: Free Merger of DOTM to PPS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTX, PPS to DOTX FREE Merger using Python SDKdescription: Merge Free PPS to DOTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

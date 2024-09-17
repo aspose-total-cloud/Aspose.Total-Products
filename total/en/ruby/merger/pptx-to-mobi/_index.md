@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MOBI, PPTX to MOBI FREE Merger using Ruby SDKdescription: Merge Free PPTX to MOBI by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JSON, POTM to JSON FREE Merger using Perl SDKdescription: Merge Free POTM to JSON by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

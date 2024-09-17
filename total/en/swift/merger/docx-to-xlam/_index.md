@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, DOCX to XLAM FREE Merger App or Swift SDKdescription: Free Merger of DOCX to XLAM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

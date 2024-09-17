@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, XLSB to GIF FREE Merger App or GO SDKdescription: Merge Free XLSB to GIF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

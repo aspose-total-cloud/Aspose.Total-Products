@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, PPTM to JPEG FREE Merger using Curl SDKdescription: Merge Free PPTM to JPEG by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

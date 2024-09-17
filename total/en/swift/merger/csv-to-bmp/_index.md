@@ -1,0 +1,1 @@
+---title: Merge Excel to BMP, CSV to BMP FREE Merger App or Swift SDKdescription: Merge Free CSV to BMP by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

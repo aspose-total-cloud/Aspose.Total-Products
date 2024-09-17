@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTM, XLS to PPTM FREE Merger App or Nodejs SDKdescription: Merge Free XLS to PPTM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

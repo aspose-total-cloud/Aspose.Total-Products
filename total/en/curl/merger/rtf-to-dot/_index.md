@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, RTF to DOT FREE Merger App or Curl SDKdescription: Free Merger of RTF to DOT by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

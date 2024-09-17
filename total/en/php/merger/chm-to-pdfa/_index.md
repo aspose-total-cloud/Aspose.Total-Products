@@ -1,0 +1,1 @@
+---title: Merge Word to PDFA, CHM to PDFA FREE Merger App or PHP SDKdescription: Free Merger of CHM to PDFA by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

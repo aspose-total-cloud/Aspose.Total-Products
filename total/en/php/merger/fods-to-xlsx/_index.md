@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSX, FODS to XLSX FREE Merger App or PHP SDKdescription: Merge Free FODS to XLSX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

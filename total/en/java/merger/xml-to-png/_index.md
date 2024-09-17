@@ -1,0 +1,1 @@
+---title: Merge Excel to PNG, XML to PNG FREE Merger App or Java SDKdescription: Merge Free XML to PNG by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

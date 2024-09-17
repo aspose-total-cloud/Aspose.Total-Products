@@ -1,0 +1,1 @@
+---title: Merge Word to CHM, DOTM to CHM FREE Merger App or PHP SDKdescription: Free Merger of DOTM to CHM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

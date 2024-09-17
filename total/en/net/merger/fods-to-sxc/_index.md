@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, FODS to SXC FREE Merger App or Net SDKdescription: Merge Free FODS to SXC by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

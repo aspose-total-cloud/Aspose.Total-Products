@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, FODS to DOCM FREE Merger App or Swift SDKdescription: Merge Free FODS to DOCM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

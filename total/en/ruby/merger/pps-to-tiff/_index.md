@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPS to TIFF FREE Merger using Ruby SDKdescription: Merge Free PPS to TIFF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, POTX to PPSX FREE Merger using Nodejs SDKdescription: Merge Free POTX to PPSX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

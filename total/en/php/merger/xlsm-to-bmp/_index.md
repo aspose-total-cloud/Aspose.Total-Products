@@ -1,0 +1,1 @@
+---title: Merge Excel to BMP, XLSM to BMP FREE Merger App or PHP SDKdescription: Merge Free XLSM to BMP by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

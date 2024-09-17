@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLS, PPSM to XLS FREE Merger using Ruby SDKdescription: Merge Free PPSM to XLS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

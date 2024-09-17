@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, DOTX to XAML FREE Merger App or Curl SDKdescription: Free Merger of DOTX to XAML by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

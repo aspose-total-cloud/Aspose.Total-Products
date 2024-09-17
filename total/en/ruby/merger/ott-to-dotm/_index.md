@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, OTT to DOTM FREE Merger App or Ruby SDKdescription: Free Merger of OTT to DOTM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

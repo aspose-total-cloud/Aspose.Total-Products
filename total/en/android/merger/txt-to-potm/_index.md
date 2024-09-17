@@ -1,0 +1,1 @@
+---title: Merge Word to POTM, TXT to POTM FREE Merger App or Android SDKdescription: Free Merger of TXT to POTM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

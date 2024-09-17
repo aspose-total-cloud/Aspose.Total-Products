@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, POT to BMP FREE Merger using PHP SDKdescription: Merge Free POT to BMP by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

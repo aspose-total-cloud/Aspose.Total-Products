@@ -1,0 +1,1 @@
+---title: Merge Word to XLSM, DOTM to XLSM FREE Merger App or Net SDKdescription: Free Merger of DOTM to XLSM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

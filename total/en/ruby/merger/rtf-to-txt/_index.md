@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, RTF to TXT FREE Merger App or Ruby SDKdescription: Free Merger of RTF to TXT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to RTF, POT to RTF FREE Merger using Android SDKdescription: Merge Free POT to RTF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to ODT, DOTM to ODT FREE Merger App or Python SDKdescription: Free Merger of DOTM to ODT by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

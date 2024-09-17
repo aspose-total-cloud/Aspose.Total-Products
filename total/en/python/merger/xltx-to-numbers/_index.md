@@ -1,0 +1,1 @@
+---title: Merge Excel to NUMBERS, XLTX to NUMBERS FREE Merger App or Python SDKdescription: Merge Free XLTX to NUMBERS by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

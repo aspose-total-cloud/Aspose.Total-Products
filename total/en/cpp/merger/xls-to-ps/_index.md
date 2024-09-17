@@ -1,0 +1,1 @@
+---title: Merge Excel to PS, XLS to PS FREE Merger App or C++ SDKdescription: Merge Free XLS to PS by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

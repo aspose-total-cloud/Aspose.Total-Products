@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTX, POT to DOTX FREE Merger using C++ SDKdescription: Merge Free POT to DOTX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

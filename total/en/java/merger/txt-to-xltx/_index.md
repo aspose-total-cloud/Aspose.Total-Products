@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, TXT to XLTX FREE Merger App or Java SDKdescription: Free Merger of TXT to XLTX by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

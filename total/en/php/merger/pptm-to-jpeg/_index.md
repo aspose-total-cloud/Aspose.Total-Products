@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, PPTM to JPEG FREE Merger using PHP SDKdescription: Merge Free PPTM to JPEG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

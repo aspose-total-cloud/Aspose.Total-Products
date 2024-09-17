@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MD, PPTX to MD FREE Merger using Python SDKdescription: Merge Free PPTX to MD by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, OTT to BMP FREE Merger App or Swift SDKdescription: Free Merger of OTT to BMP by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

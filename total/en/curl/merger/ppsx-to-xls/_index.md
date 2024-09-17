@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLS, PPSX to XLS FREE Merger using Curl SDKdescription: Merge Free PPSX to XLS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

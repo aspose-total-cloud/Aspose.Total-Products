@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, HTML to PPT FREE Merger App or Java SDKdescription: Free Merger of HTML to PPT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

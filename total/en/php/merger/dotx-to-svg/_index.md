@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, DOTX to SVG FREE Merger App or PHP SDKdescription: Free Merger of DOTX to SVG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

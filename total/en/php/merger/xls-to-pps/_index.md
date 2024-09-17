@@ -1,0 +1,1 @@
+---title: Merge Excel to PPS, XLS to PPS FREE Merger App or PHP SDKdescription: Merge Free XLS to PPS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

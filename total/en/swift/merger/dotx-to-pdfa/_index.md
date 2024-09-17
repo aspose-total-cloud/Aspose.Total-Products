@@ -1,0 +1,1 @@
+---title: Merge Word to PDFA, DOTX to PDFA FREE Merger App or Swift SDKdescription: Free Merger of DOTX to PDFA by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

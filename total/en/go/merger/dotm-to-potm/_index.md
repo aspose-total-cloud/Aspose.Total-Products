@@ -1,0 +1,1 @@
+---title: Merge Word to POTM, DOTM to POTM FREE Merger App or GO SDKdescription: Free Merger of DOTM to POTM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

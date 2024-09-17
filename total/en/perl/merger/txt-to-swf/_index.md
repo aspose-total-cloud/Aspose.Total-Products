@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, TXT to SWF FREE Merger App or Perl SDKdescription: Free Merger of TXT to SWF by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

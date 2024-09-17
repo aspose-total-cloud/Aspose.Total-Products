@@ -1,0 +1,1 @@
+---title: Merge Excel to MHTML, XLT to MHTML FREE Merger App or Curl SDKdescription: Merge Free XLT to MHTML by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

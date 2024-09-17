@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, PDF to FODS FREE Merger App or Python SDKdescription: Free Merger of PDF to FODS by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

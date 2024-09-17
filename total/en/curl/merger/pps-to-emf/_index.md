@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, PPS to EMF FREE Merger using Curl SDKdescription: Merge Free PPS to EMF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, PPT to JPEG FREE Merger using Swift SDKdescription: Merge Free PPT to JPEG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XML, OTP to XML FREE Merger using Ruby SDKdescription: Merge Free OTP to XML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

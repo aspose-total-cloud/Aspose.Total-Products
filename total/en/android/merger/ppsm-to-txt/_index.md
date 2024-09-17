@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, PPSM to TXT FREE Merger using Android SDKdescription: Merge Free PPSM to TXT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

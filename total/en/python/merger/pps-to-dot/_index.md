@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, PPS to DOT FREE Merger using Python SDKdescription: Merge Free PPS to DOT by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

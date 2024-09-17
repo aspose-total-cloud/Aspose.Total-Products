@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTX, PPTM to DOTX FREE Merger using Curl SDKdescription: Merge Free PPTM to DOTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

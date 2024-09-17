@@ -1,0 +1,1 @@
+---title: Merge Word to POTM, ODT to POTM FREE Merger App or PHP SDKdescription: Free Merger of ODT to POTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

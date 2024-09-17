@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, PPSM to PS FREE Merger using C++ SDKdescription: Merge Free PPSM to PS by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, CHM to DOTM FREE Merger App or Python SDKdescription: Free Merger of CHM to DOTM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

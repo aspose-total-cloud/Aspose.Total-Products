@@ -1,0 +1,1 @@
+---title: Merge Word to ODT, DOC to ODT FREE Merger App or Android SDKdescription: Free Merger of DOC to ODT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

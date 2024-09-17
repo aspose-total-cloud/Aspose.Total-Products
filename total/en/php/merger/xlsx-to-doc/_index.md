@@ -1,0 +1,1 @@
+---title: Merge Excel to DOC, XLSX to DOC FREE Merger App or PHP SDKdescription: Merge Free XLSX to DOC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

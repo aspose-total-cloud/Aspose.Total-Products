@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XSLFO, POTM to XSLFO FREE Merger using Ruby SDKdescription: Merge Free POTM to XSLFO by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

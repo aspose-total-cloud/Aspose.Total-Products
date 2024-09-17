@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, RTF to PPT FREE Merger App or GO SDKdescription: Free Merger of RTF to PPT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

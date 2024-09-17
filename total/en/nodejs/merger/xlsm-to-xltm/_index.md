@@ -1,0 +1,1 @@
+---title: Merge Excel to XLTM, XLSM to XLTM FREE Merger App or Nodejs SDKdescription: Merge Free XLSM to XLTM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

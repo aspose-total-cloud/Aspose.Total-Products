@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, XLSM to POTX FREE Merger App or PHP SDKdescription: Merge Free XLSM to POTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

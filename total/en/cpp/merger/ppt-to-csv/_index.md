@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to CSV, PPT to CSV FREE Merger using C++ SDKdescription: Merge Free PPT to CSV by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

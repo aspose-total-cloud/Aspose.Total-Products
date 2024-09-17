@@ -1,0 +1,1 @@
+---title: Merge Word to PPSM, RTF to PPSM FREE Merger App or Python SDKdescription: Free Merger of RTF to PPSM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

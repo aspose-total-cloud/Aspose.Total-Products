@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, CSV to SXC FREE Merger App or PHP SDKdescription: Merge Free CSV to SXC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, DOTM to XLSB FREE Merger App or Python SDKdescription: Free Merger of DOTM to XLSB by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

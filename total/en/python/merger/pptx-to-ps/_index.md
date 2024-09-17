@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, PPTX to PS FREE Merger using Python SDKdescription: Merge Free PPTX to PS by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

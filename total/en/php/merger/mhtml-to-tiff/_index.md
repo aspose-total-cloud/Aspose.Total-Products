@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, MHTML to TIFF FREE Merger App or PHP SDKdescription: Free Merger of MHTML to TIFF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

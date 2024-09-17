@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PDFA, PPTX to PDFA FREE Merger using Nodejs SDKdescription: Merge Free PPTX to PDFA by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

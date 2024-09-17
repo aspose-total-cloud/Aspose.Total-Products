@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, PPSX to DOC FREE Merger using Swift SDKdescription: Merge Free PPSX to DOC by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

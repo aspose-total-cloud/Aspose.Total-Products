@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to NUMBERS, PPT to NUMBERS FREE Merger using Ruby SDKdescription: Merge Free PPT to NUMBERS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

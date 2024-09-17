@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLT, PPSX to XLT FREE Merger using Net SDKdescription: Merge Free PPSX to XLT by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

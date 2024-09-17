@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, ODS to DOCM FREE Merger App or Ruby SDKdescription: Merge Free ODS to DOCM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

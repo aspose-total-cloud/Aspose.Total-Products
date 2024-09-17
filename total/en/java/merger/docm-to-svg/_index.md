@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, DOCM to SVG FREE Merger App or Java SDKdescription: Free Merger of DOCM to SVG by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

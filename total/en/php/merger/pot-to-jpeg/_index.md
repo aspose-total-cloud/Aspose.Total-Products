@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, POT to JPEG FREE Merger using PHP SDKdescription: Merge Free POT to JPEG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

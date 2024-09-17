@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, PPTX to XLAM FREE Merger using Perl SDKdescription: Merge Free PPTX to XLAM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

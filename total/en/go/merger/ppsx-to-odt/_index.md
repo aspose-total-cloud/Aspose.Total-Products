@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODT, PPSX to ODT FREE Merger using GO SDKdescription: Merge Free PPSX to ODT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

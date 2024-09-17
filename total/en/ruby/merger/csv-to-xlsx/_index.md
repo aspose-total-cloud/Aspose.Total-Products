@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSX, CSV to XLSX FREE Merger App or Ruby SDKdescription: Merge Free CSV to XLSX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

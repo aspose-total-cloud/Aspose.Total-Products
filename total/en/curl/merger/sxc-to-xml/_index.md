@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, SXC to XML FREE Merger App or Curl SDKdescription: Merge Free SXC to XML by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, OTT to XAML FREE Merger App or Swift SDKdescription: Free Merger of OTT to XAML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

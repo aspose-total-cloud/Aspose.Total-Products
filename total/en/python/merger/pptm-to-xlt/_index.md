@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLT, PPTM to XLT FREE Merger using Python SDKdescription: Merge Free PPTM to XLT by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

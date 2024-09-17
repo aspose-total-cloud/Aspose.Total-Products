@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, HTML to DOTX FREE Merger App or GO SDKdescription: Free Merger of HTML to DOTX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

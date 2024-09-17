@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, POTX to BMP FREE Merger using Android SDKdescription: Merge Free POTX to BMP by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

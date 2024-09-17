@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTM, PPSX to POTM FREE Merger using Android SDKdescription: Merge Free PPSX to POTM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

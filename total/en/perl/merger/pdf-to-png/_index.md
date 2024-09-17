@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, PDF to PNG FREE Merger App or Perl SDKdescription: Free Merger of PDF to PNG by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

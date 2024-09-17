@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MHT, POTX to MHT FREE Merger using Ruby SDKdescription: Merge Free POTX to MHT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTM, XLTM to DOTM FREE Merger App or Ruby SDKdescription: Merge Free XLTM to DOTM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

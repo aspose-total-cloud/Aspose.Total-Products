@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, XLTM to SVG FREE Merger App or Android SDKdescription: Merge Free XLTM to SVG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

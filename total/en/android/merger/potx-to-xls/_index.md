@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLS, POTX to XLS FREE Merger using Android SDKdescription: Merge Free POTX to XLS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

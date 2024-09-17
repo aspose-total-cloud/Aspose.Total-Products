@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTM, XML to PPTM FREE Merger App or Java SDKdescription: Merge Free XML to PPTM by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

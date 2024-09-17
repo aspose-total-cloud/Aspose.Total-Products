@@ -1,0 +1,1 @@
+---title: Merge Word to XML, MD to XML FREE Merger App or Ruby SDKdescription: Free Merger of MD to XML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

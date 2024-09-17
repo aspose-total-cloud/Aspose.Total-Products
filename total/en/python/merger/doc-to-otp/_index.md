@@ -1,0 +1,1 @@
+---title: Merge Word to OTP, DOC to OTP FREE Merger App or Python SDKdescription: Free Merger of DOC to OTP by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

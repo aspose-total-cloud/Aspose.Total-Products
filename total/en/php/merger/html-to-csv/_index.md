@@ -1,0 +1,1 @@
+---title: Merge Word to CSV, HTML to CSV FREE Merger App or PHP SDKdescription: Free Merger of HTML to CSV by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

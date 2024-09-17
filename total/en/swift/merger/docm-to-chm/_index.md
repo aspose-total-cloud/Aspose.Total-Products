@@ -1,0 +1,1 @@
+---title: Merge Word to CHM, DOCM to CHM FREE Merger App or Swift SDKdescription: Free Merger of DOCM to CHM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

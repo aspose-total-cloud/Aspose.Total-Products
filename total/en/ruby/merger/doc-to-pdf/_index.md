@@ -1,0 +1,1 @@
+---title: Merge Word to PDF, DOC to PDF FREE Merger App or Ruby SDKdescription: Free Merger of DOC to PDF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

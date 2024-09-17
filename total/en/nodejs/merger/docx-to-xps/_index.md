@@ -1,0 +1,1 @@
+---title: Merge Word to XPS, DOCX to XPS FREE Merger App or Nodejs SDKdescription: Free Merger of DOCX to XPS by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

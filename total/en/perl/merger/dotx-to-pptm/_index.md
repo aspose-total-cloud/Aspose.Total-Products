@@ -1,0 +1,1 @@
+---title: Merge Word to PPTM, DOTX to PPTM FREE Merger App or Perl SDKdescription: Free Merger of DOTX to PPTM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

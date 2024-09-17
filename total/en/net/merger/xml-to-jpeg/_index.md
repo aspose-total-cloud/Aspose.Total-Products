@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, XML to JPEG FREE Merger App or Net SDKdescription: Merge Free XML to JPEG by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, ODS to SVG FREE Merger App or Ruby SDKdescription: Merge Free ODS to SVG by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

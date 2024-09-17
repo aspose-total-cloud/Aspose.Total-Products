@@ -1,0 +1,1 @@
+---title: Merge Word to TSV, DOT to TSV FREE Merger App or Ruby SDKdescription: Free Merger of DOT to TSV by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

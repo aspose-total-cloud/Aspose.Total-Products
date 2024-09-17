@@ -1,0 +1,1 @@
+---title: Merge Word to POTX, MD to POTX FREE Merger App or Net SDKdescription: Free Merger of MD to POTX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

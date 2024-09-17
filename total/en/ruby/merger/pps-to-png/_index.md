@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, PPS to PNG FREE Merger using Ruby SDKdescription: Merge Free PPS to PNG by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

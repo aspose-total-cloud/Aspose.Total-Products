@@ -1,0 +1,1 @@
+---title: Merge Word to XLSX, MD to XLSX FREE Merger App or PHP SDKdescription: Free Merger of MD to XLSX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

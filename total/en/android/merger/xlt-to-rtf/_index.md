@@ -1,0 +1,1 @@
+---title: Merge Excel to RTF, XLT to RTF FREE Merger App or Android SDKdescription: Merge Free XLT to RTF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

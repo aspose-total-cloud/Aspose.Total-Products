@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSB, PPSX to XLSB FREE Merger using PHP SDKdescription: Merge Free PPSX to XLSB by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

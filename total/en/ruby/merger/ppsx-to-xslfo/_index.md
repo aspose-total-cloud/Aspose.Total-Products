@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XSLFO, PPSX to XSLFO FREE Merger using Ruby SDKdescription: Merge Free PPSX to XSLFO by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

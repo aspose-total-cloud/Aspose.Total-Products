@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, POTX to SVG FREE Merger using GO SDKdescription: Merge Free POTX to SVG by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

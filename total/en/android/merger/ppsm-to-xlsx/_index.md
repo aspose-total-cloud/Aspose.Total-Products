@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSX, PPSM to XLSX FREE Merger using Android SDKdescription: Merge Free PPSM to XLSX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

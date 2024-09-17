@@ -1,0 +1,1 @@
+---title: Merge Excel to RTF, XLTM to RTF FREE Merger App or Net SDKdescription: Merge Free XLTM to RTF by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

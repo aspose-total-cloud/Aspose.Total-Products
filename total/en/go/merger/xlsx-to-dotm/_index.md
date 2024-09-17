@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTM, XLSX to DOTM FREE Merger App or GO SDKdescription: Merge Free XLSX to DOTM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

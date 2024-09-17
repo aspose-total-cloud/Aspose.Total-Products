@@ -1,0 +1,1 @@
+---title: Merge Word to ODS, TXT to ODS FREE Merger App or Ruby SDKdescription: Free Merger of TXT to ODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, PPSM to DOC FREE Merger using Python SDKdescription: Merge Free PPSM to DOC by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

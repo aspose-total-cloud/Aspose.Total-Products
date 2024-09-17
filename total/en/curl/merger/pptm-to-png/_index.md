@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, PPTM to PNG FREE Merger using Curl SDKdescription: Merge Free PPTM to PNG by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

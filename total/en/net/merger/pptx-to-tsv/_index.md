@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, PPTX to TSV FREE Merger using Net SDKdescription: Merge Free PPTX to TSV by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

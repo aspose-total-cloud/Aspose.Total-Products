@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, TSV to SXC FREE Merger App or GO SDKdescription: Merge Free TSV to SXC by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

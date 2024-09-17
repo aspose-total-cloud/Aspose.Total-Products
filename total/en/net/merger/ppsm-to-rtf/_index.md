@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to RTF, PPSM to RTF FREE Merger using Net SDKdescription: Merge Free PPSM to RTF by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

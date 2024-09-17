@@ -1,0 +1,1 @@
+---title: Merge Excel to POTM, FODS to POTM FREE Merger App or Java SDKdescription: Merge Free FODS to POTM by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

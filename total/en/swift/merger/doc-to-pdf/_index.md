@@ -1,0 +1,1 @@
+---title: Merge Word to PDF, DOC to PDF FREE Merger App or Swift SDKdescription: Free Merger of DOC to PDF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

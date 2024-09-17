@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, OTP to BMP FREE Merger using C++ SDKdescription: Merge Free OTP to BMP by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

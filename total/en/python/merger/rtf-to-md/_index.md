@@ -1,0 +1,1 @@
+---title: Merge Word to MD, RTF to MD FREE Merger App or Python SDKdescription: Free Merger of RTF to MD by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

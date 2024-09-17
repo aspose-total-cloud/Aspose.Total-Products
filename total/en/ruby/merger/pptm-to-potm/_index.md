@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTM, PPTM to POTM FREE Merger using Ruby SDKdescription: Merge Free PPTM to POTM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, CHM to PNG FREE Merger App or Nodejs SDKdescription: Free Merger of CHM to PNG by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

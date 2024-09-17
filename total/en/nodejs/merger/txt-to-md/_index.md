@@ -1,0 +1,1 @@
+---title: Merge Word to MD, TXT to MD FREE Merger App or Nodejs SDKdescription: Free Merger of TXT to MD by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

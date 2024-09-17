@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, CSV to GIF FREE Merger App or PHP SDKdescription: Merge Free CSV to GIF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

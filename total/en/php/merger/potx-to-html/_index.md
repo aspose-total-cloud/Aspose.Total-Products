@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to HTML, POTX to HTML FREE Merger using PHP SDKdescription: Merge Free POTX to HTML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

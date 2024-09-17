@@ -1,0 +1,1 @@
+---title: Merge Excel to PNG, XLS to PNG FREE Merger App or Perl SDKdescription: Merge Free XLS to PNG by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

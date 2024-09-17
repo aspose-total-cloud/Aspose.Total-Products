@@ -1,0 +1,1 @@
+---title: Merge Excel to HTML, XLSM to HTML FREE Merger App or Python SDKdescription: Merge Free XLSM to HTML by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

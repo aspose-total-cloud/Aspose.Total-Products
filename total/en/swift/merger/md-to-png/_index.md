@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, MD to PNG FREE Merger App or Swift SDKdescription: Free Merger of MD to PNG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

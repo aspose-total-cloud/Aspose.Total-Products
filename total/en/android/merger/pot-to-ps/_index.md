@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, POT to PS FREE Merger using Android SDKdescription: Merge Free POT to PS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

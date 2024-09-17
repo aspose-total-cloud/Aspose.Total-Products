@@ -1,0 +1,1 @@
+---title: Merge Excel to NUMBERS, XLTX to NUMBERS FREE Merger App or Android SDKdescription: Merge Free XLTX to NUMBERS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

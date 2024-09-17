@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, ODS to DOTX FREE Merger App or Net SDKdescription: Merge Free ODS to DOTX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

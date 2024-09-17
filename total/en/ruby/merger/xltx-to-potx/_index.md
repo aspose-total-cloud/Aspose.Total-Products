@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, XLTX to POTX FREE Merger App or Ruby SDKdescription: Merge Free XLTX to POTX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

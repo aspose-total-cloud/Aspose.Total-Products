@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, RTF to BMP FREE Merger App or PHP SDKdescription: Free Merger of RTF to BMP by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

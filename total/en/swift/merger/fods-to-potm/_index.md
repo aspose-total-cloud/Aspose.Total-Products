@@ -1,0 +1,1 @@
+---title: Merge Excel to POTM, FODS to POTM FREE Merger App or Swift SDKdescription: Merge Free FODS to POTM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

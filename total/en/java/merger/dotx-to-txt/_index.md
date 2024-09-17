@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, DOTX to TXT FREE Merger App or Java SDKdescription: Free Merger of DOTX to TXT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

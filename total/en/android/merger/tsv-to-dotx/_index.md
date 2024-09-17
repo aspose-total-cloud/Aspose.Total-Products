@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, TSV to DOTX FREE Merger App or Android SDKdescription: Merge Free TSV to DOTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

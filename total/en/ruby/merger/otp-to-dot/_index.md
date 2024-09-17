@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, OTP to DOT FREE Merger using Ruby SDKdescription: Merge Free OTP to DOT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

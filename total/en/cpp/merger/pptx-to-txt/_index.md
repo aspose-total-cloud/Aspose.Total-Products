@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, PPTX to TXT FREE Merger using C++ SDKdescription: Merge Free PPTX to TXT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

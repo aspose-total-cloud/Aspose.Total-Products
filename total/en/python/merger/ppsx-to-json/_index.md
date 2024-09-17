@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JSON, PPSX to JSON FREE Merger using Python SDKdescription: Merge Free PPSX to JSON by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

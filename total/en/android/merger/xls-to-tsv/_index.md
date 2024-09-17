@@ -1,0 +1,1 @@
+---title: Merge Excel to TSV, XLS to TSV FREE Merger App or Android SDKdescription: Merge Free XLS to TSV by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

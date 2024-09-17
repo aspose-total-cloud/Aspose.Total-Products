@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLT, PPTX to XLT FREE Merger using C++ SDKdescription: Merge Free PPTX to XLT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

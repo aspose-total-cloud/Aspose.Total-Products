@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XAML, PPSX to XAML FREE Merger using GO SDKdescription: Merge Free PPSX to XAML by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

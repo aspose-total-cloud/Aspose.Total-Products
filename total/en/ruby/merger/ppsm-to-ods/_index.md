@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODS, PPSM to ODS FREE Merger using Ruby SDKdescription: Merge Free PPSM to ODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

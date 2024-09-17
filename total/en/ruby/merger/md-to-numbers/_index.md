@@ -1,0 +1,1 @@
+---title: Merge Word to NUMBERS, MD to NUMBERS FREE Merger App or Ruby SDKdescription: Free Merger of MD to NUMBERS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

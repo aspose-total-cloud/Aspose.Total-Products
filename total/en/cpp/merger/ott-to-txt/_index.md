@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, OTT to TXT FREE Merger App or C++ SDKdescription: Free Merger of OTT to TXT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XML to PDFA FREE Merger App or Swift SDKdescription: Merge Free XML to PDFA by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

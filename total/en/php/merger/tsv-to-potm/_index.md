@@ -1,0 +1,1 @@
+---title: Merge Excel to POTM, TSV to POTM FREE Merger App or PHP SDKdescription: Merge Free TSV to POTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

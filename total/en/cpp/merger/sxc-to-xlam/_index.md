@@ -1,0 +1,1 @@
+---title: Merge Excel to XLAM, SXC to XLAM FREE Merger App or C++ SDKdescription: Merge Free SXC to XLAM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

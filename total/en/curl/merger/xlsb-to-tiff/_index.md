@@ -1,0 +1,1 @@
+---title: Merge Excel to TIFF, XLSB to TIFF FREE Merger App or Curl SDKdescription: Merge Free XLSB to TIFF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

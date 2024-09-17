@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, SXC to DOTX FREE Merger App or PHP SDKdescription: Merge Free SXC to DOTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, HTML to DOT FREE Merger App or PHP SDKdescription: Free Merger of HTML to DOT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

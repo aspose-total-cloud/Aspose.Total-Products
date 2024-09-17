@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSB, JSON to XLSB FREE Merger App or Python SDKdescription: Merge Free JSON to XLSB by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

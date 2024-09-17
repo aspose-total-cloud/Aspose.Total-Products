@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, CHM to RTF FREE Merger App or PHP SDKdescription: Free Merger of CHM to RTF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

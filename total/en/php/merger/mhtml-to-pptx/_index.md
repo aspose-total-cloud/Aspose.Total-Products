@@ -1,0 +1,1 @@
+---title: Merge Word to PPTX, MHTML to PPTX FREE Merger App or PHP SDKdescription: Free Merger of MHTML to PPTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

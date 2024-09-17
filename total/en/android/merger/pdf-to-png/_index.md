@@ -1,0 +1,1 @@
+---title: Merge Word to PNG, PDF to PNG FREE Merger App or Android SDKdescription: Free Merger of PDF to PNG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

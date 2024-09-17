@@ -1,0 +1,1 @@
+---title: Merge Word to XPS, DOTM to XPS FREE Merger App or Curl SDKdescription: Free Merger of DOTM to XPS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

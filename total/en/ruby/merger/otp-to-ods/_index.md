@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODS, OTP to ODS FREE Merger using Ruby SDKdescription: Merge Free OTP to ODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

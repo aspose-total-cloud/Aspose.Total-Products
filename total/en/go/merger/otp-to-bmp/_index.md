@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, OTP to BMP FREE Merger using GO SDKdescription: Merge Free OTP to BMP by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPT, POTX to PPT FREE Merger using PHP SDKdescription: Merge Free POTX to PPT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, OTT to TXT FREE Merger App or PHP SDKdescription: Free Merger of OTT to TXT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to XAML, JSON to XAML FREE Merger App or PHP SDKdescription: Merge Free JSON to XAML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

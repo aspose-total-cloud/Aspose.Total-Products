@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, DOT to DOTM FREE Merger App or Curl SDKdescription: Free Merger of DOT to DOTM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

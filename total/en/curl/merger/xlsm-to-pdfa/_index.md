@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XLSM to PDFA FREE Merger App or Curl SDKdescription: Merge Free XLSM to PDFA by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

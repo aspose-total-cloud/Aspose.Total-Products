@@ -1,0 +1,1 @@
+---title: Merge Excel to MD, SXC to MD FREE Merger App or PHP SDKdescription: Merge Free SXC to MD by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

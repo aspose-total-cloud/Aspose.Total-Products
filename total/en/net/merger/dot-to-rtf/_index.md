@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, DOT to RTF FREE Merger App or Net SDKdescription: Free Merger of DOT to RTF by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

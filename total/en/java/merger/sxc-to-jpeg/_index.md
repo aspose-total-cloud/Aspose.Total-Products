@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, SXC to JPEG FREE Merger App or Java SDKdescription: Merge Free SXC to JPEG by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, HTML to XLS FREE Merger App or Net SDKdescription: Free Merger of HTML to XLS by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

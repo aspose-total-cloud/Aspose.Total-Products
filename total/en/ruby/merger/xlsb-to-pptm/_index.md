@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTM, XLSB to PPTM FREE Merger App or Ruby SDKdescription: Merge Free XLSB to PPTM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

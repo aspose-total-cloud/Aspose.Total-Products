@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, TXT to TIFF FREE Merger App or Python SDKdescription: Free Merger of TXT to TIFF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

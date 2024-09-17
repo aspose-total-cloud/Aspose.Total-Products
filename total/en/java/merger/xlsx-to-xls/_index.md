@@ -1,0 +1,1 @@
+---title: Merge Excel to XLS, XLSX to XLS FREE Merger App or Java SDKdescription: Merge Free XLSX to XLS by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, XLT to DOCM FREE Merger App or Python SDKdescription: Merge Free XLT to DOCM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

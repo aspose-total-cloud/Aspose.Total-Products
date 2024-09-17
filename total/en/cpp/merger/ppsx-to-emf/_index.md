@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, PPSX to EMF FREE Merger using C++ SDKdescription: Merge Free PPSX to EMF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

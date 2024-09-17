@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, CHM to SXC FREE Merger App or Perl SDKdescription: Free Merger of CHM to SXC by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

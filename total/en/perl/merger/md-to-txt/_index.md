@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, MD to TXT FREE Merger App or Perl SDKdescription: Free Merger of MD to TXT by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSM, POTM to XLSM FREE Merger using PHP SDKdescription: Merge Free POTM to XLSM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

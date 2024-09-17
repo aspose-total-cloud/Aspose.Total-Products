@@ -1,0 +1,1 @@
+---title: Merge Word to GIF, TXT to GIF FREE Merger App or PHP SDKdescription: Free Merger of TXT to GIF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

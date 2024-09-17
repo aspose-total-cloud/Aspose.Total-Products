@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to NUMBERS, PPSM to NUMBERS FREE Merger using PHP SDKdescription: Merge Free PPSM to NUMBERS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

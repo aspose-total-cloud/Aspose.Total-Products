@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, DOC to SXC FREE Merger App or Perl SDKdescription: Free Merger of DOC to SXC by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

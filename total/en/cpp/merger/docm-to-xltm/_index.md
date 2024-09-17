@@ -1,0 +1,1 @@
+---title: Merge Word to XLTM, DOCM to XLTM FREE Merger App or C++ SDKdescription: Free Merger of DOCM to XLTM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

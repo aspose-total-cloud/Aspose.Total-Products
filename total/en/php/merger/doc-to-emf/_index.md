@@ -1,0 +1,1 @@
+---title: Merge Word to EMF, DOC to EMF FREE Merger App or PHP SDKdescription: Free Merger of DOC to EMF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

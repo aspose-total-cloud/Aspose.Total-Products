@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, MOBI to DOTX FREE Merger App or Perl SDKdescription: Free Merger of MOBI to DOTX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

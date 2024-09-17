@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, PDF to FODS FREE Merger App or Nodejs SDKdescription: Free Merger of PDF to FODS by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

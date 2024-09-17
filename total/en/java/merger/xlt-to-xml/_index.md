@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, XLT to XML FREE Merger App or Java SDKdescription: Merge Free XLT to XML by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

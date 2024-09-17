@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCM, PPS to DOCM FREE Merger using C++ SDKdescription: Merge Free PPS to DOCM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

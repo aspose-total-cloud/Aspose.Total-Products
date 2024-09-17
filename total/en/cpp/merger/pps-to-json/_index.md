@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JSON, PPS to JSON FREE Merger using C++ SDKdescription: Merge Free PPS to JSON by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to MOBI, XLTX to MOBI FREE Merger App or Swift SDKdescription: Merge Free XLTX to MOBI by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

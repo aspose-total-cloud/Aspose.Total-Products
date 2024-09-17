@@ -1,0 +1,1 @@
+---title: Merge Word to POTX, DOC to POTX FREE Merger App or Perl SDKdescription: Free Merger of DOC to POTX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

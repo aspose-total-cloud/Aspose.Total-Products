@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, POTX to TSV FREE Merger using GO SDKdescription: Merge Free POTX to TSV by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

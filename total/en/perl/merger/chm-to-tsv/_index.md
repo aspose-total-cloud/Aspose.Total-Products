@@ -1,0 +1,1 @@
+---title: Merge Word to TSV, CHM to TSV FREE Merger App or Perl SDKdescription: Free Merger of CHM to TSV by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

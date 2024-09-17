@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, PPT to TXT FREE Merger using Swift SDKdescription: Merge Free PPT to TXT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, DOC to MHT FREE Merger App or C++ SDKdescription: Free Merger of DOC to MHT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

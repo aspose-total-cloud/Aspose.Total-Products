@@ -1,0 +1,1 @@
+---title: Merge Word to PDF, TXT to PDF FREE Merger App or Java SDKdescription: Free Merger of TXT to PDF by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

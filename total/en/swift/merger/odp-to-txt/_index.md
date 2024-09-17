@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, ODP to TXT FREE Merger using Swift SDKdescription: Merge Free ODP to TXT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

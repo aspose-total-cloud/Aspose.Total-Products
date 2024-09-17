@@ -1,0 +1,1 @@
+---title: Merge Word to XML, DOCM to XML FREE Merger App or Net SDKdescription: Free Merger of DOCM to XML by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

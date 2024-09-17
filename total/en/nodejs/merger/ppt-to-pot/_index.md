@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POT, PPT to POT FREE Merger using Nodejs SDKdescription: Merge Free PPT to POT by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

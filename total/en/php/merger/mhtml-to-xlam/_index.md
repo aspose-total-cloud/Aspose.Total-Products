@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, MHTML to XLAM FREE Merger App or PHP SDKdescription: Free Merger of MHTML to XLAM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, DOCX to BMP FREE Merger App or Net SDKdescription: Free Merger of DOCX to BMP by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

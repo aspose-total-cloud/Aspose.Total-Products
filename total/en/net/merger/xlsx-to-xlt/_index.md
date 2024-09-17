@@ -1,0 +1,1 @@
+---title: Merge Excel to XLT, XLSX to XLT FREE Merger App or Net SDKdescription: Merge Free XLSX to XLT by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

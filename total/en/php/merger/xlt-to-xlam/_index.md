@@ -1,0 +1,1 @@
+---title: Merge Excel to XLAM, XLT to XLAM FREE Merger App or PHP SDKdescription: Merge Free XLT to XLAM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, TXT to DOCX FREE Merger App or Net SDKdescription: Free Merger of TXT to DOCX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

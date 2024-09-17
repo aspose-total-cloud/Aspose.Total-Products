@@ -1,0 +1,1 @@
+---title: Merge Word to XLSM, MHTML to XLSM FREE Merger App or Swift SDKdescription: Free Merger of MHTML to XLSM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

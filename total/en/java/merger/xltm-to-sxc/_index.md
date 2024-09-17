@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, XLTM to SXC FREE Merger App or Java SDKdescription: Merge Free XLTM to SXC by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

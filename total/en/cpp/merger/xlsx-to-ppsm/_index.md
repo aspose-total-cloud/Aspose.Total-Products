@@ -1,0 +1,1 @@
+---title: Merge Excel to PPSM, XLSX to PPSM FREE Merger App or C++ SDKdescription: Merge Free XLSX to PPSM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

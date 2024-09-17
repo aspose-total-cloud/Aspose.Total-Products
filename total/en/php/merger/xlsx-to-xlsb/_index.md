@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSB, XLSX to XLSB FREE Merger App or PHP SDKdescription: Merge Free XLSX to XLSB by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

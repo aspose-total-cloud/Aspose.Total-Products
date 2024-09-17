@@ -1,0 +1,1 @@
+---title: Merge Word to CSV, PDF to CSV FREE Merger App or Python SDKdescription: Free Merger of PDF to CSV by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

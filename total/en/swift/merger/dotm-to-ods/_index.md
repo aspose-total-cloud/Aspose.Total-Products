@@ -1,0 +1,1 @@
+---title: Merge Word to ODS, DOTM to ODS FREE Merger App or Swift SDKdescription: Free Merger of DOTM to ODS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, XLTM to JSON FREE Merger App or Curl SDKdescription: Merge Free XLTM to JSON by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

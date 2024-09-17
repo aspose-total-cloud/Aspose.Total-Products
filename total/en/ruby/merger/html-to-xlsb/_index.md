@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, HTML to XLSB FREE Merger App or Ruby SDKdescription: Free Merger of HTML to XLSB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, SXC to JPEG FREE Merger App or Ruby SDKdescription: Merge Free SXC to JPEG by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

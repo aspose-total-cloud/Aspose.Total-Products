@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, JSON to SVG FREE Merger App or Ruby SDKdescription: Merge Free JSON to SVG by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

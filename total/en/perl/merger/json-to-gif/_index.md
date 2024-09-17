@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, JSON to GIF FREE Merger App or Perl SDKdescription: Merge Free JSON to GIF by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

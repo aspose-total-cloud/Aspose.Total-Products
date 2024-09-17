@@ -1,0 +1,1 @@
+---title: Merge Word to JSON, OTT to JSON FREE Merger App or Swift SDKdescription: Free Merger of OTT to JSON by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

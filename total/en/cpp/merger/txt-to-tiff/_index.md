@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, TXT to TIFF FREE Merger App or C++ SDKdescription: Free Merger of TXT to TIFF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

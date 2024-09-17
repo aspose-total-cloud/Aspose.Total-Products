@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, RTF to XLT FREE Merger App or Net SDKdescription: Free Merger of RTF to XLT by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

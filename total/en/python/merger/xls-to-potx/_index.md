@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, XLS to POTX FREE Merger App or Python SDKdescription: Merge Free XLS to POTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

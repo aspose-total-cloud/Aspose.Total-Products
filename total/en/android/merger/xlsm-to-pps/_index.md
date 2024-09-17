@@ -1,0 +1,1 @@
+---title: Merge Excel to PPS, XLSM to PPS FREE Merger App or Android SDKdescription: Merge Free XLSM to PPS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

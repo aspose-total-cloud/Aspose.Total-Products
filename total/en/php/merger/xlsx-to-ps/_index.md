@@ -1,0 +1,1 @@
+---title: Merge Excel to PS, XLSX to PS FREE Merger App or PHP SDKdescription: Merge Free XLSX to PS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

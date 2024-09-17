@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSB, POTM to XLSB FREE Merger using GO SDKdescription: Merge Free POTM to XLSB by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

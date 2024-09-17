@@ -1,0 +1,1 @@
+---title: Merge Excel to POT, TSV to POT FREE Merger App or PHP SDKdescription: Merge Free TSV to POT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

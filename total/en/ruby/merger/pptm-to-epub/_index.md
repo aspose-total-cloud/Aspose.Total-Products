@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EPUB, PPTM to EPUB FREE Merger using Ruby SDKdescription: Merge Free PPTM to EPUB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

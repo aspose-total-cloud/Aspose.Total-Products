@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, HTML to SWF FREE Merger App or Python SDKdescription: Free Merger of HTML to SWF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

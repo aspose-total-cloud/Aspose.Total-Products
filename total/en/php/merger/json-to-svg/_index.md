@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, JSON to SVG FREE Merger App or PHP SDKdescription: Merge Free JSON to SVG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

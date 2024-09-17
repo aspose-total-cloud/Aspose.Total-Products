@@ -1,0 +1,1 @@
+---title: Merge Word to OTT, DOCM to OTT FREE Merger App or Python SDKdescription: Free Merger of DOCM to OTT by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

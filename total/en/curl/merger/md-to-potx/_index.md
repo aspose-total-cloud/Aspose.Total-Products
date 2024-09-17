@@ -1,0 +1,1 @@
+---title: Merge Word to POTX, MD to POTX FREE Merger App or Curl SDKdescription: Free Merger of MD to POTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

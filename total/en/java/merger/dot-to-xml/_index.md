@@ -1,0 +1,1 @@
+---title: Merge Word to XML, DOT to XML FREE Merger App or Java SDKdescription: Free Merger of DOT to XML by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

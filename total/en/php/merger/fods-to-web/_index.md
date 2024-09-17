@@ -1,0 +1,1 @@
+---title: Merge Excel to WEB, FODS to WEB FREE Merger App or PHP SDKdescription: Merge Free FODS to WEB by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

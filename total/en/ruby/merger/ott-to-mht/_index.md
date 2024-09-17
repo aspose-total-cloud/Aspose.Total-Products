@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, OTT to MHT FREE Merger App or Ruby SDKdescription: Free Merger of OTT to MHT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

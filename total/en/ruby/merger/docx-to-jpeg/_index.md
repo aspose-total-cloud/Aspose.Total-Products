@@ -1,0 +1,1 @@
+---title: Merge Word to JPEG, DOCX to JPEG FREE Merger App or Ruby SDKdescription: Free Merger of DOCX to JPEG by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

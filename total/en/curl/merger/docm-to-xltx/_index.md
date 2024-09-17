@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, DOCM to XLTX FREE Merger App or Curl SDKdescription: Free Merger of DOCM to XLTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

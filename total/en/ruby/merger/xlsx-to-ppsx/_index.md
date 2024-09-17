@@ -1,0 +1,1 @@
+---title: Merge Excel to PPSX, XLSX to PPSX FREE Merger App or Ruby SDKdescription: Merge Free XLSX to PPSX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

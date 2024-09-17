@@ -1,0 +1,1 @@
+---title: Merge Word to TSV, ODT to TSV FREE Merger App or Python SDKdescription: Free Merger of ODT to TSV by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

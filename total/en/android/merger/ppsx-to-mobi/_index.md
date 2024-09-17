@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MOBI, PPSX to MOBI FREE Merger using Android SDKdescription: Merge Free PPSX to MOBI by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

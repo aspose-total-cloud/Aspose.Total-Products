@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, HTML to TIFF FREE Merger App or Nodejs SDKdescription: Free Merger of HTML to TIFF by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

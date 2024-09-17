@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, CHM to DOTX FREE Merger App or Python SDKdescription: Free Merger of CHM to DOTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

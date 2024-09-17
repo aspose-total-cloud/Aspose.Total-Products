@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, DOCM to PPT FREE Merger App or Ruby SDKdescription: Free Merger of DOCM to PPT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

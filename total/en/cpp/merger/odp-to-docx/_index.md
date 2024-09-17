@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, ODP to DOCX FREE Merger using C++ SDKdescription: Merge Free ODP to DOCX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

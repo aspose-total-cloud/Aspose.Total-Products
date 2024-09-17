@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPT, PPTM to PPT FREE Merger using GO SDKdescription: Merge Free PPTM to PPT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

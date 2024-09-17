@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, JSON to PDFA FREE Merger App or Swift SDKdescription: Merge Free JSON to PDFA by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

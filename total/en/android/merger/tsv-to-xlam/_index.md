@@ -1,0 +1,1 @@
+---title: Merge Excel to XLAM, TSV to XLAM FREE Merger App or Android SDKdescription: Merge Free TSV to XLAM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

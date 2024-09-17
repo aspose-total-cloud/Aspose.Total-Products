@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PDFA, PPTM to PDFA FREE Merger using PHP SDKdescription: Merge Free PPTM to PDFA by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

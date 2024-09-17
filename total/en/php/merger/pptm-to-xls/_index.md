@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLS, PPTM to XLS FREE Merger using PHP SDKdescription: Merge Free PPTM to XLS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

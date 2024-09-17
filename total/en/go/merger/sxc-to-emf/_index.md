@@ -1,0 +1,1 @@
+---title: Merge Excel to EMF, SXC to EMF FREE Merger App or GO SDKdescription: Merge Free SXC to EMF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

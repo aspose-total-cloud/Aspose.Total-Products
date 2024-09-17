@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, JSON to TXT FREE Merger App or PHP SDKdescription: Merge Free JSON to TXT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

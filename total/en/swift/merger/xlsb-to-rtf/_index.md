@@ -1,0 +1,1 @@
+---title: Merge Excel to RTF, XLSB to RTF FREE Merger App or Swift SDKdescription: Merge Free XLSB to RTF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

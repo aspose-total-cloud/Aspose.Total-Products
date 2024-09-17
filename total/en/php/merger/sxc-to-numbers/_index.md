@@ -1,0 +1,1 @@
+---title: Merge Excel to NUMBERS, SXC to NUMBERS FREE Merger App or PHP SDKdescription: Merge Free SXC to NUMBERS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

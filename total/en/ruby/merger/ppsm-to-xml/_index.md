@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XML, PPSM to XML FREE Merger using Ruby SDKdescription: Merge Free PPSM to XML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

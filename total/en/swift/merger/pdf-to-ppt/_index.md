@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, PDF to PPT FREE Merger App or Swift SDKdescription: Free Merger of PDF to PPT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

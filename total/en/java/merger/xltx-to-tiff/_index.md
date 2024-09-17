@@ -1,0 +1,1 @@
+---title: Merge Excel to TIFF, XLTX to TIFF FREE Merger App or Java SDKdescription: Merge Free XLTX to TIFF by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

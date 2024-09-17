@@ -1,0 +1,1 @@
+---title: Merge Word to EMF, DOCM to EMF FREE Merger App or Swift SDKdescription: Free Merger of DOCM to EMF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

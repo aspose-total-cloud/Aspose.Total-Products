@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSX, PPS to XLSX FREE Merger using Nodejs SDKdescription: Merge Free PPS to XLSX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

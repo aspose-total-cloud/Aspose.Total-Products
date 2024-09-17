@@ -1,0 +1,1 @@
+---title: Merge Word to NUMBERS, MD to NUMBERS FREE Merger App or Swift SDKdescription: Free Merger of MD to NUMBERS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

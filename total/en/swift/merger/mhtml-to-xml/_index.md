@@ -1,0 +1,1 @@
+---title: Merge Word to XML, MHTML to XML FREE Merger App or Swift SDKdescription: Free Merger of MHTML to XML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

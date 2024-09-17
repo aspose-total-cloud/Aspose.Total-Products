@@ -1,0 +1,1 @@
+---title: Merge Excel to TIFF, CSV to TIFF FREE Merger App or PHP SDKdescription: Merge Free CSV to TIFF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

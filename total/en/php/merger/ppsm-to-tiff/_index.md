@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPSM to TIFF FREE Merger using PHP SDKdescription: Merge Free PPSM to TIFF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

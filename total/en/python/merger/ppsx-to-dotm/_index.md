@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTM, PPSX to DOTM FREE Merger using Python SDKdescription: Merge Free PPSX to DOTM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, MD to XLT FREE Merger App or Nodejs SDKdescription: Free Merger of MD to XLT by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

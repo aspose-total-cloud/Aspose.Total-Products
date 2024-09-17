@@ -1,0 +1,1 @@
+---title: Merge Excel to PPT, XLSX to PPT FREE Merger App or Perl SDKdescription: Merge Free XLSX to PPT by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to POTM, DOTX to POTM FREE Merger App or Swift SDKdescription: Free Merger of DOTX to POTM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

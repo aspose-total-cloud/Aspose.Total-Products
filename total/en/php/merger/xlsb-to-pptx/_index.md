@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTX, XLSB to PPTX FREE Merger App or PHP SDKdescription: Merge Free XLSB to PPTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

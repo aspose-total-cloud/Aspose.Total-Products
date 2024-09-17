@@ -1,0 +1,1 @@
+---title: Merge Word to EPUB, DOCX to EPUB FREE Merger App or PHP SDKdescription: Free Merger of DOCX to EPUB by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, XLSB to DOTX FREE Merger App or GO SDKdescription: Merge Free XLSB to DOTX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to JSON, DOTX to JSON FREE Merger App or Python SDKdescription: Free Merger of DOTX to JSON by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

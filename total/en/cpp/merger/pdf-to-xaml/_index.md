@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, PDF to XAML FREE Merger App or C++ SDKdescription: Free Merger of PDF to XAML by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

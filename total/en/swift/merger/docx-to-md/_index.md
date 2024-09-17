@@ -1,0 +1,1 @@
+---title: Merge Word to MD, DOCX to MD FREE Merger App or Swift SDKdescription: Free Merger of DOCX to MD by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

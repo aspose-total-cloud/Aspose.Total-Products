@@ -1,0 +1,1 @@
+---title: Merge Word to PPTX, OTT to PPTX FREE Merger App or Android SDKdescription: Free Merger of OTT to PPTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

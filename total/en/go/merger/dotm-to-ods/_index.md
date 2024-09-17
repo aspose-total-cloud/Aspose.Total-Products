@@ -1,0 +1,1 @@
+---title: Merge Word to ODS, DOTM to ODS FREE Merger App or GO SDKdescription: Free Merger of DOTM to ODS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

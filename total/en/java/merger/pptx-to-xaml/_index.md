@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XAML, PPTX to XAML FREE Merger using Java SDKdescription: Merge Free PPTX to XAML by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

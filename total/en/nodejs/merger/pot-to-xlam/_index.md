@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, POT to XLAM FREE Merger using Nodejs SDKdescription: Merge Free POT to XLAM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

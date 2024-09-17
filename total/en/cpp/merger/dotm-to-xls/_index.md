@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, DOTM to XLS FREE Merger App or C++ SDKdescription: Free Merger of DOTM to XLS by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

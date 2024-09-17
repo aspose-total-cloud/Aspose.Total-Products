@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, XLS to TXT FREE Merger App or Java SDKdescription: Merge Free XLS to TXT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

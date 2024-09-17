@@ -1,0 +1,1 @@
+---title: Merge Word to XML, HTML to XML FREE Merger App or Ruby SDKdescription: Free Merger of HTML to XML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLTM, PPSX to XLTM FREE Merger using PHP SDKdescription: Merge Free PPSX to XLTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

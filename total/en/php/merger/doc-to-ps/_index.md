@@ -1,0 +1,1 @@
+---title: Merge Word to PS, DOC to PS FREE Merger App or PHP SDKdescription: Free Merger of DOC to PS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

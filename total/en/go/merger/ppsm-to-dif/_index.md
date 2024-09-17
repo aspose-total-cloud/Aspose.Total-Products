@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DIF, PPSM to DIF FREE Merger using GO SDKdescription: Merge Free PPSM to DIF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

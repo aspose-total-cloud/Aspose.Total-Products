@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, OTT to XLAM FREE Merger App or Curl SDKdescription: Free Merger of OTT to XLAM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSM, XLTX to XLSM FREE Merger App or C++ SDKdescription: Merge Free XLTX to XLSM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

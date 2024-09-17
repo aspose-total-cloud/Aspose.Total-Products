@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, HTML to SXC FREE Merger App or Nodejs SDKdescription: Free Merger of HTML to SXC by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

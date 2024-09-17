@@ -1,0 +1,1 @@
+---title: Merge Excel to NUMBERS, FODS to NUMBERS FREE Merger App or Swift SDKdescription: Merge Free FODS to NUMBERS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

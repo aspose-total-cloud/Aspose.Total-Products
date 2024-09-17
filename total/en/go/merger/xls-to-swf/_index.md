@@ -1,0 +1,1 @@
+---title: Merge Excel to SWF, XLS to SWF FREE Merger App or GO SDKdescription: Merge Free XLS to SWF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

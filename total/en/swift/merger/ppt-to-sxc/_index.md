@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPT to SXC FREE Merger using Swift SDKdescription: Merge Free PPT to SXC by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

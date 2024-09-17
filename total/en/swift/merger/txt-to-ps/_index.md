@@ -1,0 +1,1 @@
+---title: Merge Word to PS, TXT to PS FREE Merger App or Swift SDKdescription: Free Merger of TXT to PS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

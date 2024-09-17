@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLS, PPT to XLS FREE Merger using Perl SDKdescription: Merge Free PPT to XLS by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

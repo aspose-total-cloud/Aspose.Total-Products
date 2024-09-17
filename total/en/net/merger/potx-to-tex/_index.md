@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TEX, POTX to TEX FREE Merger using Net SDKdescription: Merge Free POTX to TEX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

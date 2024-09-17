@@ -1,0 +1,1 @@
+---title: Merge Word to ODS, RTF to ODS FREE Merger App or PHP SDKdescription: Free Merger of RTF to ODS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

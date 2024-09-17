@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTX, POTX to DOTX FREE Merger using Net SDKdescription: Merge Free POTX to DOTX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

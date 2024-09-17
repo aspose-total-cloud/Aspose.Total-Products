@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSX, PPT to XLSX FREE Merger using Net SDKdescription: Merge Free PPT to XLSX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

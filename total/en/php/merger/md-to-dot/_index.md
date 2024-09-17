@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, MD to DOT FREE Merger App or PHP SDKdescription: Free Merger of MD to DOT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

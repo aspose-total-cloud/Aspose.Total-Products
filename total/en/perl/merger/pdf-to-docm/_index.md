@@ -1,0 +1,1 @@
+---title: Merge Word to DOCM, PDF to DOCM FREE Merger App or Perl SDKdescription: Free Merger of PDF to DOCM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

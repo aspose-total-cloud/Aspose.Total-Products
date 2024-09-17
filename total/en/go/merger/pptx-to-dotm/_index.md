@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTM, PPTX to DOTM FREE Merger using GO SDKdescription: Merge Free PPTX to DOTM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

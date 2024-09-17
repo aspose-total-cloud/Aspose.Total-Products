@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, MOBI to DOT FREE Merger App or PHP SDKdescription: Free Merger of MOBI to DOT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

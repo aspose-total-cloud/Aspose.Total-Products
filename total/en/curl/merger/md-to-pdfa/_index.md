@@ -1,0 +1,1 @@
+---title: Merge Word to PDFA, MD to PDFA FREE Merger App or Curl SDKdescription: Free Merger of MD to PDFA by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLT, POTM to XLT FREE Merger using Nodejs SDKdescription: Merge Free POTM to XLT by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

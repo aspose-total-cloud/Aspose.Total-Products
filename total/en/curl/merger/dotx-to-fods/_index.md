@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, DOTX to FODS FREE Merger App or Curl SDKdescription: Free Merger of DOTX to FODS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

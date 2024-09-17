@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, POTX to TIFF FREE Merger using Android SDKdescription: Merge Free POTX to TIFF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PDF, PPTX to PDF FREE Merger using GO SDKdescription: Merge Free PPTX to PDF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

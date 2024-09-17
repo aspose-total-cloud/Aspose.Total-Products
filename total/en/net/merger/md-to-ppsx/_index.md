@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, MD to PPSX FREE Merger App or Net SDKdescription: Free Merger of MD to PPSX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

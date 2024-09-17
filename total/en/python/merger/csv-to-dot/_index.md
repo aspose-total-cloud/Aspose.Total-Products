@@ -1,0 +1,1 @@
+---title: Merge Excel to DOT, CSV to DOT FREE Merger App or Python SDKdescription: Merge Free CSV to DOT by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

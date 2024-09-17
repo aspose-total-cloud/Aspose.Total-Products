@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, XLSM to XML FREE Merger App or GO SDKdescription: Merge Free XLSM to XML by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

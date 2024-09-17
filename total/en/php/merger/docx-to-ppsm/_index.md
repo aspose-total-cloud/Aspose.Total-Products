@@ -1,0 +1,1 @@
+---title: Merge Word to PPSM, DOCX to PPSM FREE Merger App or PHP SDKdescription: Free Merger of DOCX to PPSM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

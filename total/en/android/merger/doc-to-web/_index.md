@@ -1,0 +1,1 @@
+---title: Merge Word to WEB, DOC to WEB FREE Merger App or Android SDKdescription: Free Merger of DOC to WEB by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, OTT to DOCX FREE Merger App or Curl SDKdescription: Free Merger of OTT to DOCX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

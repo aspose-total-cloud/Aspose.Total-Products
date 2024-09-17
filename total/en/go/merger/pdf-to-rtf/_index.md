@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, PDF to RTF FREE Merger App or GO SDKdescription: Free Merger of PDF to RTF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

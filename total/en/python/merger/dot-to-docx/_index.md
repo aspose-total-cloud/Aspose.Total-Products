@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, DOT to DOCX FREE Merger App or Python SDKdescription: Free Merger of DOT to DOCX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

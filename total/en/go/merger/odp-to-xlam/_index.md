@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, ODP to XLAM FREE Merger using GO SDKdescription: Merge Free ODP to XLAM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

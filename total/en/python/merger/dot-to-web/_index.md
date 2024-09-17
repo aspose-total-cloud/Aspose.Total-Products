@@ -1,0 +1,1 @@
+---title: Merge Word to WEB, DOT to WEB FREE Merger App or Python SDKdescription: Free Merger of DOT to WEB by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

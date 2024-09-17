@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, PDF to SWF FREE Merger App or GO SDKdescription: Free Merger of PDF to SWF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

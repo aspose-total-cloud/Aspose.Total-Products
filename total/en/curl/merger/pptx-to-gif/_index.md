@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, PPTX to GIF FREE Merger using Curl SDKdescription: Merge Free PPTX to GIF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

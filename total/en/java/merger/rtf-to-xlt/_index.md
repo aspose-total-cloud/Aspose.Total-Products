@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, RTF to XLT FREE Merger App or Java SDKdescription: Free Merger of RTF to XLT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

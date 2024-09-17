@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCM, PPT to DOCM FREE Merger using Swift SDKdescription: Merge Free PPT to DOCM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

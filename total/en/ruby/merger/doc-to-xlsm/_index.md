@@ -1,0 +1,1 @@
+---title: Merge Word to XLSM, DOC to XLSM FREE Merger App or Ruby SDKdescription: Free Merger of DOC to XLSM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

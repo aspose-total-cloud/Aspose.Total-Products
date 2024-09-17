@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, PPTM to EMF FREE Merger using Python SDKdescription: Merge Free PPTM to EMF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

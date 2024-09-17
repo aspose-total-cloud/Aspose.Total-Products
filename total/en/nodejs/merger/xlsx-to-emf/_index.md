@@ -1,0 +1,1 @@
+---title: Merge Excel to EMF, XLSX to EMF FREE Merger App or Nodejs SDKdescription: Merge Free XLSX to EMF by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

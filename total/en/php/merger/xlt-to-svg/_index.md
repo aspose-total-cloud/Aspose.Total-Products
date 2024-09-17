@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, XLT to SVG FREE Merger App or PHP SDKdescription: Merge Free XLT to SVG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

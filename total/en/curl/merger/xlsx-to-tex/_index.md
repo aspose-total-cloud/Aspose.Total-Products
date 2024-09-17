@@ -1,0 +1,1 @@
+---title: Merge Excel to TEX, XLSX to TEX FREE Merger App or Curl SDKdescription: Merge Free XLSX to TEX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

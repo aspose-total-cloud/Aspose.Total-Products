@@ -1,0 +1,1 @@
+---title: Merge Word to MD, DOTX to MD FREE Merger App or C++ SDKdescription: Free Merger of DOTX to MD by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

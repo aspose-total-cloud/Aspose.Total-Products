@@ -1,0 +1,1 @@
+---title: Merge Word to XLTM, DOTX to XLTM FREE Merger App or Curl SDKdescription: Free Merger of DOTX to XLTM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

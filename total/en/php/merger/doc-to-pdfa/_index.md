@@ -1,0 +1,1 @@
+---title: Merge Word to PDFA, DOC to PDFA FREE Merger App or PHP SDKdescription: Free Merger of DOC to PDFA by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

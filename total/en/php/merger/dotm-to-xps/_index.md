@@ -1,0 +1,1 @@
+---title: Merge Word to XPS, DOTM to XPS FREE Merger App or PHP SDKdescription: Free Merger of DOTM to XPS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

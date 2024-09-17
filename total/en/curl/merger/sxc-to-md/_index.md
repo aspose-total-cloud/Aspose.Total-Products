@@ -1,0 +1,1 @@
+---title: Merge Excel to MD, SXC to MD FREE Merger App or Curl SDKdescription: Merge Free SXC to MD by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

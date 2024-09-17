@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, FODS to SVG FREE Merger App or Python SDKdescription: Merge Free FODS to SVG by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

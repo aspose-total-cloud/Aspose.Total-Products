@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to FODS, ODP to FODS FREE Merger using Ruby SDKdescription: Merge Free ODP to FODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

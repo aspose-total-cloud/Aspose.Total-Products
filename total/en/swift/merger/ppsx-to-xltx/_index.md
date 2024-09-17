@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLTX, PPSX to XLTX FREE Merger using Swift SDKdescription: Merge Free PPSX to XLTX by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

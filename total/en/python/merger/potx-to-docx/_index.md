@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, POTX to DOCX FREE Merger using Python SDKdescription: Merge Free POTX to DOCX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

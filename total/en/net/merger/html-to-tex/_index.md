@@ -1,0 +1,1 @@
+---title: Merge Word to TEX, HTML to TEX FREE Merger App or Net SDKdescription: Free Merger of HTML to TEX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

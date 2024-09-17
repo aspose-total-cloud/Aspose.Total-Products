@@ -1,0 +1,1 @@
+---title: Merge Excel to PDF, XLTX to PDF FREE Merger App or Swift SDKdescription: Merge Free XLTX to PDF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

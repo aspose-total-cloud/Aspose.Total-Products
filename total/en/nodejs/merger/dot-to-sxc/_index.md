@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, DOT to SXC FREE Merger App or Nodejs SDKdescription: Free Merger of DOT to SXC by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

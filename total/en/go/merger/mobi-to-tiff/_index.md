@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, MOBI to TIFF FREE Merger App or GO SDKdescription: Free Merger of MOBI to TIFF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

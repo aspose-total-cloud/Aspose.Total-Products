@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, DOTM to XLTX FREE Merger App or Perl SDKdescription: Free Merger of DOTM to XLTX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

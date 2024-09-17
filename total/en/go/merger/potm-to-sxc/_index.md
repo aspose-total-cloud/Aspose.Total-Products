@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POTM to SXC FREE Merger using GO SDKdescription: Merge Free POTM to SXC by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

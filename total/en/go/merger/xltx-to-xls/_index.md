@@ -1,0 +1,1 @@
+---title: Merge Excel to XLS, XLTX to XLS FREE Merger App or GO SDKdescription: Merge Free XLTX to XLS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

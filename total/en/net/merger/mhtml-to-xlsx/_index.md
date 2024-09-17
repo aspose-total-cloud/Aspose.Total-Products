@@ -1,0 +1,1 @@
+---title: Merge Word to XLSX, MHTML to XLSX FREE Merger App or Net SDKdescription: Free Merger of MHTML to XLSX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

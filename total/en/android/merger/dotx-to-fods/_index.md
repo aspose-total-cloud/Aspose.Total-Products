@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, DOTX to FODS FREE Merger App or Android SDKdescription: Free Merger of DOTX to FODS by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, XLTM to TXT FREE Merger App or Swift SDKdescription: Merge Free XLTM to TXT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

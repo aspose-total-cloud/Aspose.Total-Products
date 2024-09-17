@@ -1,0 +1,1 @@
+---title: Merge Excel to DIF, ODS to DIF FREE Merger App or Python SDKdescription: Merge Free ODS to DIF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

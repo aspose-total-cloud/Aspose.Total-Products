@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, DOTM to DOT FREE Merger App or C++ SDKdescription: Free Merger of DOTM to DOT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

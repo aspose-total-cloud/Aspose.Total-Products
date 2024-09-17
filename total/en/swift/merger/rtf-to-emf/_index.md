@@ -1,0 +1,1 @@
+---title: Merge Word to EMF, RTF to EMF FREE Merger App or Swift SDKdescription: Free Merger of RTF to EMF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

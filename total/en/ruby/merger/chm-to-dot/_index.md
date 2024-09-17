@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, CHM to DOT FREE Merger App or Ruby SDKdescription: Free Merger of CHM to DOT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

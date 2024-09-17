@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, XLSX to JSON FREE Merger App or PHP SDKdescription: Merge Free XLSX to JSON by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

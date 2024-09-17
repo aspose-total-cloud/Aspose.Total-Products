@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, DOT to TXT FREE Merger App or PHP SDKdescription: Free Merger of DOT to TXT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

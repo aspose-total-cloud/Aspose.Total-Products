@@ -1,0 +1,1 @@
+---title: Merge Excel to XAML, ODS to XAML FREE Merger App or PHP SDKdescription: Merge Free ODS to XAML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

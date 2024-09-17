@@ -1,0 +1,1 @@
+---title: Merge Word to HTML, DOTM to HTML FREE Merger App or PHP SDKdescription: Free Merger of DOTM to HTML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to POTM, DOCX to POTM FREE Merger App or Net SDKdescription: Free Merger of DOCX to POTM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, PDF to MHT FREE Merger App or Net SDKdescription: Free Merger of PDF to MHT by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

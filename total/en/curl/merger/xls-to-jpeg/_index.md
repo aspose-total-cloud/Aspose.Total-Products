@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, XLS to JPEG FREE Merger App or Curl SDKdescription: Merge Free XLS to JPEG by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

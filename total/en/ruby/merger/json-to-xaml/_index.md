@@ -1,0 +1,1 @@
+---title: Merge Excel to XAML, JSON to XAML FREE Merger App or Ruby SDKdescription: Merge Free JSON to XAML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

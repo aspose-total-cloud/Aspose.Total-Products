@@ -1,0 +1,1 @@
+---title: Merge Word to PDFA, DOCX to PDFA FREE Merger App or Perl SDKdescription: Free Merger of DOCX to PDFA by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

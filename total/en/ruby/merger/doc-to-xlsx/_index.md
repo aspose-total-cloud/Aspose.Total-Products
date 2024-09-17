@@ -1,0 +1,1 @@
+---title: Merge Word to XLSX, DOC to XLSX FREE Merger App or Ruby SDKdescription: Free Merger of DOC to XLSX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

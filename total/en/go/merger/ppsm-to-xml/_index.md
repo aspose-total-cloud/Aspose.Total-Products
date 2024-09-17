@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XML, PPSM to XML FREE Merger using GO SDKdescription: Merge Free PPSM to XML by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

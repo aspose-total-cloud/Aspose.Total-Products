@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, TSV to DOTX FREE Merger App or Ruby SDKdescription: Merge Free TSV to DOTX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

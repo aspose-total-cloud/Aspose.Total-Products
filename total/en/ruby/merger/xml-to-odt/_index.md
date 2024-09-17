@@ -1,0 +1,1 @@
+---title: Merge Excel to ODT, XML to ODT FREE Merger App or Ruby SDKdescription: Merge Free XML to ODT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSM, POT to XLSM FREE Merger using GO SDKdescription: Merge Free POT to XLSM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

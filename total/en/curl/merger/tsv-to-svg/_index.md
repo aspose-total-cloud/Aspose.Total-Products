@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, TSV to SVG FREE Merger App or Curl SDKdescription: Merge Free TSV to SVG by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

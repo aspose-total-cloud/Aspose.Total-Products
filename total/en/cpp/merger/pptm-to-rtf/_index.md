@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to RTF, PPTM to RTF FREE Merger using C++ SDKdescription: Merge Free PPTM to RTF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

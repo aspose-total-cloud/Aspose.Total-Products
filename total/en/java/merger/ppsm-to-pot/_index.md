@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POT, PPSM to POT FREE Merger using Java SDKdescription: Merge Free PPSM to POT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

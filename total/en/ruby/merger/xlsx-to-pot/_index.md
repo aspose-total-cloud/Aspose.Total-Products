@@ -1,0 +1,1 @@
+---title: Merge Excel to POT, XLSX to POT FREE Merger App or Ruby SDKdescription: Merge Free XLSX to POT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPSM to SXC FREE Merger using Android SDKdescription: Merge Free PPSM to SXC by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to HTML, XLS to HTML FREE Merger App or Nodejs SDKdescription: Merge Free XLS to HTML by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

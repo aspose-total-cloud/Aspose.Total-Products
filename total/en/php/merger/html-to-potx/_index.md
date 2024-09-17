@@ -1,0 +1,1 @@
+---title: Merge Word to POTX, HTML to POTX FREE Merger App or PHP SDKdescription: Free Merger of HTML to POTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

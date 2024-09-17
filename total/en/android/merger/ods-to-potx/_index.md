@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, ODS to POTX FREE Merger App or Android SDKdescription: Merge Free ODS to POTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

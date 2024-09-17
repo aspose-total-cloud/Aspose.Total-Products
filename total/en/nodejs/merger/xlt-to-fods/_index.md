@@ -1,0 +1,1 @@
+---title: Merge Excel to FODS, XLT to FODS FREE Merger App or Nodejs SDKdescription: Merge Free XLT to FODS by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

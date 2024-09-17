@@ -1,0 +1,1 @@
+---title: Merge Excel to XSLFO, FODS to XSLFO FREE Merger App or Swift SDKdescription: Merge Free FODS to XSLFO by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

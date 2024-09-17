@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, PPTX to PPSX FREE Merger using Android SDKdescription: Merge Free PPTX to PPSX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

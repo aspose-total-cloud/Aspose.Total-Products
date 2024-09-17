@@ -1,0 +1,1 @@
+---title: Merge Excel to POTM, XML to POTM FREE Merger App or PHP SDKdescription: Merge Free XML to POTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

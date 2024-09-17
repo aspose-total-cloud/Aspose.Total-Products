@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, PPTM to PPSX FREE Merger using Net SDKdescription: Merge Free PPTM to PPSX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

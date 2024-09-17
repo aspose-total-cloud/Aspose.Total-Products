@@ -1,0 +1,1 @@
+---title: Merge Word to MOBI, HTML to MOBI FREE Merger App or PHP SDKdescription: Free Merger of HTML to MOBI by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

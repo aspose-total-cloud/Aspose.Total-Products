@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POT, PPTM to POT FREE Merger using Java SDKdescription: Merge Free PPTM to POT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

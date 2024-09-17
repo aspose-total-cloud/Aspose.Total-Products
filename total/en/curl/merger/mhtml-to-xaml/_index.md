@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, MHTML to XAML FREE Merger App or Curl SDKdescription: Free Merger of MHTML to XAML by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

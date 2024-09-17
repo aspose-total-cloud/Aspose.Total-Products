@@ -1,0 +1,1 @@
+---title: Merge Word to PPTX, DOTX to PPTX FREE Merger App or Nodejs SDKdescription: Free Merger of DOTX to PPTX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

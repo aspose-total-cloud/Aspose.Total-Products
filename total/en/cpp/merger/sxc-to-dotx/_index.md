@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, SXC to DOTX FREE Merger App or C++ SDKdescription: Merge Free SXC to DOTX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

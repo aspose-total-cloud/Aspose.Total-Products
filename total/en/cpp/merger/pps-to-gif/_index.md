@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, PPS to GIF FREE Merger using C++ SDKdescription: Merge Free PPS to GIF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

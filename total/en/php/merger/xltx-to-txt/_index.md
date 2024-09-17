@@ -1,0 +1,1 @@
+---title: Merge Excel to TXT, XLTX to TXT FREE Merger App or PHP SDKdescription: Merge Free XLTX to TXT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

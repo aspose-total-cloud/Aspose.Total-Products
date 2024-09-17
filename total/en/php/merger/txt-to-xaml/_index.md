@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, TXT to XAML FREE Merger App or PHP SDKdescription: Free Merger of TXT to XAML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

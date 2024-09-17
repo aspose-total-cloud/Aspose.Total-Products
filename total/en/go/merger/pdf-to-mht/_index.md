@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, PDF to MHT FREE Merger App or GO SDKdescription: Free Merger of PDF to MHT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

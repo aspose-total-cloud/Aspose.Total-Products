@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XLS to PDFA FREE Merger App or C++ SDKdescription: Merge Free XLS to PDFA by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

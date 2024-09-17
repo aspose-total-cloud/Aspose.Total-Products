@@ -1,0 +1,1 @@
+---title: Merge Word to EPUB, CHM to EPUB FREE Merger App or Ruby SDKdescription: Free Merger of CHM to EPUB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

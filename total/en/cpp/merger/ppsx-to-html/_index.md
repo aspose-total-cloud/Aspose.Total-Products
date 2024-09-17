@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to HTML, PPSX to HTML FREE Merger using C++ SDKdescription: Merge Free PPSX to HTML by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

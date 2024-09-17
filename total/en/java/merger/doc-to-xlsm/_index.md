@@ -1,0 +1,1 @@
+---title: Merge Word to XLSM, DOC to XLSM FREE Merger App or Java SDKdescription: Free Merger of DOC to XLSM by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

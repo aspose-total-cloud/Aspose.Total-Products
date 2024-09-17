@@ -1,0 +1,1 @@
+---title: Merge Excel to WEB, XLSM to WEB FREE Merger App or Ruby SDKdescription: Merge Free XLSM to WEB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

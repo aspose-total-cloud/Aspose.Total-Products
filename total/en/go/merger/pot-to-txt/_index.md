@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, POT to TXT FREE Merger using GO SDKdescription: Merge Free POT to TXT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

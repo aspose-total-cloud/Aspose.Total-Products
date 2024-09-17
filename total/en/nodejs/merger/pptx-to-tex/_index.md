@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TEX, PPTX to TEX FREE Merger using Nodejs SDKdescription: Merge Free PPTX to TEX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

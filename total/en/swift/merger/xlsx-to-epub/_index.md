@@ -1,0 +1,1 @@
+---title: Merge Excel to EPUB, XLSX to EPUB FREE Merger App or Swift SDKdescription: Merge Free XLSX to EPUB by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOTX, PPTX to DOTX FREE Merger using Nodejs SDKdescription: Merge Free PPTX to DOTX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

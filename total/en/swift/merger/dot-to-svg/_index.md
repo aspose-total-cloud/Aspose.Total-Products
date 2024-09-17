@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, DOT to SVG FREE Merger App or Swift SDKdescription: Free Merger of DOT to SVG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

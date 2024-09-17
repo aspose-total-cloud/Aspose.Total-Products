@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, POTM to TIFF FREE Merger using Python SDKdescription: Merge Free POTM to TIFF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PDF, CHM to PDF FREE Merger App or C++ SDKdescription: Free Merger of CHM to PDF by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

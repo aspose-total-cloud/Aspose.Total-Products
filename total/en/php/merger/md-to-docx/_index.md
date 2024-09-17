@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, MD to DOCX FREE Merger App or PHP SDKdescription: Free Merger of MD to DOCX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

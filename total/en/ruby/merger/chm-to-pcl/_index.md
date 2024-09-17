@@ -1,0 +1,1 @@
+---title: Merge Word to PCL, CHM to PCL FREE Merger App or Ruby SDKdescription: Free Merger of CHM to PCL by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTX, OTP to PPTX FREE Merger using PHP SDKdescription: Merge Free OTP to PPTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

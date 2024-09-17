@@ -1,0 +1,1 @@
+---title: Merge Excel to FODS, SXC to FODS FREE Merger App or GO SDKdescription: Merge Free SXC to FODS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

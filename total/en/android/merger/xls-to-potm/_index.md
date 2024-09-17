@@ -1,0 +1,1 @@
+---title: Merge Excel to POTM, XLS to POTM FREE Merger App or Android SDKdescription: Merge Free XLS to POTM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

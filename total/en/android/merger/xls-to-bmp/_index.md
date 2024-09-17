@@ -1,0 +1,1 @@
+---title: Merge Excel to BMP, XLS to BMP FREE Merger App or Android SDKdescription: Merge Free XLS to BMP by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

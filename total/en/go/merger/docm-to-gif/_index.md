@@ -1,0 +1,1 @@
+---title: Merge Word to GIF, DOCM to GIF FREE Merger App or GO SDKdescription: Free Merger of DOCM to GIF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

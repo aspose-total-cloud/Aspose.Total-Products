@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, PPT to GIF FREE Merger using Nodejs SDKdescription: Merge Free PPT to GIF by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

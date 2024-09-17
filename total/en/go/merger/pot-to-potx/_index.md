@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTX, POT to POTX FREE Merger using GO SDKdescription: Merge Free POT to POTX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

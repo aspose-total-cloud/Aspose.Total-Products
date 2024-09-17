@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, MHTML to SVG FREE Merger App or GO SDKdescription: Free Merger of MHTML to SVG by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

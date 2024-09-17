@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, RTF to PPT FREE Merger App or PHP SDKdescription: Free Merger of RTF to PPT by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

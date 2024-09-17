@@ -1,0 +1,1 @@
+---title: Merge Word to PDFA, MOBI to PDFA FREE Merger App or Python SDKdescription: Free Merger of MOBI to PDFA by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

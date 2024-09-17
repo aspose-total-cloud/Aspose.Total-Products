@@ -1,0 +1,1 @@
+---title: Merge Word to PS, MD to PS FREE Merger App or Python SDKdescription: Free Merger of MD to PS by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

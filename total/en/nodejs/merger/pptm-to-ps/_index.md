@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, PPTM to PS FREE Merger using Nodejs SDKdescription: Merge Free PPTM to PS by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

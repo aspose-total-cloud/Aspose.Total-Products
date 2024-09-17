@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, POTX to DOC FREE Merger using Curl SDKdescription: Merge Free POTX to DOC by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

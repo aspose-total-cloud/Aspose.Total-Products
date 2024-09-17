@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTX, ODS to PPTX FREE Merger App or Ruby SDKdescription: Merge Free ODS to PPTX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

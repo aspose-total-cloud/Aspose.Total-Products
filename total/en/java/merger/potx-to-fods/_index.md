@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to FODS, POTX to FODS FREE Merger using Java SDKdescription: Merge Free POTX to FODS by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

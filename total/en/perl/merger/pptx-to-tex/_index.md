@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TEX, PPTX to TEX FREE Merger using Perl SDKdescription: Merge Free PPTX to TEX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

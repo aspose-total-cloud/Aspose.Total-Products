@@ -1,0 +1,1 @@
+---title: Merge Word to OTP, ODT to OTP FREE Merger App or Ruby SDKdescription: Free Merger of ODT to OTP by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

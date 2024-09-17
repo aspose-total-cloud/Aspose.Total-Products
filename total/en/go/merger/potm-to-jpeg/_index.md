@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, POTM to JPEG FREE Merger using GO SDKdescription: Merge Free POTM to JPEG by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

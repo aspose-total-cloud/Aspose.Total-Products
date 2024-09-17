@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, OTT to DOT FREE Merger App or Swift SDKdescription: Free Merger of OTT to DOT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

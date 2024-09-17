@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MHTML, PPT to MHTML FREE Merger using Ruby SDKdescription: Merge Free PPT to MHTML by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

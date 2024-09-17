@@ -1,0 +1,1 @@
+---title: Merge Excel to DIF, XLSX to DIF FREE Merger App or Nodejs SDKdescription: Merge Free XLSX to DIF by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

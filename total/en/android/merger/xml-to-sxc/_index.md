@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, XML to SXC FREE Merger App or Android SDKdescription: Merge Free XML to SXC by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

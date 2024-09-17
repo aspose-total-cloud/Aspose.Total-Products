@@ -1,0 +1,1 @@
+---title: Merge Excel to TIFF, XLT to TIFF FREE Merger App or Curl SDKdescription: Merge Free XLT to TIFF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

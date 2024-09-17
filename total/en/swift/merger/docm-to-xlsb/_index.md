@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, DOCM to XLSB FREE Merger App or Swift SDKdescription: Free Merger of DOCM to XLSB by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

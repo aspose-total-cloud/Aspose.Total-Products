@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, PPS to PPSX FREE Merger using C++ SDKdescription: Merge Free PPS to PPSX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

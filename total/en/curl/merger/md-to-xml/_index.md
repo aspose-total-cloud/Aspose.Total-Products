@@ -1,0 +1,1 @@
+---title: Merge Word to XML, MD to XML FREE Merger App or Curl SDKdescription: Free Merger of MD to XML by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POTM to SXC FREE Merger using Java SDKdescription: Merge Free POTM to SXC by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

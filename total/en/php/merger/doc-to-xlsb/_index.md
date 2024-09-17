@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, DOC to XLSB FREE Merger App or PHP SDKdescription: Free Merger of DOC to XLSB by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

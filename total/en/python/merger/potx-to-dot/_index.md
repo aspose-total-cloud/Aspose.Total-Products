@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOT, POTX to DOT FREE Merger using Python SDKdescription: Merge Free POTX to DOT by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

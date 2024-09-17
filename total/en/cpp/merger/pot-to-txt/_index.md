@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, POT to TXT FREE Merger using C++ SDKdescription: Merge Free POT to TXT by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

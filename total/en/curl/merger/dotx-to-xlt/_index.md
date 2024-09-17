@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, DOTX to XLT FREE Merger App or Curl SDKdescription: Free Merger of DOTX to XLT by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

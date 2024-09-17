@@ -1,0 +1,1 @@
+---title: Merge Word to EMF, DOTX to EMF FREE Merger App or Ruby SDKdescription: Free Merger of DOTX to EMF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

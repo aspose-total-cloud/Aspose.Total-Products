@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTM, PPSX to PPTM FREE Merger using Swift SDKdescription: Merge Free PPSX to PPTM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to DOTM, PDF to DOTM FREE Merger App or C++ SDKdescription: Free Merger of PDF to DOTM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

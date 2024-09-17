@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, DOCX to XLTX FREE Merger App or Python SDKdescription: Free Merger of DOCX to XLTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

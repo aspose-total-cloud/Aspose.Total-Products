@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, XLT to DOTX FREE Merger App or PHP SDKdescription: Merge Free XLT to DOTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

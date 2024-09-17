@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, POTM to DOCX FREE Merger using C++ SDKdescription: Merge Free POTM to DOCX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

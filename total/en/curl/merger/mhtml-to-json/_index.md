@@ -1,0 +1,1 @@
+---title: Merge Word to JSON, MHTML to JSON FREE Merger App or Curl SDKdescription: Free Merger of MHTML to JSON by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

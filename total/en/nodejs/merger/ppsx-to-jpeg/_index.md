@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, PPSX to JPEG FREE Merger using Nodejs SDKdescription: Merge Free PPSX to JPEG by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

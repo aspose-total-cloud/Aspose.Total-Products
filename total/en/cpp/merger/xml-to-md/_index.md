@@ -1,0 +1,1 @@
+---title: Merge Excel to MD, XML to MD FREE Merger App or C++ SDKdescription: Merge Free XML to MD by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

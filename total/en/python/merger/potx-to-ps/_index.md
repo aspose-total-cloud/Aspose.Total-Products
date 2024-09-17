@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, POTX to PS FREE Merger using Python SDKdescription: Merge Free POTX to PS by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

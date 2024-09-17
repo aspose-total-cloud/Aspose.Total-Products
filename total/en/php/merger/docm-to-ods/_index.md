@@ -1,0 +1,1 @@
+---title: Merge Word to ODS, DOCM to ODS FREE Merger App or PHP SDKdescription: Free Merger of DOCM to ODS by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

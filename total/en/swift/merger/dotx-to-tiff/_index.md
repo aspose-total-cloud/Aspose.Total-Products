@@ -1,0 +1,1 @@
+---title: Merge Word to TIFF, DOTX to TIFF FREE Merger App or Swift SDKdescription: Free Merger of DOTX to TIFF by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, OTT to PPSX FREE Merger App or Nodejs SDKdescription: Free Merger of OTT to PPSX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

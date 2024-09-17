@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, PPSX to SVG FREE Merger using Python SDKdescription: Merge Free PPSX to SVG by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

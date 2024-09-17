@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, PPT to GIF FREE Merger using GO SDKdescription: Merge Free PPT to GIF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

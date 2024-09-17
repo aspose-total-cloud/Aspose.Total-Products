@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, RTF to DOCX FREE Merger App or Net SDKdescription: Free Merger of RTF to DOCX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

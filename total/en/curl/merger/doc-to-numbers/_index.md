@@ -1,0 +1,1 @@
+---title: Merge Word to NUMBERS, DOC to NUMBERS FREE Merger App or Curl SDKdescription: Free Merger of DOC to NUMBERS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, DOTX to XLAM FREE Merger App or Net SDKdescription: Free Merger of DOTX to XLAM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

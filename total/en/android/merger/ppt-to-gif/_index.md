@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, PPT to GIF FREE Merger using Android SDKdescription: Merge Free PPT to GIF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, DOTX to PPSX FREE Merger App or GO SDKdescription: Free Merger of DOTX to PPSX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

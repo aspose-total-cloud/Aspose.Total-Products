@@ -1,0 +1,1 @@
+---title: Merge Word to MOBI, DOTX to MOBI FREE Merger App or PHP SDKdescription: Free Merger of DOTX to MOBI by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

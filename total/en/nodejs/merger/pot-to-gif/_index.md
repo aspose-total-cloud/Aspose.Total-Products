@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, POT to GIF FREE Merger using Nodejs SDKdescription: Merge Free POT to GIF by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

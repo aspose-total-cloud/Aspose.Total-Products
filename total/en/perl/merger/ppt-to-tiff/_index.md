@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TIFF, PPT to TIFF FREE Merger using Perl SDKdescription: Merge Free PPT to TIFF by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

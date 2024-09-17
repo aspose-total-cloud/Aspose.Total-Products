@@ -1,0 +1,1 @@
+---title: Merge Excel to TEX, JSON to TEX FREE Merger App or Java SDKdescription: Merge Free JSON to TEX by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to SVG, CSV to SVG FREE Merger App or Perl SDKdescription: Merge Free CSV to SVG by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPT, PPTX to PPT FREE Merger using Android SDKdescription: Merge Free PPTX to PPT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

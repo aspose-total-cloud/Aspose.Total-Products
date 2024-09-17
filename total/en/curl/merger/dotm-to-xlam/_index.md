@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, DOTM to XLAM FREE Merger App or Curl SDKdescription: Free Merger of DOTM to XLAM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

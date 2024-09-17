@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSX, JSON to XLSX FREE Merger App or Swift SDKdescription: Merge Free JSON to XLSX by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

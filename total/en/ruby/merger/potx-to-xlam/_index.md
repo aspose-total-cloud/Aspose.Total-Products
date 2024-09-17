@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, POTX to XLAM FREE Merger using Ruby SDKdescription: Merge Free POTX to XLAM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

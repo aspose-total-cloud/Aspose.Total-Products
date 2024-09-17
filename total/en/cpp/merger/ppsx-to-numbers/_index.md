@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to NUMBERS, PPSX to NUMBERS FREE Merger using C++ SDKdescription: Merge Free PPSX to NUMBERS by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

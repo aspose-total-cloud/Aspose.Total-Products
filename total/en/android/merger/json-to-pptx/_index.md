@@ -1,0 +1,1 @@
+---title: Merge Excel to PPTX, JSON to PPTX FREE Merger App or Android SDKdescription: Merge Free JSON to PPTX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

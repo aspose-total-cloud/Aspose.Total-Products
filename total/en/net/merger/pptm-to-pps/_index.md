@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPS, PPTM to PPS FREE Merger using Net SDKdescription: Merge Free PPTM to PPS by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

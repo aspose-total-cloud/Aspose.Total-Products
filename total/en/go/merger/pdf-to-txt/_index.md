@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, PDF to TXT FREE Merger App or GO SDKdescription: Free Merger of PDF to TXT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

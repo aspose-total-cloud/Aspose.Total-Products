@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCX, XLTX to DOCX FREE Merger App or C++ SDKdescription: Merge Free XLTX to DOCX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

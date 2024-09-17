@@ -1,0 +1,1 @@
+---title: Merge Excel to DOT, XLT to DOT FREE Merger App or Ruby SDKdescription: Merge Free XLT to DOT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to HTML, DOT to HTML FREE Merger App or Java SDKdescription: Free Merger of DOT to HTML by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

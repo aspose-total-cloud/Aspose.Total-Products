@@ -1,0 +1,1 @@
+---title: Merge Excel to MHTML, XLS to MHTML FREE Merger App or C++ SDKdescription: Merge Free XLS to MHTML by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

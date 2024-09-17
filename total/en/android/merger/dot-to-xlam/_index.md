@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, DOT to XLAM FREE Merger App or Android SDKdescription: Free Merger of DOT to XLAM by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

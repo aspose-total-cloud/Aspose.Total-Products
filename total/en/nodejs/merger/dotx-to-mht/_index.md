@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, DOTX to MHT FREE Merger App or Nodejs SDKdescription: Free Merger of DOTX to MHT by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

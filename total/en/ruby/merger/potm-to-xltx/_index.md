@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLTX, POTM to XLTX FREE Merger using Ruby SDKdescription: Merge Free POTM to XLTX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

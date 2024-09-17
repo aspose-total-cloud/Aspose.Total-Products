@@ -1,0 +1,1 @@
+---title: Merge Word to PPTM, DOT to PPTM FREE Merger App or C++ SDKdescription: Free Merger of DOT to PPTM by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

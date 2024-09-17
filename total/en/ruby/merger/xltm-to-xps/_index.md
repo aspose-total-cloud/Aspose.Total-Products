@@ -1,0 +1,1 @@
+---title: Merge Excel to XPS, XLTM to XPS FREE Merger App or Ruby SDKdescription: Merge Free XLTM to XPS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

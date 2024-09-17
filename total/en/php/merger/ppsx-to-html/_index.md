@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to HTML, PPSX to HTML FREE Merger using PHP SDKdescription: Merge Free PPSX to HTML by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

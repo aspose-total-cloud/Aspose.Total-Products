@@ -1,0 +1,1 @@
+---title: Merge Word to PPTX, DOCM to PPTX FREE Merger App or Curl SDKdescription: Free Merger of DOCM to PPTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

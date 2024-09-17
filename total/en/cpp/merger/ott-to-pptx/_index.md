@@ -1,0 +1,1 @@
+---title: Merge Word to PPTX, OTT to PPTX FREE Merger App or C++ SDKdescription: Free Merger of OTT to PPTX by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

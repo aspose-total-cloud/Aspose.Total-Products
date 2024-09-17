@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, PPT to DOCX FREE Merger using Nodejs SDKdescription: Merge Free PPT to DOCX by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

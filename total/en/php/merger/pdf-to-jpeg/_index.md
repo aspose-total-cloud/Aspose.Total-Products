@@ -1,0 +1,1 @@
+---title: Merge Word to JPEG, PDF to JPEG FREE Merger App or PHP SDKdescription: Free Merger of PDF to JPEG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

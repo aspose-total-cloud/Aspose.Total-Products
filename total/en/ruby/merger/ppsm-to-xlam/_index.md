@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, PPSM to XLAM FREE Merger using Ruby SDKdescription: Merge Free PPSM to XLAM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

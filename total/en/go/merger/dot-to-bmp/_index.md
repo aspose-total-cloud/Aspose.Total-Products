@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, DOT to BMP FREE Merger App or GO SDKdescription: Free Merger of DOT to BMP by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

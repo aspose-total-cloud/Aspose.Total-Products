@@ -1,0 +1,1 @@
+---title: Merge Excel to NUMBERS, SXC to NUMBERS FREE Merger App or Curl SDKdescription: Merge Free SXC to NUMBERS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

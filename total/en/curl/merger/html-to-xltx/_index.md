@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, HTML to XLTX FREE Merger App or Curl SDKdescription: Free Merger of HTML to XLTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

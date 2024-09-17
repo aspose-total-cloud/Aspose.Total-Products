@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, POTX to TSV FREE Merger using Curl SDKdescription: Merge Free POTX to TSV by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

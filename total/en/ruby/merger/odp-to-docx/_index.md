@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, ODP to DOCX FREE Merger using Ruby SDKdescription: Merge Free ODP to DOCX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

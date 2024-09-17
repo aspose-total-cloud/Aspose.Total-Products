@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, XLS to GIF FREE Merger App or Ruby SDKdescription: Merge Free XLS to GIF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

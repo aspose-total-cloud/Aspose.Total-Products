@@ -1,0 +1,1 @@
+---title: Merge Word to XLTM, TXT to XLTM FREE Merger App or Net SDKdescription: Free Merger of TXT to XLTM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

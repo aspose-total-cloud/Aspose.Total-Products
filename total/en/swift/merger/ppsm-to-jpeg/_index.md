@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to JPEG, PPSM to JPEG FREE Merger using Swift SDKdescription: Merge Free PPSM to JPEG by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

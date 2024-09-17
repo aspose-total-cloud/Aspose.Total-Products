@@ -1,0 +1,1 @@
+---title: Merge Excel to XML, FODS to XML FREE Merger App or Swift SDKdescription: Merge Free FODS to XML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

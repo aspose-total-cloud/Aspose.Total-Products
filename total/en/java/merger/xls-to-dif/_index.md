@@ -1,0 +1,1 @@
+---title: Merge Excel to DIF, XLS to DIF FREE Merger App or Java SDKdescription: Merge Free XLS to DIF by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

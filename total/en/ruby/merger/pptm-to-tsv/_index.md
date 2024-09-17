@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, PPTM to TSV FREE Merger using Ruby SDKdescription: Merge Free PPTM to TSV by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

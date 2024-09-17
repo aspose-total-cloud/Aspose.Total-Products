@@ -1,0 +1,1 @@
+---title: Merge Word to DOT, MD to DOT FREE Merger App or Ruby SDKdescription: Free Merger of MD to DOT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POT to SXC FREE Merger using C++ SDKdescription: Merge Free POT to SXC by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

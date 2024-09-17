@@ -1,0 +1,1 @@
+---title: Merge Word to FODS, DOC to FODS FREE Merger App or Ruby SDKdescription: Free Merger of DOC to FODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to GIF, CSV to GIF FREE Merger App or Android SDKdescription: Merge Free CSV to GIF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

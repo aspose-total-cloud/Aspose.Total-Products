@@ -1,0 +1,1 @@
+---title: Merge Excel to JPEG, XLSB to JPEG FREE Merger App or Android SDKdescription: Merge Free XLSB to JPEG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

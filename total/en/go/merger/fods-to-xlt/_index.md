@@ -1,0 +1,1 @@
+---title: Merge Excel to XLT, FODS to XLT FREE Merger App or GO SDKdescription: Merge Free FODS to XLT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, DOCX to RTF FREE Merger App or Python SDKdescription: Free Merger of DOCX to RTF by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PPTM, PDF to PPTM FREE Merger App or Python SDKdescription: Free Merger of PDF to PPTM by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

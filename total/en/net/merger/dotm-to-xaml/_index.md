@@ -1,0 +1,1 @@
+---title: Merge Word to XAML, DOTM to XAML FREE Merger App or Net SDKdescription: Free Merger of DOTM to XAML by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

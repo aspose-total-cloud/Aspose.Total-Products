@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, SXC to DOCM FREE Merger App or Perl SDKdescription: Merge Free SXC to DOCM by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

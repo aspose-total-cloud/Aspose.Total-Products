@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XML, PPTX to XML FREE Merger using Swift SDKdescription: Merge Free PPTX to XML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

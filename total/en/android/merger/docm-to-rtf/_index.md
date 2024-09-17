@@ -1,0 +1,1 @@
+---title: Merge Word to RTF, DOCM to RTF FREE Merger App or Android SDKdescription: Free Merger of DOCM to RTF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

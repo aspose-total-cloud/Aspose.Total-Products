@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, PPTM to BMP FREE Merger using Swift SDKdescription: Merge Free PPTM to BMP by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

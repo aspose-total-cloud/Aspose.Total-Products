@@ -1,0 +1,1 @@
+---title: Merge Word to XLSM, DOCX to XLSM FREE Merger App or Curl SDKdescription: Free Merger of DOCX to XLSM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

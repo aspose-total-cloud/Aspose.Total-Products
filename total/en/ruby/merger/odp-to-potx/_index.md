@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POTX, ODP to POTX FREE Merger using Ruby SDKdescription: Merge Free ODP to POTX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

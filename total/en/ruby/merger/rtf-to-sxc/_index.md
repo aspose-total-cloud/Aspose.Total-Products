@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, RTF to SXC FREE Merger App or Ruby SDKdescription: Free Merger of RTF to SXC by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, ODT to XLS FREE Merger App or Curl SDKdescription: Free Merger of ODT to XLS by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

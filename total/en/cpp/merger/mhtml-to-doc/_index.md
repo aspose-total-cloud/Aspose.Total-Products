@@ -1,0 +1,1 @@
+---title: Merge Word to DOC, MHTML to DOC FREE Merger App or C++ SDKdescription: Free Merger of MHTML to DOC by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

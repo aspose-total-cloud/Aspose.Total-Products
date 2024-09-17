@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTM, POTM to PPTM FREE Merger using GO SDKdescription: Merge Free POTM to PPTM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

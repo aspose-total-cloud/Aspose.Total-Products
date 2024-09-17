@@ -1,0 +1,1 @@
+---title: Merge Word to CSV, MHTML to CSV FREE Merger App or Swift SDKdescription: Free Merger of MHTML to CSV by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

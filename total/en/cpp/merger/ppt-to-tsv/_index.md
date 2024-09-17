@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, PPT to TSV FREE Merger using C++ SDKdescription: Merge Free PPT to TSV by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

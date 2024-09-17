@@ -1,0 +1,1 @@
+---title: Merge Excel to ODS, XLSM to ODS FREE Merger App or GO SDKdescription: Merge Free XLSM to ODS by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

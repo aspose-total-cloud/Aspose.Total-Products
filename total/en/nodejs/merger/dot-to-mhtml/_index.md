@@ -1,0 +1,1 @@
+---title: Merge Word to MHTML, DOT to MHTML FREE Merger App or Nodejs SDKdescription: Free Merger of DOT to MHTML by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, POTM to SVG FREE Merger using C++ SDKdescription: Merge Free POTM to SVG by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

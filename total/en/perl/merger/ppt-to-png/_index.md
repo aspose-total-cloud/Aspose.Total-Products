@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, PPT to PNG FREE Merger using Perl SDKdescription: Merge Free PPT to PNG by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

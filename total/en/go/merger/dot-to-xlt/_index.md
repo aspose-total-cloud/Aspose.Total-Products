@@ -1,0 +1,1 @@
+---title: Merge Word to XLT, DOT to XLT FREE Merger App or GO SDKdescription: Free Merger of DOT to XLT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

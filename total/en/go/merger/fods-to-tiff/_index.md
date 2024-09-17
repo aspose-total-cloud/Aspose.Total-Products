@@ -1,0 +1,1 @@
+---title: Merge Excel to TIFF, FODS to TIFF FREE Merger App or GO SDKdescription: Merge Free FODS to TIFF by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

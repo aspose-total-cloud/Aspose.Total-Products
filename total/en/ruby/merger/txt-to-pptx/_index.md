@@ -1,0 +1,1 @@
+---title: Merge Word to PPTX, TXT to PPTX FREE Merger App or Ruby SDKdescription: Free Merger of TXT to PPTX by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

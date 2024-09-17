@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, POTX to SXC FREE Merger using Net SDKdescription: Merge Free POTX to SXC by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

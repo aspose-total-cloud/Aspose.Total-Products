@@ -1,0 +1,1 @@
+---title: Merge Word to TXT, DOTX to TXT FREE Merger App or Curl SDKdescription: Free Merger of DOTX to TXT by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

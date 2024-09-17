@@ -1,0 +1,1 @@
+---title: Merge Word to MHT, DOTM to MHT FREE Merger App or Java SDKdescription: Free Merger of DOTM to MHT by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, PDF to XLSB FREE Merger App or Perl SDKdescription: Free Merger of PDF to XLSB by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

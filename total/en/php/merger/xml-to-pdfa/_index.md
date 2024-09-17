@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XML to PDFA FREE Merger App or PHP SDKdescription: Merge Free XML to PDFA by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

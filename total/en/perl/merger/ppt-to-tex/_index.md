@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TEX, PPT to TEX FREE Merger using Perl SDKdescription: Merge Free PPT to TEX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

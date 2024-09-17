@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to BMP, PPT to BMP FREE Merger using Net SDKdescription: Merge Free PPT to BMP by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

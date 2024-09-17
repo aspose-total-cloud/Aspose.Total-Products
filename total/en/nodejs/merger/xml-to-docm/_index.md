@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, XML to DOCM FREE Merger App or Nodejs SDKdescription: Merge Free XML to DOCM by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

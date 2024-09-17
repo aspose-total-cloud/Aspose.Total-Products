@@ -1,0 +1,1 @@
+---title: Merge Excel to DOC, XLSM to DOC FREE Merger App or Swift SDKdescription: Merge Free XLSM to DOC by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

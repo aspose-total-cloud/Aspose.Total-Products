@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, ODT to PPSX FREE Merger App or PHP SDKdescription: Free Merger of ODT to PPSX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

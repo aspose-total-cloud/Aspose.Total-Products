@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, DOTM to SWF FREE Merger App or Android SDKdescription: Free Merger of DOTM to SWF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PNG, PPSM to PNG FREE Merger using PHP SDKdescription: Merge Free PPSM to PNG by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

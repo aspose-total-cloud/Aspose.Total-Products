@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TXT, OTP to TXT FREE Merger using Ruby SDKdescription: Merge Free OTP to TXT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

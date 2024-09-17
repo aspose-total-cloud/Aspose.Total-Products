@@ -1,0 +1,1 @@
+---title: Merge Excel to POTX, XLS to POTX FREE Merger App or Curl SDKdescription: Merge Free XLS to POTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

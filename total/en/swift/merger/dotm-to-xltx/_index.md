@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, DOTM to XLTX FREE Merger App or Swift SDKdescription: Free Merger of DOTM to XLTX by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

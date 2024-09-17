@@ -1,0 +1,1 @@
+---title: Merge Excel to DIF, XLSM to DIF FREE Merger App or Net SDKdescription: Merge Free XLSM to DIF by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

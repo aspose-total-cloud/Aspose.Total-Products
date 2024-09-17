@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, PPTM to SVG FREE Merger using Curl SDKdescription: Merge Free PPTM to SVG by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

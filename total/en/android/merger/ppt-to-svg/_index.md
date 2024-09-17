@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SVG, PPT to SVG FREE Merger using Android SDKdescription: Merge Free PPT to SVG by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PPSX, TXT to PPSX FREE Merger App or Net SDKdescription: Free Merger of TXT to PPSX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

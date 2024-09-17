@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPTM to SXC FREE Merger using Net SDKdescription: Merge Free PPTM to SXC by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to MD, HTML to MD FREE Merger App or Swift SDKdescription: Free Merger of HTML to MD by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, HTML to SXC FREE Merger App or Python SDKdescription: Free Merger of HTML to SXC by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPSX to SXC FREE Merger using PHP SDKdescription: Merge Free PPSX to SXC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

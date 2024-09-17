@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSM, SXC to XLSM FREE Merger App or GO SDKdescription: Merge Free SXC to XLSM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

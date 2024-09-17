@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to CSV, PPSM to CSV FREE Merger using Ruby SDKdescription: Merge Free PPSM to CSV by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to EPUB, MD to EPUB FREE Merger App or Android SDKdescription: Free Merger of MD to EPUB by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

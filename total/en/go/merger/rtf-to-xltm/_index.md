@@ -1,0 +1,1 @@
+---title: Merge Word to XLTM, RTF to XLTM FREE Merger App or GO SDKdescription: Free Merger of RTF to XLTM by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

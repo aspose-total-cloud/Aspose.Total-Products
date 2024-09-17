@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, ODT to SWF FREE Merger App or Curl SDKdescription: Free Merger of ODT to SWF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, TSV to JSON FREE Merger App or Swift SDKdescription: Merge Free TSV to JSON by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

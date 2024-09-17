@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, PPTX to DOC FREE Merger using Ruby SDKdescription: Merge Free PPTX to DOC by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, DOTM to PPT FREE Merger App or Curl SDKdescription: Free Merger of DOTM to PPT by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

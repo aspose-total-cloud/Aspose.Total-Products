@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, XLTX to SXC FREE Merger App or Curl SDKdescription: Merge Free XLTX to SXC by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

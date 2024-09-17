@@ -1,0 +1,1 @@
+---title: Merge Excel to JSON, XLS to JSON FREE Merger App or Ruby SDKdescription: Merge Free XLS to JSON by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

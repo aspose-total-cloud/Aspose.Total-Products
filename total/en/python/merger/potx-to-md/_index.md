@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MD, POTX to MD FREE Merger using Python SDKdescription: Merge Free POTX to MD by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

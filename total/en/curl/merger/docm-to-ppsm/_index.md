@@ -1,0 +1,1 @@
+---title: Merge Word to PPSM, DOCM to PPSM FREE Merger App or Curl SDKdescription: Free Merger of DOCM to PPSM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

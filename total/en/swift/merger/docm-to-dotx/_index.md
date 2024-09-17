@@ -1,0 +1,1 @@
+---title: Merge Word to DOTX, DOCM to DOTX FREE Merger App or Swift SDKdescription: Free Merger of DOCM to DOTX by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

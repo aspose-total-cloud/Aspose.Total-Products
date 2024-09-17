@@ -1,0 +1,1 @@
+---title: Merge Word to TSV, DOTM to TSV FREE Merger App or Nodejs SDKdescription: Free Merger of DOTM to TSV by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

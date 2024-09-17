@@ -1,0 +1,1 @@
+---title: Merge Word to WEB, DOTM to WEB FREE Merger App or Ruby SDKdescription: Free Merger of DOTM to WEB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPS, POTX to PPS FREE Merger using Ruby SDKdescription: Merge Free POTX to PPS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

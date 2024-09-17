@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XPS, PPTM to XPS FREE Merger using Ruby SDKdescription: Merge Free PPTM to XPS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

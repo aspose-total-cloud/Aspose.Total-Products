@@ -1,0 +1,1 @@
+---title: Merge Word to XLTX, DOCM to XLTX FREE Merger App or PHP SDKdescription: Free Merger of DOCM to XLTX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to BMP, XLTX to BMP FREE Merger App or Nodejs SDKdescription: Merge Free XLTX to BMP by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

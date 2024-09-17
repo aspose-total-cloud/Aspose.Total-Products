@@ -1,0 +1,1 @@
+---title: Merge Excel to CSV, XLSM to CSV FREE Merger App or PHP SDKdescription: Merge Free XLSM to CSV by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

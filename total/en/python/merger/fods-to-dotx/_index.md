@@ -1,0 +1,1 @@
+---title: Merge Excel to DOTX, FODS to DOTX FREE Merger App or Python SDKdescription: Merge Free FODS to DOTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

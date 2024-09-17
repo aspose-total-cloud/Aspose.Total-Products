@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSM, POTX to PPSM FREE Merger using Swift SDKdescription: Merge Free POTX to PPSM by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

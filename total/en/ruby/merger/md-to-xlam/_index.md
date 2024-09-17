@@ -1,0 +1,1 @@
+---title: Merge Word to XLAM, MD to XLAM FREE Merger App or Ruby SDKdescription: Free Merger of MD to XLAM by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

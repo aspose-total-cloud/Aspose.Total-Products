@@ -1,0 +1,1 @@
+---title: Merge Word to NUMBERS, ODT to NUMBERS FREE Merger App or Python SDKdescription: Free Merger of ODT to NUMBERS by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

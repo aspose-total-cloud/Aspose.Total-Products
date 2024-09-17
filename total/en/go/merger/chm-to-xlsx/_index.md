@@ -1,0 +1,1 @@
+---title: Merge Word to XLSX, CHM to XLSX FREE Merger App or GO SDKdescription: Free Merger of CHM to XLSX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Excel to SXC, TSV to SXC FREE Merger App or Curl SDKdescription: Merge Free TSV to SXC by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

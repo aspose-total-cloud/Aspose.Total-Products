@@ -1,0 +1,1 @@
+---title: Merge Excel to PS, XLS to PS FREE Merger App or Ruby SDKdescription: Merge Free XLS to PS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

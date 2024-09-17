@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, PPSM to GIF FREE Merger using PHP SDKdescription: Merge Free PPSM to GIF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

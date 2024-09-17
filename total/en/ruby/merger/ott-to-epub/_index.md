@@ -1,0 +1,1 @@
+---title: Merge Word to EPUB, OTT to EPUB FREE Merger App or Ruby SDKdescription: Free Merger of OTT to EPUB by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

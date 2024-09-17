@@ -1,0 +1,1 @@
+---title: Merge Word to XLSB, DOTX to XLSB FREE Merger App or Curl SDKdescription: Free Merger of DOTX to XLSB by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

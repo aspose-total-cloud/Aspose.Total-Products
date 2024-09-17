@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLSX, PPSX to XLSX FREE Merger using Java SDKdescription: Merge Free PPSX to XLSX by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

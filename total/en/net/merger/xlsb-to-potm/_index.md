@@ -1,0 +1,1 @@
+---title: Merge Excel to POTM, XLSB to POTM FREE Merger App or Net SDKdescription: Merge Free XLSB to POTM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

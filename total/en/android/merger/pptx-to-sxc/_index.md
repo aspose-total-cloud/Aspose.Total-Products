@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to SXC, PPTX to SXC FREE Merger using Android SDKdescription: Merge Free PPTX to SXC by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

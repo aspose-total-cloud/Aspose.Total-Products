@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, POTM to DOC FREE Merger using GO SDKdescription: Merge Free POTM to DOC by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, ODT to SVG FREE Merger App or Perl SDKdescription: Free Merger of ODT to SVG by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

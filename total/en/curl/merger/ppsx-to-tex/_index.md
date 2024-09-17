@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TEX, PPSX to TEX FREE Merger using Curl SDKdescription: Merge Free PPSX to TEX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

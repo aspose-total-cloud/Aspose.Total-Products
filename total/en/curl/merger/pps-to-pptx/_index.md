@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTX, PPS to PPTX FREE Merger using Curl SDKdescription: Merge Free PPS to PPTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to FODS, PPS to FODS FREE Merger using Ruby SDKdescription: Merge Free PPS to FODS by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

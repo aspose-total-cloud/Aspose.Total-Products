@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to TSV, PPSX to TSV FREE Merger using Python SDKdescription: Merge Free PPSX to TSV by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

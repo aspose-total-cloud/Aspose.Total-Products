@@ -1,0 +1,1 @@
+---title: Merge Excel to XLTX, XLSB to XLTX FREE Merger App or Curl SDKdescription: Merge Free XLSB to XLTX by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

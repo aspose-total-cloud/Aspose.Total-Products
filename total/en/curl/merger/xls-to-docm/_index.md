@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCM, XLS to DOCM FREE Merger App or Curl SDKdescription: Merge Free XLS to DOCM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

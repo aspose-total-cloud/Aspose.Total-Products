@@ -1,0 +1,1 @@
+---title: Merge Excel to SWF, XLSM to SWF FREE Merger App or PHP SDKdescription: Merge Free XLSM to SWF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

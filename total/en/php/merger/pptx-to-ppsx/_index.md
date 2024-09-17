@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, PPTX to PPSX FREE Merger using PHP SDKdescription: Merge Free PPTX to PPSX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PS, PPTM to PS FREE Merger using C++ SDKdescription: Merge Free PPTM to PS by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

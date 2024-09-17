@@ -1,0 +1,1 @@
+---title: Merge Word to POT, CHM to POT FREE Merger App or Android SDKdescription: Free Merger of CHM to POT by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

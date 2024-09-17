@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to GIF, POTM to GIF FREE Merger using Ruby SDKdescription: Merge Free POTM to GIF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

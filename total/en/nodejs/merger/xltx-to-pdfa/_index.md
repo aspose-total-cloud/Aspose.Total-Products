@@ -1,0 +1,1 @@
+---title: Merge Excel to PDFA, XLTX to PDFA FREE Merger App or Nodejs SDKdescription: Merge Free XLTX to PDFA by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

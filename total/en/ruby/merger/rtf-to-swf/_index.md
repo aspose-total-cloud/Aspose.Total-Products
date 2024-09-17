@@ -1,0 +1,1 @@
+---title: Merge Word to SWF, RTF to SWF FREE Merger App or Ruby SDKdescription: Free Merger of RTF to SWF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

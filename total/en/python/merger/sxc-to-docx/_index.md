@@ -1,0 +1,1 @@
+---title: Merge Excel to DOCX, SXC to DOCX FREE Merger App or Python SDKdescription: Merge Free SXC to DOCX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

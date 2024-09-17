@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCX, PPSM to DOCX FREE Merger using GO SDKdescription: Merge Free PPSM to DOCX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, DOC to BMP FREE Merger App or Curl SDKdescription: Free Merger of DOC to BMP by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

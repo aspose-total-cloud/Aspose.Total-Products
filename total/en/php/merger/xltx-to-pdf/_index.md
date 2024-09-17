@@ -1,0 +1,1 @@
+---title: Merge Excel to PDF, XLTX to PDF FREE Merger App or PHP SDKdescription: Merge Free XLTX to PDF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

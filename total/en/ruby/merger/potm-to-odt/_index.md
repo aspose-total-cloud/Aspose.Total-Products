@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to ODT, POTM to ODT FREE Merger using Ruby SDKdescription: Merge Free POTM to ODT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

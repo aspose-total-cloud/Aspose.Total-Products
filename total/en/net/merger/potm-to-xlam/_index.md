@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLAM, POTM to XLAM FREE Merger using Net SDKdescription: Merge Free POTM to XLAM by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

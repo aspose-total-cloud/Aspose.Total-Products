@@ -1,0 +1,1 @@
+---title: Merge Excel to MHT, XLSM to MHT FREE Merger App or Swift SDKdescription: Merge Free XLSM to MHT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

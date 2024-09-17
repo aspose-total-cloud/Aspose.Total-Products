@@ -1,0 +1,1 @@
+---title: Merge Word to XLS, MOBI to XLS FREE Merger App or Swift SDKdescription: Free Merger of MOBI to XLS by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

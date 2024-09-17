@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, ODT to SVG FREE Merger App or Net SDKdescription: Free Merger of ODT to SVG by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

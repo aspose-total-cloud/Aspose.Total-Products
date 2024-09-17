@@ -1,0 +1,1 @@
+---title: Merge Excel to XLSM, XLT to XLSM FREE Merger App or Java SDKdescription: Merge Free XLT to XLSM by using Java Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

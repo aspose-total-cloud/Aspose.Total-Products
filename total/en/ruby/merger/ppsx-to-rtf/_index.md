@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to RTF, PPSX to RTF FREE Merger using Ruby SDKdescription: Merge Free PPSX to RTF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

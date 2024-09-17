@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, TXT to SVG FREE Merger App or Python SDKdescription: Free Merger of TXT to SVG by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

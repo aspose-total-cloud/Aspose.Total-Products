@@ -1,0 +1,1 @@
+---title: Merge Word to PPTM, MD to PPTM FREE Merger App or PHP SDKdescription: Free Merger of MD to PPTM by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

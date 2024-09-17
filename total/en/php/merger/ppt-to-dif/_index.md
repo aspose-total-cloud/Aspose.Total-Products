@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DIF, PPT to DIF FREE Merger using PHP SDKdescription: Merge Free PPT to DIF by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

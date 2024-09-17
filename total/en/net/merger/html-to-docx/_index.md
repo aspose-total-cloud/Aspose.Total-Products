@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, HTML to DOCX FREE Merger App or Net SDKdescription: Free Merger of HTML to DOCX by using Net Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPSX, PPTM to PPSX FREE Merger using GO SDKdescription: Merge Free PPTM to PPSX by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XLSX, HTML to XLSX FREE Merger App or Perl SDKdescription: Free Merger of HTML to XLSX by using Perl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

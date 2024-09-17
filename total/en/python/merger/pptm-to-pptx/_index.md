@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to PPTX, PPTM to PPTX FREE Merger using Python SDKdescription: Merge Free PPTM to PPTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

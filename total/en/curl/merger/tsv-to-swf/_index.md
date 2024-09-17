@@ -1,0 +1,1 @@
+---title: Merge Excel to SWF, TSV to SWF FREE Merger App or Curl SDKdescription: Merge Free TSV to SWF by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

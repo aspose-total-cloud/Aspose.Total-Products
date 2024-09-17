@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOC, PPS to DOC FREE Merger using Curl SDKdescription: Merge Free PPS to DOC by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

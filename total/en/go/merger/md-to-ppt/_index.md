@@ -1,0 +1,1 @@
+---title: Merge Word to PPT, MD to PPT FREE Merger App or GO SDKdescription: Free Merger of MD to PPT by using GO Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

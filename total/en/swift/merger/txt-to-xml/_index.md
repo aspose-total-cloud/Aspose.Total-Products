@@ -1,0 +1,1 @@
+---title: Merge Word to XML, TXT to XML FREE Merger App or Swift SDKdescription: Free Merger of TXT to XML by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

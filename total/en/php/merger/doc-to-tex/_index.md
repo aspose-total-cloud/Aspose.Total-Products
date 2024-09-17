@@ -1,0 +1,1 @@
+---title: Merge Word to TEX, DOC to TEX FREE Merger App or PHP SDKdescription: Free Merger of DOC to TEX by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

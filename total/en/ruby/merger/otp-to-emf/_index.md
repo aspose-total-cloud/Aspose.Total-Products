@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to EMF, OTP to EMF FREE Merger using Ruby SDKdescription: Merge Free OTP to EMF by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to SXC, DOTX to SXC FREE Merger App or PHP SDKdescription: Free Merger of DOTX to SXC by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

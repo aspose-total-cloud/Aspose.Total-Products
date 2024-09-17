@@ -1,0 +1,1 @@
+---title: Merge Excel to XLTX, XLSM to XLTX FREE Merger App or Python SDKdescription: Merge Free XLSM to XLTX by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

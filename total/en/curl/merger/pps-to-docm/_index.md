@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to DOCM, PPS to DOCM FREE Merger using Curl SDKdescription: Merge Free PPS to DOCM by using Curl Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

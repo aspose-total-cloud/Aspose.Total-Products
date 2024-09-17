@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to POT, PPT to POT FREE Merger using Swift SDKdescription: Merge Free PPT to POT by using Swift Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

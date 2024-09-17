@@ -1,0 +1,1 @@
+---title: Merge Word to DOCX, DOCM to DOCX FREE Merger App or Android SDKdescription: Free Merger of DOCM to DOCX by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to SVG, MD to SVG FREE Merger App or Nodejs SDKdescription: Free Merger of MD to SVG by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to XSLFO, DOCX to XSLFO FREE Merger App or Python SDKdescription: Free Merger of DOCX to XSLFO by using Python Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

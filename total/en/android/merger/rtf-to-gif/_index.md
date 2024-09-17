@@ -1,0 +1,1 @@
+---title: Merge Word to GIF, RTF to GIF FREE Merger App or Android SDKdescription: Free Merger of RTF to GIF by using Android Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

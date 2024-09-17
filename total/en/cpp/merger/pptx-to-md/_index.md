@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to MD, PPTX to MD FREE Merger using C++ SDKdescription: Merge Free PPTX to MD by using C++ Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XLT, PPS to XLT FREE Merger using Ruby SDKdescription: Merge Free PPS to XLT by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

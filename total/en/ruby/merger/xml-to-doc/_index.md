@@ -1,0 +1,1 @@
+---title: Merge Excel to DOC, XML to DOC FREE Merger App or Ruby SDKdescription: Merge Free XML to DOC by using Ruby Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

@@ -1,0 +1,1 @@
+---title: Merge Word to BMP, DOTX to BMP FREE Merger App or PHP SDKdescription: Free Merger of DOTX to BMP by using PHP Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---

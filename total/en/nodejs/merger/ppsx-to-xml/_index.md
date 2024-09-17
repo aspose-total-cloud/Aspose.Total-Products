@@ -1,0 +1,1 @@
+---title: Merge PowerPoint to XML, PPSX to XML FREE Merger using Nodejs SDKdescription: Merge Free PPSX to XML by using Nodejs Cloud APIs & SDKs. Also Merge multiple files into single document on the fly.---
