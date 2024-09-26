@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPT, DOTM zu PPT KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOTM mit PPT durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

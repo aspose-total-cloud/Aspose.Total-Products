@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOCX, XLT vers DOCX Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLT vers DOCX en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

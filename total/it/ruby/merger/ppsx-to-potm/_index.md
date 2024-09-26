@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a POTM, PPSX a POTM Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSX a POTM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

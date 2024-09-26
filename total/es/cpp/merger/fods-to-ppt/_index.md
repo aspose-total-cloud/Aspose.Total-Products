@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPT, FODS con PPT Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos FODS con PPT mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POT, XLSB vers POT Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSB vers POT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSX, POTM vers XLSX Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement POTM vers XLSX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

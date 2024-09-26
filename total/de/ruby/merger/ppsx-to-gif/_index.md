@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit GIF, PPSX mit GIF KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von PPSX zu GIF durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

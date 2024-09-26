@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TIFF, XLS vers TIFF Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers TIFF en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Unisci Excel a TXT, XLSB a TXT App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente XLSB a TXT utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

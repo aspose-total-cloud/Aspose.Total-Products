@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PPT, POTM vers PPT Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement POTM vers PPT en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

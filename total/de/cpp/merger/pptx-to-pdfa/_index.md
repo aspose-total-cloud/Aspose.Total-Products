@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PDFA, PPTX mit PDFA KOSTENLOSE Zusammenführung mit C++ SDKdescription: Kostenloses Zusammenführen von PPTX zu PDFA durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

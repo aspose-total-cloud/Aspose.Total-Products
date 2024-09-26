@@ -1,0 +1,1 @@
+---title: Fusionner Word en ODP, DOTX vers ODP Application de fusion GRATUITE ou Perl SDKdescription: Fusion gratuite de DOTX à ODP en utilisant les API et SDK Cloud de Perl Fusionnez également plusieurs fichiers en un seul document à la volée.---

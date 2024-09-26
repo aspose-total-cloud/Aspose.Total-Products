@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLAM, XLSM mit XLAM KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLSM zu XLAM durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XML, XLSX mit XML KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLSX zu XML durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

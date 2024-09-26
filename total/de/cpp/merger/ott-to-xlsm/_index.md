@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSM, OTT zu XLSM KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenlose Zusammenführung von OTT mit XLSM durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

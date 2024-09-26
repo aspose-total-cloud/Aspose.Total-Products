@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit JPEG, XLTM mit JPEG KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLTM zu JPEG durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

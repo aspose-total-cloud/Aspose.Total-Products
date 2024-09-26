@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTM, XLSX vers PPTM Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLSX vers PPTM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

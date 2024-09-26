@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPT, SXC mit PPT KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von SXC zu PPT durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

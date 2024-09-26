@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODT, XLSB mit ODT KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von XLSB zu ODT durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

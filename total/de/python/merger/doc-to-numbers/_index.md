@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu NUMBERS, DOC zu NUMBERS KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOC mit NUMBERS durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

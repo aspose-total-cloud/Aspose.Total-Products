@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, DOCM zu XLT KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenlose Zusammenführung von DOCM mit XLT durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

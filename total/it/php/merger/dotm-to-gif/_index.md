@@ -1,0 +1,1 @@
+---title: Unisci Word a GIF, DOTM a GIF App di unione GRATUITA o SDK PHPdescription: Unione gratuita di DOTM in GIF utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

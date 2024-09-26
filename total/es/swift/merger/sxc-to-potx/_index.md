@@ -1,0 +1,1 @@
+---title: Combinar Excel con POTX, SXC con POTX Aplicación de combinación GRATUITA o SDK Swiftdescription: Combine archivos gratuitos SXC con POTX mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

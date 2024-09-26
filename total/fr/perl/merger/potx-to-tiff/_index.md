@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TIFF, POTX vers TIFF Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement POTX vers TIFF en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

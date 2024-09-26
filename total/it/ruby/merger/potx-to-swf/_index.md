@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a SWF, POTX a SWF Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente POTX a SWF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

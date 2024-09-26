@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOTM, POTX vers DOTM Fusion GRATUITE à l'aide de Android SDKdescription: Fusionnez gratuitement POTX vers DOTM en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSM, XLSM mit PPSM KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLSM zu PPSM durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

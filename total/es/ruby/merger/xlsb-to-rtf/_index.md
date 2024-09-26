@@ -1,0 +1,1 @@
+---title: Combinar Excel con RTF, XLSB con RTF Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLSB con RTF mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

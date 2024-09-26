@@ -1,0 +1,1 @@
+---title: Combinar Excel con NUMBERS, XML con NUMBERS Aplicación de combinación GRATUITA o SDK Netdescription: Combine archivos gratuitos XML con NUMBERS mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

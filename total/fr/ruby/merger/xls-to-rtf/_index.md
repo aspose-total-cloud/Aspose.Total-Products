@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers RTF, XLS vers RTF Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers RTF en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

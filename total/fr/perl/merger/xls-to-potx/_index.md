@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTX, XLS vers POTX Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLS vers POTX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

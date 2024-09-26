@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, XLTM mit POTX KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLTM zu POTX durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

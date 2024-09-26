@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOCX, PPTM vers DOCX Fusion GRATUITE à l'aide de Net SDKdescription: Fusionnez gratuitement PPTM vers DOCX en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

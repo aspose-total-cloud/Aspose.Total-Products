@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTM, XLS mit XLTM KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLS zu XLTM durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

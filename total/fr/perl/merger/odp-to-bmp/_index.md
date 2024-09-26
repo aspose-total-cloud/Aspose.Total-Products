@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers BMP, ODP vers BMP Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement ODP vers BMP en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

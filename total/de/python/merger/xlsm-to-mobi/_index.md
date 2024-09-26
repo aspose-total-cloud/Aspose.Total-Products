@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MOBI, XLSM mit MOBI KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSM zu MOBI durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

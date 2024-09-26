@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XML, HTML zu XML KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von HTML mit XML durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

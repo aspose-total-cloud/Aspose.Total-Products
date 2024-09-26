@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TXT, PPT a TXT Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPT a TXT utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

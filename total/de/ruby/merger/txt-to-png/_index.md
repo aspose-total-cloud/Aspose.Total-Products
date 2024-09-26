@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PNG, TXT zu PNG KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von TXT mit PNG durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

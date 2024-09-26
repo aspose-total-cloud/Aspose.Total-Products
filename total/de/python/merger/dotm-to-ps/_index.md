@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PS, DOTM zu PS KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOTM mit PS durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

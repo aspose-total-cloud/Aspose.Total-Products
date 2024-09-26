@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, CSV mit SXC KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von CSV zu SXC durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTM, CHM zu PPTM KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von CHM mit PPTM durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

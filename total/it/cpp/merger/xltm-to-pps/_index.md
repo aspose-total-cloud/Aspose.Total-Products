@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPS, XLTM a PPS App di unione GRATUITA o SDK C++description: Unisci gratuitamente XLTM a PPS utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

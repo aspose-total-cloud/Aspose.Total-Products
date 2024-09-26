@@ -1,0 +1,1 @@
+---title: Combinar Excel con TEX, XLTX con TEX Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLTX con TEX mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTT, XML mit OTT KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von XML zu OTT durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

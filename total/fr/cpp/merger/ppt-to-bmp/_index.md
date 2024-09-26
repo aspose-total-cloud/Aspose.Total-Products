@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers BMP, PPT vers BMP Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement PPT vers BMP en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

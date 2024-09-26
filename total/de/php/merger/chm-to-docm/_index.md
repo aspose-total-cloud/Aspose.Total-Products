@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCM, CHM zu DOCM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von CHM mit DOCM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

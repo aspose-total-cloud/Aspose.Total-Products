@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPS, OTT zu PPS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von OTT mit PPS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

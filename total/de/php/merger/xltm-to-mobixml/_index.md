@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MOBIXML, XLTM mit MOBIXML KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLTM zu MOBIXML durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

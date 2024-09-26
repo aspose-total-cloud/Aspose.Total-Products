@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers NUMBERS, PPTX vers NUMBERS Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement PPTX vers NUMBERS en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

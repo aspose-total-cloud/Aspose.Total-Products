@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLAM, PPTM con XLAM Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTM con XLAM mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Unisci Excel a POTM, SXC a POTM App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente SXC a POTM utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

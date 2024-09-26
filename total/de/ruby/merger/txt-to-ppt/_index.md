@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPT, TXT zu PPT KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von TXT mit PPT durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

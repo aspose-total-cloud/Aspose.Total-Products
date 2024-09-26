@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLS, PPTX vers XLS Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement PPTX vers XLS en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

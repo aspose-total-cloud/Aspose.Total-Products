@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TXT, OTP vers TXT Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement OTP vers TXT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

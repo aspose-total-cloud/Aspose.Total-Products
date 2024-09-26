@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOC, XLTX mit DOC KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLTX zu DOC durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

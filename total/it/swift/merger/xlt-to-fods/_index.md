@@ -1,0 +1,1 @@
+---title: Unisci Excel a FODS, XLT a FODS App di unione GRATUITA o SDK Swiftdescription: Unisci gratuitamente XLT a FODS utilizzando Swift API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

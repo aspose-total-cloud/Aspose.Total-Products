@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSB, XLTX vers XLSB Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLTX vers XLSB en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers SVG, PPSX vers SVG Fusion GRATUITE à l'aide de GO SDKdescription: Fusionnez gratuitement PPSX vers SVG en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

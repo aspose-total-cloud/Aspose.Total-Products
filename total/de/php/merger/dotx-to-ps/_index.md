@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PS, DOTX zu PS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTX mit PS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

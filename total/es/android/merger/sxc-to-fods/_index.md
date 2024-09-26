@@ -1,0 +1,1 @@
+---title: Combinar Excel con FODS, SXC con FODS Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos SXC con FODS mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

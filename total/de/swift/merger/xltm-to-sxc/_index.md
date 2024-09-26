@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, XLTM mit SXC KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLTM zu SXC durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

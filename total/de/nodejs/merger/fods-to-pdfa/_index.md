@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PDFA, FODS mit PDFA KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von FODS zu PDFA durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

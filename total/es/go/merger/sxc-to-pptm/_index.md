@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTM, SXC con PPTM Aplicación de combinación GRATUITA o SDK GOdescription: Combine archivos gratuitos SXC con PPTM mediante GO API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

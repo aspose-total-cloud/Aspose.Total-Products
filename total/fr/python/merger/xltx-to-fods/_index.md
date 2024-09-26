@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers FODS, XLTX vers FODS Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLTX vers FODS en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSM, TXT vers XLSM Application de fusion GRATUITE ou GO SDKdescription: Fusion gratuite de TXT à XLSM en utilisant les API et SDK Cloud de GO Fusionnez également plusieurs fichiers en un seul document à la volée.---

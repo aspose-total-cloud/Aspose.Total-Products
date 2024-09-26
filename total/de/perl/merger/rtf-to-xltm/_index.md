@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, RTF zu XLTM KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von RTF mit XLTM durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

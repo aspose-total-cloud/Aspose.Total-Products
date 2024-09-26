@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTP, XLSM mit OTP KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLSM zu OTP durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, XLSM mit POTX KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLSM zu POTX durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

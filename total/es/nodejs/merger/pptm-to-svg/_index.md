@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SVG, PPTM con SVG Fusión GRATUITA utilizando el SDK Nodejsdescription: Combine archivos gratuitos PPTM con SVG mediante Nodejs API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

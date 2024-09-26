@@ -1,0 +1,1 @@
+---title: Combinar Excel con MD, XLS con MD Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos XLS con MD mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MD, XML vers MD Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XML vers MD en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

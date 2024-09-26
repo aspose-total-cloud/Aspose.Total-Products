@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPSX, XLS vers PPSX Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers PPSX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

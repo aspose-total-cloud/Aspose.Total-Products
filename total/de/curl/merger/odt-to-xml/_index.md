@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XML, ODT zu XML KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von ODT mit XML durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

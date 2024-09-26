@@ -1,0 +1,1 @@
+---title: Combinar Excel con SXC, CSV con SXC Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos CSV con SXC mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

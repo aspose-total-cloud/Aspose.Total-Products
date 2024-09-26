@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPT, XLTM mit PPT KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLTM zu PPT durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

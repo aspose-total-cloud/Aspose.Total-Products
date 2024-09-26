@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, PDF zu SXC KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von PDF mit SXC durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

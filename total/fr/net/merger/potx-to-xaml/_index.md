@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XAML, POTX vers XAML Fusion GRATUITE à l'aide de Net SDKdescription: Fusionnez gratuitement POTX vers XAML en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

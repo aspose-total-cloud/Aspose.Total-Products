@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPTM, CHM con PPTM Aplicación de fusión GRATUITA o SDK Javadescription: Fusión gratuita de CHM con PPTM mediante Java API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

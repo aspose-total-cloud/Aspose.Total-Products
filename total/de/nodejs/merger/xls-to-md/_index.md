@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MD, XLS mit MD KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLS zu MD durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

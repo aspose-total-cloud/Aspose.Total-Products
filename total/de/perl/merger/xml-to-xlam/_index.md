@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLAM, XML mit XLAM KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XML zu XLAM durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

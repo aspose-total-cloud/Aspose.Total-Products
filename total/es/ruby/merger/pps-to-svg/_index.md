@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SVG, PPS con SVG Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPS con SVG mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

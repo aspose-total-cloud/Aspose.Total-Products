@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTM, XLSB vers XLTM Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLSB vers XLTM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

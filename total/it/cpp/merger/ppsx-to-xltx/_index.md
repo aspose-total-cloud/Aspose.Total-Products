@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLTX, PPSX a XLTX Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente PPSX a XLTX utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

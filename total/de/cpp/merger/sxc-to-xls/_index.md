@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLS, SXC mit XLS KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von SXC zu XLS durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTM, RTF vers PPTM Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de RTF à PPTM en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

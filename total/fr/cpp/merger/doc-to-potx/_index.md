@@ -1,0 +1,1 @@
+---title: Fusionner Word en POTX, DOC vers POTX Application de fusion GRATUITE ou C++ SDKdescription: Fusion gratuite de DOC à POTX en utilisant les API et SDK Cloud de C++ Fusionnez également plusieurs fichiers en un seul document à la volée.---

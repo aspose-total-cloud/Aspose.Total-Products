@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a GIF, PPSM a GIF Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSM a GIF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

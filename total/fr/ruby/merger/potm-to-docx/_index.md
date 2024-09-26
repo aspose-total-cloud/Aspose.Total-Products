@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOCX, POTM vers DOCX Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement POTM vers DOCX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

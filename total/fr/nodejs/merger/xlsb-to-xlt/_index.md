@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLT, XLSB vers XLT Application de fusion GRATUITE ou SDK Nodejsdescription: Fusionnez gratuitement XLSB vers XLT en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

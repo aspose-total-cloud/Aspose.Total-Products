@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTX, XLS vers DOTX Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLS vers DOTX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

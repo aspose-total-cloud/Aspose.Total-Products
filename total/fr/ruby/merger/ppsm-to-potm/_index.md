@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers POTM, PPSM vers POTM Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement PPSM vers POTM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLTM, DOTX vers XLTM Application de fusion GRATUITE ou Nodejs SDKdescription: Fusion gratuite de DOTX à XLTM en utilisant les API et SDK Cloud de Nodejs Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a PS, PPSX a PS Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSX a PS utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

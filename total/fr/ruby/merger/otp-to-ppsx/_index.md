@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PPSX, OTP vers PPSX Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement OTP vers PPSX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

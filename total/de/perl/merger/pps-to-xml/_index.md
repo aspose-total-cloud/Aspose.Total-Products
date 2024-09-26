@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XML, PPS mit XML KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von PPS zu XML durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

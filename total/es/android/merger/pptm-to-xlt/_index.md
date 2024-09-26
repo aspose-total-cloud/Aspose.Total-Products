@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLT, PPTM con XLT Fusión GRATUITA utilizando el SDK Androiddescription: Combine archivos gratuitos PPTM con XLT mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

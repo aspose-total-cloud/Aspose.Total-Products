@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers HTML, XLT vers HTML Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLT vers HTML en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

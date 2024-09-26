@@ -1,0 +1,1 @@
+---title: Unisci Word a XLS, DOT a XLS App di unione GRATUITA o SDK PHPdescription: Unione gratuita di DOT in XLS utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit SXC, OTP mit SXC KOSTENLOSE Zusammenführung mit C++ SDKdescription: Kostenloses Zusammenführen von OTP zu SXC durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

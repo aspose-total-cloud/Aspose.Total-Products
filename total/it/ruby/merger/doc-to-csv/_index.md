@@ -1,0 +1,1 @@
+---title: Unisci Word a CSV, DOC a CSV App di unione GRATUITA o SDK Rubydescription: Unione gratuita di DOC in CSV utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SXC, XLTM vers SXC Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLTM vers SXC en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

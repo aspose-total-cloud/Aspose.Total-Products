@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SXC, TSV vers SXC Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement TSV vers SXC en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

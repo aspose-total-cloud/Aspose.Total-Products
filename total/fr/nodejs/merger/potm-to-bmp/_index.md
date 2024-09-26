@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers BMP, POTM vers BMP Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement POTM vers BMP en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

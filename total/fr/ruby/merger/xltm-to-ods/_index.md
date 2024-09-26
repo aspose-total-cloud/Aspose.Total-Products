@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers ODS, XLTM vers ODS Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTM vers ODS en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

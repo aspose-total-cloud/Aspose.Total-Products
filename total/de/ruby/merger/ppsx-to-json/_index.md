@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit JSON, PPSX mit JSON KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von PPSX zu JSON durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

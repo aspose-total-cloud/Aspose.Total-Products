@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLTX, TXT vers XLTX Application de fusion GRATUITE ou Curl SDKdescription: Fusion gratuite de TXT à XLTX en utilisant les API et SDK Cloud de Curl Fusionnez également plusieurs fichiers en un seul document à la volée.---

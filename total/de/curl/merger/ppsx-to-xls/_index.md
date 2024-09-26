@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, PPSX mit XLS KOSTENLOSE Zusammenführung mit Curl SDKdescription: Kostenloses Zusammenführen von PPSX zu XLS durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a JSON, POT a JSON Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente POT a JSON utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

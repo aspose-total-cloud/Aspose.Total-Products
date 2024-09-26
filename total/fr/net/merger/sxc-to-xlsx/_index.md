@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSX, SXC vers XLSX Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement SXC vers XLSX en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTX, XLSB vers XLTX Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSB vers XLTX en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit FODS, POTM mit FODS KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von POTM zu FODS durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

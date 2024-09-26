@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con DIF, PPTX con DIF Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPTX con DIF mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

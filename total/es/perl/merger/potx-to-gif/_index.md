@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con GIF, POTX con GIF Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos POTX con GIF mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

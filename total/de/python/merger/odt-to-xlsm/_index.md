@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSM, ODT zu XLSM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von ODT mit XLSM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

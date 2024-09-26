@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, OTT zu SXC KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von OTT mit SXC durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

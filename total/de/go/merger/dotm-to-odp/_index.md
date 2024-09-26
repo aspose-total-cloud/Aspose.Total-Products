@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODP, DOTM zu ODP KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von DOTM mit ODP durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, DOTM zu XLT KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von DOTM mit XLT durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

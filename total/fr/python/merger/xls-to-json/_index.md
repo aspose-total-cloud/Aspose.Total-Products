@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers JSON, XLS vers JSON Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLS vers JSON en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

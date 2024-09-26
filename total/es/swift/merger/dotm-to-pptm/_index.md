@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPTM, DOTM con PPTM Aplicación de fusión GRATUITA o SDK Swiftdescription: Fusión gratuita de DOTM con PPTM mediante Swift API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers SVG, PPTM vers SVG Fusion GRATUITE à l'aide de Android SDKdescription: Fusionnez gratuitement PPTM vers SVG en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers ODP, PPTM vers ODP Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPTM vers ODP en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PDFA, XLTM mit PDFA KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLTM zu PDFA durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

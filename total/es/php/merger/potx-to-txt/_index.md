@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TXT, POTX con TXT Fusión GRATUITA utilizando el SDK PHPdescription: Combine archivos gratuitos POTX con TXT mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

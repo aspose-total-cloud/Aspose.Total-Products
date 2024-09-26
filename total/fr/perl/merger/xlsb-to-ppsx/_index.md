@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPSX, XLSB vers PPSX Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLSB vers PPSX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

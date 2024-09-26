@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOC, XLTX vers DOC Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement XLTX vers DOC en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

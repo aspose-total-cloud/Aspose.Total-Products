@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers OTT, PPSX vers OTT Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement PPSX vers OTT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

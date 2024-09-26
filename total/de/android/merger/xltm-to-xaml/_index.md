@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XAML, XLTM mit XAML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLTM zu XAML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

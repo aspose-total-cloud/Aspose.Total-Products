@@ -1,0 +1,1 @@
+---title: Fusionar Word con POTX, DOCM con POTX Aplicación de fusión GRATUITA o SDK Netdescription: Fusión gratuita de DOCM con POTX mediante Net API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

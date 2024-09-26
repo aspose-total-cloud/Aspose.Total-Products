@@ -1,0 +1,1 @@
+---title: Unisci Word a PPSX, HTML a PPSX App di unione GRATUITA o SDK C++description: Unione gratuita di HTML in PPSX utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

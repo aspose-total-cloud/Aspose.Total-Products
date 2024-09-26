@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSB, DOC vers XLSB Application de fusion GRATUITE ou Java SDKdescription: Fusion gratuite de DOC à XLSB en utilisant les API et SDK Cloud de Java Fusionnez également plusieurs fichiers en un seul document à la volée.---

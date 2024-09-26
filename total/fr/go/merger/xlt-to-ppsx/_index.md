@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPSX, XLT vers PPSX Application de fusion GRATUITE ou SDK GOdescription: Fusionnez gratuitement XLT vers PPSX en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

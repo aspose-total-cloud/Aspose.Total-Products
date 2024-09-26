@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSX, PDF zu XLSX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von PDF mit XLSX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

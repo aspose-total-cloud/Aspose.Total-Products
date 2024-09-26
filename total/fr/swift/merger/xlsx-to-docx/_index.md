@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOCX, XLSX vers DOCX Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSX vers DOCX en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

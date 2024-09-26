@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTM, XLT vers PPTM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLT vers PPTM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

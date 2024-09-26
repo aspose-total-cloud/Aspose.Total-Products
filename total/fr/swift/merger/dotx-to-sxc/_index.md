@@ -1,0 +1,1 @@
+---title: Fusionner Word en SXC, DOTX vers SXC Application de fusion GRATUITE ou Swift SDKdescription: Fusion gratuite de DOTX à SXC en utilisant les API et SDK Cloud de Swift Fusionnez également plusieurs fichiers en un seul document à la volée.---

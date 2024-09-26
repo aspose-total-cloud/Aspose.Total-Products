@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTX, XLSM vers XLTX Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLSM vers XLTX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

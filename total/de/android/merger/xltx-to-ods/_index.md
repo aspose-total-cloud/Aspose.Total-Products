@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODS, XLTX mit ODS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLTX zu ODS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

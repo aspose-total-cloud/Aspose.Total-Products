@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTM, DOTM vers PPTM Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de DOTM à PPTM en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

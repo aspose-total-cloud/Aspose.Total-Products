@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOT, XLSM vers DOT Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLSM vers DOT en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

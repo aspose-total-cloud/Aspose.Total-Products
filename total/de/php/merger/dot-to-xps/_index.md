@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XPS, DOT zu XPS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOT mit XPS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

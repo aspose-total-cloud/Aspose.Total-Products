@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit HTML, XLSM mit HTML KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLSM zu HTML durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

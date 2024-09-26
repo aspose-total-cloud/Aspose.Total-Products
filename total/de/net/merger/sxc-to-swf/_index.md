@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SWF, SXC mit SWF KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von SXC zu SWF durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

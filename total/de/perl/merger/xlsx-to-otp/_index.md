@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTP, XLSX mit OTP KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLSX zu OTP durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SWF, PPTM con SWF Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos PPTM con SWF mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

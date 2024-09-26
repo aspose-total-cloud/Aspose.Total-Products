@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOC, XLSB mit DOC KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSB zu DOC durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

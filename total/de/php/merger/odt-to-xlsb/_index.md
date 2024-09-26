@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, ODT zu XLSB KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von ODT mit XLSB durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

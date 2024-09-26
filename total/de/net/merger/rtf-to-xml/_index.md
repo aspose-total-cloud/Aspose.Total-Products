@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XML, RTF zu XML KOSTENLOSE Merger-App oder Net SDKdescription: Kostenlose Zusammenführung von RTF mit XML durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

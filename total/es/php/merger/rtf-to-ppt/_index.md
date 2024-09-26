@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPT, RTF con PPT Aplicación de fusión GRATUITA o SDK PHPdescription: Fusión gratuita de RTF con PPT mediante PHP API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

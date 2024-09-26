@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOTX, DOC zu DOTX KOSTENLOSE Merger-App oder Net SDKdescription: Kostenlose Zusammenführung von DOC mit DOTX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

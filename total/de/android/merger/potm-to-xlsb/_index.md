@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSB, POTM mit XLSB KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von POTM zu XLSB durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

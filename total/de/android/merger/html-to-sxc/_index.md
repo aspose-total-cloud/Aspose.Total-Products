@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, HTML zu SXC KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von HTML mit SXC durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

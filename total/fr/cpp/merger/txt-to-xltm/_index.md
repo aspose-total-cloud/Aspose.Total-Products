@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLTM, TXT vers XLTM Application de fusion GRATUITE ou C++ SDKdescription: Fusion gratuite de TXT à XLTM en utilisant les API et SDK Cloud de C++ Fusionnez également plusieurs fichiers en un seul document à la volée.---

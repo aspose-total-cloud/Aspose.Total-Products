@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSM, XLS mit PPSM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLS zu PPSM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

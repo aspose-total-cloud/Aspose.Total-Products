@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DIF, XLSX vers DIF Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSX vers DIF en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

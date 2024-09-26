@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOTM, XLSX mit DOTM KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLSX zu DOTM durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLAM, XLTM vers XLAM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTM vers XLAM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

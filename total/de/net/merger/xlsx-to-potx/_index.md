@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, XLSX mit POTX KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLSX zu POTX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

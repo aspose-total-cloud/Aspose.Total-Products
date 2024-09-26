@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTX, PPS mit XLTX KOSTENLOSE Zusammenführung mit C++ SDKdescription: Kostenloses Zusammenführen von PPS zu XLTX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

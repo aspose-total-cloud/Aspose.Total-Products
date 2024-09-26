@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPTM, XLTX a PPTM App di unione GRATUITA o SDK Androiddescription: Unisci gratuitamente XLTX a PPTM utilizzando Android API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XPS, OTT zu XPS KOSTENLOSE Merger-App oder Java SDKdescription: Kostenlose Zusammenführung von OTT mit XPS durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

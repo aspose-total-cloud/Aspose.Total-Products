@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPT, XLS vers PPT Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLS vers PPT en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

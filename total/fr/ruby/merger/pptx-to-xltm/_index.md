@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLTM, PPTX vers XLTM Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement PPTX vers XLTM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

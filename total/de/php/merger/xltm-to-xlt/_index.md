@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLT, XLTM mit XLT KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLTM zu XLT durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

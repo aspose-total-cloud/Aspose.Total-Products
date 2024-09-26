@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLS, PPTX vers XLS Fusion GRATUITE à l'aide de Swift SDKdescription: Fusionnez gratuitement PPTX vers XLS en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

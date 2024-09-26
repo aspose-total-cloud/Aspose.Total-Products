@@ -1,0 +1,1 @@
+---title: Fusionar Word con TXT, PDF con TXT Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de PDF con TXT mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

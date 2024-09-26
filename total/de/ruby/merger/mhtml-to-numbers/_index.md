@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu NUMBERS, MHTML zu NUMBERS KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von MHTML mit NUMBERS durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

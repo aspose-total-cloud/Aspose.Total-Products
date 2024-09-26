@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSX, MD zu XLSX KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von MD mit XLSX durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

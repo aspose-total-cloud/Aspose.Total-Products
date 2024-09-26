@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit GIF, XLTX mit GIF KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLTX zu GIF durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

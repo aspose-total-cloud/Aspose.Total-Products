@@ -1,0 +1,1 @@
+---title: Fusionner Word en TXT, DOTM vers TXT Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de DOTM à TXT en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

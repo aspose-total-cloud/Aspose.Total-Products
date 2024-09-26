@@ -1,0 +1,1 @@
+---title: Combinar Excel con XML, XLSM con XML Aplicación de combinación GRATUITA o SDK PHPdescription: Combine archivos gratuitos XLSM con XML mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

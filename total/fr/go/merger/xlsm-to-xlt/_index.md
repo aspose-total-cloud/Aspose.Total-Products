@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLT, XLSM vers XLT Application de fusion GRATUITE ou SDK GOdescription: Fusionnez gratuitement XLSM vers XLT en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

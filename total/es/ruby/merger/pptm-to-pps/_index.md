@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PPS, PPTM con PPS Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTM con PPS mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

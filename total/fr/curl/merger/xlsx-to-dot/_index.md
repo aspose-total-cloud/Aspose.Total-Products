@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOT, XLSX vers DOT Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XLSX vers DOT en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

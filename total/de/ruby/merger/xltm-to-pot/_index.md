@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POT, XLTM mit POT KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLTM zu POT durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

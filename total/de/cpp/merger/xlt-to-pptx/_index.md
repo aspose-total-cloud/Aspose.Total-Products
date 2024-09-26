@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPTX, XLT mit PPTX KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von XLT zu PPTX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Unisci Excel a DIF, XLTX a DIF App di unione GRATUITA o SDK C++description: Unisci gratuitamente XLTX a DIF utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

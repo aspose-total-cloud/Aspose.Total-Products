@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPSX, DOC vers PPSX Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de DOC à PPSX en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

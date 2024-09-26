@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XPS, XLSB vers XPS Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSB vers XPS en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

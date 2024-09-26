@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLS, XLSX mit XLS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLSX zu XLS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

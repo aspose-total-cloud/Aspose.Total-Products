@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, ODS mit POTX KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von ODS zu POTX durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

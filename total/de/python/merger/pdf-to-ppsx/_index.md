@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPSX, PDF zu PPSX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von PDF mit PPSX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

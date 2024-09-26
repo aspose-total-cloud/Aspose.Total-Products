@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, DOT zu SXC KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von DOT mit SXC durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

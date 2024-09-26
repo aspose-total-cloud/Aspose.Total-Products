@@ -1,0 +1,1 @@
+---title: PowerPoint를 XSLFO, POTX로 XSLFO 병합합니다. C++ SDK를 사용하는 무료 병합 프로그램입니다.description: C++을 사용하여 POTX를 XSLFO로 무료 병합합니다. 클라우드 API 및 SDK. 또한 여러 파일을 즉시 단일 문서로 병합합니다.---

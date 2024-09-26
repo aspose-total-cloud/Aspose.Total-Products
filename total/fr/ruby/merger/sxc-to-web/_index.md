@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers WEB, SXC vers WEB Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement SXC vers WEB en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

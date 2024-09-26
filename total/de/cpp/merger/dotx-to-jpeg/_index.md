@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu JPEG, DOTX zu JPEG KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenlose Zusammenführung von DOTX mit JPEG durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

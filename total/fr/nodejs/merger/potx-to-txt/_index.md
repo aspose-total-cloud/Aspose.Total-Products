@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TXT, POTX vers TXT Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement POTX vers TXT en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

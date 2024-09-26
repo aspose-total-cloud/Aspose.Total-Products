@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, TXT zu XLSB KOSTENLOSE Merger-App oder Net SDKdescription: Kostenlose Zusammenführung von TXT mit XLSB durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

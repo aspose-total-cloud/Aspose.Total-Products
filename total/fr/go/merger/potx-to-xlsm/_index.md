@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSM, POTX vers XLSM Fusion GRATUITE à l'aide de GO SDKdescription: Fusionnez gratuitement POTX vers XLSM en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

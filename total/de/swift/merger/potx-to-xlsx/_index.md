@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSX, POTX mit XLSX KOSTENLOSE Zusammenführung mit Swift SDKdescription: Kostenloses Zusammenführen von POTX zu XLSX durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers HTML, POTX vers HTML Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement POTX vers HTML en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

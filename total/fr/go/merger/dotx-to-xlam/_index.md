@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLAM, DOTX vers XLAM Application de fusion GRATUITE ou GO SDKdescription: Fusion gratuite de DOTX à XLAM en utilisant les API et SDK Cloud de GO Fusionnez également plusieurs fichiers en un seul document à la volée.---

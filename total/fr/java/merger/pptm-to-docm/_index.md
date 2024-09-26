@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOCM, PPTM vers DOCM Fusion GRATUITE à l'aide de Java SDKdescription: Fusionnez gratuitement PPTM vers DOCM en utilisant Java API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

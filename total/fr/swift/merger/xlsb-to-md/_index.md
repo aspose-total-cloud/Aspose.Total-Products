@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MD, XLSB vers MD Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSB vers MD en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

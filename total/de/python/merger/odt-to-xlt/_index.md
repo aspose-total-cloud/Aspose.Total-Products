@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, ODT zu XLT KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von ODT mit XLT durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

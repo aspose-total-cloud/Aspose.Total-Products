@@ -1,0 +1,1 @@
+---title: Combinar Excel con XLT, CSV con XLT Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos CSV con XLT mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

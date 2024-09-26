@@ -1,0 +1,1 @@
+---title: Unisci Word a XLSX, HTML a XLSX App di unione GRATUITA o SDK C++description: Unione gratuita di HTML in XLSX utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

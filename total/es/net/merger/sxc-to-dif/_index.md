@@ -1,0 +1,1 @@
+---title: Combinar Excel con DIF, SXC con DIF Aplicación de combinación GRATUITA o SDK Netdescription: Combine archivos gratuitos SXC con DIF mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

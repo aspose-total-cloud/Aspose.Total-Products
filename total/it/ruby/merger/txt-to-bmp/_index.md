@@ -1,0 +1,1 @@
+---title: Unisci Word a BMP, TXT a BMP App di unione GRATUITA o SDK Rubydescription: Unione gratuita di TXT in BMP utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

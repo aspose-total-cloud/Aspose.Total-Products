@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MD, ODS mit MD KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von ODS zu MD durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

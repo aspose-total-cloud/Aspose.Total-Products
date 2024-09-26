@@ -1,0 +1,1 @@
+---title: Fusionar Word con SVG, DOTX con SVG Aplicación de fusión GRATUITA o SDK Nodejsdescription: Fusión gratuita de DOTX con SVG mediante Nodejs API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

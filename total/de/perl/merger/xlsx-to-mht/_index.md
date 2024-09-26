@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MHT, XLSX mit MHT KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLSX zu MHT durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

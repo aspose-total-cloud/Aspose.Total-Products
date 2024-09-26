@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DIF, CSV mit DIF KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von CSV zu DIF durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSB, PPSX mit XLSB KOSTENLOSE Zusammenführung mit Java SDKdescription: Kostenloses Zusammenführen von PPSX zu XLSB durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

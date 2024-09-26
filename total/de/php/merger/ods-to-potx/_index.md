@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, ODS mit POTX KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von ODS zu POTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

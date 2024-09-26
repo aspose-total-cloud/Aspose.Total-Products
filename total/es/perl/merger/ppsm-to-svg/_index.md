@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SVG, PPSM con SVG Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos PPSM con SVG mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

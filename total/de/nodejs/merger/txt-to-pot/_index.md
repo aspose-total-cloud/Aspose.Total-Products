@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POT, TXT zu POT KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von TXT mit POT durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

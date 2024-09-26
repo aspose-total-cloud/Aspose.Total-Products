@@ -1,0 +1,1 @@
+---title: Fusionner Word en PNG, DOTX vers PNG Application de fusion GRATUITE ou Java SDKdescription: Fusion gratuite de DOTX à PNG en utilisant les API et SDK Cloud de Java Fusionnez également plusieurs fichiers en un seul document à la volée.---

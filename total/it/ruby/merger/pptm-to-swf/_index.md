@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a SWF, PPTM a SWF Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTM a SWF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

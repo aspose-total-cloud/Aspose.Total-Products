@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPS, XLTX mit PPS KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLTX zu PPS durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, PPT mit XLS KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von PPT zu XLS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

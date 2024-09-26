@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PS, PPSX mit PS KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von PPSX zu PS durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

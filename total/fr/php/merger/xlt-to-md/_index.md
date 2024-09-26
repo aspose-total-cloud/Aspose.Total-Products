@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MD, XLT vers MD Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLT vers MD en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

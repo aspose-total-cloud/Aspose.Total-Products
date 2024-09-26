@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTX, XLSB vers PPTX Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSB vers PPTX en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

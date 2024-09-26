@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, XLTX mit FODS KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLTX zu FODS durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

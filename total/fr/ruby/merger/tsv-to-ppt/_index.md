@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPT, TSV vers PPT Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement TSV vers PPT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

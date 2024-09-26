@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PPTM, POTX con PPTM Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos POTX con PPTM mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

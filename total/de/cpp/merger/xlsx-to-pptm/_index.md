@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPTM, XLSX mit PPTM KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von XLSX zu PPTM durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

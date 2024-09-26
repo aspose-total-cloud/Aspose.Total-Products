@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit ODT, PPSX mit ODT KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von PPSX zu ODT durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

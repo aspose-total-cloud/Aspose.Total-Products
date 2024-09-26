@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TEX, PPTX con TEX Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTX con TEX mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

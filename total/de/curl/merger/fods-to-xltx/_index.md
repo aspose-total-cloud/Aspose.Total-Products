@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTX, FODS mit XLTX KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von FODS zu XLTX durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

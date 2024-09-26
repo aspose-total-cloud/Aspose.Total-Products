@@ -1,0 +1,1 @@
+---title: Combinar Excel con DIF, SXC con DIF Aplicación de combinación GRATUITA o SDK GOdescription: Combine archivos gratuitos SXC con DIF mediante GO API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

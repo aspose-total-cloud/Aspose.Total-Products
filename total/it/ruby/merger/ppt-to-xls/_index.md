@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLS, PPT a XLS Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPT a XLS utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

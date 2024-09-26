@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit JSON, FODS mit JSON KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von FODS zu JSON durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

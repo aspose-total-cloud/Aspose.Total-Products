@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, XLT vers TXT Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLT vers TXT en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

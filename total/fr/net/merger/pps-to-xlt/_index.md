@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLT, PPS vers XLT Fusion GRATUITE à l'aide de Net SDKdescription: Fusionnez gratuitement PPS vers XLT en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

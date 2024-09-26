@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLAM, PPTM a XLAM Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTM a XLAM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

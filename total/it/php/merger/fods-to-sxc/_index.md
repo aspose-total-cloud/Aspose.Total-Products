@@ -1,0 +1,1 @@
+---title: Unisci Excel a SXC, FODS a SXC App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente FODS a SXC utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

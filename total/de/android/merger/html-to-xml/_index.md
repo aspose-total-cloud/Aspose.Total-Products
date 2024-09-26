@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XML, HTML zu XML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von HTML mit XML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

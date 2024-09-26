@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers MD, POT vers MD Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement POT vers MD en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

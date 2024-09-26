@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODT, DOTM zu ODT KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTM mit ODT durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

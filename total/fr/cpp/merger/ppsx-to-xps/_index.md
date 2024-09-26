@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XPS, PPSX vers XPS Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement PPSX vers XPS en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

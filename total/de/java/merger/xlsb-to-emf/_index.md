@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit EMF, XLSB mit EMF KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLSB zu EMF durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

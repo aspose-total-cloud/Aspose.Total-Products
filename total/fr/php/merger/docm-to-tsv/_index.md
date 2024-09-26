@@ -1,0 +1,1 @@
+---title: Fusionner Word en TSV, DOCM vers TSV Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de DOCM à TSV en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

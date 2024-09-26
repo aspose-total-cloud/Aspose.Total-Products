@@ -1,0 +1,1 @@
+---title: Fusionner Word en HTML, DOTM vers HTML Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de DOTM à HTML en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu MD, DOTX zu MD KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTX mit MD durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

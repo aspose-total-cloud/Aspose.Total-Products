@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTM, XLSX vers DOTM Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLSX vers DOTM en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

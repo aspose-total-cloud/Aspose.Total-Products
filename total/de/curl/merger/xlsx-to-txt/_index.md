@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit TXT, XLSX mit TXT KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLSX zu TXT durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

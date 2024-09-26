@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit BMP, XML mit BMP KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von XML zu BMP durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

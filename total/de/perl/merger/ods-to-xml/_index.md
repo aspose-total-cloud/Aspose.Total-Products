@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XML, ODS mit XML KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von ODS zu XML durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

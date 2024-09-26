@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLT, MD vers XLT Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de MD à XLT en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionar Word con BMP, MD con BMP Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de MD con BMP mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLS, CHM vers XLS Application de fusion GRATUITE ou Swift SDKdescription: Fusion gratuite de CHM à XLS en utilisant les API et SDK Cloud de Swift Fusionnez également plusieurs fichiers en un seul document à la volée.---

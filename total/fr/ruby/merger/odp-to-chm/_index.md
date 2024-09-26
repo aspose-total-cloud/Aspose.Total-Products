@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers CHM, ODP vers CHM Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement ODP vers CHM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

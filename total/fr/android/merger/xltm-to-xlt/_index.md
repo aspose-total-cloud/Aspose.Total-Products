@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLT, XLTM vers XLT Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLTM vers XLT en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

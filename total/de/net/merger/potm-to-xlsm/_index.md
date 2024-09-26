@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSM, POTM mit XLSM KOSTENLOSE Zusammenführung mit Net SDKdescription: Kostenloses Zusammenführen von POTM zu XLSM durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

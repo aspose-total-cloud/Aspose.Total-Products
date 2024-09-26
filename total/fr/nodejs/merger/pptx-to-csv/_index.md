@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers CSV, PPTX vers CSV Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement PPTX vers CSV en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

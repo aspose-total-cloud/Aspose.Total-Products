@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XML, PPTM con XML Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTM con XML mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

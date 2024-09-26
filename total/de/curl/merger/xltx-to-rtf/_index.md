@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit RTF, XLTX mit RTF KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLTX zu RTF durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLAM, DOC vers XLAM Application de fusion GRATUITE ou C++ SDKdescription: Fusion gratuite de DOC à XLAM en utilisant les API et SDK Cloud de C++ Fusionnez également plusieurs fichiers en un seul document à la volée.---

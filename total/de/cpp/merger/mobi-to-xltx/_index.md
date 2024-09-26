@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTX, MOBI zu XLTX KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenlose Zusammenführung von MOBI mit XLTX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

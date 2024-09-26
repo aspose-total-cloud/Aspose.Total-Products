@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOT, FODS mit DOT KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von FODS zu DOT durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

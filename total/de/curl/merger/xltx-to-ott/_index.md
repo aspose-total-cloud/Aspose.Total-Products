@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTT, XLTX mit OTT KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLTX zu OTT durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

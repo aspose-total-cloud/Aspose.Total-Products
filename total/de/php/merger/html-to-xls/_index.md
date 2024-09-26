@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLS, HTML zu XLS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von HTML mit XLS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

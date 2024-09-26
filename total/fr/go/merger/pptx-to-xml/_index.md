@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XML, PPTX vers XML Fusion GRATUITE à l'aide de GO SDKdescription: Fusionnez gratuitement PPTX vers XML en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

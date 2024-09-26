@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODT, DOTM zu ODT KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOTM mit ODT durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

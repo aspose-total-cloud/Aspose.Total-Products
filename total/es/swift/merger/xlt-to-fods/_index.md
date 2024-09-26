@@ -1,0 +1,1 @@
+---title: Combinar Excel con FODS, XLT con FODS Aplicación de combinación GRATUITA o SDK Swiftdescription: Combine archivos gratuitos XLT con FODS mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

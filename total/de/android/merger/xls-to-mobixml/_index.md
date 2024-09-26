@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MOBIXML, XLS mit MOBIXML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLS zu MOBIXML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

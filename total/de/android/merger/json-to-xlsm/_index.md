@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSM, JSON mit XLSM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von JSON zu XLSM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

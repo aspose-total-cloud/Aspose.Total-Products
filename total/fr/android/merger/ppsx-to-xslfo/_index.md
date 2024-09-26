@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XSLFO, PPSX vers XSLFO Fusion GRATUITE à l'aide de Android SDKdescription: Fusionnez gratuitement PPSX vers XSLFO en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

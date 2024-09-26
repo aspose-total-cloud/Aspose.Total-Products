@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, ODS vers TXT Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement ODS vers TXT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

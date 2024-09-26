@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTX, XML mit XLTX KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XML zu XLTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

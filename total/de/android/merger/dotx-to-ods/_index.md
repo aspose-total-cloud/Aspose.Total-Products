@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODS, DOTX zu ODS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOTX mit ODS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

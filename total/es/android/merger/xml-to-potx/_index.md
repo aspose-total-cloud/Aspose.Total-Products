@@ -1,0 +1,1 @@
+---title: Combinar Excel con POTX, XML con POTX Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos XML con POTX mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

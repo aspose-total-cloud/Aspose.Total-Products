@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, DOCM zu XLSB KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOCM mit XLSB durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTM, ODS mit XLTM KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von ODS zu XLTM durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

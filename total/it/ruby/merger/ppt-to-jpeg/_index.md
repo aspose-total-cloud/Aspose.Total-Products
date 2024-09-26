@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a JPEG, PPT a JPEG Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPT a JPEG utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, TXT zu XLT KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von TXT mit XLT durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

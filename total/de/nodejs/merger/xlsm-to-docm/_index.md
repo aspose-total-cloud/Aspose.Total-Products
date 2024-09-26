@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCM, XLSM mit DOCM KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLSM zu DOCM durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

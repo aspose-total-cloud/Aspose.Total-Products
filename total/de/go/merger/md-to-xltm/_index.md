@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, MD zu XLTM KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von MD mit XLTM durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

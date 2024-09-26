@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XAML, OTP vers XAML Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement OTP vers XAML en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

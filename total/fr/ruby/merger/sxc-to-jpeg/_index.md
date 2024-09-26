@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers JPEG, SXC vers JPEG Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement SXC vers JPEG en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

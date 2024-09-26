@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit JSON, XLSM mit JSON KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLSM zu JSON durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

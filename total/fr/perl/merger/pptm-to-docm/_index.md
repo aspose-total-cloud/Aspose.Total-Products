@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOCM, PPTM vers DOCM Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPTM vers DOCM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

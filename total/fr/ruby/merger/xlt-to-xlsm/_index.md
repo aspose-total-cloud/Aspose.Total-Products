@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSM, XLT vers XLSM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLT vers XLSM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

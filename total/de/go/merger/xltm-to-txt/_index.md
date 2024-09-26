@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit TXT, XLTM mit TXT KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von XLTM zu TXT durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

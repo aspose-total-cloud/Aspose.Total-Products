@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTT, XLTX mit OTT KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLTX zu OTT durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

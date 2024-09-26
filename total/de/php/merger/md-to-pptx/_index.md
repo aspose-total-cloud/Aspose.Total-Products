@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTX, MD zu PPTX KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von MD mit PPTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PS, FODS mit PS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von FODS zu PS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

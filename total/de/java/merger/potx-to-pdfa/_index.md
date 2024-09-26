@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PDFA, POTX mit PDFA KOSTENLOSE Zusammenführung mit Java SDKdescription: Kostenloses Zusammenführen von POTX zu PDFA durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSX, PPSM vers XLSX Fusion GRATUITE à l'aide de Python SDKdescription: Fusionnez gratuitement PPSM vers XLSX en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

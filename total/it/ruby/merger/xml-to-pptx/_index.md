@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPTX, XML a PPTX App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente XML a PPTX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTX, CSV con PPTX Aplicación de combinación GRATUITA o SDK Perldescription: Combine archivos gratuitos CSV con PPTX mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

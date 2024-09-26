@@ -1,0 +1,1 @@
+---title: Combinar Excel con TXT, ODS con TXT Aplicación de combinación GRATUITA o SDK PHPdescription: Combine archivos gratuitos ODS con TXT mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

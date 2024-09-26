@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TEX, PPSX a TEX Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente PPSX a TEX utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

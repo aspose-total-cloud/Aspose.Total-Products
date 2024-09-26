@@ -1,0 +1,1 @@
+---title: Combinar Excel con DOT, XLTM con DOT Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLTM con DOT mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

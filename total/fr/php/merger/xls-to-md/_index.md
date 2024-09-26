@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MD, XLS vers MD Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLS vers MD en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

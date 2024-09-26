@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a JSON, PPTX a JSON Unione GRATUITA utilizzando Nodejs SDKdescription: Unisci gratuitamente PPTX a JSON utilizzando Nodejs API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

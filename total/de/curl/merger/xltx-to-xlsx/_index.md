@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSX, XLTX mit XLSX KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLTX zu XLSX durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

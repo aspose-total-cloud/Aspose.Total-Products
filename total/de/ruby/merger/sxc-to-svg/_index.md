@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SVG, SXC mit SVG KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von SXC zu SVG durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

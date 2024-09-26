@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLSX, POT con XLSX Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos POT con XLSX mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

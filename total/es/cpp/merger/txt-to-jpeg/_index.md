@@ -1,0 +1,1 @@
+---title: Fusionar Word con JPEG, TXT con JPEG Aplicación de fusión GRATUITA o SDK C++description: Fusión gratuita de TXT con JPEG mediante C++ API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con PDFA, XML con PDFA Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos XML con PDFA mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

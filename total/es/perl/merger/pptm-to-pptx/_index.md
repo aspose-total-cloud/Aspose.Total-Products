@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PPTX, PPTM con PPTX Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos PPTM con PPTX mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

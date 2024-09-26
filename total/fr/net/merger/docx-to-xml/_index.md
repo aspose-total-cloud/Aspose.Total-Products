@@ -1,0 +1,1 @@
+---title: Fusionner Word en XML, DOCX vers XML Application de fusion GRATUITE ou Net SDKdescription: Fusion gratuite de DOCX à XML en utilisant les API et SDK Cloud de Net Fusionnez également plusieurs fichiers en un seul document à la volée.---

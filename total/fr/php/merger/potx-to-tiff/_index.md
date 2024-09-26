@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TIFF, POTX vers TIFF Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement POTX vers TIFF en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

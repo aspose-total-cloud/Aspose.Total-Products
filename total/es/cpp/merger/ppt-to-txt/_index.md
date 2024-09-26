@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TXT, PPT con TXT Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPT con TXT mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

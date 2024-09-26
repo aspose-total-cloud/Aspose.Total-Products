@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPS, DOCX zu PPS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOCX mit PPS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

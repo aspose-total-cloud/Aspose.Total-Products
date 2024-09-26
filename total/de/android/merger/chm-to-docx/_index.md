@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCX, CHM zu DOCX KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von CHM mit DOCX durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

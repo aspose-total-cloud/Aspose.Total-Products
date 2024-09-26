@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOCM, ODP vers DOCM Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement ODP vers DOCM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

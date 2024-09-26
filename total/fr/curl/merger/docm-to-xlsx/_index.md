@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSX, DOCM vers XLSX Application de fusion GRATUITE ou Curl SDKdescription: Fusion gratuite de DOCM à XLSX en utilisant les API et SDK Cloud de Curl Fusionnez également plusieurs fichiers en un seul document à la volée.---

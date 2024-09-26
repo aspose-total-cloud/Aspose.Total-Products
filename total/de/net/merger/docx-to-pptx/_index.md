@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTX, DOCX zu PPTX KOSTENLOSE Merger-App oder Net SDKdescription: Kostenlose Zusammenführung von DOCX mit PPTX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

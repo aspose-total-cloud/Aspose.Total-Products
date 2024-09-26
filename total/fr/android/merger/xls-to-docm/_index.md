@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOCM, XLS vers DOCM Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLS vers DOCM en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DIF, ODS mit DIF KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von ODS zu DIF durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

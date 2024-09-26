@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit JPEG, XLTX mit JPEG KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLTX zu JPEG durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

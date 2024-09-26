@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TXT, PPSM a TXT Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSM a TXT utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

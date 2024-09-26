@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLAM, POTM mit XLAM KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von POTM zu XLAM durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

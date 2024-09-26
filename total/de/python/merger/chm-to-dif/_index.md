@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DIF, CHM zu DIF KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von CHM mit DIF durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

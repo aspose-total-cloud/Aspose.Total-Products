@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLTX, PPSM con XLTX Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPSM con XLTX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

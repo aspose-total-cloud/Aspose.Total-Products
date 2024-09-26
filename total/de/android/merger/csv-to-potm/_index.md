@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTM, CSV mit POTM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von CSV zu POTM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

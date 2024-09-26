@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOT, XLSM mit DOT KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLSM zu DOT durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

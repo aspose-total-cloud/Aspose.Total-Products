@@ -1,0 +1,1 @@
+---title: Combinar Excel con XLTM, XLSM con XLTM Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLSM con XLTM mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

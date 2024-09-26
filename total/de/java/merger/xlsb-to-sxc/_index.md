@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, XLSB mit SXC KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLSB zu SXC durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

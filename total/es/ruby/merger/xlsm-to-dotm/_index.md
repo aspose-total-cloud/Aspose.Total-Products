@@ -1,0 +1,1 @@
+---title: Combinar Excel con DOTM, XLSM con DOTM Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLSM con DOTM mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

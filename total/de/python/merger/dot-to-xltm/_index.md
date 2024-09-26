@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, DOT zu XLTM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOT mit XLTM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

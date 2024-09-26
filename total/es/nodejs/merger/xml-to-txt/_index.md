@@ -1,0 +1,1 @@
+---title: Combinar Excel con TXT, XML con TXT Aplicación de combinación GRATUITA o SDK Nodejsdescription: Combine archivos gratuitos XML con TXT mediante Nodejs API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

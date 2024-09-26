@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODT, XLTX mit ODT KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLTX zu ODT durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

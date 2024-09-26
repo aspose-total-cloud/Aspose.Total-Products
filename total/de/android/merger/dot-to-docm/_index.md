@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCM, DOT zu DOCM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOT mit DOCM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

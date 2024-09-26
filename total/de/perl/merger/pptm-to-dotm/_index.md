@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit DOTM, PPTM mit DOTM KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von PPTM zu DOTM durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

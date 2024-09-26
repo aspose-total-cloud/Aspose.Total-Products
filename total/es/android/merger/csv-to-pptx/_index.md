@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTX, CSV con PPTX Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos CSV con PPTX mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

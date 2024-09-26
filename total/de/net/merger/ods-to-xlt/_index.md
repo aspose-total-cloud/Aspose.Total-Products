@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLT, ODS mit XLT KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von ODS zu XLT durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

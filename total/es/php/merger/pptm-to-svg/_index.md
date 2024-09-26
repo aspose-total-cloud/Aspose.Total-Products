@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SVG, PPTM con SVG Fusión GRATUITA utilizando el SDK PHPdescription: Combine archivos gratuitos PPTM con SVG mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

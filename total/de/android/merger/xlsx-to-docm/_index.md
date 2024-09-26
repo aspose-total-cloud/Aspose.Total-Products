@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCM, XLSX mit DOCM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLSX zu DOCM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

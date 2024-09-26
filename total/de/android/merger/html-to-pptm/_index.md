@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTM, HTML zu PPTM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von HTML mit PPTM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

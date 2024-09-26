@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODS, RTF zu ODS KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von RTF mit ODS durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

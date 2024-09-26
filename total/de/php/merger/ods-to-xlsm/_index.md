@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSM, ODS mit XLSM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von ODS zu XLSM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

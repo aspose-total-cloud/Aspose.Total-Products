@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPSX, XLT con PPSX Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos XLT con PPSX mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

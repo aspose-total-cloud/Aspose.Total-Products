@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTM, XLS con PPTM Aplicación de combinación GRATUITA o SDK Javadescription: Combine archivos gratuitos XLS con PPTM mediante Java API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

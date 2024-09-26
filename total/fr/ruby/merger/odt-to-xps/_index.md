@@ -1,0 +1,1 @@
+---title: Fusionner Word en XPS, ODT vers XPS Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de ODT à XPS en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

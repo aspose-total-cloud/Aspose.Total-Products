@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTM, XLTX vers DOTM Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLTX vers DOTM en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

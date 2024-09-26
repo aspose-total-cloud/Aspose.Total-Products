@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con HTML, POTX con HTML Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos POTX con HTML mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

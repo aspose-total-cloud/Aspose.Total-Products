@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PNG, POTX con PNG Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos POTX con PNG mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

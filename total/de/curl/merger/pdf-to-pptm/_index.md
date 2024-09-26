@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTM, PDF zu PPTM KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von PDF mit PPTM durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

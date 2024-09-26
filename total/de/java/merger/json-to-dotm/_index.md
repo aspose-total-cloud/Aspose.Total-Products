@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOTM, JSON mit DOTM KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von JSON zu DOTM durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

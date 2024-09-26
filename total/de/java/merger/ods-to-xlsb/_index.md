@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSB, ODS mit XLSB KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von ODS zu XLSB durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con MOBI, PPTM con MOBI Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTM con MOBI mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

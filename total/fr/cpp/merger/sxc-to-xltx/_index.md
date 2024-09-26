@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTX, SXC vers XLTX Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement SXC vers XLTX en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

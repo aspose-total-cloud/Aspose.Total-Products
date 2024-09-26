@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTM, XLSM mit XLTM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLSM zu XLTM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

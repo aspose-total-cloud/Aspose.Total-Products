@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSX, DOCM zu XLSX KOSTENLOSE Merger-App oder Net SDKdescription: Kostenlose Zusammenführung von DOCM mit XLSX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

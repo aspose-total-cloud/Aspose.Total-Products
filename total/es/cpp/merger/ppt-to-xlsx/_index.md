@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLSX, PPT con XLSX Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPT con XLSX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

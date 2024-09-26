@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a NUMBERS, PPSM a NUMBERS Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSM a NUMBERS utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PNG, PPTX vers PNG Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement PPTX vers PNG en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSX, XLTX mit XLSX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLTX zu XLSX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

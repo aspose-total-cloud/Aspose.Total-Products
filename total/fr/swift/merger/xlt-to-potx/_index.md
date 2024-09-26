@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTX, XLT vers POTX Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLT vers POTX en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

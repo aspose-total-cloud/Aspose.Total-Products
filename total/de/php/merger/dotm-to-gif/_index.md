@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu GIF, DOTM zu GIF KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTM mit GIF durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

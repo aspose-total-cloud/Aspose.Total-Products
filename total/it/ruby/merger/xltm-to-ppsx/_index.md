@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPSX, XLTM a PPSX App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente XLTM a PPSX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

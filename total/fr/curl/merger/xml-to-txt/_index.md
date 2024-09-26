@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, XML vers TXT Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XML vers TXT en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POT, XLS vers POT Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLS vers POT en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XML, PPTM con XML Fusión GRATUITA utilizando el SDK Pythondescription: Combine archivos gratuitos PPTM con XML mediante Python API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

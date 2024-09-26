@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con ODP, PPSM con ODP Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPSM con ODP mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

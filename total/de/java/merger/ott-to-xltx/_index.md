@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTX, OTT zu XLTX KOSTENLOSE Merger-App oder Java SDKdescription: Kostenlose Zusammenführung von OTT mit XLTX durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

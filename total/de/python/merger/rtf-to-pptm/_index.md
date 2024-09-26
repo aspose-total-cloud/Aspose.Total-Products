@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTM, RTF zu PPTM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von RTF mit PPTM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

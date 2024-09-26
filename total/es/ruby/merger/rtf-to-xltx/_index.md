@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLTX, RTF con XLTX Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de RTF con XLTX mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

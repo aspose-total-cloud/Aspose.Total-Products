@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers WEB, ODP vers WEB Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement ODP vers WEB en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

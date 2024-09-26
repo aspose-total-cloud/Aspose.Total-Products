@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, MD zu XLSB KOSTENLOSE Merger-App oder Java SDKdescription: Kostenlose Zusammenführung von MD mit XLSB durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTX, MD vers PPTX Application de fusion GRATUITE ou Net SDKdescription: Fusion gratuite de MD à PPTX en utilisant les API et SDK Cloud de Net Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con NUMBERS, OTP con NUMBERS Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos OTP con NUMBERS mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

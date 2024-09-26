@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit NUMBERS, XLSB mit NUMBERS KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLSB zu NUMBERS durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

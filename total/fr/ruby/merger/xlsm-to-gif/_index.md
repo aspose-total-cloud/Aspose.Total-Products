@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers GIF, XLSM vers GIF Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSM vers GIF en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

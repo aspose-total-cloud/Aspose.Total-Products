@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SXC, PPTX con SXC Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPTX con SXC mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

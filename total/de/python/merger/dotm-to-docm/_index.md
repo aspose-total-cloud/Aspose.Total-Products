@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCM, DOTM zu DOCM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOTM mit DOCM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

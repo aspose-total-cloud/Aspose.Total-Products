@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a JPEG, PPTM a JPEG Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTM a JPEG utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

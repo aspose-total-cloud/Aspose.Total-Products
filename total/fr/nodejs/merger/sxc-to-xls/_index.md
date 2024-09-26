@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLS, SXC vers XLS Application de fusion GRATUITE ou SDK Nodejsdescription: Fusionnez gratuitement SXC vers XLS en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

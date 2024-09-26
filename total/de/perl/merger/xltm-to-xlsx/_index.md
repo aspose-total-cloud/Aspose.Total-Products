@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSX, XLTM mit XLSX KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLTM zu XLSX durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

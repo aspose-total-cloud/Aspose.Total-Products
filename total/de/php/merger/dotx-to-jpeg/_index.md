@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu JPEG, DOTX zu JPEG KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTX mit JPEG durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers RTF, OTP vers RTF Fusion GRATUITE à l'aide de Python SDKdescription: Fusionnez gratuitement OTP vers RTF en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

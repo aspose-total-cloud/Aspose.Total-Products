@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit SXC, POTM mit SXC KOSTENLOSE Zusammenführung mit C++ SDKdescription: Kostenloses Zusammenführen von POTM zu SXC durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

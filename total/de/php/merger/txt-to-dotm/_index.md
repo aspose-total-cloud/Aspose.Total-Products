@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOTM, TXT zu DOTM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von TXT mit DOTM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

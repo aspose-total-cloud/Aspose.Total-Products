@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a POTX, PPS a POTX Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPS a POTX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

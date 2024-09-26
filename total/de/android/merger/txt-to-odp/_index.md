@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODP, TXT zu ODP KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von TXT mit ODP durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

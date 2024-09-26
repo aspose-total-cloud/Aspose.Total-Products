@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTX, OTT zu PPTX KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenlose Zusammenführung von OTT mit PPTX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

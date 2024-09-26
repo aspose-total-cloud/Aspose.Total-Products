@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu JSON, DOCM zu JSON KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von DOCM mit JSON durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

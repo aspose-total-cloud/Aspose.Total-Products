@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers EMF, XLSM vers EMF Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSM vers EMF en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

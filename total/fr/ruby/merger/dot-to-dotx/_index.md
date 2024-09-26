@@ -1,0 +1,1 @@
+---title: Fusionner Word en DOTX, DOT vers DOTX Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de DOT à DOTX en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

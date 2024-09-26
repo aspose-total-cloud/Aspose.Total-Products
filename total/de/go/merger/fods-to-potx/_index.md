@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, FODS mit POTX KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von FODS zu POTX durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

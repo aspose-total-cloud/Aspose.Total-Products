@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit DOTM, PPTX mit DOTM KOSTENLOSE Zusammenführung mit Python SDKdescription: Kostenloses Zusammenführen von PPTX zu DOTM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

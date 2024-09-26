@@ -1,0 +1,1 @@
+---title: Fusionner Word en CSV, DOC vers CSV Application de fusion GRATUITE ou Perl SDKdescription: Fusion gratuite de DOC à CSV en utilisant les API et SDK Cloud de Perl Fusionnez également plusieurs fichiers en un seul document à la volée.---

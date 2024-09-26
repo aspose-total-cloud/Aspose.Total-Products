@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a PPTX, PPSX a PPTX Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSX a PPTX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

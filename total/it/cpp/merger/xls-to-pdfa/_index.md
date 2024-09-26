@@ -1,0 +1,1 @@
+---title: Unisci Excel a PDFA, XLS a PDFA App di unione GRATUITA o SDK C++description: Unisci gratuitamente XLS a PDFA utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

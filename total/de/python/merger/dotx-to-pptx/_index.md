@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTX, DOTX zu PPTX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOTX mit PPTX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

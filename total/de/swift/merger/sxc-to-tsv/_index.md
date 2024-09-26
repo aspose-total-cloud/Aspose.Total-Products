@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit TSV, SXC mit TSV KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von SXC zu TSV durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

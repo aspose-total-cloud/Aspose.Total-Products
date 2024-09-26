@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XSLFO, XLSB vers XSLFO Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLSB vers XSLFO en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

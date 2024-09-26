@@ -1,0 +1,1 @@
+---title: Unisci Excel a PDFA, SXC a PDFA App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente SXC a PDFA utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

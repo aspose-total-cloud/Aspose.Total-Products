@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit TXT, PPSM mit TXT KOSTENLOSE Zusammenführung mit Python SDKdescription: Kostenloses Zusammenführen von PPSM zu TXT durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

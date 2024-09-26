@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu FODS, TXT zu FODS KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von TXT mit FODS durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

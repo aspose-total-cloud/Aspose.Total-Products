@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TIFF, PPT con TIFF Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos PPT con TIFF mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

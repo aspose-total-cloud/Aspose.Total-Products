@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, XLSM mit SXC KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLSM zu SXC durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

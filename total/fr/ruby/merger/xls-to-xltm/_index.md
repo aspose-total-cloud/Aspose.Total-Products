@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTM, XLS vers XLTM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers XLTM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

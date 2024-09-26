@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTM, XLSB vers PPTM Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSB vers PPTM en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

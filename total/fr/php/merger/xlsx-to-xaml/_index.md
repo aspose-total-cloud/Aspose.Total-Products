@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XAML, XLSX vers XAML Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLSX vers XAML en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PPTM, ODP vers PPTM Fusion GRATUITE à l'aide de Python SDKdescription: Fusionnez gratuitement ODP vers PPTM en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

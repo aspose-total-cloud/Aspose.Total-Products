@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOTX, PPSX vers DOTX Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPSX vers DOTX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

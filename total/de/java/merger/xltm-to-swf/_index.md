@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SWF, XLTM mit SWF KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLTM zu SWF durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLS, PPSX a XLS Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSX a XLS utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

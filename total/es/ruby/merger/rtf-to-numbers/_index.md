@@ -1,0 +1,1 @@
+---title: Fusionar Word con NUMBERS, RTF con NUMBERS Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de RTF con NUMBERS mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

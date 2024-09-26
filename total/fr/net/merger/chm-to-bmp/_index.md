@@ -1,0 +1,1 @@
+---title: Fusionner Word en BMP, CHM vers BMP Application de fusion GRATUITE ou Net SDKdescription: Fusion gratuite de CHM à BMP en utilisant les API et SDK Cloud de Net Fusionnez également plusieurs fichiers en un seul document à la volée.---

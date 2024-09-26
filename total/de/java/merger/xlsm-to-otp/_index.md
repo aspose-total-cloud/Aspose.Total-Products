@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTP, XLSM mit OTP KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von XLSM zu OTP durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

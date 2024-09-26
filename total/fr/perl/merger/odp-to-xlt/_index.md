@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLT, ODP vers XLT Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement ODP vers XLT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

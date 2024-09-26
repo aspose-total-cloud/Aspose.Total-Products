@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TIFF, XLSM vers TIFF Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLSM vers TIFF en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Unisci Word a PPTM, DOCX a PPTM App di unione GRATUITA o SDK Rubydescription: Unione gratuita di DOCX in PPTM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

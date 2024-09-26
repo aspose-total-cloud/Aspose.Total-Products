@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XML, DOC zu XML KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOC mit XML durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

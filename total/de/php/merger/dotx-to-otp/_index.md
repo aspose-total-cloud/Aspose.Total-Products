@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu OTP, DOTX zu OTP KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTX mit OTP durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

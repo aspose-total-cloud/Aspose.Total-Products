@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DIF, DOT zu DIF KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOT mit DIF durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

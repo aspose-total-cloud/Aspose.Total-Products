@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLT, ODP mit XLT KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von ODP zu XLT durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

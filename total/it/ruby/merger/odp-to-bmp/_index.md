@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a BMP, ODP a BMP Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente ODP a BMP utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

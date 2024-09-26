@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSM, ODS mit XLSM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von ODS zu XLSM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

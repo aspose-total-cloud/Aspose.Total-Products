@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XML, XLSB vers XML Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XLSB vers XML en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

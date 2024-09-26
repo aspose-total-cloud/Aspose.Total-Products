@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, JSON mit SXC KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von JSON zu SXC durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

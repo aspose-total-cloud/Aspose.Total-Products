@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers CHM, XLSB vers CHM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSB vers CHM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

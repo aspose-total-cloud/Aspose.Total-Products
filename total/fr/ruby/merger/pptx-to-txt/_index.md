@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TXT, PPTX vers TXT Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement PPTX vers TXT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

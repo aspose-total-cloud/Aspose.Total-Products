@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODT, XLTM mit ODT KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLTM zu ODT durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

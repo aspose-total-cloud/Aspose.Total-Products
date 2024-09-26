@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TIFF, PPTM con TIFF Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPTM con TIFF mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

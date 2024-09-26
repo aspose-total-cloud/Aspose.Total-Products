@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers OTP, XLSB vers OTP Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSB vers OTP en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

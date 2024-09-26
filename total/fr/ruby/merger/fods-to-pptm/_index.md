@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTM, FODS vers PPTM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement FODS vers PPTM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

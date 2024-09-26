@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu BMP, DOCM zu BMP KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOCM mit BMP durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

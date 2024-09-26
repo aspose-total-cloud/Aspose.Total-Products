@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOCM, XLSX vers DOCM Application de fusion GRATUITE ou SDK GOdescription: Fusionnez gratuitement XLSX vers DOCM en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

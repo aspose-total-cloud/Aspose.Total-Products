@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu WEB, TXT zu WEB KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von TXT mit WEB durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

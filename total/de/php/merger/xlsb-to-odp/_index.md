@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODP, XLSB mit ODP KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLSB zu ODP durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

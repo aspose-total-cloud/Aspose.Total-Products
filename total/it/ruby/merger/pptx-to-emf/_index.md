@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a EMF, PPTX a EMF Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTX a EMF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

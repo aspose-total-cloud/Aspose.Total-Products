@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers OTP, SXC vers OTP Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement SXC vers OTP en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

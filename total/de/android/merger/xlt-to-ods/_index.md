@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODS, XLT mit ODS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLT zu ODS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

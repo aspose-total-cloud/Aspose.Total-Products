@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TEX, PPTX con TEX Fusión GRATUITA utilizando el SDK Androiddescription: Combine archivos gratuitos PPTX con TEX mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOC, SXC mit DOC KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von SXC zu DOC durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

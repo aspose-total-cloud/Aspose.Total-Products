@@ -1,0 +1,1 @@
+---title: Unisci Word a XLSX, CHM a XLSX App di unione GRATUITA o SDK Rubydescription: Unione gratuita di CHM in XLSX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

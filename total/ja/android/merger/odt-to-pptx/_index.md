@@ -1,0 +1,1 @@
+---title: Word를 PPTX, ODT로 PPTX 무료 병합 앱 또는 Android SDKdescription: Android을 사용하여 ODT을 PPTX로 무료로 병합합니다. 클라우드 API 및 SDK. 또한 여러 파일을 즉시 단일 문서로 병합합니다.---

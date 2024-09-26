@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XSLFO, PPT vers XSLFO Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPT vers XSLFO en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

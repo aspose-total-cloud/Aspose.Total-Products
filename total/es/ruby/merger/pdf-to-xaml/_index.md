@@ -1,0 +1,1 @@
+---title: Fusionar Word con XAML, PDF con XAML Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de PDF con XAML mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

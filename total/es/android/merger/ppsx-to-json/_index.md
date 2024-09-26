@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con JSON, PPSX con JSON Fusión GRATUITA utilizando el SDK Androiddescription: Combine archivos gratuitos PPSX con JSON mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

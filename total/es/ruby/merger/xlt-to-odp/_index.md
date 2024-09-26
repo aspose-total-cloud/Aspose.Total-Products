@@ -1,0 +1,1 @@
+---title: Combinar Excel con ODP, XLT con ODP Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLT con ODP mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XPS, XLSM mit XPS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLSM zu XPS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

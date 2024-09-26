@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers CSV, XLSB vers CSV Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSB vers CSV en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

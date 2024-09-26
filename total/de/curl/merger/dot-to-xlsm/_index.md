@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSM, DOT zu XLSM KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von DOT mit XLSM durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers BMP, PPSM vers BMP Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement PPSM vers BMP en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

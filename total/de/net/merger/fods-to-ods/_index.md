@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODS, FODS mit ODS KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von FODS zu ODS durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

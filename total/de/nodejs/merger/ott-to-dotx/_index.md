@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOTX, OTT zu DOTX KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von OTT mit DOTX durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

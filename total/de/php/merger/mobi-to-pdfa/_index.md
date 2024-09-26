@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PDFA, MOBI zu PDFA KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von MOBI mit PDFA durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

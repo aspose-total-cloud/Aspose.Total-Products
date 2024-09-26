@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, DOTX zu SXC KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOTX mit SXC durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

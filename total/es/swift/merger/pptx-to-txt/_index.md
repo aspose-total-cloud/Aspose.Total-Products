@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TXT, PPTX con TXT Fusión GRATUITA utilizando el SDK Swiftdescription: Combine archivos gratuitos PPTX con TXT mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

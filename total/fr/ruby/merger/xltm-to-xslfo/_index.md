@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XSLFO, XLTM vers XSLFO Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTM vers XSLFO en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Unisci Word a PDFA, DOTX a PDFA App di unione GRATUITA o SDK Swiftdescription: Unione gratuita di DOTX in PDFA utilizzando Swift API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

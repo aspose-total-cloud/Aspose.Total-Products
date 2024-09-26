@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit MD, PPTX mit MD KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von PPTX zu MD durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

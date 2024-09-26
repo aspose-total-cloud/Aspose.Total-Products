@@ -1,0 +1,1 @@
+---title: Unisci Excel a DOTM, XLT a DOTM App di unione GRATUITA o SDK C++description: Unisci gratuitamente XLT a DOTM utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

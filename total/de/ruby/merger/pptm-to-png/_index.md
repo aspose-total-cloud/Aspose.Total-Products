@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PNG, PPTM mit PNG KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von PPTM zu PNG durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

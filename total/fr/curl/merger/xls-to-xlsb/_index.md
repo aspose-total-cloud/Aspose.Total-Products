@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSB, XLS vers XLSB Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XLS vers XLSB en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

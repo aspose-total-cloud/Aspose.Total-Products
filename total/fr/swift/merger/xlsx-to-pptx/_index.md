@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTX, XLSX vers PPTX Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSX vers PPTX en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

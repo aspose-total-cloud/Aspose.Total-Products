@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XAML, XML vers XAML Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XML vers XAML en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

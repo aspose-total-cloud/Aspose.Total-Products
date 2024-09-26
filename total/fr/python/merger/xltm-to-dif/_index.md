@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DIF, XLTM vers DIF Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLTM vers DIF en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

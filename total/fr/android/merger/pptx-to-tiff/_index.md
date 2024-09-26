@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TIFF, PPTX vers TIFF Fusion GRATUITE à l'aide de Android SDKdescription: Fusionnez gratuitement PPTX vers TIFF en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

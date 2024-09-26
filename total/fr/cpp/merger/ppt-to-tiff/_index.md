@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TIFF, PPT vers TIFF Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement PPT vers TIFF en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

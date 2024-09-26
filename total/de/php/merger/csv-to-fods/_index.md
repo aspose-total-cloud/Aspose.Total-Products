@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, CSV mit FODS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von CSV zu FODS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

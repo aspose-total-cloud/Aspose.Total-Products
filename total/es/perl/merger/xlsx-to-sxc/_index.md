@@ -1,0 +1,1 @@
+---title: Combinar Excel con SXC, XLSX con SXC Aplicación de combinación GRATUITA o SDK Perldescription: Combine archivos gratuitos XLSX con SXC mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

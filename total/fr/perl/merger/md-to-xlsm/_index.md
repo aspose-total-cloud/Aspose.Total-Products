@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSM, MD vers XLSM Application de fusion GRATUITE ou Perl SDKdescription: Fusion gratuite de MD à XLSM en utilisant les API et SDK Cloud de Perl Fusionnez également plusieurs fichiers en un seul document à la volée.---

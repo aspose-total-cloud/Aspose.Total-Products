@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, PPSX mit XLS KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von PPSX zu XLS durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

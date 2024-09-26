@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTX, MHTML vers PPTX Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de MHTML à PPTX en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

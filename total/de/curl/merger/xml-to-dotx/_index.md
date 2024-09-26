@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOTX, XML mit DOTX KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XML zu DOTX durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

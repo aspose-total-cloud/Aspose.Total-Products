@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSM, PPTM vers XLSM Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPTM vers XLSM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

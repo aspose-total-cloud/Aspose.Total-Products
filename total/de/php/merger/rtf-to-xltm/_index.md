@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, RTF zu XLTM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von RTF mit XLTM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

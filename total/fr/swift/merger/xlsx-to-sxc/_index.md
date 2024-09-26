@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SXC, XLSX vers SXC Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSX vers SXC en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

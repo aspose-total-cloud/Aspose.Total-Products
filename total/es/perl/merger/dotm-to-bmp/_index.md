@@ -1,0 +1,1 @@
+---title: Fusionar Word con BMP, DOTM con BMP Aplicación de fusión GRATUITA o SDK Perldescription: Fusión gratuita de DOTM con BMP mediante Perl API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

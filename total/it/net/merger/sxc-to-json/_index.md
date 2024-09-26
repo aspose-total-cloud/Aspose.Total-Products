@@ -1,0 +1,1 @@
+---title: Unisci Excel a JSON, SXC a JSON App di unione GRATUITA o SDK Netdescription: Unisci gratuitamente SXC a JSON utilizzando Net API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

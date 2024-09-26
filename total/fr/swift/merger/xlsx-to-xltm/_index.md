@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTM, XLSX vers XLTM Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSX vers XLTM en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCX, XLTM mit DOCX KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLTM zu DOCX durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

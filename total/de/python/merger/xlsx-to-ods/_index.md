@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODS, XLSX mit ODS KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSX zu ODS durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

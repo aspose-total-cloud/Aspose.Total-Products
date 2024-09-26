@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu JSON, DOTM zu JSON KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOTM mit JSON durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

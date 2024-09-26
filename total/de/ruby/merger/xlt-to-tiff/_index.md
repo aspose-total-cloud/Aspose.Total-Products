@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit TIFF, XLT mit TIFF KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLT zu TIFF durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

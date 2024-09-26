@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLS, XLT vers XLS Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLT vers XLS en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

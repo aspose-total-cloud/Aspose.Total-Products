@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, TSV mit SXC KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von TSV zu SXC durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

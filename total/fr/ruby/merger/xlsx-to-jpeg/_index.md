@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers JPEG, XLSX vers JPEG Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSX vers JPEG en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

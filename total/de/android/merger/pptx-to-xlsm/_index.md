@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSM, PPTX mit XLSM KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von PPTX zu XLSM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

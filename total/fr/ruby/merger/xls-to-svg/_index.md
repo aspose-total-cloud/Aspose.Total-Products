@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SVG, XLS vers SVG Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers SVG en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

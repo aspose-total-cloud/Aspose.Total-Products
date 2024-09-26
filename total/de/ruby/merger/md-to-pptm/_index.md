@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTM, MD zu PPTM KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von MD mit PPTM durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

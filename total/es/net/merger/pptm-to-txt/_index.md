@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con TXT, PPTM con TXT Fusión GRATUITA utilizando el SDK Netdescription: Combine archivos gratuitos PPTM con TXT mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

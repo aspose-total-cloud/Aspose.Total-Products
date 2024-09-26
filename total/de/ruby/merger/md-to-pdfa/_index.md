@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PDFA, MD zu PDFA KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von MD mit PDFA durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

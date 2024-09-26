@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSX, MD vers XLSX Application de fusion GRATUITE ou Android SDKdescription: Fusion gratuite de MD à XLSX en utilisant les API et SDK Cloud de Android Fusionnez également plusieurs fichiers en un seul document à la volée.---

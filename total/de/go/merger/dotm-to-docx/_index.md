@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCX, DOTM zu DOCX KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von DOTM mit DOCX durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

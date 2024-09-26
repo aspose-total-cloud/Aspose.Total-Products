@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCX, XLS mit DOCX KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLS zu DOCX durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

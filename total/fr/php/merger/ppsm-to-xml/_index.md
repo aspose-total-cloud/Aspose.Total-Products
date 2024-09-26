@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XML, PPSM vers XML Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement PPSM vers XML en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

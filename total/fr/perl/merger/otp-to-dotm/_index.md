@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOTM, OTP vers DOTM Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement OTP vers DOTM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

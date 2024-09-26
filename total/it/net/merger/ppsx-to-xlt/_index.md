@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLT, PPSX a XLT Unione GRATUITA utilizzando Net SDKdescription: Unisci gratuitamente PPSX a XLT utilizzando Net API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPTM, MD con PPTM Aplicación de fusión GRATUITA o SDK Netdescription: Fusión gratuita de MD con PPTM mediante Net API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

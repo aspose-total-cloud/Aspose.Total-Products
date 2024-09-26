@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSX, PPTX mit XLSX KOSTENLOSE Zusammenführung mit GO SDKdescription: Kostenloses Zusammenführen von PPTX zu XLSX durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

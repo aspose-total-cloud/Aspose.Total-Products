@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPT, XLTX a PPT App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente XLTX a PPT utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

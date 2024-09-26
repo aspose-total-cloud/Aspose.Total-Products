@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, ODT zu XLTM KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von ODT mit XLTM durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTM, XLT mit XLTM KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenloses Zusammenführen von XLT zu XLTM durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POT, XLS mit POT KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von XLS zu POT durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers NUMBERS, SXC vers NUMBERS Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement SXC vers NUMBERS en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

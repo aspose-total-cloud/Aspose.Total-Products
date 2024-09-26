@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TEX, SXC vers TEX Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement SXC vers TEX en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

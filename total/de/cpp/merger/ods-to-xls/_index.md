@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLS, ODS mit XLS KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von ODS zu XLS durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLTX, PPSM vers XLTX Fusion GRATUITE à l'aide de Net SDKdescription: Fusionnez gratuitement PPSM vers XLTX en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

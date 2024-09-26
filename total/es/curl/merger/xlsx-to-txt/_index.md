@@ -1,0 +1,1 @@
+---title: Combinar Excel con TXT, XLSX con TXT Aplicación de combinación GRATUITA o SDK Curldescription: Combine archivos gratuitos XLSX con TXT mediante Curl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

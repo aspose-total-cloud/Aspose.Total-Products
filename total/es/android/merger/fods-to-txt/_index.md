@@ -1,0 +1,1 @@
+---title: Combinar Excel con TXT, FODS con TXT Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos FODS con TXT mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PNG, PPTX con PNG Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPTX con PNG mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

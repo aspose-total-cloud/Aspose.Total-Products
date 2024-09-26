@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XSLFO, ODS mit XSLFO KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von ODS zu XSLFO durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

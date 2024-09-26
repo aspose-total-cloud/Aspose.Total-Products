@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLT, SXC mit XLT KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von SXC zu XLT durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

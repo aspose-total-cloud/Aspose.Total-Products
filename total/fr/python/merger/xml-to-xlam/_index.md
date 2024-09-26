@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLAM, XML vers XLAM Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XML vers XLAM en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

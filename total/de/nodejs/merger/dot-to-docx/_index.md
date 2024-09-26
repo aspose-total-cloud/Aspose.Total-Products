@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCX, DOT zu DOCX KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von DOT mit DOCX durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

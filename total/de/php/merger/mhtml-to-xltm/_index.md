@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, MHTML zu XLTM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von MHTML mit XLTM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

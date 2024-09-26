@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOTM, PPS vers DOTM Fusion GRATUITE à l'aide de Python SDKdescription: Fusionnez gratuitement PPS vers DOTM en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

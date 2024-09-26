@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPS, XLSX vers PPS Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement XLSX vers PPS en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

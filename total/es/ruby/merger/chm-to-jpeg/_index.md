@@ -1,0 +1,1 @@
+---title: Fusionar Word con JPEG, CHM con JPEG Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de CHM con JPEG mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

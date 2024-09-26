@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XSLFO, FODS mit XSLFO KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von FODS zu XSLFO durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

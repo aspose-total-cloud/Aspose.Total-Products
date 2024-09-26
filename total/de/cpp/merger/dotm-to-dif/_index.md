@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DIF, DOTM zu DIF KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenlose Zusammenführung von DOTM mit DIF durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

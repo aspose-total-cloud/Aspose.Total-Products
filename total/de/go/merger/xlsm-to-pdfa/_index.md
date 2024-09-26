@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PDFA, XLSM mit PDFA KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von XLSM zu PDFA durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

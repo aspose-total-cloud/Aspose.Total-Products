@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XML, PPTM a XML Unione GRATUITA utilizzando Perl SDKdescription: Unisci gratuitamente PPTM a XML utilizzando Perl API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

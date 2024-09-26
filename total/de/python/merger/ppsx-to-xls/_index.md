@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, PPSX mit XLS KOSTENLOSE Zusammenführung mit Python SDKdescription: Kostenloses Zusammenführen von PPSX zu XLS durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

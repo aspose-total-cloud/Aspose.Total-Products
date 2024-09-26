@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLT, POTX con XLT Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos POTX con XLT mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

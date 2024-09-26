@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a GIF, PPT a GIF Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPT a GIF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

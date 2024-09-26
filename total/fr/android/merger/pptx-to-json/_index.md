@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers JSON, PPTX vers JSON Fusion GRATUITE à l'aide de Android SDKdescription: Fusionnez gratuitement PPTX vers JSON en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

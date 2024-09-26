@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XML, PPTX mit XML KOSTENLOSE Zusammenführung mit C++ SDKdescription: Kostenloses Zusammenführen von PPTX zu XML durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

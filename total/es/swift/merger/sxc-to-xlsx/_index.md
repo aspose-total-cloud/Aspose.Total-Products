@@ -1,0 +1,1 @@
+---title: Combinar Excel con XLSX, SXC con XLSX Aplicación de combinación GRATUITA o SDK Swiftdescription: Combine archivos gratuitos SXC con XLSX mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

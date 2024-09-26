@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers POTX, PPTM vers POTX Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement PPTM vers POTX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

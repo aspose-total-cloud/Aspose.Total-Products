@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SVG, DOTM zu SVG KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOTM mit SVG durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

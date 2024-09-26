@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, MOBI zu SXC KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von MOBI mit SXC durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

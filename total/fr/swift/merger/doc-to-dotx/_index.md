@@ -1,0 +1,1 @@
+---title: Fusionner Word en DOTX, DOC vers DOTX Application de fusion GRATUITE ou Swift SDKdescription: Fusion gratuite de DOC à DOTX en utilisant les API et SDK Cloud de Swift Fusionnez également plusieurs fichiers en un seul document à la volée.---

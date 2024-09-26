@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLS, FODS a XLS App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente FODS a XLS utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

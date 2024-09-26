@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XSLFO, PPSX con XSLFO Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPSX con XSLFO mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

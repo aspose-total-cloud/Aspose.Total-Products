@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSB, XLS mit XLSB KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLS zu XLSB durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

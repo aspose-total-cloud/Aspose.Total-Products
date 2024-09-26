@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPTM, XLSM a PPTM App di unione GRATUITA o SDK Curldescription: Unisci gratuitamente XLSM a PPTM utilizzando Curl API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

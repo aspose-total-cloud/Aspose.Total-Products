@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit CSV, XLT mit CSV KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLT zu CSV durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

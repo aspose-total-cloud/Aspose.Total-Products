@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSM, HTML vers XLSM Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de HTML à XLSM en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

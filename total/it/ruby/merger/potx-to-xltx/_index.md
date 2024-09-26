@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLTX, POTX a XLTX Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente POTX a XLTX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MHT, XLSB mit MHT KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLSB zu MHT durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

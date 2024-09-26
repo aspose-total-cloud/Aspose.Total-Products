@@ -1,0 +1,1 @@
+---title: Fusionner Word en BMP, RTF vers BMP Application de fusion GRATUITE ou Java SDKdescription: Fusion gratuite de RTF à BMP en utilisant les API et SDK Cloud de Java Fusionnez également plusieurs fichiers en un seul document à la volée.---

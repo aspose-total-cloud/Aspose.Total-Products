@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con JSON, PPTX con JSON Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos PPTX con JSON mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit WEB, XLSM mit WEB KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLSM zu WEB durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

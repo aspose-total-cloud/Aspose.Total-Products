@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLTM, DOTM con XLTM Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de DOTM con XLTM mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

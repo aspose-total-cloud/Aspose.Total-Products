@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XAML, POTX vers XAML Fusion GRATUITE à l'aide de GO SDKdescription: Fusionnez gratuitement POTX vers XAML en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

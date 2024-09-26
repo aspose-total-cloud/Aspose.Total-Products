@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, XLS mit POTX KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLS zu POTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

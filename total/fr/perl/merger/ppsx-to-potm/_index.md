@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers POTM, PPSX vers POTM Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPSX vers POTM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, MD zu XLTM KOSTENLOSE Merger-App oder Java SDKdescription: Kostenlose Zusammenführung von MD mit XLTM durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

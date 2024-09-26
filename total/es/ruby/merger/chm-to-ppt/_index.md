@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPT, CHM con PPT Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de CHM con PPT mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

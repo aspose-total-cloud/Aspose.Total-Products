@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCM, XLS mit DOCM KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLS zu DOCM durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSM, ODS vers XLSM Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement ODS vers XLSM en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

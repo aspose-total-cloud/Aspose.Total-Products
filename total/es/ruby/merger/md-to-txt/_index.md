@@ -1,0 +1,1 @@
+---title: Fusionar Word con TXT, MD con TXT Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de MD con TXT mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

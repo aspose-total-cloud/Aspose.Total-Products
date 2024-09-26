@@ -1,0 +1,1 @@
+---title: Unisci Excel a SWF, XLSB a SWF App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente XLSB a SWF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

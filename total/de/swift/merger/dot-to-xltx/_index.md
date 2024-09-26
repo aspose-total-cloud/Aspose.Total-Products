@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTX, DOT zu XLTX KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenlose Zusammenführung von DOT mit XLTX durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

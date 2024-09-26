@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POTM, OTT zu POTM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von OTT mit POTM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

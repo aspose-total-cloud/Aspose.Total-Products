@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TXT, PPSM a TXT Unione GRATUITA utilizzando Python SDKdescription: Unisci gratuitamente PPSM a TXT utilizzando Python API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

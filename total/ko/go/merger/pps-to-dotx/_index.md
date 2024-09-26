@@ -1,0 +1,1 @@
+---title: PowerPoint를 DOTX, PPS로 DOTX 병합합니다. GO SDK를 사용하는 무료 병합 프로그램입니다.description: GO을 사용하여 PPS를 DOTX로 무료 병합합니다. 클라우드 API 및 SDK. 또한 여러 파일을 즉시 단일 문서로 병합합니다.---

@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit CSV, PPT mit CSV KOSTENLOSE Zusammenführung mit Python SDKdescription: Kostenloses Zusammenführen von PPT zu CSV durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

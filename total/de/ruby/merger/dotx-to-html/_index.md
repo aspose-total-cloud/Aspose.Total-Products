@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu HTML, DOTX zu HTML KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von DOTX mit HTML durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

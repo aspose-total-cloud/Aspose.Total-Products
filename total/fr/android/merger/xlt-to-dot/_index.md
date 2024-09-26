@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOT, XLT vers DOT Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLT vers DOT en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

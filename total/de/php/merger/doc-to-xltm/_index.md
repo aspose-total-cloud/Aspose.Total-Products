@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, DOC zu XLTM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOC mit XLTM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

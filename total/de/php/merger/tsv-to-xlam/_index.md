@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLAM, TSV mit XLAM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von TSV zu XLAM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers BMP, XML vers BMP Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XML vers BMP en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers ODT, PPSX vers ODT Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement PPSX vers ODT en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

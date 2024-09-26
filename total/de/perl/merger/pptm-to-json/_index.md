@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit JSON, PPTM mit JSON KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von PPTM zu JSON durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

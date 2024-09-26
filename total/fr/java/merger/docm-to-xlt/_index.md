@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLT, DOCM vers XLT Application de fusion GRATUITE ou Java SDKdescription: Fusion gratuite de DOCM à XLT en utilisant les API et SDK Cloud de Java Fusionnez également plusieurs fichiers en un seul document à la volée.---

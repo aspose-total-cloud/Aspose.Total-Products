@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTX, POTX mit XLTX KOSTENLOSE Zusammenführung mit Net SDKdescription: Kostenloses Zusammenführen von POTX zu XLTX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DIF, XLTX mit DIF KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLTX zu DIF durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

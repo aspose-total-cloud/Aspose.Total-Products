@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLTX, HTML vers XLTX Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de HTML à XLTX en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

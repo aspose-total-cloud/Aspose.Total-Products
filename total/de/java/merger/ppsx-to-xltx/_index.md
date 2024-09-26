@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTX, PPSX mit XLTX KOSTENLOSE Zusammenführung mit Java SDKdescription: Kostenloses Zusammenführen von PPSX zu XLTX durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

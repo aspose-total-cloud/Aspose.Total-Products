@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SXC, XML vers SXC Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XML vers SXC en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

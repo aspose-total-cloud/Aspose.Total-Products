@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTM, TXT vers PPTM Application de fusion GRATUITE ou GO SDKdescription: Fusion gratuite de TXT à PPTM en utilisant les API et SDK Cloud de GO Fusionnez également plusieurs fichiers en un seul document à la volée.---

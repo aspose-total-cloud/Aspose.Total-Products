@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers POT, PPT vers POT Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPT vers POT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPS, XLT vers PPS Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLT vers PPS en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

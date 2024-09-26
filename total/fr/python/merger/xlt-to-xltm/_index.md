@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLTM, XLT vers XLTM Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLT vers XLTM en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers JPEG, POTX vers JPEG Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement POTX vers JPEG en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

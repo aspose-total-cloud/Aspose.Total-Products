@@ -1,0 +1,1 @@
+---title: Combinar Excel con SVG, XLTX con SVG Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos XLTX con SVG mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

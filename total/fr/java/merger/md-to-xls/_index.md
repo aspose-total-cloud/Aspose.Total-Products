@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLS, MD vers XLS Application de fusion GRATUITE ou Java SDKdescription: Fusion gratuite de MD à XLS en utilisant les API et SDK Cloud de Java Fusionnez également plusieurs fichiers en un seul document à la volée.---

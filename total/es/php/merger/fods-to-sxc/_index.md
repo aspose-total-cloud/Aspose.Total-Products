@@ -1,0 +1,1 @@
+---title: Combinar Excel con SXC, FODS con SXC Aplicación de combinación GRATUITA o SDK PHPdescription: Combine archivos gratuitos FODS con SXC mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con CSV, PPSM con CSV Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPSM con CSV mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

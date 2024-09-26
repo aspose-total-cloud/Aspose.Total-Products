@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLS, CSV vers XLS Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement CSV vers XLS en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

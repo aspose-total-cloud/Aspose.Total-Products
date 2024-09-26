@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSM, XLSX mit XLSM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSX zu XLSM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

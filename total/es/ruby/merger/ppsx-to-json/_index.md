@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con JSON, PPSX con JSON Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPSX con JSON mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

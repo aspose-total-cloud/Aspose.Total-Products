@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PS, XLTM mit PS KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLTM zu PS durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

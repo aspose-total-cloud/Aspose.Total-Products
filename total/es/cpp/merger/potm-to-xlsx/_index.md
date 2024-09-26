@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLSX, POTM con XLSX Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos POTM con XLSX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

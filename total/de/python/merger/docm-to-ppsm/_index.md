@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPSM, DOCM zu PPSM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOCM mit PPSM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

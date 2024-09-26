@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POT, ODS mit POT KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von ODS zu POT durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

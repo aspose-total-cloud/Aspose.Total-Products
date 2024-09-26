@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con POTX, PPSM con POTX Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPSM con POTX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

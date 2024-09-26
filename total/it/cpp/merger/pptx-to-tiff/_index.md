@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TIFF, PPTX a TIFF Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente PPTX a TIFF utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

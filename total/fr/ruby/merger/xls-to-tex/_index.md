@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TEX, XLS vers TEX Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers TEX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

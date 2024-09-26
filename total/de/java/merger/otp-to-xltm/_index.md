@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTM, OTP mit XLTM KOSTENLOSE Zusammenführung mit Java SDKdescription: Kostenloses Zusammenführen von OTP zu XLTM durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

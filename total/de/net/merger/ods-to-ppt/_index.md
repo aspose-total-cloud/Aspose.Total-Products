@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPT, ODS mit PPT KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von ODS zu PPT durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPSX, XLSB con PPSX Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLSB con PPSX mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

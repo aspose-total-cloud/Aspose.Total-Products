@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PPTM, POTX vers PPTM Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement POTX vers PPTM en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

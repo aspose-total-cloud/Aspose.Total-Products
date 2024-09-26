@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPT, FODS mit PPT KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von FODS zu PPT durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

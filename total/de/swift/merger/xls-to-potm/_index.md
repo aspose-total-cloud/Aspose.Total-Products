@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTM, XLS mit POTM KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLS zu POTM durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

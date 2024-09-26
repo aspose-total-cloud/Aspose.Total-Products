@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit DOTX, PPTM mit DOTX KOSTENLOSE Zusammenführung mit Net SDKdescription: Kostenloses Zusammenführen von PPTM zu DOTX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

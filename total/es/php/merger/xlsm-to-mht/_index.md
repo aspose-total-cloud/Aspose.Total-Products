@@ -1,0 +1,1 @@
+---title: Combinar Excel con MHT, XLSM con MHT Aplicación de combinación GRATUITA o SDK PHPdescription: Combine archivos gratuitos XLSM con MHT mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

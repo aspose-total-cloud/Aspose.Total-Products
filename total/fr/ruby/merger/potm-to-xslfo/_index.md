@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XSLFO, POTM vers XSLFO Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement POTM vers XSLFO en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

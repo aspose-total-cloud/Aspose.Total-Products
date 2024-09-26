@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPS, FODS vers PPS Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement FODS vers PPS en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

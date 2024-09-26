@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLSM, XLT a XLSM App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente XLT a XLSM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

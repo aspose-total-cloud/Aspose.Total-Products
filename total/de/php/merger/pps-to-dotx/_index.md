@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit DOTX, PPS mit DOTX KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von PPS zu DOTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

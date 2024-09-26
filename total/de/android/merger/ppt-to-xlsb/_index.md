@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSB, PPT mit XLSB KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von PPT zu XLSB durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

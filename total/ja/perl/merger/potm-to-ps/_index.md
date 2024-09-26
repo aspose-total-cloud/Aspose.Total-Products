@@ -1,0 +1,1 @@
+---title: PowerPoint를 PS, POTM로 PS 병합합니다. Perl SDK를 사용하는 무료 병합 프로그램입니다.description: Perl을 사용하여 POTM를 PS로 무료 병합합니다. 클라우드 API 및 SDK. 또한 여러 파일을 즉시 단일 문서로 병합합니다.---

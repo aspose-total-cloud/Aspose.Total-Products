@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, XLTM vers TXT Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement XLTM vers TXT en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

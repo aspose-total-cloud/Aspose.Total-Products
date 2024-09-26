@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOTM, PDF zu DOTM KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von PDF mit DOTM durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

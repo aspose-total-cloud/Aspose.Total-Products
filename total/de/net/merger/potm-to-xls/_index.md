@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, POTM mit XLS KOSTENLOSE Zusammenführung mit Net SDKdescription: Kostenloses Zusammenführen von POTM zu XLS durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

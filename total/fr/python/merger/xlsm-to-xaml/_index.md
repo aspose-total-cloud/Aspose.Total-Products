@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XAML, XLSM vers XAML Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSM vers XAML en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

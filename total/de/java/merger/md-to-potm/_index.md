@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POTM, MD zu POTM KOSTENLOSE Merger-App oder Java SDKdescription: Kostenlose Zusammenführung von MD mit POTM durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

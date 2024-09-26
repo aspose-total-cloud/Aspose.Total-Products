@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit BMP, XLSM mit BMP KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSM zu BMP durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

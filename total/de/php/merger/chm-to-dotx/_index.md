@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOTX, CHM zu DOTX KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von CHM mit DOTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

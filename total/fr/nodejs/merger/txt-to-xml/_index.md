@@ -1,0 +1,1 @@
+---title: Fusionner Word en XML, TXT vers XML Application de fusion GRATUITE ou Nodejs SDKdescription: Fusion gratuite de TXT à XML en utilisant les API et SDK Cloud de Nodejs Fusionnez également plusieurs fichiers en un seul document à la volée.---

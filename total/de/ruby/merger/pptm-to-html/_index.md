@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit HTML, PPTM mit HTML KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von PPTM zu HTML durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTX, XLS mit XLTX KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLS zu XLTX durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

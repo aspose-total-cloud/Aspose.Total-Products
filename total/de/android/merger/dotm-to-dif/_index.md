@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DIF, DOTM zu DIF KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOTM mit DIF durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

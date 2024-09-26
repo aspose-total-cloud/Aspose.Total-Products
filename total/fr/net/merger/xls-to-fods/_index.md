@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers FODS, XLS vers FODS Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement XLS vers FODS en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

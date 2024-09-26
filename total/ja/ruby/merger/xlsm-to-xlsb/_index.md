@@ -1,0 +1,1 @@
+---title: Excel을 XLSB, XLSM로 XLSB 무료 Merger 앱 또는 Ruby SDK로 병합description: Ruby을 사용하여 XLSM를 XLSB로 무료 병합합니다. 클라우드 API 및 SDK. 또한 여러 파일을 즉시 단일 문서로 병합합니다.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTM, XLTX vers PPTM Application de fusion GRATUITE ou SDK Javadescription: Fusionnez gratuitement XLTX vers PPTM en utilisant Java API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

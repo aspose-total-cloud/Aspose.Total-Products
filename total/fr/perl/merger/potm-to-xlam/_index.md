@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLAM, POTM vers XLAM Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement POTM vers XLAM en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, CSV mit FODS KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von CSV zu FODS durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

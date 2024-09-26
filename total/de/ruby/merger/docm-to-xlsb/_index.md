@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, DOCM zu XLSB KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von DOCM mit XLSB durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

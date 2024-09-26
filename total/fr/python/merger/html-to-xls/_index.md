@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLS, HTML vers XLS Application de fusion GRATUITE ou Python SDKdescription: Fusion gratuite de HTML à XLS en utilisant les API et SDK Cloud de Python Fusionnez également plusieurs fichiers en un seul document à la volée.---

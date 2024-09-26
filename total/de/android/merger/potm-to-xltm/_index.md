@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTM, POTM mit XLTM KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von POTM zu XLTM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

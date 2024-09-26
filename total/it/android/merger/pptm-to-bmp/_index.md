@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a BMP, PPTM a BMP Unione GRATUITA utilizzando Android SDKdescription: Unisci gratuitamente PPTM a BMP utilizzando Android API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

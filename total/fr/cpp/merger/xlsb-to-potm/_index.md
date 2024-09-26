@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTM, XLSB vers POTM Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLSB vers POTM en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

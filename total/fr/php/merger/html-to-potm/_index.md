@@ -1,0 +1,1 @@
+---title: Fusionner Word en POTM, HTML vers POTM Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de HTML à POTM en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

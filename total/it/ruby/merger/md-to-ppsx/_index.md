@@ -1,0 +1,1 @@
+---title: Unisci Word a PPSX, MD a PPSX App di unione GRATUITA o SDK Rubydescription: Unione gratuita di MD in PPSX utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

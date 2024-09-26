@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSM, XLSX vers XLSM Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLSX vers XLSM en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

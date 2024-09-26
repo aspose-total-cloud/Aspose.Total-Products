@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DIF, TSV mit DIF KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von TSV zu DIF durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

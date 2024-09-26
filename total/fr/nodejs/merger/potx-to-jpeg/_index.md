@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers JPEG, POTX vers JPEG Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement POTX vers JPEG en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

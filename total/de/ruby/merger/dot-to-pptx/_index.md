@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPTX, DOT zu PPTX KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von DOT mit PPTX durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

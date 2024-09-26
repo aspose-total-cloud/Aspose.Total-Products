@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MHTML, SXC vers MHTML Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement SXC vers MHTML en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

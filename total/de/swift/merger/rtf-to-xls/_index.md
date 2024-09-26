@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLS, RTF zu XLS KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenlose Zusammenführung von RTF mit XLS durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

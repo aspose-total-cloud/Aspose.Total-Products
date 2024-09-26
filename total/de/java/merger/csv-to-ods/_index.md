@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODS, CSV mit ODS KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von CSV zu ODS durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

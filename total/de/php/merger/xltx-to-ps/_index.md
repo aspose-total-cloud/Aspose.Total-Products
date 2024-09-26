@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PS, XLTX mit PS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLTX zu PS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

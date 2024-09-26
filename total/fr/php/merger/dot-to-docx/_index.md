@@ -1,0 +1,1 @@
+---title: Fusionner Word en DOCX, DOT vers DOCX Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de DOT à DOCX en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

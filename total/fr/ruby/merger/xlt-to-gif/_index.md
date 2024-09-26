@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers GIF, XLT vers GIF Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLT vers GIF en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

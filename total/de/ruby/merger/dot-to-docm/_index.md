@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCM, DOT zu DOCM KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von DOT mit DOCM durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

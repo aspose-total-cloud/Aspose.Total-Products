@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPT, DOCX zu PPT KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOCX mit PPT durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

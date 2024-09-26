@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XSLFO, DOCM zu XSLFO KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOCM mit XSLFO durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

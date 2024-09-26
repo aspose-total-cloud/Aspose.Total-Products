@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PPTX, OTP con PPTX Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos OTP con PPTX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

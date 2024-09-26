@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit EMF, XML mit EMF KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XML zu EMF durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

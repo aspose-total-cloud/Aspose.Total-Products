@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTX, SXC vers POTX Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement SXC vers POTX en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

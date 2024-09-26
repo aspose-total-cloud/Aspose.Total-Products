@@ -1,0 +1,1 @@
+---title: Unisci Excel a SXC, CSV a SXC App di unione GRATUITA o SDK Perldescription: Unisci gratuitamente CSV a SXC utilizzando Perl API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

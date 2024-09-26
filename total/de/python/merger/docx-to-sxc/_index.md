@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, DOCX zu SXC KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOCX mit SXC durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XAML, XLSX mit XAML KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLSX zu XAML durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPSX, XLSB con PPSX Aplicación de combinación GRATUITA o SDK GOdescription: Combine archivos gratuitos XLSB con PPSX mediante GO API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

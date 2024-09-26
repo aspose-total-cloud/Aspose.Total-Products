@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SXC, XML mit SXC KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XML zu SXC durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

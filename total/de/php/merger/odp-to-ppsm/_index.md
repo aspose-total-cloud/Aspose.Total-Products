@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PPSM, ODP mit PPSM KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von ODP zu PPSM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

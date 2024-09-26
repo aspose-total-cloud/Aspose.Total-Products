@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TEX, XML vers TEX Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XML vers TEX en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

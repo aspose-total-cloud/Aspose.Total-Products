@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSX, SXC mit PPSX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von SXC zu PPSX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

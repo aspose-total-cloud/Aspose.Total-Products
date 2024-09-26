@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, DOC zu XLT KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOC mit XLT durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

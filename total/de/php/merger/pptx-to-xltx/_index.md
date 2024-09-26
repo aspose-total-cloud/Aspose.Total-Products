@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTX, PPTX mit XLTX KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von PPTX zu XLTX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

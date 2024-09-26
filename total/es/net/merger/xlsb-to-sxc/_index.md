@@ -1,0 +1,1 @@
+---title: Combinar Excel con SXC, XLSB con SXC Aplicación de combinación GRATUITA o SDK Netdescription: Combine archivos gratuitos XLSB con SXC mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTX, XLTX vers DOTX Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLTX vers DOTX en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

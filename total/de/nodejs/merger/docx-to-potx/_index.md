@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POTX, DOCX zu POTX KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von DOCX mit POTX durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

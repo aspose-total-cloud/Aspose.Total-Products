@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSM, MOBI zu XLSM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von MOBI mit XLSM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

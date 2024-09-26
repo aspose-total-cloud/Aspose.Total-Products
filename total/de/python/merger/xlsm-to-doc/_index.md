@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOC, XLSM mit DOC KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSM zu DOC durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

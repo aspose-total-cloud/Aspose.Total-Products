@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, DOCX zu XLTM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOCX mit XLTM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

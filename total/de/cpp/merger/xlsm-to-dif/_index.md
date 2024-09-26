@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DIF, XLSM mit DIF KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von XLSM zu DIF durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

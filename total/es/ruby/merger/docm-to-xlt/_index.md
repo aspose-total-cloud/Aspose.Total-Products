@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLT, DOCM con XLT Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de DOCM con XLT mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner Word en CSV, HTML vers CSV Application de fusion GRATUITE ou Python SDKdescription: Fusion gratuite de HTML à CSV en utilisant les API et SDK Cloud de Python Fusionnez également plusieurs fichiers en un seul document à la volée.---

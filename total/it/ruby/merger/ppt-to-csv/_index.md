@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a CSV, PPT a CSV Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPT a CSV utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

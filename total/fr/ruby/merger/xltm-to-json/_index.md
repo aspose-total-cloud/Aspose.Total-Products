@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers JSON, XLTM vers JSON Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTM vers JSON en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

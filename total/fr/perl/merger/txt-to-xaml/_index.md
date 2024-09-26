@@ -1,0 +1,1 @@
+---title: Fusionner Word en XAML, TXT vers XAML Application de fusion GRATUITE ou Perl SDKdescription: Fusion gratuite de TXT à XAML en utilisant les API et SDK Cloud de Perl Fusionnez également plusieurs fichiers en un seul document à la volée.---

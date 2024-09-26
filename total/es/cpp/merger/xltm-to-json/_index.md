@@ -1,0 +1,1 @@
+---title: Combinar Excel con JSON, XLTM con JSON Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos XLTM con JSON mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

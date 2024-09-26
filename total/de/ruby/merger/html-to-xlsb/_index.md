@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, HTML zu XLSB KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von HTML mit XLSB durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

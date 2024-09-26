@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPTM, CSV mit PPTM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von CSV zu PPTM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

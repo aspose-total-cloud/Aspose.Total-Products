@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLTM, DOTX zu XLTM KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von DOTX mit XLTM durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

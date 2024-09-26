@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSM, POTX vers XLSM Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement POTX vers XLSM en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

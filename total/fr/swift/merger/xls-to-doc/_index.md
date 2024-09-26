@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOC, XLS vers DOC Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLS vers DOC en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

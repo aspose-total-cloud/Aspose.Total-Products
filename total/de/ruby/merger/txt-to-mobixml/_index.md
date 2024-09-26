@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu MOBIXML, TXT zu MOBIXML KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von TXT mit MOBIXML durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

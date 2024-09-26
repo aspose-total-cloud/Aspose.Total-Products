@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTX, SXC vers DOTX Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement SXC vers DOTX en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

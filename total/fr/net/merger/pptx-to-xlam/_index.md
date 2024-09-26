@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLAM, PPTX vers XLAM Fusion GRATUITE à l'aide de Net SDKdescription: Fusionnez gratuitement PPTX vers XLAM en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

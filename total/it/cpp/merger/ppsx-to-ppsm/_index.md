@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a PPSM, PPSX a PPSM Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente PPSX a PPSM utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

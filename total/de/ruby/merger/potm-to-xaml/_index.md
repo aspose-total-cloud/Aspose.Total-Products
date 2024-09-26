@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XAML, POTM mit XAML KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von POTM zu XAML durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

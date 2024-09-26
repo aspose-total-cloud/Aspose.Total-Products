@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLT, PPSM mit XLT KOSTENLOSE Zusammenführung mit Swift SDKdescription: Kostenloses Zusammenführen von PPSM zu XLT durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

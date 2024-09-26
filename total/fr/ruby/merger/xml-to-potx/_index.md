@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTX, XML vers POTX Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XML vers POTX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

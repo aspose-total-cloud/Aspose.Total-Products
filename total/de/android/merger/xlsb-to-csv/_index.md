@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit CSV, XLSB mit CSV KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLSB zu CSV durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionar Word con XML, PDF con XML Aplicación de fusión GRATUITA o SDK C++description: Fusión gratuita de PDF con XML mediante C++ API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

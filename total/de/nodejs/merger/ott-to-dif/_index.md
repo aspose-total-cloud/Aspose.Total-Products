@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DIF, OTT zu DIF KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenlose Zusammenführung von OTT mit DIF durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

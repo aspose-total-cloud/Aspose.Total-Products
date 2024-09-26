@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PDFA, DOTM zu PDFA KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOTM mit PDFA durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

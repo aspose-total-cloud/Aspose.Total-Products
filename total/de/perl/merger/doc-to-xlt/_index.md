@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, DOC zu XLT KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOC mit XLT durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

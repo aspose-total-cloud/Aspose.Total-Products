@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSX, PPTX vers XLSX Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPTX vers XLSX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

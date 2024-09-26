@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOTM, XLTM mit DOTM KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLTM zu DOTM durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

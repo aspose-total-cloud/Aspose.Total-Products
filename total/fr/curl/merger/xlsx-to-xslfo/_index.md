@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XSLFO, XLSX vers XSLFO Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XLSX vers XSLFO en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

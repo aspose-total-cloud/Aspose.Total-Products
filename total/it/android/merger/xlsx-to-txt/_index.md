@@ -1,0 +1,1 @@
+---title: Unisci Excel a TXT, XLSX a TXT App di unione GRATUITA o SDK Androiddescription: Unisci gratuitamente XLSX a TXT utilizzando Android API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

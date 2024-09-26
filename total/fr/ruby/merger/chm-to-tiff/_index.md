@@ -1,0 +1,1 @@
+---title: Fusionner Word en TIFF, CHM vers TIFF Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de CHM à TIFF en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

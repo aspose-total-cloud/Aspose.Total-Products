@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSM, XLS mit XLSM KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLS zu XLSM durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

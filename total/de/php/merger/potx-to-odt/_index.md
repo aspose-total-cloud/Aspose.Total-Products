@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit ODT, POTX mit ODT KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von POTX zu ODT durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

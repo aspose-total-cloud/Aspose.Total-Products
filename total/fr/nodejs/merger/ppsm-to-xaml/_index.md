@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XAML, PPSM vers XAML Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement PPSM vers XAML en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

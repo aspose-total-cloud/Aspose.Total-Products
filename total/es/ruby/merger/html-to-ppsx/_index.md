@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPSX, HTML con PPSX Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de HTML con PPSX mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOTX, FODS mit DOTX KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von FODS zu DOTX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

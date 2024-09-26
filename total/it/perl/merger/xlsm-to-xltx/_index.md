@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLTX, XLSM a XLTX App di unione GRATUITA o SDK Perldescription: Unisci gratuitamente XLSM a XLTX utilizzando Perl API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

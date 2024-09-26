@@ -1,0 +1,1 @@
+---title: Combinar Excel con POTM, XLT con POTM Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos XLT con POTM mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con HTML, XLTM con HTML Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLTM con HTML mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

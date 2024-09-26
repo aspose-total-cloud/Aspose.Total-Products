@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, XLSM vers TXT Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLSM vers TXT en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

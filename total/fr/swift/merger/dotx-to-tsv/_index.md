@@ -1,0 +1,1 @@
+---title: Fusionner Word en TSV, DOTX vers TSV Application de fusion GRATUITE ou Swift SDKdescription: Fusion gratuite de DOTX à TSV en utilisant les API et SDK Cloud de Swift Fusionnez également plusieurs fichiers en un seul document à la volée.---

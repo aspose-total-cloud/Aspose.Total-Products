@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit SXC, POT mit SXC KOSTENLOSE Zusammenführung mit Nodejs SDKdescription: Kostenloses Zusammenführen von POT zu SXC durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

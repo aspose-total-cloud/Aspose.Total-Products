@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con JPEG, POTX con JPEG Fusión GRATUITA utilizando el SDK Netdescription: Combine archivos gratuitos POTX con JPEG mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

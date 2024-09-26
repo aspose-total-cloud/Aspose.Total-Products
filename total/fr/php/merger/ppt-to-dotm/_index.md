@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOTM, PPT vers DOTM Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement PPT vers DOTM en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

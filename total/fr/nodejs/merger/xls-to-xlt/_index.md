@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLT, XLS vers XLT Application de fusion GRATUITE ou SDK Nodejsdescription: Fusionnez gratuitement XLS vers XLT en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOCX, XLTX vers DOCX Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTX vers DOCX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

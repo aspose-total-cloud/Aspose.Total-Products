@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con EMF, PPTM con EMF Fusión GRATUITA utilizando el SDK Swiftdescription: Combine archivos gratuitos PPTM con EMF mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

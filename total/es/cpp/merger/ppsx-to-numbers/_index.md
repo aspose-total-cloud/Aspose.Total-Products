@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con NUMBERS, PPSX con NUMBERS Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPSX con NUMBERS mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

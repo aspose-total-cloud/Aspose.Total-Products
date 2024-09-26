@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MOBI, XLSX mit MOBI KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLSX zu MOBI durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

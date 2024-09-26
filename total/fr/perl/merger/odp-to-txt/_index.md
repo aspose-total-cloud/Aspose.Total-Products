@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TXT, ODP vers TXT Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement ODP vers TXT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

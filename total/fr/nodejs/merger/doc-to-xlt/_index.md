@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLT, DOC vers XLT Application de fusion GRATUITE ou Nodejs SDKdescription: Fusion gratuite de DOC à XLT en utilisant les API et SDK Cloud de Nodejs Fusionnez également plusieurs fichiers en un seul document à la volée.---

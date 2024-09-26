@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con DOCX, PPTM con DOCX Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPTM con DOCX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLSX, CHM con XLSX Aplicación de fusión GRATUITA o SDK Perldescription: Fusión gratuita de CHM con XLSX mediante Perl API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

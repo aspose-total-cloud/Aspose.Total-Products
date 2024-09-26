@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTX, FODS con PPTX Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos FODS con PPTX mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

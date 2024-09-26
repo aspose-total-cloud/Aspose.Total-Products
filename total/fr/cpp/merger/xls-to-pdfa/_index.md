@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PDFA, XLS vers PDFA Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLS vers PDFA en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

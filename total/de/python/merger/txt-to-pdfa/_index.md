@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PDFA, TXT zu PDFA KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von TXT mit PDFA durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con NUMBERS, POT con NUMBERS Fusión GRATUITA utilizando el SDK Perldescription: Combine archivos gratuitos POT con NUMBERS mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MHTML, XLTX mit MHTML KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLTX zu MHTML durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

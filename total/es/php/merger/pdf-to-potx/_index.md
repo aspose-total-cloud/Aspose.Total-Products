@@ -1,0 +1,1 @@
+---title: Fusionar Word con POTX, PDF con POTX Aplicación de fusión GRATUITA o SDK PHPdescription: Fusión gratuita de PDF con POTX mediante PHP API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

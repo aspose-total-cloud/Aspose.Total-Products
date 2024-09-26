@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODT, DOCX zu ODT KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOCX mit ODT durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: PowerPoint를 PPTM, PPSM로 PPTM 병합합니다. Android SDK를 사용하는 무료 병합 프로그램입니다.description: Android을 사용하여 PPSM를 PPTM로 무료 병합합니다. 클라우드 API 및 SDK. 또한 여러 파일을 즉시 단일 문서로 병합합니다.---

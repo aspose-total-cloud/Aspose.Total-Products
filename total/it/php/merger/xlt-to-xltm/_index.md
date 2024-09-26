@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLTM, XLT a XLTM App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente XLT a XLTM utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

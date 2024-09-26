@@ -1,0 +1,1 @@
+---title: Unisci Word a XLSX, TXT a XLSX App di unione GRATUITA o SDK Androiddescription: Unione gratuita di TXT in XLSX utilizzando Android API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

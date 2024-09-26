@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers BMP, XLSM vers BMP Application de fusion GRATUITE ou SDK Swiftdescription: Fusionnez gratuitement XLSM vers BMP en utilisant Swift API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

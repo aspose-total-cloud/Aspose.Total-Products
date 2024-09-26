@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSX, POTX mit XLSX KOSTENLOSE Zusammenführung mit Perl SDKdescription: Kostenloses Zusammenführen von POTX zu XLSX durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

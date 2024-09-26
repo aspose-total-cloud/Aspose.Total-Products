@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLSX, RTF con XLSX Aplicación de fusión GRATUITA o SDK PHPdescription: Fusión gratuita de RTF con XLSX mediante PHP API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

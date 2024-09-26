@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, PPT mit XLS KOSTENLOSE Zusammenführung mit Swift SDKdescription: Kostenloses Zusammenführen von PPT zu XLS durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

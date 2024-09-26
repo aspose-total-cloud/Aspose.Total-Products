@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, SXC vers TXT Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement SXC vers TXT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

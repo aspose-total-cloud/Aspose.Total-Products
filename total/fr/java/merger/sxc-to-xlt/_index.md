@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLT, SXC vers XLT Application de fusion GRATUITE ou SDK Javadescription: Fusionnez gratuitement SXC vers XLT en utilisant Java API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

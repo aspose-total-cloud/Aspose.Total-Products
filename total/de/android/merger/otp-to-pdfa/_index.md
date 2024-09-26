@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PDFA, OTP mit PDFA KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von OTP zu PDFA durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

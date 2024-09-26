@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLTM, PPSX mit XLTM KOSTENLOSE Zusammenführung mit C++ SDKdescription: Kostenloses Zusammenführen von PPSX zu XLTM durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

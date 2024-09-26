@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLAM, PPSM a XLAM Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSM a XLAM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers SWF, OTP vers SWF Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement OTP vers SWF en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

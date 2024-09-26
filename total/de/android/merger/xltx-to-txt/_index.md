@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit TXT, XLTX mit TXT KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLTX zu TXT durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

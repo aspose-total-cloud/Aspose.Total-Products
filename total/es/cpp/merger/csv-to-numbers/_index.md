@@ -1,0 +1,1 @@
+---title: Combinar Excel con NUMBERS, CSV con NUMBERS Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos CSV con NUMBERS mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

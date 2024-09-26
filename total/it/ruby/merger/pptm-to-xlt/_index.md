@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLT, PPTM a XLT Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTM a XLT utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

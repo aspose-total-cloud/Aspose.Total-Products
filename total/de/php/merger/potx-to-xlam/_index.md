@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLAM, POTX mit XLAM KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von POTX zu XLAM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

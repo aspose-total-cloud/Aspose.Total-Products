@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XAML, PPTX a XAML Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente PPTX a XAML utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

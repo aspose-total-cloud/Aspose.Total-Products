@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers RTF, PPSX vers RTF Fusion GRATUITE à l'aide de GO SDKdescription: Fusionnez gratuitement PPSX vers RTF en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

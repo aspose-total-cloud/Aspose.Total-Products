@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPSM, DOCX zu PPSM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOCX mit PPSM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

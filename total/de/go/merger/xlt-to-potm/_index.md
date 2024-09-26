@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTM, XLT mit POTM KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von XLT zu POTM durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

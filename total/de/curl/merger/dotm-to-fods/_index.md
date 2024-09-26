@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu FODS, DOTM zu FODS KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von DOTM mit FODS durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

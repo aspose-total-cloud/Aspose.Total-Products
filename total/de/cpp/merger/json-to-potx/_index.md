@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTX, JSON mit POTX KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von JSON zu POTX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers EMF, XLSM vers EMF Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSM vers EMF en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

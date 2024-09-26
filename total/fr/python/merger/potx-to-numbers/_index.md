@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers NUMBERS, POTX vers NUMBERS Fusion GRATUITE à l'aide de Python SDKdescription: Fusionnez gratuitement POTX vers NUMBERS en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

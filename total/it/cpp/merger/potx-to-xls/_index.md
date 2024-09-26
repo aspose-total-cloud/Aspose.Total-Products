@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLS, POTX a XLS Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente POTX a XLS utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

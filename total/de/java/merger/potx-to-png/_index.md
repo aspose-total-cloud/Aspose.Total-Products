@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PNG, POTX mit PNG KOSTENLOSE Zusammenführung mit Java SDKdescription: Kostenloses Zusammenführen von POTX zu PNG durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

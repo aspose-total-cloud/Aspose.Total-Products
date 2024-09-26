@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XSLFO, FODS mit XSLFO KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von FODS zu XSLFO durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

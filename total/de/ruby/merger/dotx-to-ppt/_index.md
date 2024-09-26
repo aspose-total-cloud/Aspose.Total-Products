@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPT, DOTX zu PPT KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von DOTX mit PPT durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

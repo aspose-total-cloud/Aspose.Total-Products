@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TXT, PPTM vers TXT Fusion GRATUITE à l'aide de GO SDKdescription: Fusionnez gratuitement PPTM vers TXT en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

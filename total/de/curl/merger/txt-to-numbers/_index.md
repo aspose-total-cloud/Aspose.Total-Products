@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu NUMBERS, TXT zu NUMBERS KOSTENLOSE Merger-App oder Curl SDKdescription: Kostenlose Zusammenführung von TXT mit NUMBERS durch Verwendung von Curl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

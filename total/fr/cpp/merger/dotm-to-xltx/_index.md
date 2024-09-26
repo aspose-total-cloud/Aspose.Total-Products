@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLTX, DOTM vers XLTX Application de fusion GRATUITE ou C++ SDKdescription: Fusion gratuite de DOTM à XLTX en utilisant les API et SDK Cloud de C++ Fusionnez également plusieurs fichiers en un seul document à la volée.---

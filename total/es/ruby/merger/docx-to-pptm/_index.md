@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPTM, DOCX con PPTM Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de DOCX con PPTM mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

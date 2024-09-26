@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers ODS, XLT vers ODS Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLT vers ODS en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

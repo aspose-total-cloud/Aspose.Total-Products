@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSX, XML mit PPSX KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XML zu PPSX durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

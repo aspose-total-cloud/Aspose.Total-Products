@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLTX, SXC mit XLTX KOSTENLOSE Merger-App oder GO SDKdescription: Kostenloses Zusammenführen von SXC zu XLTX durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

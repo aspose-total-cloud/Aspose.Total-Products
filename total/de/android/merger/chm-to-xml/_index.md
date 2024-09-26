@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XML, CHM zu XML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von CHM mit XML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

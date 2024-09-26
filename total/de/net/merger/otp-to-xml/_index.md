@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XML, OTP mit XML KOSTENLOSE Zusammenführung mit Net SDKdescription: Kostenloses Zusammenführen von OTP zu XML durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

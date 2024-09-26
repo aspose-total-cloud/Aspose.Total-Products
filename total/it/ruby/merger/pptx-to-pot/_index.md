@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a POT, PPTX a POT Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTX a POT utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

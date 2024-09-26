@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a PNG, PPTM a PNG Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTM a PNG utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

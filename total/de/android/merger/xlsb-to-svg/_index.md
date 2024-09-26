@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit SVG, XLSB mit SVG KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLSB zu SVG durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

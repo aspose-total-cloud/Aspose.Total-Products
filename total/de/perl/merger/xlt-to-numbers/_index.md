@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit NUMBERS, XLT mit NUMBERS KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLT zu NUMBERS durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

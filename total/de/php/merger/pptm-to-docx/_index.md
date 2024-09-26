@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit DOCX, PPTM mit DOCX KOSTENLOSE Zusammenführung mit PHP SDKdescription: Kostenloses Zusammenführen von PPTM zu DOCX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

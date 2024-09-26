@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu PPS, MD zu PPS KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenlose Zusammenführung von MD mit PPS durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XML, XLT mit XML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLT zu XML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

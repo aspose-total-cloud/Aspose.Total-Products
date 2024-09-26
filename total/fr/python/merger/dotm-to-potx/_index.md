@@ -1,0 +1,1 @@
+---title: Fusionner Word en POTX, DOTM vers POTX Application de fusion GRATUITE ou Python SDKdescription: Fusion gratuite de DOTM à POTX en utilisant les API et SDK Cloud de Python Fusionnez également plusieurs fichiers en un seul document à la volée.---

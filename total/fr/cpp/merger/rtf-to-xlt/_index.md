@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLT, RTF vers XLT Application de fusion GRATUITE ou C++ SDKdescription: Fusion gratuite de RTF à XLT en utilisant les API et SDK Cloud de C++ Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers TXT, PPSX vers TXT Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement PPSX vers TXT en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

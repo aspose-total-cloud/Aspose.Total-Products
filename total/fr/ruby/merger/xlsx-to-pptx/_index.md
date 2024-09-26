@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPTX, XLSX vers PPTX Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLSX vers PPTX en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

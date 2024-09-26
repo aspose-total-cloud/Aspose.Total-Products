@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MHTML, ODS mit MHTML KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von ODS zu MHTML durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

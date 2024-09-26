@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POT, XLS mit POT KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLS zu POT durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

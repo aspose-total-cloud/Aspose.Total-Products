@@ -1,0 +1,1 @@
+---title: Fusionar Word con TIFF, DOTX con TIFF Aplicación de fusión GRATUITA o SDK Perldescription: Fusión gratuita de DOTX con TIFF mediante Perl API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

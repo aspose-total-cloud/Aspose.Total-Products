@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XML, XLTM vers XML Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement XLTM vers XML en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

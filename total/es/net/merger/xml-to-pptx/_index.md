@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTX, XML con PPTX Aplicación de combinación GRATUITA o SDK Netdescription: Combine archivos gratuitos XML con PPTX mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

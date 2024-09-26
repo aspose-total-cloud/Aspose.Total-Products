@@ -1,0 +1,1 @@
+---title: Fusionner Word en TIFF, DOCM vers TIFF Application de fusion GRATUITE ou Net SDKdescription: Fusion gratuite de DOCM à TIFF en utilisant les API et SDK Cloud de Net Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOCM, PPSX vers DOCM Fusion GRATUITE à l'aide de Nodejs SDKdescription: Fusionnez gratuitement PPSX vers DOCM en utilisant Nodejs API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

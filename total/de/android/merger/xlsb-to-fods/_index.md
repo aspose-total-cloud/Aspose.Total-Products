@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, XLSB mit FODS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLSB zu FODS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSB, RTF zu XLSB KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von RTF mit XLSB durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

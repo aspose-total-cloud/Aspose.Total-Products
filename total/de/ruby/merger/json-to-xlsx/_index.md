@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLSX, JSON mit XLSX KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von JSON zu XLSX durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

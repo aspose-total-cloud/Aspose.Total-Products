@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTM, XML vers DOTM Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XML vers DOTM en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

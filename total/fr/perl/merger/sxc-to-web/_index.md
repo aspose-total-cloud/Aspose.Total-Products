@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers WEB, SXC vers WEB Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement SXC vers WEB en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

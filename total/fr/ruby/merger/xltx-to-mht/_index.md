@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MHT, XLTX vers MHT Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTX vers MHT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

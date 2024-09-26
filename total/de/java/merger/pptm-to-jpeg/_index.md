@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit JPEG, PPTM mit JPEG KOSTENLOSE Zusammenführung mit Java SDKdescription: Kostenloses Zusammenführen von PPTM zu JPEG durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

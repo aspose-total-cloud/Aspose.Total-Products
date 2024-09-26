@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, ODS mit FODS KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von ODS zu FODS durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

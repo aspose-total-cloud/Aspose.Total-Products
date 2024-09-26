@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLT, PPTX vers XLT Fusion GRATUITE à l'aide de C++ SDKdescription: Fusionnez gratuitement PPTX vers XLT en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLSX, PPSM mit XLSX KOSTENLOSE Zusammenführung mit Net SDKdescription: Kostenloses Zusammenführen von PPSM zu XLSX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con TXT, XLT con TXT Aplicación de combinación GRATUITA o SDK Swiftdescription: Combine archivos gratuitos XLT con TXT mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

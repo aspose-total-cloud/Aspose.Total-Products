@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOTM, XLSB mit DOTM KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLSB zu DOTM durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

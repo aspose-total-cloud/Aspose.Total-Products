@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPTM, DOT con PPTM Aplicación de fusión GRATUITA o SDK C++description: Fusión gratuita de DOT con PPTM mediante C++ API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

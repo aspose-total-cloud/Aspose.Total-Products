@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit ODS, XLS mit ODS KOSTENLOSE Merger-App oder Ruby SDKdescription: Kostenloses Zusammenführen von XLS zu ODS durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

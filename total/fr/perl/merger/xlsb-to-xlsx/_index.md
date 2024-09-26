@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSX, XLSB vers XLSX Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLSB vers XLSX en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

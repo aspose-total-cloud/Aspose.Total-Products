@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XML, XLSX mit XML KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLSX zu XML durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

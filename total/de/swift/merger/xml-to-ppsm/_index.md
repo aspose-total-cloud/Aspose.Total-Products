@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSM, XML mit PPSM KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XML zu PPSM durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

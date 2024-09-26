@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POT, ODT zu POT KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenlose Zusammenführung von ODT mit POT durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

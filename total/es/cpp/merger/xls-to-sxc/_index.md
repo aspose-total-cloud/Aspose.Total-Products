@@ -1,0 +1,1 @@
+---title: Combinar Excel con SXC, XLS con SXC Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos XLS con SXC mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

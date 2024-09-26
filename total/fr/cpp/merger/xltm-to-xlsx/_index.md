@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSX, XLTM vers XLSX Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLTM vers XLSX en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

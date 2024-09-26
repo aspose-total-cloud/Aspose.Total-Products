@@ -1,0 +1,1 @@
+---title: Combinar Excel con XML, SXC con XML Aplicación de combinación GRATUITA o SDK Androiddescription: Combine archivos gratuitos SXC con XML mediante Android API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

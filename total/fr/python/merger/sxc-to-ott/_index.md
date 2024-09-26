@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers OTT, SXC vers OTT Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement SXC vers OTT en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

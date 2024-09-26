@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPT, HTML con PPT Aplicación de fusión GRATUITA o SDK Perldescription: Fusión gratuita de HTML con PPT mediante Perl API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

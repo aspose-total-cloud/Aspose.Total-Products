@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu WEB, DOTM zu WEB KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von DOTM mit WEB durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

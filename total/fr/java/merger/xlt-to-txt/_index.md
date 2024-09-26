@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TXT, XLT vers TXT Application de fusion GRATUITE ou SDK Javadescription: Fusionnez gratuitement XLT vers TXT en utilisant Java API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTM, XLSM mit POTM KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLSM zu POTM durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

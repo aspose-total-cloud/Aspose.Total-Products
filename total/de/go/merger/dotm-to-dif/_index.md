@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DIF, DOTM zu DIF KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von DOTM mit DIF durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TIFF, XLSB vers TIFF Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSB vers TIFF en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

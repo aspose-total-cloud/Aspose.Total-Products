@@ -1,0 +1,1 @@
+---title: Fusionner Word en POTX, DOTM vers POTX Application de fusion GRATUITE ou GO SDKdescription: Fusion gratuite de DOTM à POTX en utilisant les API et SDK Cloud de GO Fusionnez également plusieurs fichiers en un seul document à la volée.---

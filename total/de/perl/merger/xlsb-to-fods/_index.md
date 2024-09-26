@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, XLSB mit FODS KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenloses Zusammenführen von XLSB zu FODS durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

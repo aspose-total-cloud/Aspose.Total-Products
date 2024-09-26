@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPTM, JSON a PPTM App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente JSON a PPTM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Fusionar Word con SWF, MD con SWF Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de MD con SWF mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

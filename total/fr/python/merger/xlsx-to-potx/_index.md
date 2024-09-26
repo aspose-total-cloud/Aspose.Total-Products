@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTX, XLSX vers POTX Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSX vers POTX en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

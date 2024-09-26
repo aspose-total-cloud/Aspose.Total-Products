@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XAML, PPT vers XAML Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPT vers XAML en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

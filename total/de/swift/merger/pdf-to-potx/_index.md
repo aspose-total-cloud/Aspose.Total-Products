@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POTX, PDF zu POTX KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenlose Zusammenführung von PDF mit POTX durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

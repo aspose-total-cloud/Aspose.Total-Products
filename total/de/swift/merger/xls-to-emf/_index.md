@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit EMF, XLS mit EMF KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLS zu EMF durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

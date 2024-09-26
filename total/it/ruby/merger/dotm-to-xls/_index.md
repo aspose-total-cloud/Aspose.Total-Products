@@ -1,0 +1,1 @@
+---title: Unisci Word a XLS, DOTM a XLS App di unione GRATUITA o SDK Rubydescription: Unione gratuita di DOTM in XLS utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

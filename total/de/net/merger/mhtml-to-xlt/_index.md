@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLT, MHTML zu XLT KOSTENLOSE Merger-App oder Net SDKdescription: Kostenlose Zusammenführung von MHTML mit XLT durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

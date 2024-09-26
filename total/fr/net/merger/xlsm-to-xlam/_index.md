@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLAM, XLSM vers XLAM Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement XLSM vers XLAM en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

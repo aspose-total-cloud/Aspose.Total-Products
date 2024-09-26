@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLS, TSV mit XLS KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von TSV zu XLS durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

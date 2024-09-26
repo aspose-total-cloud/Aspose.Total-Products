@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTX, XLSX con PPTX Aplicación de combinación GRATUITA o SDK Rubydescription: Combine archivos gratuitos XLSX con PPTX mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

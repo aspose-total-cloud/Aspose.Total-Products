@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTX, TXT vers PPTX Application de fusion GRATUITE ou Android SDKdescription: Fusion gratuite de TXT à PPTX en utilisant les API et SDK Cloud de Android Fusionnez également plusieurs fichiers en un seul document à la volée.---

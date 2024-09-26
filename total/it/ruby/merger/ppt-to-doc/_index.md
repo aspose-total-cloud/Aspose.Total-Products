@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a DOC, PPT a DOC Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPT a DOC utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

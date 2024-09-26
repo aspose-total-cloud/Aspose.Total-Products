@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POTM, ODT zu POTM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von ODT mit POTM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

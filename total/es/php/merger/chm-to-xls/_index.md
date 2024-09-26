@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLS, CHM con XLS Aplicación de fusión GRATUITA o SDK PHPdescription: Fusión gratuita de CHM con XLS mediante PHP API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

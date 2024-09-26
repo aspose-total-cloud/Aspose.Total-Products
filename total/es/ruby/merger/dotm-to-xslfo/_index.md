@@ -1,0 +1,1 @@
+---title: Fusionar Word con XSLFO, DOTM con XSLFO Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de DOTM con XSLFO mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLTM, SXC a XLTM App di unione GRATUITA o SDK Androiddescription: Unisci gratuitamente SXC a XLTM utilizzando Android API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

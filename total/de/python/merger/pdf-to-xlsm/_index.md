@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSM, PDF zu XLSM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von PDF mit XLSM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTM, XLTX con PPTM Aplicación de combinación GRATUITA o SDK Perldescription: Combine archivos gratuitos XLTX con PPTM mediante Perl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOTX, PPSM vers DOTX Fusion GRATUITE à l'aide de Net SDKdescription: Fusionnez gratuitement PPSM vers DOTX en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

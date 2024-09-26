@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TIFF, PPSM a TIFF Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPSM a TIFF utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

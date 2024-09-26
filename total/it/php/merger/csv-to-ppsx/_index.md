@@ -1,0 +1,1 @@
+---title: Unisci Excel a PPSX, CSV a PPSX App di unione GRATUITA o SDK PHPdescription: Unisci gratuitamente CSV a PPSX utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POT, XLSX mit POT KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLSX zu POT durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, MHTML zu SXC KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von MHTML mit SXC durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

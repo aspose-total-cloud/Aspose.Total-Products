@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLT, POTX vers XLT Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement POTX vers XLT en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

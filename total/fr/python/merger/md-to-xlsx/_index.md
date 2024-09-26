@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSX, MD vers XLSX Application de fusion GRATUITE ou Python SDKdescription: Fusion gratuite de MD à XLSX en utilisant les API et SDK Cloud de Python Fusionnez également plusieurs fichiers en un seul document à la volée.---

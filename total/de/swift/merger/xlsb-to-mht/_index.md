@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MHT, XLSB mit MHT KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLSB zu MHT durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

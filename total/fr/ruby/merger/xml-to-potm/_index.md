@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTM, XML vers POTM Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XML vers POTM en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

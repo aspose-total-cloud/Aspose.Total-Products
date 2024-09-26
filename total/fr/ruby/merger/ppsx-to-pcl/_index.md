@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PCL, PPSX vers PCL Fusion GRATUITE à l'aide de Ruby SDKdescription: Fusionnez gratuitement PPSX vers PCL en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

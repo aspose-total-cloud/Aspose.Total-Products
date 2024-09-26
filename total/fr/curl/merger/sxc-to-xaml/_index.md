@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XAML, SXC vers XAML Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement SXC vers XAML en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

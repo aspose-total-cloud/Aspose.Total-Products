@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSX, XLSM vers XLSX Application de fusion GRATUITE ou SDK GOdescription: Fusionnez gratuitement XLSM vers XLSX en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

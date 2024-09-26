@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSX, XLTX mit PPSX KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLTX zu PPSX durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

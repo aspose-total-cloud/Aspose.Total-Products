@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PDFA, POTM mit PDFA KOSTENLOSE Zusammenführung mit Swift SDKdescription: Kostenloses Zusammenführen von POTM zu PDFA durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

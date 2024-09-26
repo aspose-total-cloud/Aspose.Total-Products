@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLT, JSON a XLT App di unione GRATUITA o SDK Rubydescription: Unisci gratuitamente JSON a XLT utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

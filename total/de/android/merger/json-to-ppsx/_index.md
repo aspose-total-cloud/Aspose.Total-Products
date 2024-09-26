@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSX, JSON mit PPSX KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von JSON zu PPSX durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

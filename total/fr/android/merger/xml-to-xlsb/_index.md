@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSB, XML vers XLSB Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XML vers XLSB en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

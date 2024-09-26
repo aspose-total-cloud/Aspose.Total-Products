@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers ODT, XLS vers ODT Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLS vers ODT en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers TEX, XLSB vers TEX Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XLSB vers TEX en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

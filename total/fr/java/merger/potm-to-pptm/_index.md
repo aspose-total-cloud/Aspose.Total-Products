@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers PPTM, POTM vers PPTM Fusion GRATUITE à l'aide de Java SDKdescription: Fusionnez gratuitement POTM vers PPTM en utilisant Java API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

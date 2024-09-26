@@ -1,0 +1,1 @@
+---title: Fusionner Word en XLSX, CHM vers XLSX Application de fusion GRATUITE ou Nodejs SDKdescription: Fusion gratuite de CHM à XLSX en utilisant les API et SDK Cloud de Nodejs Fusionnez également plusieurs fichiers en un seul document à la volée.---

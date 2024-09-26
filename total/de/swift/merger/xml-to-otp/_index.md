@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit OTP, XML mit OTP KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XML zu OTP durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSM, DOTX zu XLSM KOSTENLOSE Merger-App oder GO SDKdescription: Kostenlose Zusammenführung von DOTX mit XLSM durch Verwendung von GO Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

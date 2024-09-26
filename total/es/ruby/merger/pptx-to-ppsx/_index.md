@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PPSX, PPTX con PPSX Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTX con PPSX mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

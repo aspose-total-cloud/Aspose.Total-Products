@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOTX, XLS vers DOTX Application de fusion GRATUITE ou SDK C++description: Fusionnez gratuitement XLS vers DOTX en utilisant C++ API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

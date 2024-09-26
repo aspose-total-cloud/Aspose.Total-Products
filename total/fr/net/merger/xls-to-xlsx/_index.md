@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSX, XLS vers XLSX Application de fusion GRATUITE ou SDK Netdescription: Fusionnez gratuitement XLS vers XLSX en utilisant Net API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

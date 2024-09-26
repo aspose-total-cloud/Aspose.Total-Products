@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTM, XLSM vers POTM Application de fusion GRATUITE ou SDK GOdescription: Fusionnez gratuitement XLSM vers POTM en utilisant GO API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

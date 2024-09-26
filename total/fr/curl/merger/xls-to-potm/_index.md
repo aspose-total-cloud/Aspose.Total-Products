@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers POTM, XLS vers POTM Application de fusion GRATUITE ou SDK Curldescription: Fusionnez gratuitement XLS vers POTM en utilisant Curl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

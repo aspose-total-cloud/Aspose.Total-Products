@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers DOT, POT vers DOT Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement POT vers DOT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

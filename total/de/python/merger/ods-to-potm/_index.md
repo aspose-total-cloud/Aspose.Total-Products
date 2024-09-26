@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit POTM, ODS mit POTM KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von ODS zu POTM durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

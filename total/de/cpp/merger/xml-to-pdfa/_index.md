@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PDFA, XML mit PDFA KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von XML zu PDFA durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

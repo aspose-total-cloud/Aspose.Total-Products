@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit MD, XLT mit MD KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLT zu MD durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

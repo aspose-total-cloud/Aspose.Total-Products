@@ -1,0 +1,1 @@
+---title: Combinar Excel con PPTX, XLS con PPTX Aplicación de combinación GRATUITA o SDK PHPdescription: Combine archivos gratuitos XLS con PPTX mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

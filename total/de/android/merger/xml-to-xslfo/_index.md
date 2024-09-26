@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XSLFO, XML mit XSLFO KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XML zu XSLFO durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

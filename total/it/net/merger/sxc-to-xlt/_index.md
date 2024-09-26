@@ -1,0 +1,1 @@
+---title: Unisci Excel a XLT, SXC a XLT App di unione GRATUITA o SDK Netdescription: Unisci gratuitamente SXC a XLT utilizzando Net API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

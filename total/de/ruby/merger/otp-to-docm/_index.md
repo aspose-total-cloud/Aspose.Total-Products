@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit DOCM, OTP mit DOCM KOSTENLOSE Zusammenführung mit Ruby SDKdescription: Kostenloses Zusammenführen von OTP zu DOCM durch Verwendung von Ruby Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

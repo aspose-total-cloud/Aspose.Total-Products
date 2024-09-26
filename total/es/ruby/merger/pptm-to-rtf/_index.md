@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con RTF, PPTM con RTF Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPTM con RTF mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

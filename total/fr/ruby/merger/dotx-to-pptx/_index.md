@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPTX, DOTX vers PPTX Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de DOTX à PPTX en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

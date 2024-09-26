@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPT, DOT vers PPT Application de fusion GRATUITE ou Ruby SDKdescription: Fusion gratuite de DOT à PPT en utilisant les API et SDK Cloud de Ruby Fusionnez également plusieurs fichiers en un seul document à la volée.---

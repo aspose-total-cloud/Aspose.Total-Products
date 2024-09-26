@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con HTML, PPSX con HTML Fusión GRATUITA utilizando el SDK Rubydescription: Combine archivos gratuitos PPSX con HTML mediante Ruby API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

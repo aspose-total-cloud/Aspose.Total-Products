@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOT, XLSX mit DOT KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von XLSX zu DOT durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

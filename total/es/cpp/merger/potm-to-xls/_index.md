@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLS, POTM con XLS Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos POTM con XLS mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

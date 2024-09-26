@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLSB, PPT con XLSB Fusión GRATUITA utilizando el SDK C++description: Combine archivos gratuitos PPT con XLSB mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

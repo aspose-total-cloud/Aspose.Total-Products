@@ -1,0 +1,1 @@
+---title: Combinar Excel con POTM, XLS con POTM Aplicación de combinación GRATUITA o SDK PHPdescription: Combine archivos gratuitos XLS con POTM mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

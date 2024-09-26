@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con PPTM, PPSX con PPTM Fusión GRATUITA utilizando el SDK Netdescription: Combine archivos gratuitos PPSX con PPTM mediante Net API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

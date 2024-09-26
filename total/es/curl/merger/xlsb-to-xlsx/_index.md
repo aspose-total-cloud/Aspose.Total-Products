@@ -1,0 +1,1 @@
+---title: Combinar Excel con XLSX, XLSB con XLSX Aplicación de combinación GRATUITA o SDK Curldescription: Combine archivos gratuitos XLSB con XLSX mediante Curl API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

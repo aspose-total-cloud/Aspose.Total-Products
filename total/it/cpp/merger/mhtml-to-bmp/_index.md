@@ -1,0 +1,1 @@
+---title: Unisci Word a BMP, MHTML a BMP App di unione GRATUITA o SDK C++description: Unione gratuita di MHTML in BMP utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

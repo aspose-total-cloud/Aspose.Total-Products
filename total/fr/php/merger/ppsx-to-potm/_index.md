@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers POTM, PPSX vers POTM Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement PPSX vers POTM en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

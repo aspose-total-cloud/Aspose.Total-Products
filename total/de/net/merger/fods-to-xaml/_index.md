@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XAML, FODS mit XAML KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von FODS zu XAML durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

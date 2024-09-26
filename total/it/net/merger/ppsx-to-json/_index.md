@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a JSON, PPSX a JSON Unione GRATUITA utilizzando Net SDKdescription: Unisci gratuitamente PPSX a JSON utilizzando Net API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

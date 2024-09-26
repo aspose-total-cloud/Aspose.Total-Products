@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XAML, DOTM zu XAML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOTM mit XAML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con SWF, PPTM con SWF Fusión GRATUITA utilizando el SDK Swiftdescription: Combine archivos gratuitos PPTM con SWF mediante Swift API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

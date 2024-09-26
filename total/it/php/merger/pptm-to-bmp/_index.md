@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a BMP, PPTM a BMP Unione GRATUITA utilizzando PHP SDKdescription: Unisci gratuitamente PPTM a BMP utilizzando PHP API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

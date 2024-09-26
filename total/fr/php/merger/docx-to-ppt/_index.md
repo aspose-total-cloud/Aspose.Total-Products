@@ -1,0 +1,1 @@
+---title: Fusionner Word en PPT, DOCX vers PPT Application de fusion GRATUITE ou PHP SDKdescription: Fusion gratuite de DOCX à PPT en utilisant les API et SDK Cloud de PHP Fusionnez également plusieurs fichiers en un seul document à la volée.---

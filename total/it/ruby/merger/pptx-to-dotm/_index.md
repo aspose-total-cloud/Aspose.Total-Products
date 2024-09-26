@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a DOTM, PPTX a DOTM Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTX a DOTM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

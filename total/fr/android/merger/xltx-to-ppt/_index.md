@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers PPT, XLTX vers PPT Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLTX vers PPT en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

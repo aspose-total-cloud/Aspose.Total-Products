@@ -1,0 +1,1 @@
+---title: Fusionar Word con PPSX, DOCM con PPSX Aplicación de fusión GRATUITA o SDK Androiddescription: Fusión gratuita de DOCM con PPSX mediante Android API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

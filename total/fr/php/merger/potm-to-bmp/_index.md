@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers BMP, POTM vers BMP Fusion GRATUITE à l'aide de PHP SDKdescription: Fusionnez gratuitement POTM vers BMP en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

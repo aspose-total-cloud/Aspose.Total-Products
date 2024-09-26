@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLSB, XLT vers XLSB Application de fusion GRATUITE ou SDK Androiddescription: Fusionnez gratuitement XLT vers XLSB en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

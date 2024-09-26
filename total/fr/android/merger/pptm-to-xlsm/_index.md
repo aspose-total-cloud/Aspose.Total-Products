@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers XLSM, PPTM vers XLSM Fusion GRATUITE à l'aide de Android SDKdescription: Fusionnez gratuitement PPTM vers XLSM en utilisant Android API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

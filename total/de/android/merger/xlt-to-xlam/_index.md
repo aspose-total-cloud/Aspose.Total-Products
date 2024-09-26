@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLAM, XLT mit XLAM KOSTENLOSE Merger-App oder Android SDKdescription: Kostenloses Zusammenführen von XLT zu XLAM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

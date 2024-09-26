@@ -1,0 +1,1 @@
+---title: Combinar Excel con POT, XLSM con POT Aplicación de combinación GRATUITA o SDK C++description: Combine archivos gratuitos XLSM con POT mediante C++ API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

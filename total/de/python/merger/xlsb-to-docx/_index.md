@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCX, XLSB mit DOCX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenloses Zusammenführen von XLSB zu DOCX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

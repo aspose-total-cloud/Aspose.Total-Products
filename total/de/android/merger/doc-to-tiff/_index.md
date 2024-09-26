@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu TIFF, DOC zu TIFF KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOC mit TIFF durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

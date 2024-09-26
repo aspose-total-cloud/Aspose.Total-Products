@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XAML, RTF zu XAML KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von RTF mit XAML durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

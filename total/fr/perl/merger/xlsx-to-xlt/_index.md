@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers XLT, XLSX vers XLT Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement XLSX vers XLT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

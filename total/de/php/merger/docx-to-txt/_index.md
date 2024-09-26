@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu TXT, DOCX zu TXT KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOCX mit TXT durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

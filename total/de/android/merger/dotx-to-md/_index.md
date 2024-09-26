@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu MD, DOTX zu MD KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOTX mit MD durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

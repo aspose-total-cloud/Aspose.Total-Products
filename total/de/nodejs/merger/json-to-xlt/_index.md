@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLT, JSON mit XLT KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von JSON zu XLT durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

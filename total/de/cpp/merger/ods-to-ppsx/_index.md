@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPSX, ODS mit PPSX KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenloses Zusammenführen von ODS zu PPSX durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

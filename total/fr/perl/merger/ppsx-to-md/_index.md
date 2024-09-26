@@ -1,0 +1,1 @@
+---title: Fusionner PowerPoint vers MD, PPSX vers MD Fusion GRATUITE à l'aide de Perl SDKdescription: Fusionnez gratuitement PPSX vers MD en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

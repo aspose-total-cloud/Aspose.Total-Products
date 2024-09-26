@@ -1,0 +1,1 @@
+---title: Fusionar Word con XLAM, DOC con XLAM Aplicación de fusión GRATUITA o SDK Rubydescription: Fusión gratuita de DOC con XLAM mediante Ruby API y SDK en la nube. También puede fusionar varios archivos en un solo documento sobre la marcha.---

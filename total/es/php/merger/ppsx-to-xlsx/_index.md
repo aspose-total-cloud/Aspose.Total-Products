@@ -1,0 +1,1 @@
+---title: Combinar PowerPoint con XLSX, PPSX con XLSX Fusión GRATUITA utilizando el SDK PHPdescription: Combine archivos gratuitos PPSX con XLSX mediante PHP API y SDK en la nube. También puede combinar varios archivos en un solo documento sobre la marcha.---

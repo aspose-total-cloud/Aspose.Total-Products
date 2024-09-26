@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu POTX, DOT zu POTX KOSTENLOSE Merger-App oder Python SDKdescription: Kostenlose Zusammenführung von DOT mit POTX durch Verwendung von Python Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLS, CSV mit XLS KOSTENLOSE Merger-App oder Java SDKdescription: Kostenloses Zusammenführen von CSV zu XLS durch Verwendung von Java Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SXC, XLTM vers SXC Application de fusion GRATUITE ou SDK Rubydescription: Fusionnez gratuitement XLTM vers SXC en utilisant Ruby API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

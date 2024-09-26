@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a SVG, PPSX a SVG Unione GRATUITA utilizzando C++ SDKdescription: Unisci gratuitamente PPSX a SVG utilizzando C++ API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

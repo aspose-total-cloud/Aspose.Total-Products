@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit XLS, POTX mit XLS KOSTENLOSE Zusammenführung mit Nodejs SDKdescription: Kostenloses Zusammenführen von POTX zu XLS durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

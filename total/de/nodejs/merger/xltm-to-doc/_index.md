@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOC, XLTM mit DOC KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLTM zu DOC durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

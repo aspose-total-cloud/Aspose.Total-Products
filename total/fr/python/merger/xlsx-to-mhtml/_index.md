@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers MHTML, XLSX vers MHTML Application de fusion GRATUITE ou SDK Pythondescription: Fusionnez gratuitement XLSX vers MHTML en utilisant Python API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

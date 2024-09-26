@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu WEB, DOT zu WEB KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von DOT mit WEB durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

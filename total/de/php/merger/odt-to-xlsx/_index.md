@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSX, ODT zu XLSX KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von ODT mit XLSX durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

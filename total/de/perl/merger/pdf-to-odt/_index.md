@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu ODT, PDF zu ODT KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von PDF mit ODT durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

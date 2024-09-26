@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLSM, POTX a XLSM Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente POTX a XLSM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

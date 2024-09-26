@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit PPT, XLT mit PPT KOSTENLOSE Merger-App oder Nodejs SDKdescription: Kostenloses Zusammenführen von XLT zu PPT durch Verwendung von Nodejs Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

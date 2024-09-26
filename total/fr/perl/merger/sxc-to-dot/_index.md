@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers DOT, SXC vers DOT Application de fusion GRATUITE ou SDK Perldescription: Fusionnez gratuitement SXC vers DOT en utilisant Perl API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

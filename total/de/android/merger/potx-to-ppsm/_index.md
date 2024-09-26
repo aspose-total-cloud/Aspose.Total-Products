@@ -1,0 +1,1 @@
+---title: PowerPoint zusammenführen mit PPSM, POTX mit PPSM KOSTENLOSE Zusammenführung mit Android SDKdescription: Kostenloses Zusammenführen von POTX zu PPSM durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

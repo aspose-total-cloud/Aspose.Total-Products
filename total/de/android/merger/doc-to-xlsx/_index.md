@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu XLSX, DOC zu XLSX KOSTENLOSE Merger-App oder Android SDKdescription: Kostenlose Zusammenführung von DOC mit XLSX durch Verwendung von Android Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

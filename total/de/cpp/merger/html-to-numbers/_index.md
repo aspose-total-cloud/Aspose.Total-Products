@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu NUMBERS, HTML zu NUMBERS KOSTENLOSE Merger-App oder C++ SDKdescription: Kostenlose Zusammenführung von HTML mit NUMBERS durch Verwendung von C++ Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

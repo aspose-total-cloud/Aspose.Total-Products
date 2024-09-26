@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit XLT, XLSB mit XLT KOSTENLOSE Merger-App oder Swift SDKdescription: Kostenloses Zusammenführen von XLSB zu XLT durch Verwendung von Swift Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

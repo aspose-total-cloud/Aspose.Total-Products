@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit DOCM, XLT mit DOCM KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenloses Zusammenführen von XLT zu DOCM durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

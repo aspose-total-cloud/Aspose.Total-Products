@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu SXC, ODT zu SXC KOSTENLOSE Merger-App oder PHP SDKdescription: Kostenlose Zusammenführung von ODT mit SXC durch Verwendung von PHP Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

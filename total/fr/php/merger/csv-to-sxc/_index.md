@@ -1,0 +1,1 @@
+---title: Fusionner Excel vers SXC, CSV vers SXC Application de fusion GRATUITE ou SDK PHPdescription: Fusionnez gratuitement CSV vers SXC en utilisant PHP API et SDK Cloud. Fusionnez également plusieurs fichiers en un seul document à la volée.---

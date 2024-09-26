@@ -1,0 +1,1 @@
+---title: Word zusammenführen zu DOCX, RTF zu DOCX KOSTENLOSE Merger-App oder Perl SDKdescription: Kostenlose Zusammenführung von RTF mit DOCX durch Verwendung von Perl Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---

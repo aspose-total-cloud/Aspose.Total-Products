@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a TXT, POTX a TXT Unione GRATUITA utilizzando Net SDKdescription: Unisci gratuitamente POTX a TXT utilizzando Net API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

@@ -1,0 +1,1 @@
+---title: Unisci PowerPoint a XLTM, PPTX a XLTM Unione GRATUITA utilizzando Ruby SDKdescription: Unisci gratuitamente PPTX a XLTM utilizzando Ruby API e SDK cloud. Inoltre, unisci più file in un singolo documento al volo.---

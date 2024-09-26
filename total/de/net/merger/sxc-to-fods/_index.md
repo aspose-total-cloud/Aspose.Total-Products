@@ -1,0 +1,1 @@
+---title: Excel zusammenführen mit FODS, SXC mit FODS KOSTENLOSE Merger-App oder Net SDKdescription: Kostenloses Zusammenführen von SXC zu FODS durch Verwendung von Net Cloud-APIs und SDKs. Außerdem können Sie mehrere Dateien im Handumdrehen zu einem einzigen Dokument zusammenführen.---
